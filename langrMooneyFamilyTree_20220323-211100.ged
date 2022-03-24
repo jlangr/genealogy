@@ -10,7 +10,7 @@
 3 ADDR http://www.ancestris.org
 1 DEST ANY
 1 DATE 23 MAR 2022
-2 TIME 11:59:24
+2 TIME 20:33:47
 1 FILE langrMooneyFamilyTree.ged
 1 GEDC
 2 VERS 5.5.1
@@ -28,10 +28,10 @@
 1 SEX M
 1 BIRT
 2 DATE 20 JAN 1939
-2 PLAC , , Mercy Hospital,Baltimore,Maryland,USA
+2 PLAC , , Mercy Hospital, Baltimore, Maryland, USA
 1 CHR
 2 DATE 20 JAN 1939
-2 PLAC , , Mercy Hospital,Baltimore,Maryland,USA
+2 PLAC , , Mercy Hospital, Baltimore, Maryland, USA
 1 REFN 1
 1 _UID 210E41BC5F4E544BB4A921E9C1A64BA43577
 1 FAMS @F1@
@@ -45,7 +45,7 @@
 2 GIVN Sandra, Marie
 1 SEX F
 1 BIRT
-2 PLAC , , ,Baltimore,Maryland,USA
+2 PLAC , , , Baltimore, Maryland, USA
 1 REFN 1
 1 _UID 6C4FAA084D853142B1CC0A2A45D1A81233B7
 1 FAMS @F1@
@@ -60,13 +60,13 @@
 1 SEX M
 1 BIRT
 2 DATE 8 NOV 1902
-2 PLAC , , ,Baltimore,Maryland,USA
+2 PLAC , , , Baltimore, Maryland, USA
 1 DEAT
 2 DATE 14 MAR 1971
-2 PLAC , , ,Baltimore,Maryland,USA
+2 PLAC , , , Baltimore, Maryland, USA
 1 BURI
 2 DATE 17 MAR 1971
-2 PLAC , , Holy Redeemer CE,Baltimore,Maryland,USA
+2 PLAC , , Holy Redeemer CE, Baltimore, Maryland, USA
 1 REFN 2
 1 _UID B35E6E2A3E8D144AA3F9E42F71FEBC6915FA
 1 FAMS @F2@
@@ -81,9 +81,9 @@
 1 SEX F
 1 BIRT
 2 DATE 18 OCT 1963
-2 PLAC , , Mercy Hospital,Baltimore,Maryland,USA
+2 PLAC , , Mercy Hospital, Baltimore, Maryland, USA
 1 CHR
-2 PLAC , , St Alphonus RC,Baltimore,Maryland,USA
+2 PLAC , , St Alphonus RC, Baltimore, Maryland, USA
 1 _UID E273226659613547BD05D3AA1F1BDA2288C1
 1 FAMS @F5@
 1 FAMC @F1@
@@ -97,7 +97,7 @@
 1 SEX F
 1 BIRT
 2 DATE 28 NOV 1964
-2 PLAC , , Mercy Hospital,Baltimore,Maryland,USA
+2 PLAC , , Mercy Hospital, Baltimore, Maryland, USA
 1 _UID C04EFBD1E3EF7940ADEBDA3E934ACF00C1BB
 1 FAMS @F6@
 1 FAMC @F1@
@@ -111,7 +111,7 @@
 1 SEX F
 1 BIRT
 2 DATE 5 OCT 1966
-2 PLAC , , Mercy Hospital,Baltimore,Maryland,USA
+2 PLAC , , Mercy Hospital, Baltimore, Maryland, USA
 1 _UID D86DB8C0CDB43A4393D689FFF25F13AFBF07
 1 FAMS @F7@
 1 FAMC @F1@
@@ -125,14 +125,14 @@
 1 SEX F
 1 BIRT
 2 DATE 28 MAR 1970
-2 PLAC , , Providence Hospital, Washington, DC,USA
+2 PLAC , , Providence Hospital, Washington, DC, USA
 1 CHR
-2 PLAC , , St Camillus RC, silver spring,Maryland,USA
+2 PLAC , , St Camillus RC, silver spring, Maryland, USA
 1 DEAT
 2 DATE 20 MAR 1999
-2 PLAC , , , , Laurel,Maryland,USA
+2 PLAC , , , , Laurel, Maryland, USA
 1 BURI
-2 PLAC , , , , , St. Louis Cemetery Clarksville,Maryland,USA
+2 PLAC , , , , , St. Louis Cemetery Clarksville, Maryland, USA
 1 _UID DD075632D738EE4D9F136AC764C557213A7E
 1 FAMS @F8@
 1 FAMC @F1@
@@ -146,7 +146,7 @@
 1 SEX F
 1 BIRT
 2 DATE 3 JAN 1908
-2 PLAC , , ,Baltimore,Maryland,USA
+2 PLAC , , , Baltimore, Maryland, USA
 1 DEAT
 2 DATE 15 JUN 1981
 1 REFN 3
@@ -163,7 +163,7 @@
 1 SEX F
 1 BIRT
 2 DATE 14 JAN 1942
-2 PLAC , , Mercy Hospital,Baltimore,Maryland,USA
+2 PLAC , , Mercy Hospital, Baltimore, Maryland, USA
 1 _UID 9961EFFE0BEF8042A144DB805B2122ED6ED8
 1 FAMS @F10@
 1 FAMC @F2@
@@ -177,7 +177,7 @@
 1 SEX M
 1 BIRT
 2 DATE 20 OCT 1940
-2 PLAC , , ,Baltimore,Maryland,USA
+2 PLAC , , , Baltimore, Maryland, USA
 1 _UID 54D9040F844E2340AB67E939377F6E10DD1B
 1 FAMS @F10@
 1 CHAN
@@ -192,7 +192,7 @@
 2 DATE 3 JUN 1969
 1 CHR
 2 DATE 24 JUL 1969
-2 PLAC , , , ,Imaculate Conception, Baltimore,Maryland,USA
+2 PLAC , , , , Imaculate Conception, Baltimore, Maryland, USA
 1 _UID 2E4F4953786B8E43895B94BE1E64FBAF2F12
 1 FAMC @F10@
 1 CHAN
@@ -205,10 +205,10 @@
 1 SEX M
 1 BIRT
 2 DATE 25 SEP 1972
-2 PLAC , , , , , Baltimore,Maryland,USA
+2 PLAC , , , , , Baltimore, Maryland, USA
 1 CHR
 2 DATE 2 NOV 1972
-2 PLAC , , , , , Immaculate Conception,Baltimore,Maryland,USA
+2 PLAC , , , , , Immaculate Conception, Baltimore, Maryland, USA
 1 _UID BF078AD0366D494992CFE4EC0BC50974D345
 1 FAMS @F142@
 1 FAMC @F10@
@@ -223,10 +223,10 @@
 1 SEX F
 1 BIRT
 2 DATE 31 MAR 1975
-2 PLAC , , , , ,Baltimore,Maryland,USA
+2 PLAC , , , , , Baltimore, Maryland, USA
 1 CHR
 2 DATE 11 MAY 1975
-2 PLAC , , , , , Immaculate Conception,Baltimore,Maryland,USA
+2 PLAC , , , , , Immaculate Conception, Baltimore, Maryland, USA
 1 _UID E854AE16C69B094C83F4C7292078A2035A6F
 1 FAMS @F143@
 1 FAMC @F10@
@@ -240,14 +240,14 @@
 1 SEX M
 1 BIRT
 2 DATE 9 DEC 1867
-2 PLAC , , ,Baltimore,Maryland,USA
+2 PLAC , , , Baltimore, Maryland, USA
 1 CHR
-2 PLAC , , ,Baltimore,Maryland,USA
+2 PLAC , , , Baltimore, Maryland, USA
 1 DEAT
 2 DATE 27 AUG 1918
-2 PLAC , , ,Baltimore,Maryland,USA
+2 PLAC , , , Baltimore, Maryland, USA
 1 BURI
-2 PLAC , , Holy Cross Cemetery,Baltimore,Maryland,USA
+2 PLAC , , Holy Cross Cemetery, Baltimore, Maryland, USA
 1 REFN 4
 1 _UID 2AC5E06C99D1E94D8DBB9DE91A932F1FA43B
 1 FAMS @F4@
@@ -271,9 +271,9 @@
 2 PLAC , , , , Luke Lenehan, Bridget Coyne
 1 DEAT
 2 DATE 7 SEP 1941
-2 PLAC , , ,Baltimore,Maryland,USA
+2 PLAC , , , Baltimore, Maryland, USA
 1 BURI
-2 PLAC , , Holy Cross Cemetery,Baltimore,Maryland,USA
+2 PLAC , , Holy Cross Cemetery, Baltimore, Maryland, USA
 1 REFN 5
 1 _UID FD489791597E1A47965799ACB3214E362FC4
 1 FAMS @F4@
@@ -289,12 +289,12 @@
 1 SEX F
 1 BIRT
 2 DATE 4 APR 1892
-2 PLAC , , ,Baltimore,Maryland,USA
+2 PLAC , , , Baltimore, Maryland, USA
 1 CHR
-2 PLAC , , ,Baltimore,Maryland,USA
+2 PLAC , , , Baltimore, Maryland, USA
 1 DEAT
 2 DATE 1 JUN 1969
-2 PLAC , , home Richie Hwy, Pasadena,Maryland,USA
+2 PLAC , , home Richie Hwy, Pasadena, Maryland, USA
 1 _UID 552300FFAAA81246A82A3C8256E56684D659
 1 FAMS @F13@
 1 FAMC @F4@
@@ -308,9 +308,9 @@
 1 SEX M
 1 BIRT
 2 DATE 14 JUN 1896
-2 PLAC , , ,Baltimore,Maryland,USA
+2 PLAC , , , Baltimore, Maryland, USA
 1 CHR
-2 PLAC , , ,Baltimore,Maryland,USA
+2 PLAC , , , Baltimore, Maryland, USA
 1 DEAT
 2 DATE 15 FEB 1974
 2 PLAC , , , , , same
@@ -327,15 +327,15 @@
 1 SEX F
 1 BIRT
 2 DATE 25 NOV 1898
-2 PLAC , , ,Baltimore,Maryland,USA
+2 PLAC , , , Baltimore, Maryland, USA
 1 CHR
-2 PLAC , , ,Baltimore,Maryland,USA
+2 PLAC , , , Baltimore, Maryland, USA
 1 DEAT
 2 DATE JUL 1899
-2 PLAC , , , , ,Baltimore,Maryland,USA
+2 PLAC , , , , , Baltimore, Maryland, USA
 1 BURI
 2 DATE 7 JUL 1899
-2 PLAC , , , , Holy Cross Cemetery, Baltimore,Maryland,USA
+2 PLAC , , , , Holy Cross Cemetery, Baltimore, Maryland, USA
 1 _UID 6CE26781C6EA9E4CB1E8F2E5A4552ED2391D
 1 FAMC @F4@
 1 CHAN
@@ -348,12 +348,12 @@
 1 SEX M
 1 BIRT
 2 DATE 19 MAR 1900
-2 PLAC , , ,Baltimore,Maryland,USA
+2 PLAC , , , Baltimore, Maryland, USA
 1 CHR
-2 PLAC , , , , ,Baltimore,Maryland,USA
+2 PLAC , , , , , Baltimore, Maryland, USA
 1 DEAT
 2 DATE 25 NOV 1976
-2 PLAC , , , , ,Baltimore,Maryland,USA
+2 PLAC , , , , , Baltimore, Maryland, USA
 1 _UID 03B4C70E5BDD84448D2173EFF0AAF46A945F
 1 FAMS @F15@
 1 FAMC @F4@
@@ -367,12 +367,12 @@
 1 SEX F
 1 BIRT
 2 DATE 31 JUL 1904
-2 PLAC , , ,Baltimore,Maryland,USA
+2 PLAC , , , Baltimore, Maryland, USA
 1 CHR
-2 PLAC , , , , ,Baltimore,Maryland,USA
+2 PLAC , , , , , Baltimore, Maryland, USA
 1 DEAT
 2 DATE 13 APR 1943
-2 PLAC , , , , ,Baltimore,Maryland,USA
+2 PLAC , , , , , Baltimore, Maryland, USA
 1 _UID 5FB852CA1EA2244E870B3B0566B87A946342
 1 FAMS @F16@
 1 FAMC @F4@
@@ -386,15 +386,15 @@
 1 SEX M
 1 BIRT
 2 DATE 3 NOV 1905
-2 PLAC , , ,Baltimore,Maryland,USA
+2 PLAC , , , Baltimore, Maryland, USA
 1 CHR
 2 DATE 3 NOV 1905
-2 PLAC , , , , St Ann`s RC,Baltimore,Maryland,USA
+2 PLAC , , , , St Ann`s RC, Baltimore, Maryland, USA
 1 DEAT
 2 DATE 3 NOV 1905
-2 PLAC , , , , ,Baltimore,Maryland,USA
+2 PLAC , , , , , Baltimore, Maryland, USA
 1 BURI
-2 PLAC , , , , Holy Cross Cemetery,Baltimore,Maryland,USA
+2 PLAC , , , , Holy Cross Cemetery, Baltimore, Maryland, USA
 1 _UID D3BD3BE2A1E13949810039959B6514384C3B
 1 FAMC @F4@
 1 NOTE one of a set of twins .other twin jennie.
@@ -408,15 +408,15 @@
 1 SEX F
 1 BIRT
 2 DATE 3 NOV 1905
-2 PLAC , , ,Baltimore,Maryland,USA
+2 PLAC , , , Baltimore, Maryland, USA
 1 CHR
 2 DATE 3 NOV 1905
-2 PLAC , , , , St Ann`s RC,Baltimore,Maryland,USA
+2 PLAC , , , , St Ann`s RC, Baltimore, Maryland, USA
 1 DEAT
 2 DATE 3 NOV 1905
-2 PLAC , , , , ,Baltimore,Maryland,USA
+2 PLAC , , , , , Baltimore, Maryland, USA
 1 BURI
-2 PLAC , , , , Holy Cross Cemetery,Baltimore,Maryland,USA
+2 PLAC , , , , Holy Cross Cemetery, Baltimore, Maryland, USA
 1 _UID B73B20DD94A9AF46A472085BC3576589A2F6
 1 FAMC @F4@
 1 NOTE one of set of twins. thomas other twin.
@@ -430,14 +430,14 @@
 1 SEX F
 1 BIRT
 2 DATE 9 AUG 1907
-2 PLAC , , ,Baltimore,Maryland,USA
+2 PLAC , , , Baltimore, Maryland, USA
 1 CHR
-2 PLAC , , , , ,Baltimore,Maryland,USA
+2 PLAC , , , , , Baltimore, Maryland, USA
 1 DEAT
 2 DATE 14 APR 1978
-2 PLAC , , , , ,Baltimore,Maryland,USA
+2 PLAC , , , , , Baltimore, Maryland, USA
 1 BURI
-2 PLAC , , Holy Redeemer CE,Baltimore,Maryland,USA
+2 PLAC , , Holy Redeemer CE, Baltimore, Maryland, USA
 1 _UID 838964E5CB6A184BB7423C12AF425DDB5D54
 1 FAMS @F17@
 1 FAMC @F4@
@@ -451,14 +451,14 @@
 1 SEX F
 1 BIRT
 2 DATE 18 FEB 1909
-2 PLAC , , ,Baltimore,Maryland,USA
+2 PLAC , , , Baltimore, Maryland, USA
 1 CHR
-2 PLAC , , , , St Ann`s RC,Baltimore,Maryland,USA
+2 PLAC , , , , St Ann`s RC, Baltimore, Maryland, USA
 1 DEAT
-2 PLAC , , , , ,Baltimore,Maryland,USA
+2 PLAC , , , , , Baltimore, Maryland, USA
 1 BURI
 2 DATE 9 JUN 1909
-2 PLAC , , ,Baltimore,Maryland,USA
+2 PLAC , , , Baltimore, Maryland, USA
 1 _UID DF2A47CE6D3DCE4E999D37DDE9484860075D
 1 FAMC @F4@
 1 CHAN
@@ -471,9 +471,9 @@
 1 SEX M
 1 BIRT
 2 DATE 15 AUG 1911
-2 PLAC , , ,Baltimore,Maryland,USA
+2 PLAC , , , Baltimore, Maryland, USA
 1 CHR
-2 PLAC , , , ,St Ann's RC,Baltimore,Maryland,USA
+2 PLAC , , , , St Ann's RC, Baltimore, Maryland, USA
 1 _UID 88CFD84102CAEC4482000D486FD1038F15AA
 1 FAMS @F18@
 1 FAMC @F4@
@@ -487,9 +487,9 @@
 1 SEX M
 1 BIRT
 2 DATE 24 AUG 1869
-2 PLAC , , ,Baltimore,Maryland,USA
+2 PLAC , , , Baltimore, Maryland, USA
 1 CHR
-2 PLAC , , ,Baltimore,Maryland,USA
+2 PLAC , , , Baltimore, Maryland, USA
 1 _UID 80F5185382106748BEA03F093C26ABBE92A5
 1 FAMS @F19@
 1 FAMC @F11@
@@ -503,9 +503,9 @@
 1 SEX M
 1 BIRT
 2 DATE 25 SEP 1871
-2 PLAC , , ,Baltimore,Maryland,USA
+2 PLAC , , , Baltimore, Maryland, USA
 1 CHR
-2 PLAC , , , , ,Baltimore,Maryland,USA
+2 PLAC , , , , , Baltimore, Maryland, USA
 1 _UID 7F1BCD60F83CC74FA378E93B08488BD1FC38
 1 FAMC @F11@
 1 CHAN
@@ -518,9 +518,9 @@
 1 SEX M
 1 BIRT
 2 DATE 5 NOV 1873
-2 PLAC , , ,Baltimore,Maryland,USA
+2 PLAC , , , Baltimore, Maryland, USA
 1 CHR
-2 PLAC , , , , ,Baltimore,Maryland,USA
+2 PLAC , , , , , Baltimore, Maryland, USA
 1 _UID 71D08CF651668847B4FE3D69D1B11E135416
 1 FAMC @F11@
 1 CHAN
@@ -533,9 +533,9 @@
 1 SEX M
 1 BIRT
 2 DATE 13 NOV 1875
-2 PLAC , , ,Baltimore,Maryland,USA
+2 PLAC , , , Baltimore, Maryland, USA
 1 CHR
-2 PLAC , , , , ,Baltimore,Maryland,USA
+2 PLAC , , , , , Baltimore, Maryland, USA
 1 _UID 6B109557DB7AE44D818F125B84BF57999D08
 1 FAMC @F11@
 1 CHAN
@@ -548,9 +548,9 @@
 1 SEX F
 1 BIRT
 2 DATE 5 JUN 1879
-2 PLAC , , ,Baltimore,Maryland,USA
+2 PLAC , , , Baltimore, Maryland, USA
 1 CHR
-2 PLAC , , , , ,Baltimore,Maryland,USA
+2 PLAC , , , , , Baltimore, Maryland, USA
 1 _UID 045A433BE8D1374CBB56A84261A5FBFB0FAC
 1 FAMC @F11@
 1 CHAN
@@ -569,9 +569,9 @@
 2 PLAC , , , , , Claremorris, County Mayo, Ireland
 1 DEAT
 2 DATE 20 MAR 1925
-2 PLAC , , ,Baltimore,Maryland,USA
+2 PLAC , , , Baltimore, Maryland, USA
 1 BURI
-2 PLAC , , , , Holy Cross CE,Baltimore,Maryland,USA
+2 PLAC , , , , Holy Cross CE, Baltimore, Maryland, USA
 1 REFN 8
 1 _UID B9732B3039D1BE4D8AC6301DC28FCB82D717
 1 FAMS @F11@
@@ -592,9 +592,9 @@
 2 PLAC , , Oylegate or Crossabeg, , County Wexford, Ireland
 1 DEAT
 2 DATE 8 MAR 1921
-2 PLAC , , ,Baltimore,Maryland,USA
+2 PLAC , , , Baltimore, Maryland, USA
 1 BURI
-2 PLAC , , Holy Cross CE,Baltimore,Maryland,USA
+2 PLAC , , Holy Cross CE, Baltimore, Maryland, USA
 1 REFN 9
 1 _UID B96A10CCF8DE6D41AE97EDF36D7B3B653095
 1 FAMS @F11@
@@ -612,13 +612,14 @@
 2 DATE 19 JUN 1839
 2 PLAC , , , Slaney Lodge, County Wexford, Ireland
 1 CHR
-2 DATE William Whitty,Margaret Leary
+2 DATE FROM 19 JUN 1839
 2 PLAC , , Crossabeg, , County Wexford, Ireland
+2 NOTE @N00021@
 1 _UID 6E8F044EEA065843AB065B9DF01EA273A6FA
 1 FAMC @F21@
 1 CHAN
-2 DATE 5 JAN 2006
-3 TIME 15:36:03
+2 DATE 24 MAR 2022
+3 TIME 01:59:13
 0 @I34@ INDI
 1 NAME Edward /Ormond/
 2 SURN Ormond
@@ -628,8 +629,9 @@
 2 DATE 17 AUG 1841
 2 PLAC , , , , County Wexford, Ireland
 1 CHR
-2 DATE PATRICK DOYLE,MARY CULLETON
+2 DATE FROM 17 AUG 1841
 2 PLAC , , Crossabeg, , County Wexford, Ireland
+2 NOTE @N00022@
 1 DEAT
 2 DATE 7 DEC 1855
 2 PLAC , , , , County Wexford, Ireland
@@ -638,8 +640,8 @@
 1 _UID 7261155735DA6240B7C1AE46D8AEA74BD4C2
 1 FAMC @F21@
 1 CHAN
-2 DATE 5 JAN 2006
-3 TIME 15:35:40
+2 DATE 24 MAR 2022
+3 TIME 01:59:28
 0 @I35@ INDI
 1 NAME David /Ormond/
 2 SURN Ormond
@@ -649,16 +651,17 @@
 2 DATE 21 JAN 1846
 2 PLAC , , , Crossabeg, County Wexford, Ireland
 1 CHR
-2 DATE JAMES CULATON,ELLEN CULATON
+2 DATE FROM 21 JAN 1846
 2 PLAC , , Crossabeg, , County Wexford, Ireland
+2 NOTE @N00023@
 1 DEAT
 2 DATE 23 DEC 1918
-2 PLAC , , , , ,Baltimore,Maryland,USA
+2 PLAC , , , , , Baltimore, Maryland, USA
 1 _UID 9B4482540E8F2648A6D228E71F8EA1E97E8F
 1 FAMC @F21@
 1 CHAN
-2 DATE 5 JAN 2006
-3 TIME 15:35:20
+2 DATE 24 MAR 2022
+3 TIME 01:59:38
 0 @I36@ INDI
 1 NAME Catherine /Ormond/
 2 SURN Ormond
@@ -666,9 +669,10 @@
 1 SEX F
 1 BIRT
 2 DATE 5 JUL 1848
-2 PLAC , , , , Ballynslaney, County Wexford,Ireland
+2 PLAC , , , , Ballynslaney, County Wexford, Ireland
 1 CHR
-2 DATE PATRICK BRIAN,ELIZABETH COLATON
+2 TYPE Patrick Brian,Elizabeth Colaton
+2 DATE FROM 5 JUL 1848
 1 DEAT
 2 DATE 1 OCT 1877
 1 BURI
@@ -716,7 +720,8 @@
 2 DATE 28 MAR 1813
 2 PLAC , , , Oylegate, County Wexford, Ireland
 1 CHR
-2 DATE NICHOLAS &CATHERINE WHITTY
+2 TYPE Nicholas and Catherine Whitty
+2 DATE FROM 28 MAR 1813
 1 REFN 19
 1 _UID D83D68A25DCF314B83D15E1FFF07064BEFD1
 1 FAMS @F21@
@@ -734,7 +739,7 @@
 2 PLAC , , , , , Ireland
 1 DEAT
 2 DATE 5 JAN 1890
-2 PLAC , , , , Strokestown, County Roscommon,Ireland
+2 PLAC , , , , Strokestown, County Roscommon, Ireland
 1 BURI
 2 PLAC , , , , , Ireland
 1 REFN 10
@@ -745,16 +750,16 @@
 2 DATE 24 SEP 2002
 3 TIME 01:00:00
 0 @I41@ INDI
-1 NAME Agnes /Mc Loughin/
-2 SURN Mc Loughin
+1 NAME Agnes /McLoughin/
+2 SURN McLoughin
 2 GIVN Agnes
 1 SEX F
 1 BIRT
 2 DATE 1850
-2 PLAC , , , , Curska, Currka, County Roscommon,Ireland
+2 PLAC , , , , Curska, Currka, County Roscommon, Ireland
 1 DEAT
 2 DATE 6 FEB 1889
-2 PLAC , , , , Strokestown, County Roscommon,Ireland
+2 PLAC , , , , Strokestown, County Roscommon, Ireland
 1 REFN 11
 1 _UID 8329C71C169DB44C8FFFD6AF9FA8B986DBAC
 1 FAMS @F12@
@@ -775,7 +780,7 @@
 2 PLAC , , , , John Nerney, Joan McLoughlin
 1 DEAT
 2 DATE 24 JAN 1886
-2 PLAC , , , , Strokestown, County Roscommon,Ireland
+2 PLAC , , , , Strokestown, County Roscommon, Ireland
 1 _UID 758B264EE4E0DB418783BC237C2F12342E5F
 1 FAMC @F12@
 1 CHAN
@@ -791,7 +796,7 @@
 2 PLAC , , , Cloonfree, County Roscommon, Ireland
 1 DEAT
 2 DATE 12 JAN 1874
-2 PLAC , , , , Strokestown, County Roscommon,Ireland
+2 PLAC , , , , Strokestown, County Roscommon, Ireland
 1 _UID 1CA53F35CFE7F24DA7A573D0B7CF959266DA
 1 FAMC @F12@
 1 CHAN
@@ -804,13 +809,13 @@
 1 SEX F
 1 BIRT
 2 DATE 27 DEC 1874
-2 PLAC , , , , Strokestown, County Roscommon,Ireland
+2 PLAC , , , , Strokestown, County Roscommon, Ireland
 1 CHR
 2 DATE 6 DEC 1874
 2 PLAC , , , , Peter Kelly, Rose Prenty
 1 DEAT
 2 DATE 7 JUL 1952
-2 PLAC , , Chase st,Baltimore,Maryland,USA
+2 PLAC , , Chase st, Baltimore, Maryland, USA
 1 _UID FE7FA00322D7C74789584290B80628AD6D4D
 1 FAMC @F12@
 1 CHAN
@@ -823,15 +828,15 @@
 1 SEX M
 1 BIRT
 2 DATE 26 DEC 1876
-2 PLAC , , , , Strokestown,County Roscommon,Ireland
+2 PLAC , , , , Strokestown, County Roscommon, Ireland
 1 CHR
 2 DATE 10 DEC 1876
 2 PLAC , , , , Nicholas Gilleran, Margaret Gilleran
 1 DEAT
 2 DATE 21 OCT 1945
-2 PLAC , , ,Baltimore,Maryland,USA
+2 PLAC , , , Baltimore, Maryland, USA
 1 BURI
-2 PLAC , , ,Baltimore,Maryland,USA
+2 PLAC , , , Baltimore, Maryland, USA
 1 _UID BB6510C1ADF5C14E89E864202A2DA0C250FC
 1 FAMC @F12@
 1 CHAN
@@ -844,15 +849,15 @@
 1 SEX F
 1 BIRT
 2 DATE 5 FEB 1879
-2 PLAC , , , , Strokestown,County Roscommon,Ireland
+2 PLAC , , , , Strokestown, County Roscommon, Ireland
 1 CHR
 2 DATE 28 JAN 1879
 2 PLAC , , , , Michael Prenty, Elizebeth Prenty
 1 DEAT
 2 DATE 10 JUN 1953
-2 PLAC , , , , ,USA
+2 PLAC , , , , , USA
 1 BURI
-2 PLAC , , , , ,USA
+2 PLAC , , , , , USA
 1 _UID A59860FCEF00AC4FBB702A89B8C3900F7BE0
 1 FAMC @F12@
 1 CHAN
@@ -866,7 +871,7 @@
 1 SEX M
 1 BIRT
 2 DATE 18 FEB 1881
-2 PLAC , , , , Strokestown, County Roscommon,Ireland
+2 PLAC , , , , Strokestown, County Roscommon, Ireland
 1 CHR
 2 DATE 21 FEB 1881
 2 PLAC , , , , James Neary, Catherine Dolan
@@ -885,7 +890,7 @@
 1 SEX M
 1 BIRT
 2 DATE 1 FEB 1883
-2 PLAC , , , , Strokestown,County Roscommon,Ireland
+2 PLAC , , , , Strokestown, County Roscommon, Ireland
 1 CHR
 2 DATE 11 JAN 1883
 2 PLAC , , , , Thomas Murphy, Mary Ann Carrey
@@ -904,16 +909,16 @@
 2 NSFX Banahan
 1 SEX F
 1 BIRT
-2 DATE 1/1 OR 7/20 1885
-2 PLAC , , , , Strokestown,County Roscommon,Ireland
+2 DATE FROM 1 JAN 1885 TO 20 JUL 1885
+2 PLAC , , , , Strokestown, County Roscommon, Ireland
 1 CHR
-2 DATE 12 DEC
+2 DATE 12 DEC 1885
 2 PLAC , , , , John Kennedy, ---- Banaghan
 1 DEAT
 2 DATE 24 JAN 1978
-2 PLAC , , ,Baltimore,Maryland,USA
+2 PLAC , , , Baltimore, Maryland, USA
 1 BURI
-2 PLAC , , , , ,Baltimore,Maryland,USA
+2 PLAC , , , , , Baltimore, Maryland, USA
 1 _UID A40626452119F04285B370F3DE8850592BF5
 1 FAMS @F25@
 1 FAMC @F12@
@@ -931,7 +936,7 @@
 1 CHR
 2 PLAC , , , , , Claremorris, County Mayo, Ireland
 1 DEAT
-2 PLAC , , , , ,USA
+2 PLAC , , , , , USA
 1 REFN 16
 1 _UID DDFF161974938D479D1F2BD9189714339C7C
 1 FAMS @F20@
@@ -968,7 +973,7 @@
 2 DATE 2 OCT 1839
 2 PLAC , , , , , same
 1 DEAT
-2 PLAC , , , , ,USA
+2 PLAC , , , , , USA
 1 _UID 0D415A322337994C98653650F2B0A715FA4E
 1 FAMC @F20@
 1 NOTE see notes on Patrick Mooney
@@ -982,10 +987,10 @@
 1 SEX M
 1 BIRT
 2 DATE 17 MAR 1964
-2 PLAC , , Prince George General Hospital, Cheverly,Maryland,USA
+2 PLAC , , Prince George General Hospital, Cheverly, Maryland, USA
 1 CHR
 2 DATE 5 APR 1964
-2 PLAC , , St Marys RC, Laurel,Maryland,USA
+2 PLAC , , St Marys RC, Laurel, Maryland, USA
 1 _UID E7527F0DFC69FE46AF292851C511230DC544
 1 FAMS @F7@
 1 FAMC @F26@
@@ -999,14 +1004,15 @@
 1 SEX F
 1 BIRT
 2 DATE 15 JUL 1988
-2 PLAC , , Howard Count Hospital, Columbia,Maryland,USA
+2 PLAC , , Howard Count Hospital, Columbia, Maryland, USA
 1 CHR
-2 PLAC , , St Louis Church, Clarksville,Maryland,USA
+2 PLAC , , St Louis Church, Clarksville, Maryland, USA
+1 FAMS @F192@
 1 _UID 50B7E9B874C9F147AEB3590D6934552A008B
 1 FAMC @F7@
 1 CHAN
-2 DATE 7 JAN 2006
-3 TIME 16:36:33
+2 DATE 24 MAR 2022
+3 TIME 01:20:12
 0 @I55@ INDI
 1 NAME Margaret Evelyn /Miller/
 2 SURN Miller
@@ -1014,9 +1020,9 @@
 1 SEX F
 1 BIRT
 2 DATE 24 SEP 1910
-2 PLAC , , Poplar, Overlea,Maryland,USA
+2 PLAC , , Poplar, Overlea, Maryland, USA
 1 CHR
-2 PLAC , , St Anthony, Gardenville,Maryland,USA
+2 PLAC , , St Anthony, Gardenville, Maryland, USA
 1 _UID CB697C29F46A8C479A3E640AA53367962546
 1 FAMS @F18@
 1 NOTE father augustus miller born 1/8/1888 died 12/1/1965 mother clara mary huth born 6/23/1888 died 12/23/1969
@@ -1030,9 +1036,9 @@
 1 SEX F
 1 BIRT
 2 DATE 18 JUN 1936
-2 PLAC , , ,Baltimore,Maryland,USA
+2 PLAC , , , Baltimore, Maryland, USA
 1 CHR
-2 PLAC , , St Michael,Baltimore,Maryland,USA
+2 PLAC , , St Michael, Baltimore, Maryland, USA
 1 _UID 0FBAF54A9D53DA438A1B09DDE51C65424852
 1 FAMS @F27@
 1 FAMC @F18@
@@ -1046,10 +1052,10 @@
 1 SEX F
 1 BIRT
 2 DATE 23 SEP 1940
-2 PLAC , , , , , Mercy Hospital,Baltimore,Maryland,USA
+2 PLAC , , , , , Mercy Hospital, Baltimore, Maryland, USA
 1 CHR
 2 DATE 24 SEP 1940
-2 PLAC , , St Michael,Baltimore,Maryland,USA
+2 PLAC , , St Michael, Baltimore, Maryland, USA
 1 _UID 15A0B98C49DDE24E9AFA96C87A74640A9E8F
 1 FAMS @F28@
 1 FAMC @F18@
@@ -1066,9 +1072,9 @@
 2 PLAC , , , , , Austria
 1 DEAT
 2 DATE 19 JAN 1959
-2 PLAC , , 3516 Northern Pr,Baltimore,Maryland,USA
+2 PLAC , , 3516 Northern Pr, Baltimore, Maryland, USA
 1 BURI
-2 PLAC , , Holy Redeemer CE,Baltimore,Maryland,USA
+2 PLAC , , Holy Redeemer CE, Baltimore, Maryland, USA
 1 REFN 6
 1 _UID B6EFA0873E9C874B8EAA182BE632E0372223
 1 FAMS @F9@
@@ -1087,9 +1093,9 @@
 2 PLAC , , 343, Duchcov, Teplice Co, czechoslovakia
 1 DEAT
 2 DATE 4 MAR 1960
-2 PLAC , , 3516 Northern Pr,Baltimore,Maryland,USA
+2 PLAC , , 3516 Northern Pr, Baltimore, Maryland, USA
 1 BURI
-2 PLAC , , Holy Redeemer CE,Baltimore,Maryland,USA
+2 PLAC , , Holy Redeemer CE, Baltimore, Maryland, USA
 1 REFN 7
 1 _UID B31CDF93771D6F458A2C93A57209DD9D6C7C
 1 FAMS @F9@
@@ -1191,10 +1197,10 @@
 2 DATE 1860
 2 PLAC , , , Kutna Hora, , Czech Austria Em
 1 DEAT
-2 PLAC , , ,Baltimore,Maryland,USA
+2 PLAC , , , Baltimore, Maryland, USA
 1 BURI
 2 DATE 28 OCT 1911
-2 PLAC , , Holy Redeemer,Baltimore,Maryland,USA
+2 PLAC , , Holy Redeemer, Baltimore, Maryland, USA
 1 REFN 12
 1 _UID AFB1F93CB0CF3D45AFA653DACEB6BFE03BDB
 1 FAMS @F29@
@@ -1212,10 +1218,10 @@
 2 DATE 1860
 2 PLAC , , , Kotna Hora, , Czech Austria Em
 1 DEAT
-2 PLAC , , ,Baltimore,Maryland,USA
+2 PLAC , , , Baltimore, Maryland, USA
 1 BURI
 2 DATE 12 DEC 1910
-2 PLAC , , Holy Redeemer,Baltimore,Maryland,USA
+2 PLAC , , Holy Redeemer, Baltimore, Maryland, USA
 1 REFN 13
 1 _UID D62C5169E6582F40AFE440EA12401AA53704
 1 FAMS @F29@
@@ -1229,7 +1235,7 @@
 1 SEX M
 1 BIRT
 2 DATE 2 FEB 1906
-2 PLAC , , 725 N Port St,Baltimore,Maryland,USA
+2 PLAC , , 725 N Port St, Baltimore, Maryland, USA
 1 _UID C2197FF3DA7A1047940770334D16FA5CEFAB
 1 FAMC @F9@
 1 CHAN
@@ -1242,7 +1248,7 @@
 1 SEX M
 1 BIRT
 2 DATE 5 JUL 1910
-2 PLAC , , 725 N Port St,Baltimore,Maryland,USA
+2 PLAC , , 725 N Port St, Baltimore, Maryland, USA
 1 _UID 07E277A29E6D2245B2BE4FEFFF41A7515AE7
 1 FAMC @F9@
 1 CHAN
@@ -1255,7 +1261,7 @@
 1 SEX F
 1 BIRT
 2 DATE 1 JUN 1911
-2 PLAC , , 725 N Port St,Baltimore,Maryland,USA
+2 PLAC , , 725 N Port St, Baltimore, Maryland, USA
 1 _UID 36308F44C53F334B8F56C824EEA6C08C6CF4
 1 FAMC @F9@
 1 CHAN
@@ -1270,9 +1276,9 @@
 2 DATE 20 OCT 1891
 1 DEAT
 2 DATE 8 JAN 1982
-2 PLAC , , , Pasadena,Maryland,USA
+2 PLAC , , , Pasadena, Maryland, USA
 1 BURI
-2 PLAC , , , , Glen Haven Cemetery, Pasadena,Maryland,USA
+2 PLAC , , , , Glen Haven Cemetery, Pasadena, Maryland, USA
 1 _UID 51E75DF0743D054BA7074CF4AC38EF8CD37A
 1 FAMS @F13@
 1 CHAN
@@ -1285,14 +1291,14 @@
 1 SEX F
 1 BIRT
 2 DATE 14 DEC 1929
-2 PLAC , , 2900 Greenmount,Baltimore,Maryland,USA
+2 PLAC , , 2900 Greenmount, Baltimore, Maryland, USA
 1 CHR
-2 PLAC , , St Bernards Church,Baltimore,Maryland,USA
+2 PLAC , , St Bernards Church, Baltimore, Maryland, USA
 1 DEAT
 2 DATE 19 DEC 1990
-2 PLAC , , , Pasadena,Maryland,USA
+2 PLAC , , , Pasadena, Maryland, USA
 1 BURI
-2 PLAC , , Glen Haven, Pasadena,Maryland,USA
+2 PLAC , , Glen Haven, Pasadena, Maryland, USA
 1 _UID 39AD7426F3F7014B99DB8AE28B2500286ED5
 1 FAMS @F34@
 1 FAMC @F13@
@@ -1308,9 +1314,9 @@
 2 DATE 5 FEB 1923
 1 DEAT
 2 DATE 4 MAY 1988
-2 PLAC , , , Pasadena,Maryland,USA
+2 PLAC , , , Pasadena, Maryland, USA
 1 BURI
-2 PLAC , , Glen Haven, Pasadena,Maryland,USA
+2 PLAC , , Glen Haven, Pasadena, Maryland, USA
 1 _UID 44788BD6172E194E8C2D6670D959988BADDF
 1 FAMS @F34@
 1 CHAN
@@ -1323,9 +1329,9 @@
 1 SEX M
 1 BIRT
 2 DATE 7 JUN 1957
-2 PLAC , , 106 Hastings La, Pasadena,Maryland,USA
+2 PLAC , , 106 Hastings La, Pasadena, Maryland, USA
 1 CHR
-2 PLAC , , St Johns Church, Severna Park,Maryland,USA
+2 PLAC , , St Johns Church, Severna Park, Maryland, USA
 1 _UID 68E29A0456C0254594E92D24A8EC087F5139
 1 FAMS @F35@
 1 FAMC @F34@
@@ -1339,10 +1345,10 @@
 1 SEX M
 1 BIRT
 2 DATE 14 DEC 1958
-2 PLAC , , , , , Mercy Hospital,Baltimore,Maryland,USA
+2 PLAC , , , , , Mercy Hospital, Baltimore, Maryland, USA
 1 CHR
 2 DATE 1958
-2 PLAC , , St Johns Church, Severna Park,Maryland,USA
+2 PLAC , , St Johns Church, Severna Park, Maryland, USA
 1 _UID FBF80D3812D56A48BE53F32ED896F2BC1F00
 1 FAMS @F149@
 1 FAMC @F34@
@@ -1368,9 +1374,9 @@
 1 SEX F
 1 BIRT
 2 DATE 15 JUL 1901
-2 PLAC , , ,Baltimore,Maryland,USA
+2 PLAC , , , Baltimore, Maryland, USA
 1 CHR
-2 PLAC , , ,Baltimore,Maryland,USA
+2 PLAC , , , Baltimore, Maryland, USA
 1 _UID 0AD1565449290C4981ABB5ADCFC5E0AEFC5C
 1 FAMS @F14@
 1 CHAN
@@ -1383,7 +1389,7 @@
 1 SEX M
 1 BIRT
 2 DATE 21 MAR 1923
-2 PLAC , , ,Baltimore,Maryland,USA
+2 PLAC , , , Baltimore, Maryland, USA
 1 _UID 72DB4AD5FA07C44C979CAFDC42A8210349D2
 1 FAMS @F36@
 1 FAMC @F14@
@@ -1397,7 +1403,7 @@
 1 SEX M
 1 BIRT
 2 DATE 16 AUG 1925
-2 PLAC , , ,Baltimore,Maryland,USA
+2 PLAC , , , Baltimore, Maryland, USA
 1 _UID A630EE4375CC094497F168E62A570A807617
 1 FAMS @F37@
 1 FAMC @F14@
@@ -1411,7 +1417,7 @@
 1 SEX F
 1 BIRT
 2 DATE 3 JUL 1927
-2 PLAC , , , , ,Baltimore,Maryland,USA
+2 PLAC , , , , , Baltimore, Maryland, USA
 1 CHR
 2 DATE JUL 1927
 2 PLAC , , , , , St. Anns Ch
@@ -1428,12 +1434,12 @@
 1 SEX F
 1 BIRT
 2 DATE 6 JAN 1929
-2 PLAC , , ,Baltimore,Maryland,USA
+2 PLAC , , , Baltimore, Maryland, USA
 1 CHR
 2 PLAC , , , , , Blessed Sacrament
 1 DEAT
 2 DATE 6 JUN 2000
-2 PLAC , , , , , Baltimore County,Maryland,USA
+2 PLAC , , , , , Baltimore County, Maryland, USA
 1 BURI
 2 PLAC , , , , , Dulaney Valley Mem. Grd.
 1 _UID 0125197176205E479FBF2E147F7601D75849
@@ -1449,7 +1455,7 @@
 1 SEX U
 1 BIRT
 2 DATE 4 NOV 1930
-2 PLAC , , ,Baltimore,Maryland,USA
+2 PLAC , , , Baltimore, Maryland, USA
 1 _UID 497103C895DA7F4BBD13491884F864ECBBBB
 1 FAMC @F14@
 1 CHAN
@@ -1462,10 +1468,10 @@
 1 SEX F
 1 BIRT
 2 DATE 2 APR 1933
-2 PLAC , , ,Baltimore,Maryland,USA
+2 PLAC , , , Baltimore, Maryland, USA
 1 CHR
 2 DATE 14 APR 1933
-2 PLAC , , , , , Blessed Sacrament,Govans,Maryland,USA
+2 PLAC , , , , , Blessed Sacrament, Govans, Maryland, USA
 1 _UID 3646C380FD10814B9FF9C412AE8C1995EEB9
 1 FAMS @F40@
 1 FAMS @F41@
@@ -1480,10 +1486,10 @@
 1 SEX F
 1 BIRT
 2 DATE 1 OCT 1934
-2 PLAC , , ,Baltimore,Maryland,USA
+2 PLAC , , , Baltimore, Maryland, USA
 1 CHR
 2 DATE 29 OCT 1934
-2 PLAC , , , , , Blessed Sacrament,Baltimore,Maryland,USA
+2 PLAC , , , , , Blessed Sacrament, Baltimore, Maryland, USA
 1 _UID 19A897A9EC821C4AAFBE0054DB5963EA170C
 1 FAMS @F42@
 1 FAMC @F14@
@@ -1497,13 +1503,13 @@
 1 SEX F
 1 BIRT
 2 DATE 1 OCT 1934
-2 PLAC , , ,Baltimore,Maryland,USA
+2 PLAC , , , Baltimore, Maryland, USA
 1 CHR
 2 DATE 29 OCT 1934
-2 PLAC , , , , , Blessed Sacrament,Baltimore,Maryland,USA
+2 PLAC , , , , , Blessed Sacrament, Baltimore, Maryland, USA
 1 DEAT
 2 DATE 27 FEB 1998
-2 PLAC , , , , ,Baltimore County,Maryland,USA
+2 PLAC , , , , , Baltimore County, Maryland, USA
 1 BURI
 2 DATE 3 MAR 1998
 2 PLAC , , , , , Dulaney Valley Mem. Grd.
@@ -1663,13 +1669,13 @@
 1 SEX M
 1 BIRT
 2 DATE 18 SEP 1927
-2 PLAC , , , , ,Baltimore,Maryland,USA
+2 PLAC , , , , , Baltimore, Maryland, USA
 1 CHR
 2 DATE SEP 1927
-2 PLAC , , , , , St. Paul's,Baltimore,Maryland,USA
+2 PLAC , , , , , St. Paul's, Baltimore, Maryland, USA
 1 DEAT
 2 DATE 20 JAN 1978
-2 PLAC , , , , ,Baltimore,Maryland,USA
+2 PLAC , , , , , Baltimore, Maryland, USA
 1 BURI
 2 DATE 24 JAN 1978
 2 PLAC , , , , , Dulaney Mem Gardens
@@ -1685,21 +1691,20 @@
 1 SEX M
 1 BIRT
 2 DATE 18 NOV 1948
-2 PLAC , , , , ,Baltimore,Maryland,USA
+2 PLAC , , , , , Baltimore, Maryland, USA
+2 NOTE @N00024@
 1 CHR
 2 DATE 11 DEC 1948
-2 PLAC , , , , , St. Marys,Govans,Maryland,USA
+2 PLAC , , , , , St. Marys, Govans, Maryland, USA
 1 DEAT
 2 DATE 25 SEP 2003
-2 PLAC , , , , ,Baltimore,Maryland,USA
-1 BURI
-2 DATE CREMATED
+2 PLAC , , , , , Baltimore, Maryland, USA
 1 _UID FF0100CFDD98854DB80D2A4CDCCEA632D338
 1 FAMS @F55@
 1 FAMC @F38@
 1 CHAN
-2 DATE 1 MAR 2006
-3 TIME 08:09:00
+2 DATE 24 MAR 2022
+3 TIME 02:10:41
 0 @I99@ INDI
 1 NAME Stephan Francis /Preller/
 2 SURN Preller
@@ -1707,7 +1712,7 @@
 1 SEX M
 1 BIRT
 2 DATE 22 MAY 1952
-2 PLAC , , , , ,Baltimore,Maryland,USA
+2 PLAC , , , , , Baltimore, Maryland, USA
 1 CHR
 2 DATE MAY 1952
 2 PLAC , , , , , Immaculate Heart of Mary
@@ -1724,7 +1729,7 @@
 1 SEX F
 1 BIRT
 2 DATE 7 DEC 1957
-2 PLAC , , , , ,Baltimore,Maryland,USA
+2 PLAC , , , , , Baltimore, Maryland, USA
 1 CHR
 2 DATE DEC 1957
 2 PLAC , , , , , Immaculate Heart of Mary
@@ -1741,10 +1746,10 @@
 1 SEX M
 1 BIRT
 2 DATE 19 SEP 1926
-2 PLAC , , , , , Cumberland,Maryland,USA
+2 PLAC , , , , , Cumberland, Maryland, USA
 1 DEAT
 2 DATE 6 APR 2000
-2 PLAC , , , , , Baltimore County,Maryland,USA
+2 PLAC , , , , , Baltimore County, Maryland, USA
 1 BURI
 2 PLAC , , , , , Dulaney Valley Mem. Grd.
 1 _UID 3611D7C38FBF15469847EB210F7111EAF0AC
@@ -1759,10 +1764,10 @@
 1 SEX F
 1 BIRT
 2 DATE 30 MAY 1949
-2 PLAC , , , , ,Baltimore,Maryland,USA
+2 PLAC , , , , , Baltimore, Maryland, USA
 1 CHR
 2 DATE 19 JUN 1949
-2 PLAC , , , , , St Marys,Govans,Maryland,USA
+2 PLAC , , , , , St Marys, Govans, Maryland, USA
 1 _UID 605D9828A9F67C4592D27C9706FBB1E2E804
 1 FAMS @F58@
 1 FAMC @F39@
@@ -1776,9 +1781,9 @@
 1 SEX F
 1 BIRT
 2 DATE 6 MAR 1951
-2 PLAC , , , , ,Baltimore,Maryland,USA
+2 PLAC , , , , , Baltimore, Maryland, USA
 1 CHR
-2 PLAC , , , , , St Marys,Govans,Maryland,USA
+2 PLAC , , , , , St Marys, Govans, Maryland, USA
 1 _UID 11D67A665BBB0E41B8BE9E7C925154EDE078
 1 FAMS @F59@
 1 FAMC @F39@
@@ -1792,10 +1797,10 @@
 1 SEX F
 1 BIRT
 2 DATE 20 APR 1953
-2 PLAC , , , , , Mercy Hosp,Baltimore,Maryland,USA
+2 PLAC , , , , , Mercy Hosp, Baltimore, Maryland, USA
 1 CHR
 2 DATE 10 MAY 1953
-2 PLAC , , , , , St Marys,Govans,Maryland,USA
+2 PLAC , , , , , St Marys, Govans, Maryland, USA
 1 _UID 249B4A4B80F183469A4F32ADD569DD7DEE6B
 1 FAMS @F60@
 1 FAMC @F39@
@@ -1810,9 +1815,9 @@
 1 SEX M
 1 BIRT
 2 DATE 22 MAY 1958
-2 PLAC , , , , ,Baltimore,Maryland,USA
+2 PLAC , , , , , Baltimore, Maryland, USA
 1 CHR
-2 PLAC , , , , , St Marys,Govans,Baltimore,Maryland,USA
+2 PLAC , , , , , St Marys, Govans, Baltimore, Maryland, USA
 1 _UID E0D1F0966E09844EA42CC99C509E4EB9AAF3
 1 FAMS @F61@
 1 FAMC @F39@
@@ -1826,10 +1831,10 @@
 1 SEX F
 1 BIRT
 2 DATE 26 JUN 1959
-2 PLAC , , , , ,Baltimore,Maryland,USA
+2 PLAC , , , , , Baltimore, Maryland, USA
 1 CHR
 2 DATE 10 JUL 1959
-2 PLAC , , , , , St Marys,Govans,Baltimore,Maryland,USA
+2 PLAC , , , , , St Marys, Govans, Baltimore, Maryland, USA
 1 _UID 43BDC99B25A82143BEE618351A267E65A9C7
 1 FAMS @F62@
 1 FAMC @F39@
@@ -1846,7 +1851,7 @@
 2 PLAC , , , , , Landgraf W.V.
 1 DEAT
 2 DATE 12 FEB 1985
-2 PLAC , , , , ,Baltimore,Maryland,USA
+2 PLAC , , , , , Baltimore, Maryland, USA
 1 BURI
 2 DATE 16 FEB 1985
 2 PLAC , , , , , Holly Hill Mem
@@ -1865,7 +1870,7 @@
 2 PLAC , , , , , Mercy Hospital
 1 CHR
 2 DATE 24 SEP 1953
-2 PLAC , , , , , St. Marys,Govans,Maryland,USA
+2 PLAC , , , , , St. Marys, Govans, Maryland, USA
 1 _UID 1FBFC70C004264478DD629EAC739122C52BD
 1 FAMS @F161@
 1 FAMS @F172@
@@ -1883,7 +1888,7 @@
 2 PLAC , , , , , Mercy Hospital
 1 CHR
 2 DATE MAY 1955
-2 PLAC , , , , , Our Lady Of Mount Carmel,Essex,Maryland,USA
+2 PLAC , , , , , Our Lady Of Mount Carmel, Essex, Maryland, USA
 1 _UID 1AB69FF594B7EA4A825EEC2957FDBE1600D4
 1 FAMS @F64@
 1 FAMC @F40@
@@ -1900,7 +1905,7 @@
 2 PLAC , , , , , Mercy Hospital
 1 CHR
 2 DATE APR 1956
-2 PLAC , , , , , Our Lady Of Mount Carmel,Essex,Marlyand,USA
+2 PLAC , , , , , Our Lady Of Mount Carmel, Essex, Marlyand, USA
 1 _UID 722C8AA762A2AD41A313D63C557395987E90
 1 FAMS @F65@
 1 FAMC @F40@
@@ -1917,7 +1922,7 @@
 2 PLAC , , , , , Mercy Hospital
 1 CHR
 2 DATE 5 JAN 1958
-2 PLAC , , , , , St. Clares,Essex,Maryland,USA
+2 PLAC , , , , , St. Clares, Essex, Maryland, USA
 1 _UID 39B24ABB9C99C741B71198E50EDD6D5923B5
 1 FAMS @F66@
 1 FAMC @F40@
@@ -1934,7 +1939,7 @@
 2 PLAC , , , , , Mercy Hospital
 1 CHR
 2 DATE MAR 1959
-2 PLAC , , , , , St. Clares,Essex,Maryland,USA
+2 PLAC , , , , , St. Clares, Essex, Maryland, USA
 1 _UID A7818F7A98F0174C9CD5E8CB6B1D26C5B333
 1 FAMS @F67@
 1 FAMC @F40@
@@ -1948,10 +1953,10 @@
 1 SEX M
 1 BIRT
 2 DATE 17 JUL 1930
-2 PLAC , , , , , 803 McCabe Ave,Baltimore,Maryland,USA
+2 PLAC , , , , , 803 McCabe Ave, Baltimore, Maryland, USA
 1 CHR
 2 DATE JUL 1930
-2 PLAC , , , , , St. Marys,Govans,Maryland,USA
+2 PLAC , , , , , St. Marys, Govans, Maryland, USA
 1 _UID D6449A0F8F26614BAD78BF14B14B997A2B2D
 1 FAMS @F42@
 1 CHAN
@@ -1964,10 +1969,10 @@
 1 SEX F
 1 BIRT
 2 DATE 10 JUN 1959
-2 PLAC , , , , , Mercy Hospital,Baltimore,Maryland,USA
+2 PLAC , , , , , Mercy Hospital, Baltimore, Maryland, USA
 1 CHR
 2 DATE JUN 1959
-2 PLAC , , , , , St. Mary's,Baltimore,Maryland,USA
+2 PLAC , , , , , St. Mary's, Baltimore, Maryland, USA
 1 _UID 99688E2C6D24094B9755C80F51A792F4E1A4
 1 FAMS @F68@
 1 FAMC @F42@
@@ -1981,7 +1986,7 @@
 1 SEX M
 1 BIRT
 2 DATE 5 OCT 1960
-2 PLAC , , , , ,Mercy Hospital,Baltimore,Maryland,USA
+2 PLAC , , , , , Mercy Hospital, Baltimore, Maryland, USA
 1 CHR
 2 DATE OCT 1960
 2 PLAC , , , , , St. Anthony of Padua
@@ -1999,7 +2004,7 @@
 1 SEX M
 1 BIRT
 2 DATE 5 DEC 1961
-2 PLAC , , , , ,Mercy Hospital,Baltimore,Maryland,USA
+2 PLAC , , , , , Mercy Hospital, Baltimore, Maryland, USA
 1 CHR
 2 DATE DEC 1961
 2 PLAC , , , , , St. Anthony of Padua
@@ -2015,7 +2020,7 @@
 1 SEX F
 1 BIRT
 2 DATE 15 MAY 1963
-2 PLAC , , , , ,Mercy Hospital,Baltimore,Maryland,USA
+2 PLAC , , , , , Mercy Hospital, Baltimore, Maryland, USA
 1 CHR
 2 DATE 2 JUN 1963
 2 PLAC , , , , , St. Anthony of Padua
@@ -2032,13 +2037,13 @@
 1 SEX M
 1 BIRT
 2 DATE 14 JUN 1934
-2 PLAC , , , , ,Baltimore,Maryland,USA
+2 PLAC , , , , , Baltimore, Maryland, USA
 1 CHR
 2 DATE 7 JUL 1934
-2 PLAC , , , , , St. Marys,Govans,Baltimore,Maryland,USA
+2 PLAC , , , , , St. Marys, Govans, Baltimore, Maryland, USA
 1 DEAT
 2 DATE 26 MAY 1958
-2 PLAC , , , , , Baltimore,Maryland,USA
+2 PLAC , , , , , Baltimore, Maryland, USA
 1 BURI
 2 DATE 30 MAY 1958
 2 PLAC , , , , , New Cathedral Cemetery
@@ -2054,7 +2059,7 @@
 1 SEX F
 1 BIRT
 2 DATE 10 SEP 1955
-2 PLAC , , , , ,Baltimore,Maryland,USA
+2 PLAC , , , , , Baltimore, Maryland, USA
 1 CHR
 2 DATE 25 SEP 1955
 2 PLAC , , , , , St Marys Govans
@@ -2072,10 +2077,10 @@
 1 SEX M
 1 BIRT
 2 DATE 25 APR 1957
-2 PLAC , , , , ,Baltimore,Maryland,USA
+2 PLAC , , , , , Baltimore, Maryland, USA
 1 CHR
 2 DATE 5 MAY 1957
-2 PLAC , , , , , St. Marys,Govans,Maryland,USA
+2 PLAC , , , , , St. Marys, Govans, Maryland, USA
 1 _UID 1666791EECC9BF48A9F18F3A11D168AB27BC
 1 FAMS @F73@
 1 FAMS @F168@
@@ -2110,7 +2115,7 @@
 2 PLAC , , , , , Union Memorial Hospital
 1 CHR
 2 DATE 11 MAY 1952
-2 PLAC , , , , , Blesssed Sacrament ,Baltimore,Maryland,USA
+2 PLAC , , , , , Blesssed Sacrament, Baltimore, Maryland, USA
 1 _UID E38AA8A163E0F5499345592705E575291734
 1 FAMS @F74@
 1 FAMC @F44@
@@ -2152,10 +2157,10 @@
 1 SEX M
 1 BIRT
 2 DATE 8 NOV 1930
-2 PLAC , , , , , University Hospital,Baltimore,Maryland,USA
+2 PLAC , , , , , University Hospital, Baltimore, Maryland, USA
 1 CHR
 2 DATE 1934
-2 PLAC , , , , , Lutheran Church,Lansdowne,Maryland,USA
+2 PLAC , , , , , Lutheran Church, Lansdowne, Maryland, USA
 1 _UID 20E8DD1F6881F045B7B651AE47556D2EC59A
 1 FAMS @F75@
 1 FAMC @F15@
@@ -2208,10 +2213,10 @@
 1 SEX F
 1 BIRT
 2 DATE 29 NOV 1933
-2 PLAC , , , , , 222 Hazel Ave,Lansdowne,Maryland,USA
+2 PLAC , , , , , 222 Hazel Ave, Lansdowne, Maryland, USA
 1 CHR
 2 DATE NOV 1933
-2 PLAC , , , , , Lansdowne Christian Church,Lansdowne,Maryland,USA
+2 PLAC , , , , , Lansdowne Christian Church, Lansdowne, Maryland, USA
 1 _UID FC8DF861B808064787C1B9877B22B5FEC765
 1 FAMS @F75@
 1 CHAN
@@ -2224,9 +2229,9 @@
 1 SEX F
 1 BIRT
 2 DATE 14 APR 1958
-2 PLAC , , , , , University Hospital,Baltimore,Maryland,USA
+2 PLAC , , , , , University Hospital, Baltimore, Maryland, USA
 1 CHR
-2 PLAC , , , , , Lansdowne Christian Church, Lansdowne,Maryland,USA
+2 PLAC , , , , , Lansdowne Christian Church, Lansdowne, Maryland, USA
 1 _UID 0F4649F208E8C448BD13F415264F84E442D9
 1 FAMS @F144@
 1 FAMC @F75@
@@ -2240,9 +2245,9 @@
 1 SEX F
 1 BIRT
 2 DATE 22 SEP 1961
-2 PLAC , , , , , University Hospital,Baltimore,Maryland,USA
+2 PLAC , , , , , University Hospital, Baltimore, Maryland, USA
 1 CHR
-2 PLAC , , , , , Lansdowne Christian Church, Lansdowne,Maryland,USA
+2 PLAC , , , , , Lansdowne Christian Church, Lansdowne, Maryland, USA
 1 _UID 57BE85771211094FBCE608DD3FFEDB659053
 1 FAMS @F145@
 1 FAMC @F75@
@@ -2256,9 +2261,9 @@
 1 SEX M
 1 BIRT
 2 DATE 12 APR 1963
-2 PLAC , , , , , St Agnes Hospital,Baltimore,Maryland,USA
+2 PLAC , , , , , St Agnes Hospital, Baltimore, Maryland, USA
 1 CHR
-2 PLAC , , , , , Lansdowne Christian Church, Lansdowne,Maryland,USA
+2 PLAC , , , , , Lansdowne Christian Church, Lansdowne, Maryland, USA
 1 _UID ECA610CA8F353A49A44BE3D5D561D67EE4B5
 1 FAMS @F146@
 1 FAMC @F75@
@@ -2345,10 +2350,10 @@
 1 SEX F
 1 BIRT
 2 DATE 4 DEC 1961
-2 PLAC , , , , , University Hospital,Baltimore,Maryland,USA
+2 PLAC , , , , , University Hospital, Baltimore, Maryland, USA
 1 CHR
 2 DATE 1962
-2 PLAC , , , , , St. Clements,Lansdowne,Maryland,USA
+2 PLAC , , , , , St. Clements, Lansdowne, Maryland, USA
 1 _UID 09C8B5768BB14048A7366A07052F1ACF2B48
 1 FAMS @F79@
 1 FAMC @F77@
@@ -2386,9 +2391,9 @@
 1 SEX F
 1 BIRT
 2 DATE 19 JUN 1974
-2 PLAC , , , , , St Agnes Hospital,Baltimore,Maryland,USA
+2 PLAC , , , , , St Agnes Hospital, Baltimore, Maryland, USA
 1 CHR
-2 PLAC , , , , , St. Clements,Lansdowne,Maryland,USA
+2 PLAC , , , , , St. Clements, Lansdowne, Maryland, USA
 1 _UID 4320323F00C6F4438B8C3B7A64E4ED7D4FE7
 1 FAMC @F77@
 1 CHAN
@@ -2401,7 +2406,7 @@
 1 SEX M
 1 BIRT
 2 DATE 9 APR 1956
-2 PLAC , , , , , Women's Hospital,Baltimore,Maryland,USA
+2 PLAC , , , , , Women's Hospital, Baltimore, Maryland, USA
 1 CHR
 2 PLAC , , , , , Faith Presbyterion
 1 _UID 091B5E5D8F6A464A87A28833534ABD2AD03D
@@ -2452,11 +2457,11 @@
 1 SEX M
 1 BIRT
 2 DATE 5 SEP 1901
-2 PLAC , , , Philadelphia, Pennsylvania,USA
+2 PLAC , , , Philadelphia, Pennsylvania, USA
 1 DEAT
 2 DATE 1 APR 1979
 1 BURI
-2 PLAC , , Woodlawn,Baltimore,Maryland,USA
+2 PLAC , , Woodlawn, Baltimore, Maryland, USA
 1 _UID 0C597A16661EBC41A982D40879DEAEB537F9
 1 FAMS @F16@
 1 CHAN
@@ -2470,7 +2475,7 @@
 1 BIRT
 2 DATE 30 NOV 1927
 1 CHR
-2 PLAC , , ss philip&james,Baltimore,Maryland,USA
+2 PLAC , , ss philip&james, Baltimore, Maryland, USA
 1 _UID C8ADABF20ACAC64D913CABE982AF35DD9DF5
 1 FAMS @F80@
 1 FAMC @F16@
@@ -2485,7 +2490,7 @@
 1 BIRT
 2 DATE 18 FEB 1929
 1 CHR
-2 PLAC , , ss philip&james,Baltimore,Maryland,USA
+2 PLAC , , ss philip&james, Baltimore, Maryland, USA
 1 _UID D51A181477436D40869EE2B989F7BD0F8D1E
 1 FAMS @F81@
 1 FAMC @F16@
@@ -2500,7 +2505,7 @@
 1 BIRT
 2 DATE 15 JUN 1931
 1 CHR
-2 PLAC , , ss philip&james,Baltimore,Maryland,USA
+2 PLAC , , ss philip&james, Baltimore, Maryland, USA
 1 _UID 8A2015042F7EAB46B84880D8670A806F19B5
 1 FAMS @F82@
 1 FAMC @F16@
@@ -2515,7 +2520,7 @@
 1 BIRT
 2 DATE 16 SEP 1932
 1 CHR
-2 PLAC , , ss philip&james,Baltimore,Maryland,USA
+2 PLAC , , ss philip&james, Baltimore, Maryland, USA
 1 _UID 7698E2637FBE8344A444998F035CC230B87C
 1 FAMS @F83@
 1 FAMC @F16@
@@ -2529,10 +2534,10 @@
 1 SEX M
 1 BIRT
 2 DATE 28 AUG 1935
-2 PLAC , , 731 30th St,Baltimore,Maryland,USA
+2 PLAC , , 731 30th St, Baltimore, Maryland, USA
 1 CHR
 2 DATE SEP 1935
-2 PLAC , , St Bernard,Baltimore,Maryland,USA
+2 PLAC , , St Bernard, Baltimore, Maryland, USA
 1 _UID 509DE232FAA7584F89C360A0012BA371D56E
 1 FAMS @F84@
 1 FAMC @F16@
@@ -2547,7 +2552,7 @@
 1 BIRT
 2 DATE 17 DEC 1936
 1 CHR
-2 PLAC , , St Bernard,Baltimore,Maryland,USA
+2 PLAC , , St Bernard, Baltimore, Maryland, USA
 1 _UID 3C8BB6FC58F7864C86CB1CE5992DF7C56EC6
 1 FAMS @F85@
 1 FAMC @F16@
@@ -2561,7 +2566,7 @@
 1 SEX F
 1 BIRT
 2 DATE 19 SEP 1923
-2 PLAC , , , , , St Anthony,Baltimore,Maryland,USA
+2 PLAC , , , , , St Anthony, Baltimore, Maryland, USA
 1 _UID ACC7C412E107FD4E8CAB5EB1078CD381A921
 1 FAMS @F80@
 1 CHAN
@@ -2574,10 +2579,10 @@
 1 SEX F
 1 BIRT
 2 DATE 22 JAN 1953
-2 PLAC , , , , ,Baltimore,Maryland,USA
+2 PLAC , , , , , Baltimore, Maryland, USA
 1 CHR
 2 DATE 8 FEB 1953
-2 PLAC , , St Dominic,Baltimore,Maryland,USA
+2 PLAC , , St Dominic, Baltimore, Maryland, USA
 1 _UID DD587438CC04C048BDA74557883BDED32D16
 1 FAMS @F86@
 1 FAMC @F80@
@@ -2591,9 +2596,9 @@
 1 SEX M
 1 BIRT
 2 DATE 24 MAY 1954
-2 PLAC , , , , , Mercy Hospital,Baltimore,Maryland,USA
+2 PLAC , , , , , Mercy Hospital, Baltimore, Maryland, USA
 1 CHR
-2 PLAC , , , , , St. Dominics,Baltimore,Maryland,USA
+2 PLAC , , , , , St. Dominics, Baltimore, Maryland, USA
 1 _UID DEE4C7A5EAB4E04B8FF85E9ADB7627412F69
 1 FAMS @F87@
 1 FAMC @F80@
@@ -2607,9 +2612,9 @@
 1 SEX M
 1 BIRT
 2 DATE 1 OCT 1955
-2 PLAC , , , , , Mercy Hospital,Baltimore,Maryland,USA
+2 PLAC , , , , , Mercy Hospital, Baltimore, Maryland, USA
 1 CHR
-2 PLAC , , St Anthony,Baltimore,Maryland,USA
+2 PLAC , , St Anthony, Baltimore, Maryland, USA
 1 _UID 460D7AD6AA6751429FDAF7A9068803BCAD05
 1 FAMS @F88@
 1 FAMC @F80@
@@ -2623,9 +2628,9 @@
 1 SEX F
 1 BIRT
 2 DATE 31 JAN 1958
-2 PLAC , , , , , Mercy Hospital,Baltimore,Maryland,USA
+2 PLAC , , , , , Mercy Hospital, Baltimore, Maryland, USA
 1 CHR
-2 PLAC , , St Anthony,Baltimore,Maryland,USA
+2 PLAC , , St Anthony, Baltimore, Maryland, USA
 1 _UID 4A09DA30A7A0EF4CBD7EBA825696FD3271BF
 1 FAMS @F89@
 1 FAMC @F80@
@@ -2639,9 +2644,9 @@
 1 SEX F
 1 BIRT
 2 DATE 28 FEB 1959
-2 PLAC , , , , ,Baltimore,Maryland,USA
+2 PLAC , , , , , Baltimore, Maryland, USA
 1 CHR
-2 PLAC , , St Anthony,Baltimore,Maryland,USA
+2 PLAC , , St Anthony, Baltimore, Maryland, USA
 1 _UID C2E64F6E0E779745AA11E5DB44CDDD124149
 1 FAMS @F90@
 1 FAMC @F80@
@@ -2655,9 +2660,9 @@
 1 SEX F
 1 BIRT
 2 DATE 4 SEP 1961
-2 PLAC , , , , ,Baltimore,Maryland,USA
+2 PLAC , , , , , Baltimore, Maryland, USA
 1 CHR
-2 PLAC , , St Anthony,Baltimore,Maryland,USA
+2 PLAC , , St Anthony, Baltimore, Maryland, USA
 1 _UID 276BC90982F6FF4AA7847A853D158880A96E
 1 FAMS @F91@
 1 FAMS @F92@
@@ -2665,23 +2670,6 @@
 1 CHAN
 2 DATE 14 JUL 2006
 3 TIME 12:38:49
-0 @I161@ INDI
-1 NAME Jeanne Marie /Hoban/
-2 SURN Hoban
-2 GIVN Jeanne, Marie
-1 SEX F
-1 BIRT
-2 DATE 13 FEB 1966
-2 PLAC , , , , ,Baltimore,Maryland,USA
-1 CHR
-2 PLAC , , St Anthony,Baltimore,Maryland,USA
-1 _UID BEA7615F6BFE4A4A8201566A255DF79E7C9A
-1 FAMS @F180@
-1 FAMS @F181@
-1 FAMC @F80@
-1 CHAN
-2 DATE 14 JUL 2006
-3 TIME 12:59:17
 0 @I162@ INDI
 1 NAME Lawrence /Davalla/
 2 SURN Davalla
@@ -2689,7 +2677,7 @@
 1 SEX M
 1 BIRT
 2 DATE 25 DEC 1951
-2 PLAC , , , , , Lakewood,Ohio,USA
+2 PLAC , , , , , Lakewood, Ohio, USA
 1 _UID 323C7D58978C0748BE201402089A6AE59AD1
 1 FAMS @F86@
 1 CHAN
@@ -2702,9 +2690,9 @@
 1 SEX M
 1 BIRT
 2 DATE 10 JUL 1977
-2 PLAC , , , , , Lakewood,Ohio,USA
+2 PLAC , , , , , Lakewood, Ohio, USA
 1 CHR
-2 PLAC , , , , , Sts Cyril Methodius,Lakewood,Ohio,USA
+2 PLAC , , , , , Sts Cyril Methodius, Lakewood, Ohio, USA
 1 _UID D8C8EB6B69F3904C946D0941BAD3D1AD84F0
 1 FAMC @F86@
 1 CHAN
@@ -2717,9 +2705,9 @@
 1 SEX M
 1 BIRT
 2 DATE 23 MAY 1979
-2 PLAC , , , , , Lakewood,Ohio,USA
+2 PLAC , , , , , Lakewood, Ohio, USA
 1 CHR
-2 PLAC , , , , , Sts Cyril Methodius,Lakewood,Ohio,USA
+2 PLAC , , , , , Sts Cyril Methodius, Lakewood, Ohio, USA
 1 _UID B88600871E91A449BCA0F1A4BAFE8D29C010
 1 FAMS @F177@
 1 FAMC @F86@
@@ -2733,9 +2721,9 @@
 1 SEX F
 1 BIRT
 2 DATE 22 SEP 1980
-2 PLAC , , , , , Lakewood.Ohio,USA
+2 PLAC , , , , , Lakewood.Ohio, USA
 1 CHR
-2 PLAC , , , , , Sts Cyril Methodius,Lakewood,Ohio,USA
+2 PLAC , , , , , Sts Cyril Methodius, Lakewood, Ohio, USA
 1 _UID 24E935B76051144880E2F4203C927CEDB374
 1 FAMC @F86@
 1 CHAN
@@ -2748,9 +2736,9 @@
 1 SEX M
 1 BIRT
 2 DATE 4 JUL 1983
-2 PLAC , , , , , Lakewood,Ohio,USA
+2 PLAC , , , , , Lakewood, Ohio, USA
 1 CHR
-2 PLAC , , , , , Sts Cyril Methodius,Lakewood Ohio,USA
+2 PLAC , , , , , Sts Cyril Methodius, Lakewood Ohio, USA
 1 _UID E6E328EB4E94964D8BF4C732A97F54DD72AF
 1 FAMC @F86@
 1 CHAN
@@ -2762,7 +2750,7 @@
 2 GIVN Barbara, Ann
 1 SEX F
 1 BIRT
-2 PLAC , , , , , Cleveland.Ohio,USA
+2 PLAC , , , , , Cleveland.Ohio, USA
 1 _UID 264064F08F130446A208332C21AF350DC149
 1 FAMS @F87@
 1 CHAN
@@ -2775,9 +2763,9 @@
 1 SEX M
 1 BIRT
 2 DATE 18 DEC 1980
-2 PLAC , , , , , Cleveland,Ohio,USA
+2 PLAC , , , , , Cleveland, Ohio, USA
 1 CHR
-2 PLAC , , , , , Holy Trinity,Avon,Ohio,USA
+2 PLAC , , , , , Holy Trinity, Avon, Ohio, USA
 1 _UID CE20AEA4575C9146B575BDB37BF8EA8B4CBB
 1 FAMS @F178@
 1 FAMC @F87@
@@ -2791,9 +2779,9 @@
 1 SEX F
 1 BIRT
 2 DATE 6 FEB 1983
-2 PLAC , , , , , Cleveland,Ohio,USA
+2 PLAC , , , , , Cleveland, Ohio, USA
 1 CHR
-2 PLAC , , , , , Holy Trinity,Avon,Ohio,USA
+2 PLAC , , , , , Holy Trinity, Avon, Ohio, USA
 1 _UID FCEEFDF1E8D6DD47BEE2A3E13C7178A8AB28
 1 FAMC @F87@
 1 CHAN
@@ -2806,7 +2794,7 @@
 1 SEX F
 1 BIRT
 2 DATE 8 OCT 1950
-2 PLAC , , , , , St. Ann's Hospital,Cleveland,Ohio,USA
+2 PLAC , , , , , St. Ann's Hospital, Cleveland, Ohio, USA
 1 _UID 6F2B42213026C24A96D20ABFE3C7EA2A4E12
 1 FAMS @F88@
 1 CHAN
@@ -2819,7 +2807,7 @@
 1 SEX F
 1 BIRT
 2 DATE 1 SEP 1983
-2 PLAC , , , , , Metro General,Cleveland,Ohio,USA
+2 PLAC , , , , , Metro General, Cleveland, Ohio, USA
 1 _UID 8BD7CE64BB331A4692D70DB447AEDDB997EC
 1 FAMC @F88@
 1 CHAN
@@ -2832,7 +2820,7 @@
 1 SEX M
 1 BIRT
 2 DATE 9 AUG 1957
-2 PLAC , , , , , Cleveland,Ohio,USA
+2 PLAC , , , , , Cleveland, Ohio, USA
 1 _UID 242A770B4452214F950695F6FACD202A0D65
 1 FAMS @F89@
 1 NOTE father robert gallagher
@@ -2848,9 +2836,9 @@
 1 SEX F
 1 BIRT
 2 DATE 16 JAN 1980
-2 PLAC , , , , , Cleveland,Ohio,USA
+2 PLAC , , , , , Cleveland, Ohio, USA
 1 CHR
-2 PLAC , , , , , Our Lady Of Angels,Cleveland,Ohio,USA
+2 PLAC , , , , , Our Lady Of Angels, Cleveland, Ohio, USA
 1 _UID E9E709E7E083B848851E3CCE7BAE39A5D7A0
 1 FAMS @F179@
 1 FAMC @F89@
@@ -2864,7 +2852,7 @@
 1 SEX F
 1 BIRT
 2 DATE 28 APR 1981
-2 PLAC , , , , , Cleveland,Ohio,USA
+2 PLAC , , , , , Cleveland, Ohio, USA
 1 _UID 84D0CA84E1417B4793B3B52B0229C31DB78C
 1 FAMC @F89@
 1 CHAN
@@ -2887,7 +2875,7 @@
 1 SEX M
 1 BIRT
 2 DATE 28 NOV 1949
-2 PLAC , , , , , Celina,Ohio,USA
+2 PLAC , , , , , Celina, Ohio, USA
 1 _UID DEAB7D208C56E247941FA796416D1FE3D1AD
 1 FAMS @F92@
 1 CHAN
@@ -2915,7 +2903,7 @@
 1 BIRT
 2 DATE 4 MAR 1949
 1 CHR
-2 PLAC , , ss philip&james,Baltimore,Maryland,USA
+2 PLAC , , ss philip&james, Baltimore, Maryland, USA
 1 _UID 6A6ADE165E18A84F88F4BD1B738E6005EFFB
 1 FAMS @F93@
 1 FAMC @F81@
@@ -2930,7 +2918,7 @@
 1 BIRT
 2 DATE 29 NOV 1953
 1 CHR
-2 PLAC , , ss philip&james,Baltimore,Maryland,USA
+2 PLAC , , ss philip&james, Baltimore, Maryland, USA
 1 _UID 218B124B07310D448C3CDDDBE29E93A4C9FA
 1 FAMS @F94@
 1 FAMC @F81@
@@ -2945,7 +2933,7 @@
 1 BIRT
 2 DATE 10 SEP 1955
 1 CHR
-2 PLAC , , ss philip&james,Baltimore,Maryland,USA
+2 PLAC , , ss philip&james, Baltimore, Maryland, USA
 1 _UID 97D9632CC88E5F4795636989156D15F975BA
 1 FAMS @F95@
 1 FAMC @F81@
@@ -2961,7 +2949,7 @@
 2 DATE 15 NOV 1957
 1 CHR
 2 DATE 1 DEC 1957
-2 PLAC , , St Jane Frances, Riviera Beach,Maryland,USA
+2 PLAC , , St Jane Frances, Riviera Beach, Maryland, USA
 1 _UID 23A12D85DB8E2647A098071CAA2095080E47
 1 FAMS @F150@
 1 FAMC @F81@
@@ -2988,7 +2976,7 @@
 1 BIRT
 2 DATE 18 JUL 1981
 1 CHR
-2 PLAC , , St Jane Frances, Riviera Beach,Maryland,USA
+2 PLAC , , St Jane Frances, Riviera Beach, Maryland, USA
 1 _UID 771908870CA05B479C741B35B12B27B989B2
 1 FAMC @F93@
 1 CHAN
@@ -3002,7 +2990,7 @@
 1 BIRT
 2 DATE 29 JAN 1983
 1 CHR
-2 PLAC , , St Jane Frances, Riviera Beach,Maryland,USA
+2 PLAC , , St Jane Frances, Riviera Beach, Maryland, USA
 1 _UID A10138AB036DDC40B348B7FC780D30CC4082
 1 FAMC @F93@
 1 CHAN
@@ -3015,7 +3003,7 @@
 1 SEX M
 1 BIRT
 2 DATE 14 DEC 1949
-2 PLAC , , Most Holy Trinity, Brooklyn, New York,USA
+2 PLAC , , Most Holy Trinity, Brooklyn, New York, USA
 1 _UID B2E87F92A2F08E45B0742DA9BBC83E966152
 1 FAMS @F94@
 1 CHAN
@@ -3082,7 +3070,7 @@
 1 SEX M
 1 BIRT
 2 DATE 1 NOV 1956
-2 PLAC , , , , ,Baltimore,Maryland,USA
+2 PLAC , , , , , Baltimore, Maryland, USA
 1 _UID 6B9A83B507D20D4498BA52F8DBDDC664E5DE
 1 FAMS @F96@
 1 FAMC @F82@
@@ -3096,7 +3084,7 @@
 1 SEX U
 1 BIRT
 2 DATE 19 SEP 1959
-2 PLAC , , , , , Baltimore,Maryland,USA
+2 PLAC , , , , , Baltimore, Maryland, USA
 1 _UID 100E3F1047C8284ABFEAE5DE5E40EC7F63CB
 1 FAMC @F82@
 1 CHAN
@@ -3145,9 +3133,9 @@
 1 SEX F
 1 BIRT
 2 DATE 3 APR 1962
-2 PLAC , , , , ,Baltimore,Maryland,USA
+2 PLAC , , , , , Baltimore, Maryland, USA
 1 CHR
-2 PLAC , , Immaculate Conception,Baltimore,Maryland,USA
+2 PLAC , , Immaculate Conception, Baltimore, Maryland, USA
 1 _UID 770CB040CAE34E49BE4B2262FC6B68F20580
 1 FAMS @F159@
 1 FAMC @F83@
@@ -3161,9 +3149,9 @@
 1 SEX F
 1 BIRT
 2 DATE 26 AUG 1936
-2 PLAC , , St Agnes Hospital,Baltimore,Maryland,USA
+2 PLAC , , St Agnes Hospital, Baltimore, Maryland, USA
 1 CHR
-2 PLAC , , Christ Lutheran,Baltimore,Maryland,USA
+2 PLAC , , Christ Lutheran, Baltimore, Maryland, USA
 1 _UID FBE2C418FE1D9B4A829693A711F5A8B66FB5
 1 FAMS @F84@
 1 NOTE parents lawrence h.w. crone and corinne a. gruber
@@ -3177,10 +3165,10 @@
 1 SEX F
 1 BIRT
 2 DATE 25 NOV 1959
-2 PLAC , , Madigan Army H, Tacoma, Washington,USA
+2 PLAC , , Madigan Army H, Tacoma, Washington, USA
 1 CHR
 2 DATE 4 DEC 1959
-2 PLAC , , St Leo RC, Tacoma, Washington,USA
+2 PLAC , , St Leo RC, Tacoma, Washington, USA
 1 _UID D0A999D2FD377E4D8C3660D91C7BF5188203
 1 FAMC @F84@
 1 CHAN
@@ -3193,10 +3181,10 @@
 1 SEX M
 1 BIRT
 2 DATE 12 MAR 1961
-2 PLAC , , St Agnes Hospital,Baltimore,Maryland,USA
+2 PLAC , , St Agnes Hospital, Baltimore, Maryland, USA
 1 CHR
 2 DATE APR 1961
-2 PLAC , , St Bernadine RC,Baltimore,Maryland,USA
+2 PLAC , , St Bernadine RC, Baltimore, Maryland, USA
 1 _UID B0AA22B959078240AE8AC297D47C6440DC85
 1 FAMS @F98@
 1 FAMC @F84@
@@ -3210,10 +3198,10 @@
 1 SEX M
 1 BIRT
 2 DATE 4 JAN 1963
-2 PLAC , , St Agnes Hospital,Baltimore,Maryland,USA
+2 PLAC , , St Agnes Hospital, Baltimore, Maryland, USA
 1 CHR
 2 DATE 20 JAN 1963
-2 PLAC , , Church of the Ascension,Baltimore,Maryland,USA
+2 PLAC , , Church of the Ascension, Baltimore, Maryland, USA
 1 _UID 1D47463F90E2A74CBA4E58EED063E58A3E0D
 1 FAMS @F99@
 1 FAMC @F84@
@@ -3239,10 +3227,10 @@
 1 SEX F
 1 BIRT
 2 DATE 1 MAR 1963
-2 PLAC , , Women's Hospital,Baltimore,Maryland,USA
+2 PLAC , , Women's Hospital, Baltimore, Maryland, USA
 1 CHR
 2 DATE 17 MAR 1963
-2 PLAC , , Sh of Lit Flower,Baltimore,Maryland,USA
+2 PLAC , , Sh of Lit Flower, Baltimore, Maryland, USA
 1 _UID 38FB4AC6B4E3F249AC0A3794B012C8B8D897
 1 FAMS @F100@
 1 FAMC @F85@
@@ -3256,7 +3244,7 @@
 1 SEX M
 1 BIRT
 2 DATE 15 APR 1964
-2 PLAC , , ,Baltimore,Maryland,USA
+2 PLAC , , , Baltimore, Maryland, USA
 1 _UID 23B9CEE3E8E9894B9EF6E64AA1CEC45079F8
 1 FAMS @F101@
 1 FAMC @F85@
@@ -3270,10 +3258,10 @@
 1 SEX M
 1 BIRT
 2 DATE 25 AUG 1969
-2 PLAC , , St Joseph Hospital,Baltimore,Maryland,USA
+2 PLAC , , St Joseph Hospital, Baltimore, Maryland, USA
 1 CHR
 2 DATE 14 SEP 1969
-2 PLAC , , St Anthony RC,Baltimore,Maryland,USA
+2 PLAC , , St Anthony RC, Baltimore, Maryland, USA
 1 _UID A89AD9ECE1B08D4194915136CB3541E033FF
 1 FAMC @F85@
 1 CHAN
@@ -3299,7 +3287,7 @@
 1 BIRT
 2 DATE 23 NOV 1930
 1 CHR
-2 PLAC , , st Ann,Baltimore,Maryland,USA
+2 PLAC , , st Ann, Baltimore, Maryland, USA
 1 _UID CE3E64A2081EB54A99AD0DC3E18D9170BCE7
 1 FAMS @F102@
 1 FAMC @F17@
@@ -3313,9 +3301,9 @@
 1 SEX F
 1 BIRT
 2 DATE 11 MAR 1932
-2 PLAC , , , , , Mercy Hospital,Baltimore,Maryland,USA
+2 PLAC , , , , , Mercy Hospital, Baltimore, Maryland, USA
 1 CHR
-2 PLAC , , St Ann,Baltimore,Maryland,USA
+2 PLAC , , St Ann, Baltimore, Maryland, USA
 1 _UID 959117853451DE41846291DA044786D55DEE
 1 FAMS @F103@
 1 FAMC @F17@
@@ -3330,12 +3318,12 @@
 1 BIRT
 2 DATE 13 DEC 1934
 1 CHR
-2 PLAC , , St Ann,Baltimore,Maryland,USA
+2 PLAC , , St Ann, Baltimore, Maryland, USA
 1 DEAT
 2 DATE 27 JAN 1979
-2 PLAC , , ,Baltimore,Maryland,USA
+2 PLAC , , , Baltimore, Maryland, USA
 1 BURI
-2 PLAC , , Moreland Memorial,Baltimore,Maryland,USA
+2 PLAC , , Moreland Memorial, Baltimore, Maryland, USA
 1 _UID 4A447B2B8DBD2443B62EA78BB0CBD957A6C0
 1 FAMS @F104@
 1 FAMC @F17@
@@ -3349,7 +3337,7 @@
 1 SEX M
 1 BIRT
 2 DATE 25 JAN 1939
-2 PLAC , , Mercy Hospital,Baltimore,Maryland,USA
+2 PLAC , , Mercy Hospital, Baltimore, Maryland, USA
 1 _UID 6BE5BF7EDAC19C41B27AC8CE1823D44B212F
 1 FAMS @F105@
 1 FAMS @F106@
@@ -3364,9 +3352,9 @@
 1 SEX M
 1 BIRT
 2 DATE 6 SEP 1946
-2 PLAC , , Mercy Hospital,Baltimore,Maryland,USA
+2 PLAC , , Mercy Hospital, Baltimore, Maryland, USA
 1 CHR
-2 PLAC , , ss philip&james,Baltimore,Maryland,USA
+2 PLAC , , ss philip&james, Baltimore, Maryland, USA
 1 _UID B701E0966A23164DBC15D7591BDB60DD523B
 1 FAMS @F107@
 1 FAMC @F17@
@@ -3455,10 +3443,10 @@
 1 SEX M
 1 BIRT
 2 DATE 21 MAY 1957
-2 PLAC , , , , ,Mercy Hospital,Baltimore,Maryland,USA
+2 PLAC , , , , , Mercy Hospital, Baltimore, Maryland, USA
 1 CHR
 2 DATE 2 JUN 1957
-2 PLAC , , St Dominic,Baltimore,Maryland,USA
+2 PLAC , , St Dominic, Baltimore, Maryland, USA
 1 _UID DA50A8AA25C1224787DB8F24FAE6ABF76226
 1 FAMS @F111@
 1 FAMC @F103@
@@ -3472,10 +3460,10 @@
 1 SEX M
 1 BIRT
 2 DATE 7 DEC 1958
-2 PLAC , , , , , Mercy Hospital,Baltimore,Maryland,USA
+2 PLAC , , , , , Mercy Hospital, Baltimore, Maryland, USA
 1 CHR
 2 DATE 21 DEC 1958
-2 PLAC , , , , , St. Ursulas,Baltimore,Maryland,USA
+2 PLAC , , , , , St. Ursulas, Baltimore, Maryland, USA
 1 _UID F0356CE245D6B04F8A38FB51D3647E8CDCE1
 1 FAMS @F112@
 1 FAMC @F103@
@@ -3489,10 +3477,10 @@
 1 SEX F
 1 BIRT
 2 DATE 20 JAN 1960
-2 PLAC , , , , ,Mercy Hospital,Baltimore,Maryland,USA
+2 PLAC , , , , , Mercy Hospital, Baltimore, Maryland, USA
 1 CHR
 2 DATE 31 JAN 1960
-2 PLAC , , St Ursula,Baltimore,Maryland,USA
+2 PLAC , , St Ursula, Baltimore, Maryland, USA
 1 _UID 7E5897C5DCD5E84B8086521C66CBE6F2934E
 1 FAMS @F113@
 1 FAMC @F103@
@@ -3506,10 +3494,10 @@
 1 SEX M
 1 BIRT
 2 DATE 11 DEC 1962
-2 PLAC , , ,Baltimore,Maryland,USA
+2 PLAC , , , Baltimore, Maryland, USA
 1 CHR
 2 DATE 6 JAN 1963
-2 PLAC , , , St Ursula,Baltimore,Maryland,USA
+2 PLAC , , , St Ursula, Baltimore, Maryland, USA
 1 _UID 9117BA06E16761408FF94B64C99FC7A45B16
 1 FAMS @F176@
 1 FAMC @F103@
@@ -3523,7 +3511,7 @@
 1 SEX F
 1 BIRT
 2 DATE 7 JUL 1961
-2 PLAC , , , , ,Baltimore,Maryland,USA
+2 PLAC , , , , , Baltimore, Maryland, USA
 1 _UID 1F64EB7FCEF46E4E88768262C60972AD3B7B
 1 FAMS @F111@
 1 CHAN
@@ -3536,7 +3524,7 @@
 1 SEX F
 1 BIRT
 2 DATE 13 JAN 1957
-2 PLAC , , , , , Shelby,Michigan,USA
+2 PLAC , , , , , Shelby, Michigan, USA
 1 _UID D0C19EB5F5CC354F95D5F54C88D9856D2714
 1 FAMS @F112@
 1 CHAN
@@ -3549,12 +3537,12 @@
 1 SEX M
 1 BIRT
 2 DATE 6 MAY 1952
-2 PLAC , , , , ,Baltimore,Maryland,USA
+2 PLAC , , , , , Baltimore, Maryland, USA
 1 CHR
 2 PLAC , , , , , Hampden United Methodist
 1 DEAT
 2 DATE 1996
-2 PLAC , , , , ,Baltimore,Maryland,USA
+2 PLAC , , , , , Baltimore, Maryland, USA
 1 _UID B839591B8B018A46AE752E9233AD4A5B29D0
 1 FAMS @F113@
 1 CHAN
@@ -3567,10 +3555,10 @@
 1 SEX M
 1 BIRT
 2 DATE 2 JAN 1984
-2 PLAC , , , , , St. Joseph Hospital,Baltimore,Maryland,USA
+2 PLAC , , , , , St. Joseph Hospital, Baltimore, Maryland, USA
 1 CHR
 2 DATE 12 FEB 1984
-2 PLAC , , , St Ursula,Baltimore,Maryland,USA
+2 PLAC , , , St Ursula, Baltimore, Maryland, USA
 1 _UID 85277F0D66F94744B67A27645ABC947E05FF
 1 FAMC @F113@
 1 CHAN
@@ -3584,7 +3572,7 @@
 1 BIRT
 2 DATE 21 JAN 1936
 1 CHR
-2 PLAC , , , , , St. Pauls,Baltimore,Maryland,USA
+2 PLAC , , , , , St. Pauls, Baltimore, Maryland, USA
 1 _UID 7AB84B0FBEA80046BE2E2B93BA198D5FA19A
 1 FAMS @F104@
 1 CHAN
@@ -3598,7 +3586,7 @@
 1 BIRT
 2 DATE 9 AUG 1959
 1 CHR
-2 PLAC , , , , , Ss.Philip and James,Baltimore,Maryland,USA
+2 PLAC , , , , , Ss.Philip and James, Baltimore, Maryland, USA
 1 _UID 8DD8ABB5907CE84AB24FE904C3357E0970B4
 1 FAMS @F147@
 1 FAMC @F104@
@@ -3628,10 +3616,10 @@
 1 BIRT
 2 DATE 1 AUG 1964
 1 CHR
-2 PLAC , , , , , Ss.Philip and James,Baltimore,Maryland,USA
+2 PLAC , , , , , Ss.Philip and James, Baltimore, Maryland, USA
 1 DEAT
 2 DATE 10 DEC 1978
-2 PLAC , , Moreland Memorial,Baltimore,Maryland,USA
+2 PLAC , , Moreland Memorial, Baltimore, Maryland, USA
 1 _UID 3E82AAA62C6AFB44AA31DA68CA58F7CDE8BE
 1 FAMS @F115@
 1 FAMC @F104@
@@ -3646,7 +3634,7 @@
 1 BIRT
 2 DATE 25 OCT 1971
 1 CHR
-2 PLAC , , , , , St. Charles,Pikesville,Maryland,USA
+2 PLAC , , , , , St. Charles, Pikesville, Maryland, USA
 1 _UID D5A48B4E7D051641AEFA75D6E23D78974CAC
 1 FAMS @F158@
 1 FAMC @F104@
@@ -3674,7 +3662,7 @@
 1 SEX M
 1 BIRT
 2 DATE 23 FEB 1961
-2 PLAC , , Johns Hopkins,Baltimore,Maryland,USA
+2 PLAC , , Johns Hopkins, Baltimore, Maryland, USA
 1 _UID 0097E5B297BD154C8AA97BFBB91474804D5A
 1 FAMS @F152@
 1 FAMC @F105@
@@ -3688,7 +3676,7 @@
 1 SEX M
 1 BIRT
 2 DATE 26 JAN 1962
-2 PLAC , , Johns Hopkins,Baltimore,Maryland,USA
+2 PLAC , , Johns Hopkins, Baltimore, Maryland, USA
 1 _UID 07F50296853BB241852A3038E81EFCD131D0
 1 FAMS @F153@
 1 FAMC @F105@
@@ -3702,10 +3690,10 @@
 1 SEX M
 1 BIRT
 2 DATE 29 JAN 1963
-2 PLAC , , Johns Hopkins,Baltimore,Maryland,USA
+2 PLAC , , Johns Hopkins, Baltimore, Maryland, USA
 1 CHR
 2 DATE FEB 1963
-2 PLAC , , Cath of Mary Our,Baltimore,Maryland,USA
+2 PLAC , , Cath of Mary Our, Baltimore, Maryland, USA
 1 _UID 5C843E231E108D448E6791DDE1023F935838
 1 FAMS @F116@
 1 FAMS @F155@
@@ -3720,10 +3708,10 @@
 1 SEX F
 1 BIRT
 2 DATE 5 AUG 1965
-2 PLAC , , Johns Hopkins,Baltimore,Maryland,USA
+2 PLAC , , Johns Hopkins, Baltimore, Maryland, USA
 1 CHR
 2 DATE SEP 1965
-2 PLAC , , Cath of Mary Our,Baltimore,Maryland,USA
+2 PLAC , , Cath of Mary Our, Baltimore, Maryland, USA
 1 _UID 4CCB60C5C57604489EEEB01B585C73ACED03
 1 FAMC @F105@
 1 CHAN
@@ -3736,10 +3724,10 @@
 1 SEX M
 1 BIRT
 2 DATE 20 AUG 1968
-2 PLAC , , Church Home,Baltimore,Maryland,USA
+2 PLAC , , Church Home, Baltimore, Maryland, USA
 1 CHR
 2 DATE SEP 1968
-2 PLAC , , Cath of Mary Our,Baltimore,Maryland,USA
+2 PLAC , , Cath of Mary Our, Baltimore, Maryland, USA
 1 _UID C0D1413B39BE9548A4B0F4BAF9548919D251
 1 FAMC @F105@
 1 CHAN
@@ -3752,10 +3740,10 @@
 1 SEX F
 1 BIRT
 2 DATE 23 OCT 1969
-2 PLAC , , Church Home,Baltimore,Maryland,USA
+2 PLAC , , Church Home, Baltimore, Maryland, USA
 1 CHR
 2 DATE NOV 1969
-2 PLAC , , Cath of Mary Our,Baltimore,Maryland,USA
+2 PLAC , , Cath of Mary Our, Baltimore, Maryland, USA
 1 _UID F30DF3EF522FD241AD71DAD4C5A6CE79F494
 1 FAMS @F117@
 1 FAMC @F105@
@@ -3769,10 +3757,10 @@
 1 SEX F
 1 BIRT
 2 DATE 24 AUG 1946
-2 PLAC , , Sinai Hospital,Baltimore,Maryland,USA
+2 PLAC , , Sinai Hospital, Baltimore, Maryland, USA
 1 CHR
 2 DATE 22 SEP 1946
-2 PLAC , , St Joseph, Fullerton,Maryland,USA
+2 PLAC , , St Joseph, Fullerton, Maryland, USA
 1 _UID 5C4C09F0825CE24CAC0EB05AACA49A429D24
 1 FAMS @F107@
 1 NOTE father john william dodd
@@ -3787,10 +3775,10 @@
 1 SEX F
 1 BIRT
 2 DATE 26 JUL 1973
-2 PLAC , , St Joseph,Baltimore,Maryland,USA
+2 PLAC , , St Joseph, Baltimore, Maryland, USA
 1 CHR
 2 DATE 16 SEP 1973
-2 PLAC , , St Charles, pikesville,Maryland,USA
+2 PLAC , , St Charles, pikesville, Maryland, USA
 1 _UID E565D0B587BF7440859F1375D12AEDE340D8
 1 FAMC @F107@
 1 CHAN
@@ -3803,10 +3791,10 @@
 1 SEX F
 1 BIRT
 2 DATE 23 OCT 1976
-2 PLAC , , St Joseph,Baltimore,Maryland,USA
+2 PLAC , , St Joseph, Baltimore, Maryland, USA
 1 CHR
 2 DATE 21 NOV 1976
-2 PLAC , , St Charles, pikesville,Maryland,USA
+2 PLAC , , St Charles, pikesville, Maryland, USA
 1 _UID D65253F62797AA498A1C90AD271B063481BE
 1 FAMC @F107@
 1 CHAN
@@ -3819,9 +3807,9 @@
 1 SEX M
 1 BIRT
 2 DATE 13 DEC 1935
-2 PLAC , , ,Baltimore,Maryland,USA
+2 PLAC , , , Baltimore, Maryland, USA
 1 CHR
-2 PLAC , , St Patrick,Baltimore,Maryland,USA
+2 PLAC , , St Patrick, Baltimore, Maryland, USA
 1 _UID 8FF47E7CDFB21B42837FFFC5197F0CCA9F0D
 1 FAMS @F27@
 1 CHAN
@@ -3834,9 +3822,9 @@
 1 SEX F
 1 BIRT
 2 DATE 6 NOV 1967
-2 PLAC , , , Summit, NJ,USA
+2 PLAC , , , Summit, NJ, USA
 1 CHR
-2 PLAC , , St Theresa, Summit, NJ,USA
+2 PLAC , , St Theresa, Summit, NJ, USA
 1 _UID 7749AED51A9B6F4BBB28CE1F4A60CF5F5A8A
 1 FAMC @F27@
 1 CHAN
@@ -3849,10 +3837,10 @@
 1 SEX M
 1 BIRT
 2 DATE 24 MAR 1940
-2 PLAC , , , , ,Mercy Hospital,Baltimore,Maryland,USA
+2 PLAC , , , , , Mercy Hospital, Baltimore, Maryland, USA
 1 CHR
 2 DATE 30 MAR 1940
-2 PLAC , , , , ,Mercy Hospital,Baltimore,Maryland,USA
+2 PLAC , , , , , Mercy Hospital, Baltimore, Maryland, USA
 1 _UID 89EE52EEFABDFD419813043C474E4CF56D32
 1 FAMS @F28@
 1 NOTE father louis moran
@@ -3867,10 +3855,10 @@
 1 SEX F
 1 BIRT
 2 DATE 30 OCT 1960
-2 PLAC , , , , ,Mercy Hospital,Baltimore,Maryland,USA
+2 PLAC , , , , , Mercy Hospital, Baltimore, Maryland, USA
 1 CHR
 2 DATE NOV 1960
-2 PLAC , , St Anthony,Baltimore,Maryland,USA
+2 PLAC , , St Anthony, Baltimore, Maryland, USA
 1 _UID 0D4A8FBD06606B4BBAC5C827862385AF0AAA
 1 FAMS @F118@
 1 FAMC @F28@
@@ -3884,10 +3872,10 @@
 1 SEX F
 1 BIRT
 2 DATE 19 MAY 1962
-2 PLAC , , , , ,Mercy Hospital,Baltimore,Maryland,USA
+2 PLAC , , , , , Mercy Hospital, Baltimore, Maryland, USA
 1 CHR
 2 DATE JUN 1962
-2 PLAC , , St Ursula,Baltimore,Maryland,USA
+2 PLAC , , St Ursula, Baltimore, Maryland, USA
 1 _UID 63FFE8CB60D48848A69AC4556AF7D25AFFC6
 1 FAMS @F119@
 1 FAMC @F28@
@@ -3901,10 +3889,10 @@
 1 SEX F
 1 BIRT
 2 DATE 17 APR 1968
-2 PLAC , , , , , Providence Hospital, Washington,DC,USA
+2 PLAC , , , , , Providence Hospital, Washington, DC, USA
 1 CHR
 2 DATE 12 MAY 1968
-2 PLAC , , Holy Redeemer, College Park,Maryland,USA
+2 PLAC , , Holy Redeemer, College Park, Maryland, USA
 1 _UID CFEEF50F6849F54B956C7CBF3F90FBC37BE7
 1 FAMS @F151@
 1 FAMC @F28@
@@ -3918,10 +3906,10 @@
 1 SEX M
 1 BIRT
 2 DATE 18 JUL 1958
-2 PLAC , , , , , Prince Georges,Cheverly,Maryland,USA
+2 PLAC , , , , , Prince Georges, Cheverly, Maryland, USA
 1 CHR
 2 DATE 1974
-2 PLAC , , , , , Beltsville Baptist Church, Beltsville,Maryland,USA
+2 PLAC , , , , , Beltsville Baptist Church, Beltsville, Maryland, USA
 1 _UID FD86CA0C723668478F762F8D3A749CCB865F
 1 FAMS @F118@
 1 CHAN
@@ -3934,10 +3922,10 @@
 1 SEX M
 1 BIRT
 2 DATE 31 MAY 1960
-2 PLAC , , , , , Sinai Hospital, Baltimore,Maryland,USA
+2 PLAC , , , , , Sinai Hospital, Baltimore, Maryland, USA
 1 CHR
 2 DATE 1960
-2 PLAC , , St Ursula,Baltimore,Maryland,USA
+2 PLAC , , St Ursula, Baltimore, Maryland, USA
 1 _UID BE6F95F522483743924555E565329F957710
 1 FAMS @F119@
 1 NOTE father valentino orlando mozzano born st omero italy mother clara lucia donofrio born phila pa
@@ -3951,10 +3939,10 @@
 1 SEX F
 1 BIRT
 2 DATE 18 APR 1985
-2 PLAC , , , , , Adventist Hospital,Tacoma Park,Maryland,USA
+2 PLAC , , , , , Adventist Hospital, Tacoma Park, Maryland, USA
 1 CHR
 2 DATE 1993
-2 PLAC , , , , , Faith baptist Church, Laurel,Maryland,USA
+2 PLAC , , , , , Faith baptist Church, Laurel, Maryland, USA
 1 _UID 95B274EE6E7D484AA4EA9EDC04E6EDB3B8F2
 1 FAMC @F118@
 1 CHAN
@@ -3967,10 +3955,10 @@
 1 SEX F
 1 BIRT
 2 DATE 1 DEC 1987
-2 PLAC , , , , , Holy Cross Hospital,Silver Spring,Maryland,USA
+2 PLAC , , , , , Holy Cross Hospital, Silver Spring, Maryland, USA
 1 CHR
 2 DATE 1999
-2 PLAC , , , , , Davis House,Beltsville,Maryland,USA
+2 PLAC , , , , , Davis House, Beltsville, Maryland, USA
 1 _UID B258859EF4388347BAC886EAE3754ADB9261
 1 FAMC @F118@
 1 CHAN
@@ -3983,10 +3971,10 @@
 1 SEX M
 1 BIRT
 2 DATE 14 FEB 1987
-2 PLAC , , , , , Holy Cross Hospital, Silver Spring,Maryland,USA
+2 PLAC , , , , , Holy Cross Hospital, Silver Spring, Maryland, USA
 1 CHR
 2 DATE 9 APR 1987
-2 PLAC , , , , , St John the Evangelist,Frederick,Maryland,USA
+2 PLAC , , , , , St John the Evangelist, Frederick, Maryland, USA
 1 _UID 178E4FB23C26CB48A5D8830D8239FC69487D
 1 FAMC @F119@
 1 CHAN
@@ -4261,10 +4249,10 @@
 1 SEX F
 1 BIRT
 2 DATE 7 MAR 1988
-2 PLAC , , , , , Sinai Hosp Baltmore,Maryland,USA
+2 PLAC , , , , , Sinai Hosp Baltmore, Maryland, USA
 1 CHR
 2 DATE 24 APR 1988
-2 PLAC , , , St Ursula,Baltimore,Maryland,USA
+2 PLAC , , , St Ursula, Baltimore, Maryland, USA
 1 _UID 563D41E17C948C429D8B4B2FB884614B1DBF
 1 FAMC @F113@
 1 CHAN
@@ -4287,10 +4275,10 @@
 1 SEX F
 1 BIRT
 2 DATE 29 NOV 1985
-2 PLAC , , Mercy Hospital,Baltimore,Maryland,USA
+2 PLAC , , Mercy Hospital, Baltimore, Maryland, USA
 1 CHR
 2 DATE 19 JAN 1986
-2 PLAC , , ss philip&james,Baltimore,Maryland,USA
+2 PLAC , , ss philip&james, Baltimore, Maryland, USA
 1 _UID F988508848508949962D5CA4782783A64ED3
 1 FAMC @F106@
 1 CHAN
@@ -4303,10 +4291,10 @@
 1 SEX F
 1 BIRT
 2 DATE 20 OCT 1987
-2 PLAC , , Mercy Hospital,Baltimore,Maryland,USA
+2 PLAC , , Mercy Hospital, Baltimore, Maryland, USA
 1 CHR
 2 DATE 29 NOV 1987
-2 PLAC , , ss philip&james,Baltimore,Maryland,USA
+2 PLAC , , ss philip&james, Baltimore, Maryland, USA
 1 _UID 32EED304C40939419D70749B723DDF2109FB
 1 FAMC @F106@
 1 CHAN
@@ -4319,10 +4307,10 @@
 1 SEX F
 1 BIRT
 2 DATE 6 MAY 1952
-2 PLAC , , Union Memorial,Baltimore,Maryland,USA
+2 PLAC , , Union Memorial, Baltimore, Maryland, USA
 1 CHR
 2 DATE MAY 1952
-2 PLAC , , St Charles, Pikesville,Maryland,USA
+2 PLAC , , St Charles, Pikesville, Maryland, USA
 1 _UID 0F00A09BC2889A4E8AFD0FA5C56531E1F395
 1 FAMS @F106@
 1 NOTE father ferdinand h anton
@@ -4337,7 +4325,7 @@
 1 SEX M
 1 BIRT
 2 DATE 5 JAN 1988
-2 PLAC , , St Agnes,Baltimore,Maryland,USA
+2 PLAC , , St Agnes, Baltimore, Maryland, USA
 1 _UID 6EAC95967AAA0148B6A8994579007BA88A09
 1 FAMC @F111@
 1 CHAN
@@ -4350,10 +4338,10 @@
 1 SEX M
 1 BIRT
 2 DATE 23 JAN 1986
-2 PLAC , , Bellin Memorial,Green Bay,Wisconsin,USA
+2 PLAC , , Bellin Memorial, Green Bay, Wisconsin, USA
 1 CHR
 2 DATE 9 FEB 1986
-2 PLAC , , , , , St John Lutheran,Rankin,Wisconsin,USA
+2 PLAC , , , , , St John Lutheran, Rankin, Wisconsin, USA
 1 _UID 6DED08DE5FA0534883D9BB3981033FC2AF56
 1 FAMC @F112@
 1 CHAN
@@ -4366,10 +4354,10 @@
 1 SEX F
 1 BIRT
 2 DATE 24 JUL 1987
-2 PLAC , , , Bellin Mem, Green Bay,Wisconsin,USA
+2 PLAC , , , Bellin Mem, Green Bay, Wisconsin, USA
 1 CHR
 2 DATE 16 AUG 1987
-2 PLAC , , , Faith Luth, Green Bay,Wisconsin,USA
+2 PLAC , , , Faith Luth, Green Bay, Wisconsin, USA
 1 _UID BEC68F7A2A5FCB4AABD8E82495C4948F36CE
 1 FAMC @F112@
 1 CHAN
@@ -4382,7 +4370,7 @@
 1 SEX M
 1 BIRT
 2 DATE 13 AUG 1988
-2 PLAC , , , University Hospital, Cleveland, Ohio,USA
+2 PLAC , , , University Hospital, Cleveland, Ohio, USA
 1 _UID F6FDCFD727C2D7419022B2E0814C943D7C90
 1 FAMC @F88@
 1 CHAN
@@ -4395,9 +4383,9 @@
 1 SEX M
 1 BIRT
 2 DATE 20 SEP 1987
-2 PLAC , , , , , Lakewood,Ohio,USA
+2 PLAC , , , , , Lakewood, Ohio, USA
 1 CHR
-2 PLAC , , , , , St. Patrick Church,Lakewood,Ohio,USA
+2 PLAC , , , , , St. Patrick Church, Lakewood, Ohio, USA
 1 _UID A4181662233F3942AB7F403375607F9B9D98
 1 FAMC @F89@
 1 CHAN
@@ -4410,7 +4398,7 @@
 1 SEX M
 1 BIRT
 2 DATE 17 OCT 1988
-2 PLAC , , , Columbus, Ohio,USA
+2 PLAC , , , Columbus, Ohio, USA
 1 _UID EE4FE74C62E4604680C1EE91E5630A9503AF
 1 FAMC @F92@
 1 CHAN
@@ -4423,7 +4411,7 @@
 1 SEX M
 1 BIRT
 2 DATE 29 JAN 1980
-2 PLAC , , , , , Cleveland,Ohio,USA
+2 PLAC , , , , , Cleveland, Ohio, USA
 1 _UID 45826907B81F9E418D444EFCCB44F9D1E130
 1 FAMS @F90@
 1 CHAN
@@ -4436,10 +4424,10 @@
 1 SEX M
 1 BIRT
 2 DATE 5 FEB 1990
-2 PLAC , , Holy Cross Mont, Montgomery,Maryland,USA
+2 PLAC , , Holy Cross Mont, Montgomery, Maryland, USA
 1 CHR
 2 DATE 8 APR 1990
-2 PLAC , , St Louis RC, Clarksville,Maryland,USA
+2 PLAC , , St Louis RC, Clarksville, Maryland, USA
 1 _UID 64B8A2784CDF6743AFEF4ADDA539754265FB
 1 FAMC @F7@
 1 CHAN
@@ -4452,15 +4440,15 @@
 1 SEX M
 1 BIRT
 2 DATE 26 NOV 1926
-2 PLAC , , at home, Somerset Township, Steele County, Minnesota,USA
+2 PLAC , , at home, Somerset Township, Steele County, Minnesota, USA
 1 CHR
 2 DATE 3 DEC 1926
-2 PLAC , , Holy Trinity RC, Litomysl,Minnesota,USA
+2 PLAC , , Holy Trinity RC, Litomysl, Minnesota, USA
 1 DEAT
 2 DATE 27 OCT 1999
-2 PLAC , , , , , Laurel,Maryland,USA
+2 PLAC , , , , , Laurel, Maryland, USA
 1 BURI
-2 PLAC , , , , , St Mary of the Mills,Laurel,Maryland,USA
+2 PLAC , , , , , St Mary of the Mills, Laurel, Maryland, USA
 1 _UID 5AB6040D3F6F4D4E930E98A2CE1616347332
 1 FAMS @F26@
 1 FAMC @F127@
@@ -4468,19 +4456,23 @@
 2 DATE 10 JAN 2006
 3 TIME 19:45:04
 0 @I289@ INDI
-1 NAME Mary Frances /Sizer/
-2 SURN Sizer
+1 NAME Mary Frances /SIZER/
+2 SURN SIZER
 2 GIVN Mary, Frances
 1 SEX F
 1 BIRT
 2 DATE 8 JUL 1928
-2 PLAC , , Sibley Hospital,Washington,DC,USA
+2 PLAC , , Sibley Hospital, Washington, DC, USA
+1 DEAT
+2 DATE 19 SEP 2008
+2 NOTE @N00005@
+2 _TIME 11pm
 1 _UID E294502386FDAF428437F236AE87A28CA3BA
 1 FAMS @F26@
 1 FAMC @F128@
 1 CHAN
-2 DATE 6 JAN 2006
-3 TIME 10:14:03
+2 DATE 23 MAR 2022
+3 TIME 20:44:27
 0 @I290@ INDI
 1 NAME Earl Eugene /Sizer/
 2 SURN Sizer
@@ -4488,7 +4480,7 @@
 1 SEX M
 1 BIRT
 2 DATE 2 MAY 1903
-2 PLAC , , , Riverdale,Maryland,USA
+2 PLAC , , , Riverdale, Maryland, USA
 1 DEAT
 2 DATE 24 DEC 1967
 1 _UID 97952A35EE27624EA2DC21AA571C5AFF651E
@@ -4504,7 +4496,7 @@
 1 SEX F
 1 BIRT
 2 DATE 20 JUL 1907
-2 PLAC , , , Washington, DC,USA
+2 PLAC , , , Washington, DC, USA
 1 _UID 68CA05268E786B4A94E7D9E22457AA087B84
 1 FAMS @F128@
 1 FAMC @F130@
@@ -4518,7 +4510,7 @@
 1 SEX M
 1 BIRT
 2 DATE 18 NOV 1955
-2 PLAC , , Owatonna City Hospital, Owatonna,Minnesota,USA
+2 PLAC , , Owatonna City Hospital, Owatonna, Minnesota, USA
 1 CHR
 2 PLAC , , , , , Holy Trinity RC
 1 _UID 396A193DC402EA44A5F0A2C3FFAAAD95D247
@@ -4533,9 +4525,9 @@
 1 SEX M
 1 BIRT
 2 DATE 17 MAR 1959
-2 PLAC , , Washington Hospital Center,Washington,DC,USA
+2 PLAC , , Washington Hospital Center, Washington, DC, USA
 1 CHR
-2 PLAC , , St Marys RC,Laurel,Maryland,USA
+2 PLAC , , St Marys RC, Laurel, Maryland, USA
 1 _UID 7BF8A4357615F24B907FEBAC3FA4155709A7
 1 FAMS @F131@
 1 FAMC @F26@
@@ -4549,10 +4541,10 @@
 1 SEX F
 1 BIRT
 2 DATE 19 JUL 1960
-2 PLAC , , Prince George General HospitaL, Cheverly,Maryland,USA
+2 PLAC , , Prince George General HospitaL, Cheverly, Maryland, USA
 1 CHR
 2 DATE 14 AUG 1960
-2 PLAC , , St Marys RC, Laurel,Maryland,USA
+2 PLAC , , St Marys RC, Laurel, Maryland, USA
 1 _UID 5C19D3030D2F434980239B4304D1A65A69C7
 1 FAMC @F26@
 1 CHAN
@@ -4577,9 +4569,9 @@
 1 SEX F
 1 BIRT
 2 DATE 5 AUG 1981
-2 PLAC , , Prince Georges General Hospital, Cheverly,Maryland,USA
+2 PLAC , , Prince Georges General Hospital, Cheverly, Maryland, USA
 1 CHR
-2 PLAC , , St Nicholas RC, Laurel,Maryland,USA
+2 PLAC , , St Nicholas RC, Laurel, Maryland, USA
 1 _UID 97EB00BEA18A9C4D883140749C588FC408D7
 1 FAMC @F131@
 1 CHAN
@@ -4592,7 +4584,7 @@
 1 SEX M
 1 BIRT
 2 DATE 21 MAY 1985
-2 PLAC , , Howard County General Hospital, Columbia,Maryland,USA
+2 PLAC , , Howard County General Hospital, Columbia, Maryland, USA
 1 _UID B65AD1AD87D55549B54060C0FCB2C0FA0523
 1 FAMC @F131@
 1 CHAN
@@ -4605,7 +4597,7 @@
 1 SEX M
 1 BIRT
 2 DATE 6 APR 1899
-2 PLAC , , , , , New Germany State Park,Grantsville,Maryland,USA
+2 PLAC , , , , , New Germany State Park, Grantsville, Maryland, USA
 1 DEAT
 2 DATE 12 JUN 1951
 1 _UID 93EAC5FA301CA14A97D3046E9DACFC45D926
@@ -4621,7 +4613,7 @@
 1 SEX F
 1 BIRT
 2 DATE 7 JUL 1900
-2 PLAC , , , Steele County,Minnesota,USA
+2 PLAC , , , Steele County, Minnesota, USA
 1 DEAT
 2 DATE 9 OCT 1937
 1 _UID 81F3FC0EA3C35A438B3E4B4A023C12FE2DCB
@@ -4640,7 +4632,7 @@
 2 PLAC , , Dolni Dobrouc, , , Czechoslovakia
 1 DEAT
 2 DATE 26 APR 1942
-2 PLAC , , , ,Minnesota,USA
+2 PLAC , , , , Minnesota, USA
 1 _UID 413D1D4D075111468DFA573A5C26828639E7
 1 FAMS @F133@
 1 CHAN
@@ -4656,7 +4648,7 @@
 2 PLAC , , Dolni Dobrouc, , , Czechoslovakia
 1 DEAT
 2 DATE 15 AUG 1940
-2 PLAC , , , ,Minnesota,USA
+2 PLAC , , , , Minnesota, USA
 1 _UID B6BB2DB959649942A865BE612764FCE183F1
 1 FAMS @F133@
 1 CHAN
@@ -4831,7 +4823,7 @@
 1 SEX M
 1 BIRT
 2 DATE 14 DEC 1927
-2 PLAC , , , Steele County,Minnesota,USA
+2 PLAC , , , Steele County, Minnesota, USA
 1 _UID A154D4F7C702344F8A38A3877117EFEC5B78
 1 FAMC @F127@
 1 CHAN
@@ -4844,7 +4836,7 @@
 1 SEX F
 1 BIRT
 2 DATE 10 APR 1929
-2 PLAC , , , Steele County,Minnesota,USA
+2 PLAC , , , Steele County, Minnesota, USA
 1 _UID 7BB3CB2F4C0A4B46B80271A889BD083D6D70
 1 FAMC @F127@
 1 CHAN
@@ -4857,7 +4849,7 @@
 1 SEX M
 1 BIRT
 2 DATE 26 MAY 1930
-2 PLAC , , , Steele County,Minnesota,USA
+2 PLAC , , , Steele County, Minnesota, USA
 1 _UID FF169DB3A7C3C74A8BED83B23CDF14E8A478
 1 FAMC @F127@
 1 CHAN
@@ -4870,7 +4862,7 @@
 1 SEX M
 1 BIRT
 2 DATE 26 JAN 1932
-2 PLAC , , , Steele County,Minnesota,USA
+2 PLAC , , , Steele County, Minnesota, USA
 1 _UID A1E32C4B0CBC974397DCB4A8FC656BEA2294
 1 FAMC @F127@
 1 CHAN
@@ -4883,7 +4875,7 @@
 1 SEX M
 1 BIRT
 2 DATE 4 JUL 1933
-2 PLAC , , , Steele County,Minnesota,USA
+2 PLAC , , , Steele County, Minnesota, USA
 1 _UID 889655FE7DA8AD469D673E07604FA91E484F
 1 FAMC @F127@
 1 CHAN
@@ -4896,7 +4888,7 @@
 1 SEX F
 1 BIRT
 2 DATE 5 NOV 1935
-2 PLAC , , , Steele County,Minnesota,USA
+2 PLAC , , , Steele County, Minnesota, USA
 1 _UID EC59FDC1DB98A84F91D5562BED43F844C0A4
 1 FAMC @F127@
 1 CHAN
@@ -4967,7 +4959,7 @@
 1 SEX M
 1 BIRT
 2 DATE 3 MAY 1911
-2 PLAC , , , Glen Lyon, Pennsylvania,USA
+2 PLAC , , , Glen Lyon, Pennsylvania, USA
 1 _UID 2640CC99F4972445AB3E046C6CAADBE5EE56
 1 FAMS @F3@
 1 FAMC @F134@
@@ -4981,7 +4973,7 @@
 1 SEX F
 1 BIRT
 2 DATE 16 FEB 1916
-2 PLAC , , , Glen Lyon, Pennsylvania,USA
+2 PLAC , , , Glen Lyon, Pennsylvania, USA
 1 _UID D531FD270EB58A4E9A9EF6C8F6F616DB9820
 1 FAMS @F3@
 1 FAMC @F135@
@@ -5033,7 +5025,7 @@
 1 SEX F
 1 BIRT
 2 DATE 1885
-2 PLAC , , , , , Byelo,Russia
+2 PLAC , , , , , Byelo, Russia
 1 _UID 6B8188E9EA860548A6F8B688F8D0AE74E0FC
 1 FAMS @F135@
 1 CHAN
@@ -5046,9 +5038,9 @@
 1 SEX F
 1 BIRT
 2 DATE 5 SEP 1991
-2 PLAC , , Howard County General, Columbia,Maryland,USA
+2 PLAC , , Howard County General, Columbia, Maryland, USA
 1 CHR
-2 PLAC , , St William of Yo, Catonsville,Maryland,USA
+2 PLAC , , St William of Yo, Catonsville, Maryland, USA
 1 _UID 8764F9A14876E84F92948F6A6CF88846CB56
 1 FAMC @F5@
 1 CHAN
@@ -5061,9 +5053,9 @@
 1 SEX M
 1 BIRT
 2 DATE 14 JUN 1958
-2 PLAC , , Mercy Hospital,Baltimore,Maryland,USA
+2 PLAC , , Mercy Hospital, Baltimore, Maryland, USA
 1 CHR
-2 PLAC , , Mercy Hospital,Baltimore,Maryland,USA
+2 PLAC , , Mercy Hospital, Baltimore, Maryland, USA
 1 _UID 0BF07E4DE0763F479F875C67B3AA22C7D1BD
 1 FAMS @F5@
 1 FAMC @F136@
@@ -5077,10 +5069,10 @@
 1 SEX M
 1 BIRT
 2 DATE 14 AUG 1928
-2 PLAC , , Johns Hopkins Hospital,Baltimore,Maryland,USA
+2 PLAC , , Johns Hopkins Hospital, Baltimore, Maryland, USA
 1 CHR
 2 DATE 2 SEP 1928
-2 PLAC , , St. Charles RC,Baltimore,Maryland,USA
+2 PLAC , , St. Charles RC, Baltimore, Maryland, USA
 1 _UID 613387353F2D064986F275FF15BBAC83F6B7
 1 FAMS @F136@
 1 FAMC @F137@
@@ -5092,16 +5084,14 @@
 2 SURN Rosemary
 2 GIVN Delores, Eve
 1 SEX F
-1 BIRT
-2 DATE 24 DEC
-2 PLAC , , ,Baltimore,Maryland,USA
 1 CHR
-2 PLAC , , St. Rose RC,Baltimore,Maryland,USA
+2 PLAC , , St. Rose RC, Baltimore, Maryland, USA
+1 NOTE @N00025@
 1 _UID B0E82550850B9043A618858AC4EED50ACE94
 1 FAMS @F136@
 1 CHAN
-2 DATE 10 JAN 2006
-3 TIME 16:16:56
+2 DATE 24 MAR 2022
+3 TIME 02:11:43
 0 @I337@ INDI
 1 NAME Vincent Michael Lawrence /Andrews/
 2 SURN Andrews
@@ -5109,9 +5099,9 @@
 1 SEX M
 1 BIRT
 2 DATE 25 MAY 1961
-2 PLAC , , Mercy Hospital,Baltimore,Maryland,USA
+2 PLAC , , Mercy Hospital, Baltimore, Maryland, USA
 1 CHR
-2 PLAC , , ,Baltimore,Maryland,USA
+2 PLAC , , , Baltimore, Maryland, USA
 1 _UID B912F94EB9853846BFC5C9ECAC12616F95FF
 1 FAMC @F136@
 1 CHAN
@@ -5124,9 +5114,9 @@
 1 SEX M
 1 BIRT
 2 DATE 3 FEB 1963
-2 PLAC , , Mercy Hospital,Baltimore,Maryland,USA
+2 PLAC , , Mercy Hospital, Baltimore, Maryland, USA
 1 CHR
-2 PLAC , , ,Baltimore,Maryland,USA
+2 PLAC , , , Baltimore, Maryland, USA
 1 _UID 850E696C9444C94FA65EA79EAEAFC0430123
 1 FAMS @F138@
 1 FAMC @F136@
@@ -5140,9 +5130,9 @@
 1 SEX M
 1 BIRT
 2 DATE 20 DEC 1965
-2 PLAC , , Washington Hospital Center, Washington, DC,USA
+2 PLAC , , Washington Hospital Center, Washington, DC, USA
 1 CHR
-2 PLAC , , St. Mary's RC, Laurel,Maryland,USA
+2 PLAC , , St. Mary's RC, Laurel, Maryland, USA
 1 _UID 94CF6EE24E63324082C522606D3CECD1052C
 1 FAMC @F136@
 1 CHAN
@@ -5167,9 +5157,9 @@
 1 SEX F
 1 BIRT
 2 DATE JUN 1983
-2 PLAC , , Howard County General, Columbia,Maryland,USA
+2 PLAC , , Howard County General, Columbia, Maryland, USA
 1 CHR
-2 PLAC , , St. Rose RC, Brooklyn,Maryland,USA
+2 PLAC , , St. Rose RC, Brooklyn, Maryland, USA
 1 _UID 6EB1EB6E4BF0624A93CD08F6191CB26D11AB
 1 FAMC @F138@
 1 CHAN
@@ -5182,7 +5172,7 @@
 1 SEX M
 1 BIRT
 2 DATE 1985
-2 PLAC , , , Ft. Polk, Louisiana,USA
+2 PLAC , , , Ft. Polk, Louisiana, USA
 1 _UID 88F980574091C449AB2CB7A16D1E8D4BC864
 1 FAMC @F138@
 1 CHAN
@@ -5197,15 +5187,15 @@
 2 PLAC , , , Liverpool, , England
 1 DEAT
 2 DATE 1955
-2 PLAC , , ,Baltimore,Maryland,USA
+2 PLAC , , , Baltimore, Maryland, USA
 1 _UID AF73CAD0A96A0D4EB56861A6DBFD1E4B8FF1
 1 FAMS @F137@
 1 NOTE Came to america as small boy in late 1800's; Parents: John Andrews & Mary Ellen (Moran) arrived in NY with 3 children: Florence, William and Francis.
 2 CONT Had to smuggle William heavily veiled and disguised because he had chicken pox.  Gertrude was born in NY.  Moved to Baltimore, joined by John's brother, Albert.  John & Albert contracted as bricklayers in the B&O railroad tunnels between Balto
 2 CONC . & Harpers Ferry.  John Andrews was a big, dark man nicknamed "Black John".  He died in 1893 having been baptized Roman Catholic on deathbed.  Before he died, he asked Albert to care for the family.  Albert later married Mary Ellen and treated a
 2 CONC ll the children as his own.  Albert's natural children wondered why their brothers and sisters called their father "Uncle".  Mary Ellen had 13 children in all; Six lived to maturity - Florence, William, Francis, Gertrude, Helen and Carmelita.  Al
-2 CONC bert was converted to Catholosim at Corpus Christi Church by Father Starr.  The family moved to Pikesvill in 1912.  Florence married Ira Chester; William married Jesse Block; Gertrude married William Lynch in 1913.  All kept in correspondence
-2 CONC with relatives in Liverpool.  Francis later fought in the 25th machine gun battalion in WW1.  He survived, but his health was never the same.
+2 CONC bert was converted to Catholosim at Corpus Christi Church by Father Starr.  The family moved to Pikesvill in 1912.  Florence married Ira Chester; William married Jesse Block; Gertrude married William Lynch in 1913.  All kept in correspondencewit
+2 CONC h relatives in Liverpool.  Francis later fought in the 25th machine gun battalion in WW1.  He survived, but his health was never the same.
 2 CONT Francis married Elizabeth Pauline Smith (Pauline).  They lived on Sudbrook Lane in Pikesville.
 1 CHAN
 2 DATE 5 JAN 2006
@@ -5217,7 +5207,7 @@
 1 SEX F
 1 BIRT
 2 DATE 29 JAN 1897
-2 PLAC , , Pylesville, Harford Co.,Maryland,USA
+2 PLAC , , Pylesville, Harford Co., Maryland, USA
 1 _UID 0177377F642A9148AAE12120FACC038CB6E9
 1 FAMS @F137@
 1 CHAN
@@ -5230,9 +5220,9 @@
 1 SEX M
 1 BIRT
 2 DATE 16 DEC 1986
-2 PLAC , , , ,Maryland,USA
+2 PLAC , , , , Maryland, USA
 1 CHR
-2 PLAC , , St Jane Francis, Rivera Beach,Maryland,USA
+2 PLAC , , St Jane Francis, Rivera Beach, Maryland, USA
 1 _UID 1FAE09FF0A781A48BABD01E0F92C1E65B929
 1 FAMC @F93@
 1 CHAN
@@ -5246,7 +5236,7 @@
 1 BIRT
 2 DATE 5 NOV 1988
 1 CHR
-2 PLAC , , St Christopher, Stevensville,Maryland,USA
+2 PLAC , , St Christopher, Stevensville, Maryland, USA
 1 _UID 54AD0ECBDE5D0741A67B24B78560EFE6135C
 1 FAMC @F95@
 1 CHAN
@@ -5270,7 +5260,7 @@
 2 GIVN Anna, Christine
 1 SEX F
 1 BIRT
-2 PLAC , , Fredrick Memorial Hospital, Fredrick,Maryland,USA
+2 PLAC , , Fredrick Memorial Hospital, Fredrick, Maryland, USA
 1 _UID F2640E76EE8C6943BB13646B18D7C1A2EF34
 1 FAMC @F7@
 1 CHAN
@@ -5283,10 +5273,10 @@
 1 SEX M
 1 BIRT
 2 DATE 28 MAY 1993
-2 PLAC , , Howard County Hospital, Columbia,Maryland,USA
+2 PLAC , , Howard County Hospital, Columbia, Maryland, USA
 1 CHR
 2 DATE 15 AUG 1993
-2 PLAC , , St William of Yo, Catonsville,Maryland,USA
+2 PLAC , , St William of Yo, Catonsville, Maryland, USA
 1 _UID 2C37ACB378283F4A84705B841190FE7FDC35
 1 FAMC @F5@
 1 CHAN
@@ -5299,9 +5289,9 @@
 1 SEX M
 1 BIRT
 2 DATE 3 SEP 1990
-2 PLAC , , Howard County Hospital, Columbia,Maryland,USA
+2 PLAC , , Howard County Hospital, Columbia, Maryland, USA
 1 CHR
-2 PLAC , , St Louis RC, Clarksville,Maryland,USA
+2 PLAC , , St Louis RC, Clarksville, Maryland, USA
 1 _UID AB43EED739B1B647A2AEA70C096C8D7E1D66
 1 FAMC @F8@
 1 CHAN
@@ -5314,9 +5304,9 @@
 1 SEX F
 1 BIRT
 2 DATE SEP 1991
-2 PLAC , , Howard County Hospital, Columbia,Maryland,USA
+2 PLAC , , Howard County Hospital, Columbia, Maryland, USA
 1 CHR
-2 PLAC , , St. Louis RC, Clarksville,Maryland,USA
+2 PLAC , , St. Louis RC, Clarksville, Maryland, USA
 1 _UID 9932739BFCE44C45BA437B9D7634E56957E7
 1 FAMC @F6@
 1 CHAN
@@ -5328,9 +5318,9 @@
 2 GIVN Michael
 1 SEX M
 1 BIRT
-2 PLAC , , Howard County Hospital, Columbia,Maryland,USA
+2 PLAC , , Howard County Hospital, Columbia, Maryland, USA
 1 CHR
-2 PLAC , , St. Louis RC, Clarksville,Maryland,USA
+2 PLAC , , St. Louis RC, Clarksville, Maryland, USA
 1 _UID 3E97E0EA47B7ED4B96C6D025D9D4C4760D82
 1 FAMC @F6@
 1 CHAN
@@ -5353,7 +5343,7 @@
 1 SEX M
 1 BIRT
 2 DATE 21 JAN 1960
-2 PLAC , , , , ,Baltimore,Maryland,USA
+2 PLAC , , , , , Baltimore, Maryland, USA
 1 _UID 241BE2F851A1B846A0EDFD57393C42D37431
 1 FAMS @F68@
 1 CHAN
@@ -5366,10 +5356,10 @@
 1 SEX M
 1 BIRT
 2 DATE 12 DEC 1983
-2 PLAC , , , , ,Mercy Hospital,Baltimore,Maryland,USA
+2 PLAC , , , , , Mercy Hospital, Baltimore, Maryland, USA
 1 CHR
 2 DATE JAN 1984
-2 PLAC , , , , ,Annunciation,Baltimore,Maryland,USA
+2 PLAC , , , , , Annunciation, Baltimore, Maryland, USA
 1 _UID 2D28E0356F08F2408AB4567C8825BE4EDC5E
 1 FAMC @F68@
 1 CHAN
@@ -5382,10 +5372,10 @@
 1 SEX F
 1 BIRT
 2 DATE 5 JUN 1985
-2 PLAC , , , , ,Mercy Hospital,Baltimore,Maryland,USA
+2 PLAC , , , , , Mercy Hospital, Baltimore, Maryland, USA
 1 CHR
 2 DATE JUL 1985
-2 PLAC , , , , , Annunciation,Baltimore,Maryland,USA
+2 PLAC , , , , , Annunciation, Baltimore, Maryland, USA
 1 _UID 1ACFB8F5D5518041862823AF41E394E69B42
 1 FAMC @F68@
 1 CHAN
@@ -5398,9 +5388,9 @@
 1 SEX F
 1 BIRT
 2 DATE 30 APR 1961
-2 PLAC , , , , , Paris,,France
+2 PLAC , , , , , Paris, , France
 1 CHR
-2 PLAC , , , , , Paris,,France
+2 PLAC , , , , , Paris, , France
 1 _UID B8C7689BE82DCC4C8C40F2B85F8029FD2ADA
 1 FAMS @F69@
 1 CHAN
@@ -5413,10 +5403,10 @@
 1 SEX M
 1 BIRT
 2 DATE 17 FEB 1988
-2 PLAC , , , , ,Mercy Hospital,Baltimore,Maryland,USA
+2 PLAC , , , , , Mercy Hospital, Baltimore, Maryland, USA
 1 CHR
 2 DATE MAR 1988
-2 PLAC , , , , , Annunciation,Baltimore,Maryland,USA
+2 PLAC , , , , , Annunciation, Baltimore, Maryland, USA
 1 _UID 1EE7EFFAC192614597A19C5FC26CE5B2DF20
 1 FAMC @F69@
 1 CHAN
@@ -5429,10 +5419,10 @@
 1 SEX M
 1 BIRT
 2 DATE 25 APR 1990
-2 PLAC , , , , ,Mercy Hospital,Baltimore,Maryland,USA
+2 PLAC , , , , , Mercy Hospital, Baltimore, Maryland, USA
 1 CHR
 2 DATE MAY 1990
-2 PLAC , , , , , Annunciation,Baltimore,Maryland,USA
+2 PLAC , , , , , Annunciation, Baltimore, Maryland, USA
 1 _UID B8E03EF8221B7C438B4124FA58D16B478F59
 1 FAMC @F69@
 1 CHAN
@@ -5445,10 +5435,10 @@
 1 SEX F
 1 BIRT
 2 DATE 17 JAN 1956
-2 PLAC , , , , ,Women's Hospital,Baltimore,Maryland,USA
+2 PLAC , , , , , Women's Hospital, Baltimore, Maryland, USA
 1 CHR
 2 DATE 1956
-2 PLAC , , , , , St. Johns Lutheran Brooklyn,Maryland,USA
+2 PLAC , , , , , St. Johns Lutheran Brooklyn, Maryland, USA
 1 _UID ED067506E6BB11419B464B3B3279AFD8FAB6
 1 FAMS @F149@
 1 CHAN
@@ -5461,10 +5451,10 @@
 1 SEX F
 1 BIRT
 2 DATE 25 JUN 1987
-2 PLAC , , , , ,Mercy Hospital,Baltimore,Maryland,USA
+2 PLAC , , , , , Mercy Hospital, Baltimore, Maryland, USA
 1 CHR
 2 DATE 26 JUL 1987
-2 PLAC , , , , , Annunciation,Baltimore,Maryland,USA 
+2 PLAC , , , , , Annunciation, Baltimore, Maryland, USA
 1 _UID 92CF9020977F0741A9594E3D4731B3A3CA4D
 1 FAMC @F70@
 1 CHAN
@@ -5477,10 +5467,10 @@
 1 SEX F
 1 BIRT
 2 DATE 12 AUG 1988
-2 PLAC , , , , , GBMC,Baltimore,Maryland,USA
+2 PLAC , , , , , GBMC, Baltimore, Maryland, USA
 1 CHR
 2 DATE 16 OCT 1988
-2 PLAC , , , , , Annunciation,Baltimore,Maryland,USA
+2 PLAC , , , , , Annunciation, Baltimore, Maryland, USA
 1 _UID 75FFF985D5739345BFB5A9FDEEAB6481AA8C
 1 FAMC @F70@
 1 CHAN
@@ -5493,7 +5483,7 @@
 1 SEX M
 1 BIRT
 2 DATE 2 JUL 1952
-2 PLAC , , , , , Reading,PA,USA
+2 PLAC , , , , , Reading, PA, USA
 1 _UID FD2AF773B22D8E449AE9C59141260329AE1D
 1 FAMS @F71@
 1 CHAN
@@ -5509,7 +5499,7 @@
 2 PLAC , , , , , St. Josephs Hospital
 1 CHR
 2 DATE 17 APR 1977
-2 PLAC , , , , , Immaculate Heart of Mary,Towson,Maryland,USA
+2 PLAC , , , , , Immaculate Heart of Mary, Towson, Maryland, USA
 1 _UID D13EF5FFC72956459C62A8A610741341B2AA
 1 FAMS @F169@
 1 FAMC @F71@
@@ -5526,7 +5516,7 @@
 2 PLAC , , , , , St. Josephs Hospital
 1 CHR
 2 DATE 21 JAN 1979
-2 PLAC , , , , , Immaculate Heart of Mary,Towson,Maryland,USA
+2 PLAC , , , , , Immaculate Heart of Mary, Towson, Maryland, USA
 1 _UID 38E9600C7E80EE42B1AF7B94538B20B3DB00
 1 FAMC @F71@
 1 CHAN
@@ -5539,7 +5529,7 @@
 1 SEX F
 1 BIRT
 2 DATE 6 MAY 1957
-2 PLAC , , , , , Elizabeth,NJ,USA
+2 PLAC , , , , , Elizabeth, NJ, USA
 1 _UID DCBCC9A220611F438F8B4887CD83150B3FC2
 1 FAMS @F73@
 1 CHAN
@@ -5552,9 +5542,9 @@
 1 SEX M
 1 BIRT
 2 DATE 28 MAR 1982
-2 PLAC , , , , ,St. Josephs Hospital
+2 PLAC , , , , , St. Josephs Hospital
 1 CHR
-2 PLAC , , , , , Towson,Maryland,USA
+2 PLAC , , , , , Towson, Maryland, USA
 1 _UID 01CCD1E18D08EC41B5E63720EB703702C79C
 1 FAMC @F73@
 1 CHAN
@@ -5569,7 +5559,7 @@
 2 DATE 28 MAR 1982
 2 PLAC , , , , , St. Josephs Hospital
 1 CHR
-2 PLAC , , , , , Towson,Maryland,USA
+2 PLAC , , , , , Towson, Maryland, USA
 1 _UID C6F2EECFEE46944298A28630BA86E15CEC33
 1 FAMC @F73@
 1 CHAN
@@ -5595,7 +5585,7 @@
 1 SEX M
 1 BIRT
 2 DATE 2 DEC 1957
-2 PLAC , , , , , Virginia Baptist Hospital,Lynchburg,Virginia,USA
+2 PLAC , , , , , Virginia Baptist Hospital, Lynchburg, Virginia, USA
 1 _UID D51B6FC623B39046A0DA8BAD939AA49AEE05
 1 FAMS @F72@
 1 CHAN
@@ -5611,7 +5601,7 @@
 2 PLAC , , , , , St. Josephs Hospital
 1 CHR
 2 DATE 24 FEB 1985
-2 PLAC , , , , , Immaculate Heart of Mary,Towson,Maryland,USA
+2 PLAC , , , , , Immaculate Heart of Mary, Towson, Maryland, USA
 1 _UID F5C7DE5784208F49AF8943633F0576161B04
 1 FAMC @F72@
 1 CHAN
@@ -5624,10 +5614,10 @@
 1 SEX M
 1 BIRT
 2 DATE 1 MAY 1986
-2 PLAC , , , , , Greater Baltimore Medical Center,Baltimore,Maryland,USA
+2 PLAC , , , , , Greater Baltimore Medical Center, Baltimore, Maryland, USA
 1 CHR
 2 DATE 28 APR 1991
-2 PLAC , , , , , Immaculate Heart of Mary,Towson,Maryland,USA
+2 PLAC , , , , , Immaculate Heart of Mary, Towson, Maryland, USA
 1 _UID BE389EA9D5B68B47883FF4DB02D257E03B20
 1 FAMC @F72@
 1 CHAN
@@ -5652,7 +5642,7 @@
 1 SEX F
 1 BIRT
 2 DATE 1949
-2 PLAC , , , , ,Baltimore,Maryland,USA
+2 PLAC , , , , , Baltimore, Maryland, USA
 1 _UID 94EC6C25F1D6CB41B5EB6388BB1640E96938
 1 FAMS @F55@
 1 CHAN
@@ -5665,10 +5655,10 @@
 1 SEX M
 1 BIRT
 2 DATE 11 DEC 1969
-2 PLAC , , , , ,Baltimore,Maryland,USA
+2 PLAC , , , , , Baltimore, Maryland, USA
 1 CHR
 2 DATE JAN 1970
-2 PLAC , , , , , Immaculate Heart,Baltimore,Maryland,USA
+2 PLAC , , , , , Immaculate Heart, Baltimore, Maryland, USA
 1 _UID 978CDF64652D674A9406215F18E500521201
 1 FAMS @F160@
 1 FAMC @F55@
@@ -5682,10 +5672,10 @@
 1 SEX F
 1 BIRT
 2 DATE 10 JAN 1956
-2 PLAC , , , , ,Baltimore,Maryland,USA
+2 PLAC , , , , , Baltimore, Maryland, USA
 1 CHR
 2 DATE APR 1982
-2 PLAC , , , , , St. Marys,Pikesville,Maryland,USA
+2 PLAC , , , , , St. Marys, Pikesville, Maryland, USA
 1 _UID 581230A6A7B730419DD099D445032B2B8766
 1 FAMS @F56@
 1 CHAN
@@ -5698,10 +5688,10 @@
 1 SEX F
 1 BIRT
 2 DATE 27 NOV 1983
-2 PLAC , , , , ,Baltimore,Maryland,USA
+2 PLAC , , , , , Baltimore, Maryland, USA
 1 CHR
 2 DATE 1 DEC 1984
-2 PLAC , , , , , St. Marys,Pikesville,Maryland,USA
+2 PLAC , , , , , St. Marys, Pikesville, Maryland, USA
 1 _UID B804BF155904DD4AAE8403C81F45D2569D1E
 1 FAMC @F56@
 1 CHAN
@@ -5714,10 +5704,10 @@
 1 SEX F
 1 BIRT
 2 DATE 23 SEP 1986
-2 PLAC , , , , Baltimore,Maryland,USA
+2 PLAC , , , , Baltimore, Maryland, USA
 1 CHR
 2 DATE OCT 1986
-2 PLAC , , , , , St. Marys,Pikesville,Maryland,USA
+2 PLAC , , , , , St. Marys, Pikesville, Maryland, USA
 1 _UID 06E1F0C4608D784AA371B6AFD60FBB2C8F81
 1 FAMC @F56@
 1 CHAN
@@ -5742,7 +5732,7 @@
 1 SEX F
 1 BIRT
 2 DATE 4 DEC 1983
-2 PLAC , , , , , GBMC,Baltimore,Maryland,USA
+2 PLAC , , , , , GBMC, Baltimore, Maryland, USA
 1 CHR
 2 DATE JAN 1983
 2 PLAC , , , , , Immaculate Heart of Mary
@@ -5758,10 +5748,10 @@
 1 SEX F
 1 BIRT
 2 DATE 30 AUG 1965
-2 PLAC , , ,Baltimore,Maryland,USA
+2 PLAC , , , Baltimore, Maryland, USA
 1 CHR
 2 DATE 3 OCT 1965
-2 PLAC , , St Francis,Baltimore,Maryland,USA
+2 PLAC , , St Francis, Baltimore, Maryland, USA
 1 _UID 5B7B73E50EA6704B9B416FD893A7466FAF4A
 1 FAMS @F101@
 1 CHAN
@@ -5774,10 +5764,10 @@
 1 SEX F
 1 BIRT
 2 DATE 14 APR 1992
-2 PLAC , , ,Baltimore,Maryland,USA
+2 PLAC , , , Baltimore, Maryland, USA
 1 CHR
 2 DATE 11 JUL 1992
-2 PLAC , , St. Anthony RC,Baltimore,Maryland,USA
+2 PLAC , , St. Anthony RC, Baltimore, Maryland, USA
 1 _UID 2219A89FC55ABE4BAE924F337823C2E7B0FE
 1 FAMC @F101@
 1 NOTE Parents Mary Hugunin(Calvo) and Jay L. Hugunin
@@ -5804,7 +5794,7 @@
 2 DATE 6 APR 1988
 1 CHR
 2 DATE 5 JUN 1988
-2 PLAC , , St. Marks, Fallston,Maryland,USA
+2 PLAC , , St. Marks, Fallston, Maryland, USA
 1 _UID 8A324A01ACDA944AA92AE0C4F1937D4F32BF
 1 FAMC @F100@
 1 CHAN
@@ -5819,7 +5809,7 @@
 2 DATE 19 JUN 1993
 1 CHR
 2 DATE 19 SEP 1993
-2 PLAC , , St. Margaret, Bel Air,Maryland,USA
+2 PLAC , , St. Margaret, Bel Air, Maryland, USA
 1 _UID 3F7D374C9458224CA15F52AB46ED5D113767
 1 FAMC @F100@
 1 CHAN
@@ -5881,7 +5871,7 @@
 1 SEX M
 1 BIRT
 2 DATE 10 AUG 1965
-2 PLAC , , , , , Van Nuys,California,USA
+2 PLAC , , , , , Van Nuys, California, USA
 1 _UID 41F59F6FB8F1B6458C3427C82E825824C3F4
 1 FAMS @F117@
 1 CHAN
@@ -6010,20 +6000,21 @@
 2 DATE 1 MAR 2006
 3 TIME 14:28:43
 0 @I401@ INDI
-1 NAME DavidLlawrence /George Jr/
+1 NAME David Lawrence /George Jr/
 2 SURN George Jr
-2 GIVN DavidLlawrence
+2 GIVN David, Lawrence
 1 SEX M
 1 BIRT
 2 DATE 6 JUL 1980
 2 PLAC , , , , , Franklin Square Hospital
 1 CHR
-2 DATE QUEEN OF PEACE MIDDLE RIVER
+2 DATE FROM 6 JUL 1980
+2 PLAC Queen of Peace Middle River
 1 _UID 9E79987918B932478CC4FB5329CDD6411D27
 1 FAMC @F63@
 1 CHAN
-2 DATE 1 MAR 2006
-3 TIME 14:00:05
+2 DATE 24 MAR 2022
+3 TIME 02:12:53
 0 @I402@ INDI
 1 NAME Melissa Ann /George/
 2 SURN George
@@ -6046,7 +6037,7 @@
 1 SEX M
 1 BIRT
 2 DATE 7 SEP 1951
-2 PLAC , , , , ,Baltimore,Maryland,USA
+2 PLAC , , , , , Baltimore, Maryland, USA
 1 _UID 662E5DD842F2EE4A9FB41C8B908B83653213
 1 FAMS @F64@
 1 CHAN
@@ -6059,10 +6050,10 @@
 1 SEX M
 1 BIRT
 2 DATE 6 MAY 1974
-2 PLAC , , , , , Franklin Square,Baltimore,Maryland,USA
+2 PLAC , , , , , Franklin Square, Baltimore, Maryland, USA
 1 CHR
 2 DATE MAY 1974
-2 PLAC , , , , , St Clares,Essex,Maryland,USA
+2 PLAC , , , , , St Clares, Essex, Maryland, USA
 1 _UID BE19B88D1C0E0B41BCBF2060D61277D7C33D
 1 FAMS @F170@
 1 FAMC @F64@
@@ -6076,10 +6067,10 @@
 1 SEX M
 1 BIRT
 2 DATE 1 JUL 1975
-2 PLAC , , , , , Franklin Square Hospital,Baltimore,Maryland,USA
+2 PLAC , , , , , Franklin Square Hospital, Baltimore, Maryland, USA
 1 CHR
 2 DATE JUL 1975
-2 PLAC , , , , , St Clares,Essex,Maryland,USA
+2 PLAC , , , , , St Clares, Essex, Maryland, USA
 1 _UID 1C0A5E5C101547468A16CDE1EE7CC50615E2
 1 FAMC @F64@
 1 CHAN
@@ -6102,10 +6093,10 @@
 1 SEX M
 1 BIRT
 2 DATE 27 FEB 1980
-2 PLAC , , , , , Franklin Square Hospital,Baltimore,Maryland,USA
+2 PLAC , , , , , Franklin Square Hospital, Baltimore, Maryland, USA
 1 CHR
 2 DATE MAR 1980
-2 PLAC , , , , , St. Clares,Essex,Maryland,USA
+2 PLAC , , , , , St. Clares, Essex, Maryland, USA
 1 _UID 8C5D7A613AE1B549A6166FAF9F9314C1BEBF
 1 FAMS @F174@
 1 FAMC @F66@
@@ -6132,10 +6123,10 @@
 1 SEX M
 1 BIRT
 2 DATE 25 APR 1956
-2 PLAC , , , , ,Baltimore,Maryland,USA
+2 PLAC , , , , , Baltimore, Maryland, USA
 1 CHR
 2 DATE APR 1978
-2 PLAC , , , , , St. Clares,Essex,Maryland,USA
+2 PLAC , , , , , St. Clares, Essex, Maryland, USA
 1 _UID 993489E21849A445A9281B141BFDB4F341D0
 1 FAMS @F67@
 1 CHAN
@@ -6148,10 +6139,10 @@
 1 SEX F
 1 BIRT
 2 DATE 2 APR 1976
-2 PLAC , , , , , Franklin Square Hospital,Baltimore,Maryland,USA
+2 PLAC , , , , , Franklin Square Hospital, Baltimore, Maryland, USA
 1 CHR
 2 DATE JUN 1976
-2 PLAC , , , , , St. Clares,Essex,Maryland,USA
+2 PLAC , , , , , St. Clares, Essex, Maryland, USA
 1 _UID 105EA2F5D55E9541929244C35537AAB221E4
 1 FAMS @F171@
 1 FAMC @F67@
@@ -6165,10 +6156,10 @@
 1 SEX M
 1 BIRT
 2 DATE 21 AUG 1979
-2 PLAC , , , , , Franklin Square Hospital,Baltimore,Maryland,USA
+2 PLAC , , , , , Franklin Square Hospital, Baltimore, Maryland, USA
 1 CHR
 2 DATE SEP 1979
-2 PLAC , , , , , St. Clares,Essex,Maryland,USA
+2 PLAC , , , , , St. Clares, Essex, Maryland, USA
 1 _UID 31BD3DD7BE5DB642AA9D45F344D2BF94FD49
 1 FAMC @F67@
 1 CHAN
@@ -6181,10 +6172,10 @@
 1 SEX F
 1 BIRT
 2 DATE 17 JAN 1984
-2 PLAC , , , , , City Hospital,Baltimore,Maryland,USA
+2 PLAC , , , , , City Hospital, Baltimore, Maryland, USA
 1 CHR
 2 DATE FEB 1984
-2 PLAC , , , , , St. Clares,Essex,Maryland,USA
+2 PLAC , , , , , St. Clares, Essex, Maryland, USA
 1 _UID 1EF88048BA30C04D8DDD1F38923F7C896CD8
 1 FAMS @F175@
 1 FAMC @F67@
@@ -6198,15 +6189,15 @@
 1 SEX M
 1 BIRT
 2 DATE 3 AUG 1927
-2 PLAC , , , , ,Baltimore,Maryland,USA
+2 PLAC , , , , , Baltimore, Maryland, USA
 1 CHR
-2 PLAC , , , , ,Baltimore,Maryland,USA
+2 PLAC , , , , , Baltimore, Maryland, USA
 1 DEAT
 2 DATE 22 APR 1999
-2 PLAC , , , , ,University Hospital,Baltimore,Maryland,USA
+2 PLAC , , , , , University Hospital, Baltimore, Maryland, USA
 1 BURI
 2 DATE 26 APR 1999
-2 PLAC , , , , , St. Stanislaus Cemetery,Baltimore,Maryland,USA
+2 PLAC , , , , , St. Stanislaus Cemetery, Baltimore, Maryland, USA
 1 _UID 9DDA867ED411784CBDBC8B497B2A54026C26
 1 FAMS @F41@
 1 CHAN
@@ -6712,7 +6703,7 @@
 1 BIRT
 2 DATE 18 JUL 1984
 1 CHR
-2 PLAC , , Immaculate Heart of Mary,Baltimore,Maryland,USA
+2 PLAC , , Immaculate Heart of Mary, Baltimore, Maryland, USA
 1 _UID 2E3F87E98E6D2546BF8F189EAE3701123FFF
 1 FAMC @F96@
 1 CHAN
@@ -6726,7 +6717,7 @@
 1 BIRT
 2 DATE 13 MAY 1988
 1 CHR
-2 PLAC , , St Joseph's,Fullerton,Baltimore,Maryland,USA
+2 PLAC , , St Joseph's, Fullerton, Baltimore, Maryland, USA
 1 _UID B88ACD07F9B2F4499506475D309D90FA9490
 1 FAMC @F96@
 1 CHAN
@@ -6752,7 +6743,7 @@
 1 BIRT
 2 DATE 23 MAY 1989
 1 CHR
-2 PLAC , , St Joseph's,Fullerton,Baltimore,Maryland,USA
+2 PLAC , , St Joseph's, Fullerton, Baltimore, Maryland, USA
 1 _UID 117E046DF1047A488C13788E15C0CE605F02
 1 FAMC @F97@
 1 CHAN
@@ -6766,7 +6757,7 @@
 1 BIRT
 2 DATE 2 DEC 1986
 1 CHR
-2 PLAC , , Immaculate Heart of Mary,Baltimore,Maryland,USA
+2 PLAC , , Immaculate Heart of Mary, Baltimore, Maryland, USA
 1 _UID 333A9785961C7141B13B639241790A0A9C66
 1 FAMC @F97@
 1 CHAN
@@ -6779,7 +6770,7 @@
 1 SEX M
 1 BIRT
 2 DATE 5 AUG 1948
-2 PLAC , , , , ,Baltimore,Maryland,USA
+2 PLAC , , , , , Baltimore, Maryland, USA
 1 _UID E0A0DEE0B5DC494F8109B97525A6261B2B48
 1 FAMS @F58@
 1 CHAN
@@ -6793,10 +6784,10 @@
 1 SEX M
 1 BIRT
 2 DATE 9 JUL 1971
-2 PLAC , , St Joseph's,Baltimore,Maryland,USA
+2 PLAC , , St Joseph's, Baltimore, Maryland, USA
 1 CHR
 2 DATE 15 AUG 1971
-2 PLAC , , St Ursula's,Baltimore,Maryland,USA
+2 PLAC , , St Ursula's, Baltimore, Maryland, USA
 1 _UID B6CD02D044FB1C45952CE8AEE98D45535A67
 1 FAMS @F162@
 1 FAMC @F58@
@@ -6810,10 +6801,10 @@
 1 SEX F
 1 BIRT
 2 DATE 11 AUG 1972
-2 PLAC , ,St Joseph's,Baltimore,Maryland,USA
+2 PLAC , , St Joseph's, Baltimore, Maryland, USA
 1 CHR
 2 DATE 1 OCT 1972
-2 PLAC , , St Ursula's,Baltimore,Maryland,USA
+2 PLAC , , St Ursula's, Baltimore, Maryland, USA
 1 _UID 06FDD4C2B3C58C42979A1A305B8D6847F1EE
 1 FAMS @F163@
 1 FAMS @F164@
@@ -6821,8 +6812,8 @@
 1 DIV Y
 1 DIV Y
 1 CHAN
-2 DATE 4 MAR 2006
-3 TIME 20:29:11
+2 DATE 24 MAR 2022
+3 TIME 02:31:50
 0 @I463@ INDI
 1 NAME Rebecca Jean /Nieberlein/
 2 SURN Nieberlein
@@ -6830,10 +6821,10 @@
 1 SEX F
 1 BIRT
 2 DATE 26 JUN 1977
-2 PLAC , , St Joseph's,Baltimore,Maryland,USA
+2 PLAC , , St Joseph's, Baltimore, Maryland, USA
 1 CHR
 2 DATE 7 AUG 1977
-2 PLAC , , St Ursula's,Baltimore,Maryland,USA
+2 PLAC , , St Ursula's, Baltimore, Maryland, USA
 1 _UID 0FCE259F2E48494088944D6DA350A73848B2
 1 FAMC @F58@
 1 CHAN
@@ -6846,10 +6837,10 @@
 1 SEX M
 1 BIRT
 2 DATE 8 JUL 1980
-2 PLAC , , St Ursula's,Baltimore,Maryland,USA
+2 PLAC , , St Ursula's, Baltimore, Maryland, USA
 1 CHR
 2 DATE 7 SEP 1980
-2 PLAC , , St Ursula's,Baltimore,Maryland,USA
+2 PLAC , , St Ursula's, Baltimore, Maryland, USA
 1 _UID EA3836AC1E724D4EBF5F520219CC3C13D580
 1 FAMC @F58@
 1 CHAN
@@ -6862,7 +6853,7 @@
 1 SEX M
 1 BIRT
 2 DATE 5 AUG 1948
-2 PLAC , , , , ,Baltimore,Maryland,USA
+2 PLAC , , , , , Baltimore, Maryland, USA
 1 CHR
 2 DATE 22 AUG 1948
 2 PLAC , , , , , St. Anne's
@@ -6878,10 +6869,10 @@
 1 SEX M
 1 BIRT
 2 DATE 28 JAN 1972
-2 PLAC , , St Joseph's,Baltimore,Maryland,USA
+2 PLAC , , St Joseph's, Baltimore, Maryland, USA
 1 CHR
 2 DATE 5 MAR 1972
-2 PLAC , , St Ursula's,Baltimore,Maryland,USA
+2 PLAC , , St Ursula's, Baltimore, Maryland, USA
 1 _UID E5E5D8CBFEE1A94D9B778B286AD8F5BCFAB5
 1 FAMS @F165@
 1 FAMC @F59@
@@ -6895,10 +6886,10 @@
 1 SEX F
 1 BIRT
 2 DATE 9 AUG 1974
-2 PLAC , ,St Joseph's,Baltimore,Maryland,USA
+2 PLAC , , St Joseph's, Baltimore, Maryland, USA
 1 CHR
 2 DATE 1 SEP 1974
-2 PLAC , , St Ursula's,Baltimore,Maryland,USA
+2 PLAC , , St Ursula's, Baltimore, Maryland, USA
 1 _UID 97C1954323403B4D8E3FF3A4CBD84D76E586
 1 FAMS @F166@
 1 FAMC @F59@
@@ -6912,10 +6903,10 @@
 1 SEX F
 1 BIRT
 2 DATE 20 OCT 1980
-2 PLAC , ,St Joseph's,Baltimore,Maryland,USA
+2 PLAC , , St Joseph's, Baltimore, Maryland, USA
 1 CHR
 2 DATE NOV 1980
-2 PLAC , , Immaculate Heart of Mary,Baltimore,Maryland,USA
+2 PLAC , , Immaculate Heart of Mary, Baltimore, Maryland, USA
 1 _UID FB06E3B6CC085548B59B5C13BD363331210D
 1 FAMS @F167@
 1 FAMC @F59@
@@ -6929,10 +6920,10 @@
 1 SEX M
 1 BIRT
 2 DATE 9 MAR 1951
-2 PLAC , , , , Old Sinai Hospital,Baltimore,Maryland,USA
+2 PLAC , , , , Old Sinai Hospital, Baltimore, Maryland, USA
 1 CHR
 2 DATE 1 APR 1951
-2 PLAC , , , , , Holy Rosary Church,Govans,Maryland,USA
+2 PLAC , , , , , Holy Rosary Church, Govans, Maryland, USA
 1 _UID 2C49F7BA5C35E3458FE561626834AFD13233
 1 FAMS @F60@
 1 CHAN
@@ -6945,10 +6936,10 @@
 1 SEX M
 1 BIRT
 2 DATE 18 JUL 1976
-2 PLAC , ,St Joseph's,Baltimore,Maryland,USA
+2 PLAC , , St Joseph's, Baltimore, Maryland, USA
 1 CHR
 2 DATE 5 SEP 1976
-2 PLAC , , St Ursula's,Baltimore,Maryland,USA
+2 PLAC , , St Ursula's, Baltimore, Maryland, USA
 1 _UID 8C4C53367106C249B182337CD6E808D45FD7
 1 FAMS @F156@
 1 FAMC @F60@
@@ -6962,10 +6953,10 @@
 1 SEX M
 1 BIRT
 2 DATE 11 NOV 1978
-2 PLAC , ,St Joseph's,Baltimore,Maryland,USA
+2 PLAC , , St Joseph's, Baltimore, Maryland, USA
 1 CHR
 2 DATE FEB 1979
-2 PLAC , , St Ursula's,Baltimore,Maryland,USA
+2 PLAC , , St Ursula's, Baltimore, Maryland, USA
 1 _UID FA922E232041D34E9BB3852F9D83817678FB
 1 FAMS @F157@
 1 FAMC @F60@
@@ -6991,9 +6982,9 @@
 1 SEX M
 1 BIRT
 2 DATE 11 MAY 1983
-2 PLAC , , GBMC,Baltimore,Maryland,USA
+2 PLAC , , GBMC, Baltimore, Maryland, USA
 1 CHR
-2 PLAC , , St Issac Jaques, Towson,Maryland,USA
+2 PLAC , , St Issac Jaques, Towson, Maryland, USA
 1 _UID C3ACF0A63E2FF546989BDEF0A7E490F9C209
 1 FAMC @F61@
 1 CHAN
@@ -7006,9 +6997,9 @@
 1 SEX M
 1 BIRT
 2 DATE 4 MAY 1988
-2 PLAC , ,GBMC,Baltimore,Maryland,USA
+2 PLAC , , GBMC, Baltimore, Maryland, USA
 1 CHR
-2 PLAC , , , , , St Issac Jaques,Towson,Maryland,USA
+2 PLAC , , , , , St Issac Jaques, Towson, Maryland, USA
 1 _UID C586AE4E9D7A2943826DD194F6EE93E277B2
 1 FAMC @F61@
 1 CHAN
@@ -7021,10 +7012,10 @@
 1 SEX F
 1 BIRT
 2 DATE 10 OCT 1991
-2 PLAC , , GBMC,Baltimore,Maryland,USA
+2 PLAC , , GBMC, Baltimore, Maryland, USA
 1 CHR
 2 DATE NOV 1991
-2 PLAC , , Immaculate Heart of Mary,Baltimore,Maryland,USA
+2 PLAC , , Immaculate Heart of Mary, Baltimore, Maryland, USA
 1 _UID 34DAC8A8857BA9489A6EC4CFF1CA629BC21B
 1 FAMC @F61@
 1 CHAN
@@ -7037,7 +7028,7 @@
 1 SEX M
 1 BIRT
 2 DATE 9 NOV 1955
-2 PLAC , , , , , Lower Burrell,Pennsylvania,USA
+2 PLAC , , , , , Lower Burrell, Pennsylvania, USA
 1 _UID A25D97B3E8F734438E009D679BB89CF010A9
 1 FAMS @F62@
 1 CHAN
@@ -7050,9 +7041,9 @@
 1 SEX M
 1 BIRT
 2 DATE 3 AUG 1980
-2 PLAC , , , , ,Baltimore County,Maryland,USA
+2 PLAC , , , , , Baltimore County, Maryland, USA
 1 CHR
-2 PLAC , , , , , St Marys,Govans,Maryland,USA
+2 PLAC , , , , , St Marys, Govans, Maryland, USA
 1 _UID 8BF28EDC7C434C4B87E8BD5AAE520E6D3E11
 1 FAMC @F62@
 1 CHAN
@@ -7065,9 +7056,9 @@
 1 SEX M
 1 BIRT
 2 DATE 3 MAY 1983
-2 PLAC , , , , , Baltimore County,Maryland,USA
+2 PLAC , , , , , Baltimore County, Maryland, USA
 1 CHR
-2 PLAC , , , , , St Marys,Govans,Maryland,USA
+2 PLAC , , , , , St Marys, Govans, Maryland, USA
 1 _UID 342BD8AAD5621F42BE301B3D39691335A97E
 1 FAMC @F62@
 1 CHAN
@@ -7080,7 +7071,7 @@
 1 SEX F
 1 BIRT
 2 DATE 22 FEB 1985
-2 PLAC , , , , , Baltimore County,Maryland,USA
+2 PLAC , , , , , Baltimore County, Maryland, USA
 1 _UID 2AE5A9DE2E38544BA0F0347BAF71749301C3
 1 FAMC @F62@
 1 CHAN
@@ -7093,10 +7084,10 @@
 1 SEX F
 1 BIRT
 2 DATE 13 SEP 1958
-2 PLAC , , Johns Hopkins,Baltimore,Maryland,USA
+2 PLAC , , Johns Hopkins, Baltimore, Maryland, USA
 1 CHR
 2 DATE OCT 1958
-2 PLAC , , St Jerome RC,Baltimore,Maryland,USA
+2 PLAC , , St Jerome RC, Baltimore, Maryland, USA
 1 _UID B3C46ED100FFBE45BCFCA772167B448DEBE1
 1 FAMS @F98@
 1 NOTE parents are peter frank guercio and vera paulette commarata
@@ -7110,9 +7101,9 @@
 1 SEX F
 1 BIRT
 2 DATE 11 MAY 1967
-2 PLAC , , , Jamacia,NY,USA
+2 PLAC , , , Jamacia, NY, USA
 1 CHR
-2 PLAC , , , Jamacia, NY,USA
+2 PLAC , , , Jamacia, NY, USA
 1 _UID 29BA59A68F43E9468D1411F35EBD1E955680
 1 FAMS @F99@
 1 NOTE parents dennis edward paterson and mary charlotte prusok
@@ -7126,10 +7117,10 @@
 1 SEX F
 1 BIRT
 2 DATE 26 SEP 1989
-2 PLAC , , Harbor Hospital,Baltimore,Maryland,USA
+2 PLAC , , Harbor Hospital, Baltimore, Maryland, USA
 1 CHR
 2 DATE DEC 1989
-2 PLAC , , Patronage Mother,Baltimore,Maryland,USA
+2 PLAC , , Patronage Mother, Baltimore, Maryland, USA
 1 _UID 226E58A424AFAC4E9A1436BE686418745327
 1 FAMC @F99@
 1 CHAN
@@ -7142,10 +7133,10 @@
 1 SEX M
 1 BIRT
 2 DATE 19 OCT 1990
-2 PLAC , , Harbor Hospital,Baltimore,Maryland,USA
+2 PLAC , , Harbor Hospital, Baltimore, Maryland, USA
 1 CHR
 2 DATE FEB 1991
-2 PLAC , , Patronage Mother,Baltimore,Maryland,USA
+2 PLAC , , Patronage Mother, Baltimore, Maryland, USA
 1 _UID 0B942F9E6786754B88A3998E5E93BD465FC1
 1 FAMC @F99@
 1 CHAN
@@ -7158,10 +7149,10 @@
 1 SEX F
 1 BIRT
 2 DATE 25 JAN 1993
-2 PLAC , , Harbor Hospital,Baltimore,Maryland,USA
+2 PLAC , , Harbor Hospital, Baltimore, Maryland, USA
 1 CHR
 2 DATE 18 APR 1993
-2 PLAC , , Patronage Mother,Baltimore,Maryland,USA
+2 PLAC , , Patronage Mother, Baltimore, Maryland, USA
 1 _UID 260D050AC5177847AA611EF27B9AAFB57185
 1 FAMC @F99@
 1 CHAN
@@ -7177,9 +7168,9 @@
 2 PLAC , , , Kutna Hora, , CZ
 1 DEAT
 2 DATE 1 JAN 1978
-2 PLAC , , ,Baltimore,Maryland,USA
+2 PLAC , , , Baltimore, Maryland, USA
 1 BURI
-2 PLAC , , Holy Redeemer,Baltimore,Maryland,USA
+2 PLAC , , Holy Redeemer, Baltimore, Maryland, USA
 1 _UID 1163690B548C244BAF8377E82DCEE18D31F5
 1 FAMS @F141@
 1 FAMC @F29@
@@ -7195,10 +7186,10 @@
 2 DATE 1888
 1 DEAT
 2 DATE 1962
-2 PLAC , , ,Baltimore,Maryland,USA
+2 PLAC , , , Baltimore, Maryland, USA
 1 BURI
 2 DATE 1962
-2 PLAC , , Holy Redeemer,Baltimore,Maryland,USA
+2 PLAC , , Holy Redeemer, Baltimore, Maryland, USA
 1 _UID 889E5103A12F204099ABC2C7BF19C3BED0D7
 1 FAMS @F141@
 1 CHAN
@@ -7211,7 +7202,7 @@
 1 SEX F
 1 BIRT
 2 DATE 22 JUN 1919
-2 PLAC , , ,Baltimore,Maryland,USA
+2 PLAC , , , Baltimore, Maryland, USA
 1 _UID BCA756EBD564184F93B58901578B8032AA20
 1 FAMC @F141@
 1 CHAN
@@ -7224,7 +7215,7 @@
 1 SEX F
 1 BIRT
 2 DATE 2 JAN 1921
-2 PLAC , , ,Baltimore,Maryland,USA
+2 PLAC , , , Baltimore, Maryland, USA
 1 DEAT
 2 DATE 1986
 1 _UID 7B61C8FD7344DB4290A17D4CE5DE77903955
@@ -7239,7 +7230,7 @@
 1 SEX F
 1 BIRT
 2 DATE 7 JUL 1929
-2 PLAC , , ,Baltimore,Maryland,USA
+2 PLAC , , , Baltimore, Maryland, USA
 1 _UID 252DBE1CCF19C049B30C765A0F767DBB6960
 1 FAMC @F141@
 1 CHAN
@@ -7252,7 +7243,7 @@
 1 SEX F
 1 BIRT
 2 DATE 10 JUL 1933
-2 PLAC , , ,Baltimore,Maryland,USA
+2 PLAC , , , Baltimore, Maryland, USA
 1 _UID 918AEB4EFC58D2468F0498E7400E815EFF69
 1 FAMC @F141@
 1 CHAN
@@ -7268,10 +7259,10 @@
 2 PLAC , , , , Kutna Hora, Czechoslovakia
 1 DEAT
 2 DATE 10 APR 1950
-2 PLAC , , ,Baltimore,Maryland,USA
+2 PLAC , , , Baltimore, Maryland, USA
 1 BURI
 2 DATE 1950
-2 PLAC , , Holy Redeemer,Baltimore,Maryland,USA
+2 PLAC , , Holy Redeemer, Baltimore, Maryland, USA
 1 _UID F0E1B71A3BD09F4CA81BEB4C79AA4E8E9120
 1 FAMC @F29@
 1 CHAN
@@ -7286,10 +7277,10 @@
 2 DATE 30 SEP 1904
 1 DEAT
 2 DATE 12 MAR 1955
-2 PLAC , , ,Baltimore,Maryland,USA
+2 PLAC , , , Baltimore, Maryland, USA
 1 BURI
 2 DATE 1955
-2 PLAC , , Holy Redeemer,Baltimore,Maryland,USA
+2 PLAC , , Holy Redeemer, Baltimore, Maryland, USA
 1 _UID FCB8268EA35ADE41B87B1D1C558516E7C796
 1 CHAN
 2 DATE 6 JAN 2006
@@ -7368,7 +7359,7 @@
 1 SEX M
 1 BIRT
 2 DATE 1 JUN 2000
-2 PLAC , , , , , San Diego, California,USA
+2 PLAC , , , , , San Diego, California, USA
 1 _UID 4908C88047682D41A2DAE3D229C61C0F01FE
 1 FAMC @F152@
 1 CHAN
@@ -7381,7 +7372,7 @@
 1 SEX F
 1 BIRT
 2 DATE 7 JUN 1968
-2 PLAC , , , , , Effie,Minnesota,USA
+2 PLAC , , , , , Effie, Minnesota, USA
 1 _UID 0F5708BA2D61894D974A0B0334D36F7364EA
 1 FAMS @F152@
 1 CHAN
@@ -7395,7 +7386,7 @@
 1 SEX F
 1 BIRT
 2 DATE 2 AUG 1970
-2 PLAC , , , , , Pueblo,Colorado,USA
+2 PLAC , , , , , Pueblo, Colorado, USA
 1 _UID 6705E46FD65DBF4096D587E6E6A82E30B5DA
 1 FAMS @F142@
 1 CHAN
@@ -7441,7 +7432,7 @@
 1 SEX M
 1 BIRT
 2 DATE 22 JUL 1989
-2 PLAC , , , , , Sinai Hospital,Baltimore,Maryland,USA
+2 PLAC , , , , , Sinai Hospital, Baltimore, Maryland, USA
 1 CHR
 2 DATE SEP 1989
 1 _UID F2BE580E0A19A24FB9162850DC48B5246E26
@@ -7457,10 +7448,10 @@
 1 SEX F
 1 BIRT
 2 DATE 11 JAN 1994
-2 PLAC , , , , , Harbor Hospital,Baltimore,Maryland,USA
+2 PLAC , , , , , Harbor Hospital, Baltimore, Maryland, USA
 1 CHR
 2 DATE APR 1994
-2 PLAC , , , , , St John's,Westminster,Maryland,USA
+2 PLAC , , , , , St John's, Westminster, Maryland, USA
 1 _UID FA41BF8F28E5C84D9C0ECF955158C4EF1528
 1 FAMC @F79@
 1 CHAN
@@ -7473,10 +7464,10 @@
 1 SEX M
 1 BIRT
 2 DATE 24 MAR 1958
-2 PLAC , , , , , Henry Haywood Mem. Hospital, Gardner, Massachusetts,USA
+2 PLAC , , , , , Henry Haywood Mem. Hospital, Gardner, Massachusetts, USA
 1 CHR
 2 DATE 1958
-2 PLAC , , , , , Holy Spirit Catholic Church,Gardner, Massachusetts,USA
+2 PLAC , , , , , Holy Spirit Catholic Church, Gardner, Massachusetts, USA
 1 _UID 951624ECF535004CA005A523C8B304F310E1
 1 FAMS @F144@
 1 CHAN
@@ -7507,7 +7498,7 @@
 2 PLAC , , , , , St. Benedicts
 1 DEAT
 2 DATE 27 APR 1991
-2 PLAC , , , , , Christian Temple,Catonsville,Maryland,USA
+2 PLAC , , , , , Christian Temple, Catonsville, Maryland, USA
 1 _UID 3F7CB73931318742ADE525820DB924BEB792
 1 FAMS @F146@
 1 CHAN
@@ -7521,10 +7512,10 @@
 1 SEX M
 1 BIRT
 2 DATE 5 OCT 2000
-2 PLAC , , , , , Anne Arundel Medical Center,Annapolis,Maryland,USA
+2 PLAC , , , , , Anne Arundel Medical Center, Annapolis, Maryland, USA
 1 CHR
 2 DATE 11 FEB 2001
-2 PLAC , , , , , Church of the Crucifixion,Glen Burnie,Maryland,USA
+2 PLAC , , , , , Church of the Crucifixion, Glen Burnie, Maryland, USA
 1 _UID 32166255E963EF42AF06DCE0EC1CDF84585C
 1 FAMC @F149@
 1 CHAN
@@ -7537,7 +7528,7 @@
 1 SEX M
 1 BIRT
 2 DATE 15 MAY 1962
-2 PLAC , , , , ,Baltimore,Maryland,USA
+2 PLAC , , , , , Baltimore, Maryland, USA
 1 CHR
 2 DATE 27 MAY 1962
 2 PLAC , , , , , St. Anthony of Padua
@@ -7553,10 +7544,10 @@
 1 SEX F
 1 BIRT
 2 DATE 12 MAY 1948
-2 PLAC , , , , , Ridgely Township,Folsom,Pennsylvania,USA
+2 PLAC , , , , , Ridgely Township, Folsom, Pennsylvania, USA
 1 CHR
 2 DATE 1960
-2 PLAC , , , , , Folsom Presbyterian Church,Folsom,Pennsylvania,USA
+2 PLAC , , , , , Folsom Presbyterian Church, Folsom, Pennsylvania, USA
 1 _UID D3A9C205001317419F1E9850399CCA04F62E
 1 FAMS @F148@
 1 CHAN
@@ -7569,7 +7560,7 @@
 1 SEX F
 1 BIRT
 2 DATE 18 MAY 1994
-2 PLAC , , , , ,Baltimore,Maryland,USA
+2 PLAC , , , , , Baltimore, Maryland, USA
 1 CHR
 2 DATE JUN 1994
 2 PLAC , , , , , Byzantine Catholic Patronage Mother of God
@@ -7585,10 +7576,10 @@
 1 SEX M
 1 BIRT
 2 DATE 11 APR 1955
-2 PLAC , , , , ,Baltimore,Maryland,USA
+2 PLAC , , , , , Baltimore, Maryland, USA
 1 CHR
 2 DATE 1 MAY 1955
-2 PLAC , , , , , Holy Trinity,Glen Burnie,Maryland,USA
+2 PLAC , , , , , Holy Trinity, Glen Burnie, Maryland, USA
 1 _UID 37685A80E00EE441AD3E18FFA7DC5CE956B5
 1 FAMS @F150@
 1 CHAN
@@ -7601,7 +7592,7 @@
 1 SEX M
 1 BIRT
 2 DATE 11 AUG 1994
-2 PLAC , , , , , Holy Cross Hospital,Silver Spring,Maryland,USA
+2 PLAC , , , , , Holy Cross Hospital, Silver Spring, Maryland, USA
 1 _UID 5CD7D5C11CFBD04BBC0708CC6E6EB09FBDE6
 1 FAMC @F118@
 1 CHAN
@@ -7614,7 +7605,7 @@
 1 SEX F
 1 BIRT
 2 DATE 17 SEP 1996
-2 PLAC , , , , , Holy Cross Hospital, Silver Spring,Maryland,USA
+2 PLAC , , , , , Holy Cross Hospital, Silver Spring, Maryland, USA
 1 _UID F1CE31B6ADDEC14AA34437F8EB14F8DA23A0
 1 FAMC @F118@
 1 CHAN
@@ -7627,10 +7618,10 @@
 1 SEX M
 1 BIRT
 2 DATE 9 AUG 1990
-2 PLAC , , , , , Frederick Hospital, Frederick,Maryland,USA
+2 PLAC , , , , , Frederick Hospital, Frederick, Maryland, USA
 1 CHR
 2 DATE 28 OCT 1990
-2 PLAC , , , , , St John the Evangelist, Frederick,Maryland,USA
+2 PLAC , , , , , St John the Evangelist, Frederick, Maryland, USA
 1 _UID 85E6F465D7B5304D97116DB08CBEAC34BCD6
 1 FAMC @F119@
 1 CHAN
@@ -7643,10 +7634,10 @@
 1 SEX M
 1 BIRT
 2 DATE 20 MAY 1966
-2 PLAC , , , , , Cheverly,Maryland,USA
+2 PLAC , , , , , Cheverly, Maryland, USA
 1 CHR
 2 DATE 1979
-2 PLAC , , , , , St. Matthew's Presbyterian Church, Aspen Hill,Maryland,USA
+2 PLAC , , , , , St. Matthew's Presbyterian Church, Aspen Hill, Maryland, USA
 1 _UID 4520C6714DD6E445AB7A6F6B0C71FF5CBF20
 1 FAMS @F151@
 1 CHAN
@@ -7659,7 +7650,7 @@
 1 SEX F
 1 BIRT
 2 DATE 1 JUN 2000
-2 PLAC , , , , , San Diego,California,USA
+2 PLAC , , , , , San Diego, California, USA
 1 _UID AB701D2989851147AD77A61C25F2EEA6583C
 1 FAMC @F152@
 1 CHAN
@@ -7672,7 +7663,7 @@
 1 SEX M
 1 BIRT
 2 DATE 24 DEC 2001
-2 PLAC , , , , , San Diego,California,USA
+2 PLAC , , , , , San Diego, California, USA
 1 _UID 8DDC2166B36BBF43B2544E6FC3E2C3CF0A60
 1 FAMC @F152@
 1 CHAN
@@ -7706,7 +7697,7 @@
 1 SEX F
 1 BIRT
 2 DATE 12 JUN 1977
-2 PLAC , , , , , Port Smith,Virginia,USA
+2 PLAC , , , , , Port Smith, Virginia, USA
 1 _UID 46B543F1D1C9BF4E8DD9BEEF4825E1C6FD12
 1 FAMS @F156@
 1 CHAN
@@ -7719,7 +7710,7 @@
 1 SEX F
 1 BIRT
 2 DATE 8 OCT 1979
-2 PLAC , , , , , Easton,Maryland,USA
+2 PLAC , , , , , Easton, Maryland, USA
 1 _UID 7144B11CA565EB4AA422FC81D5D89CF64386
 1 FAMS @F157@
 1 CHAN
@@ -7732,7 +7723,7 @@
 1 SEX F
 1 BIRT
 2 DATE 13 AUG 2004
-2 PLAC , , , , ,Upper Chesapeake Harford County,Maryland,USA
+2 PLAC , , , , , Upper Chesapeake Harford County, Maryland, USA
 1 _UID EAE9B61A8D60524A954C29FC466B874EB86A
 1 FAMC @F157@
 1 CHAN
@@ -7745,7 +7736,7 @@
 1 SEX F
 1 BIRT
 2 DATE 18 OCT 2002
-2 PLAC , , , , , Upper Chesapeake Harford County,Maryland,USA
+2 PLAC , , , , , Upper Chesapeake Harford County, Maryland, USA
 1 _UID 81BFB1A56DDD35419CDADEA4E89225C3B0E7
 1 FAMC @F156@
 1 CHAN
@@ -7809,7 +7800,7 @@
 2 PLAC , , , , , St. Agnes Hospital
 1 CHR
 2 DATE 1989
-2 PLAC , , , , , St. Johns Methodist, Hampstead,Maryland,USA
+2 PLAC , , , , , St. Johns Methodist, Hampstead, Maryland, USA
 1 _UID F7BB4D6B500F3340BB6F8D794E827023CFFA
 1 FAMC @F145@
 1 CHAN
@@ -7822,7 +7813,7 @@
 1 SEX F
 1 BIRT
 2 DATE 22 SEP 1983
-2 PLAC , , , , , Naval Regional Medical Center,,North Carolina,USA
+2 PLAC , , , , , Naval Regional Medical Center, , North Carolina, USA
 1 CHR
 2 DATE OCT 1983
 2 PLAC , , , , , Lansdowne Christian Church
@@ -7838,10 +7829,10 @@
 1 SEX M
 1 BIRT
 2 DATE 13 APR 1989
-2 PLAC , , , , , University of Virginia Hospital, Charlottesville, Virginia,USA
+2 PLAC , , , , , University of Virginia Hospital, Charlottesville, Virginia, USA
 1 CHR
 2 DATE MAY 1989
-2 PLAC , , , , , Park St. Christian Church, Charlottesville,Virginia,USA
+2 PLAC , , , , , Park St. Christian Church, Charlottesville, Virginia, USA
 1 _UID 7D2CC5ADA4198C41800EB7C8FD57830D9617
 1 FAMC @F144@
 1 CHAN
@@ -7854,7 +7845,7 @@
 1 SEX F
 1 BIRT
 2 DATE 6 SEP 1985
-2 PLAC , , , , , Howard County General Hospital,Columbia,Maryland,USA
+2 PLAC , , , , , Howard County General Hospital, Columbia, Maryland, USA
 1 CHR
 2 PLAC , , , , , St Benedicts
 1 _UID 9C25115BADE3654C97781B271A5AC0241772
@@ -7869,7 +7860,7 @@
 1 SEX M
 1 BIRT
 2 DATE 6 APR 1993
-2 PLAC , , , , , Howard County General Hospital,Columbia,Maryland,USA
+2 PLAC , , , , , Howard County General Hospital, Columbia, Maryland, USA
 1 CHR
 2 PLAC , , , , , St. Benedicts
 1 _UID BC8BCB2C39FA734FA39E79F95C9C5CFF3902
@@ -7884,7 +7875,7 @@
 1 SEX M
 1 BIRT
 2 DATE 22 AUG 1995
-2 PLAC , , , , , Howard County General Hospital,Columbia,Maryland,USA
+2 PLAC , , , , , Howard County General Hospital, Columbia, Maryland, USA
 1 CHR
 2 PLAC , , , , , St Benedicts
 1 _UID 103360785D1AD64CBE5440AA4EAA71526B4F
@@ -7901,7 +7892,7 @@
 2 DATE 19 FEB 1961
 2 PLAC , , , , , St Agnes Hospital
 1 CHR
-2 PLAC , , , , , Holy Trinity Church, Glen Burnie,Maryland,USA
+2 PLAC , , , , , Holy Trinity Church, Glen Burnie, Maryland, USA
 1 _UID 555F01276AEBBD408FD8AF96AC47E202B150
 1 FAMS @F159@
 1 CHAN
@@ -7914,10 +7905,10 @@
 1 SEX M
 1 BIRT
 2 DATE 19 MAR 2002
-2 PLAC , , , , , Howard County General Hospital,Columbia,Maryland,USA
+2 PLAC , , , , , Howard County General Hospital, Columbia, Maryland, USA
 1 CHR
 2 DATE 9 JUN 2002
-2 PLAC , , , , , Holy Trinity Church, Glen Burnie,Maryland,USA
+2 PLAC , , , , , Holy Trinity Church, Glen Burnie, Maryland, USA
 1 _UID CD40A232E85A494AACB6FBCF51EE8EFCAB95
 1 FAMC @F159@
 1 CHAN
@@ -7940,10 +7931,10 @@
 1 SEX M
 1 BIRT
 2 DATE 26 MAY 2003
-2 PLAC , , , , ,Baltimore County,Maryland,USA
+2 PLAC , , , , , Baltimore County, Maryland, USA
 1 CHR
 2 DATE JUN 2003
-2 PLAC , , , , , St. Ursula,Baltimore,Maryland,USA
+2 PLAC , , , , , St. Ursula, Baltimore, Maryland, USA
 1 _UID 3D186F5A14AFD44886292F80FCD56370FFAF
 1 FAMC @F160@
 1 CHAN
@@ -7956,7 +7947,7 @@
 1 SEX F
 1 BIRT
 2 DATE 23 MAR 1979
-2 PLAC , , , , , Franklin Square Hospital,Baltimore,Maryland,USA
+2 PLAC , , , , , Franklin Square Hospital, Baltimore, Maryland, USA
 1 CHR
 2 PLAC , , , , , Our Lady Queen of Peace
 1 _UID 01354782C2A5F74A8E7C7DF9D0C4DCD36ACC
@@ -7971,7 +7962,7 @@
 1 SEX M
 1 BIRT
 2 DATE 6 JUL 1980
-2 PLAC , , , , , Franklin Square Hospital,Baltimore,Maryland,USA
+2 PLAC , , , , , Franklin Square Hospital, Baltimore, Maryland, USA
 1 CHR
 2 PLAC , , , , , Our Lady Queen of Peace
 1 _UID 240300B1DD562140B1EA34038F5BAFE7BEC9
@@ -7986,7 +7977,7 @@
 1 SEX F
 1 BIRT
 2 DATE 23 JUL 1969
-2 PLAC , , , , ,Baltimore,Maryland,USA
+2 PLAC , , , , , Baltimore, Maryland, USA
 1 CHR
 2 DATE AUG 1969
 2 PLAC , , , , , Basilica of the Assumption
@@ -8002,7 +7993,7 @@
 1 SEX M
 1 BIRT
 2 DATE 8 FEB 2003
-2 PLAC , , , , , Baltimore County,Maryland,USA
+2 PLAC , , , , , Baltimore County, Maryland, USA
 1 _UID 058BCC722BA2DE4197A5CEB1193B87095906
 1 FAMC @F162@
 1 CHAN
@@ -8015,7 +8006,7 @@
 1 SEX M
 1 BIRT
 2 DATE 11 DEC 1971
-2 PLAC , , , , ,Baltimore,Maryland,USA
+2 PLAC , , , , , Baltimore, Maryland, USA
 1 CHR
 2 DATE 9 JAN 1972
 2 PLAC , , , , , St. Anthonys
@@ -8031,7 +8022,7 @@
 1 SEX F
 1 BIRT
 2 DATE 14 NOV 1994
-2 PLAC , , , , ,Baltimore County,Maryland,USA
+2 PLAC , , , , , Baltimore County, Maryland, USA
 1 CHR
 2 DATE FEB 1995
 2 PLAC , , , , , St. Josephs
@@ -8047,7 +8038,7 @@
 1 SEX M
 1 BIRT
 2 DATE 29 NOV 1972
-2 PLAC , , , , ,Baltimore,Maryland,USA
+2 PLAC , , , , , Baltimore, Maryland, USA
 1 _UID 2A02F1192B8EE34A8AC3F65A3EE9A3CB4EB6
 1 FAMS @F164@
 1 CHAN
@@ -8060,7 +8051,7 @@
 1 SEX M
 1 BIRT
 2 DATE 14 JAN 2002
-2 PLAC , , , , , Baltimore,Maryland,USA
+2 PLAC , , , , , Baltimore, Maryland, USA
 1 _UID 9CEC030023AC354FB8DCFC32964BF8FA7368
 1 FAMC @F164@
 1 CHAN
@@ -8073,7 +8064,7 @@
 1 SEX M
 1 BIRT
 2 DATE 8 OCT 2004
-2 PLAC , , , , , Richmond,Virginia,USA
+2 PLAC , , , , , Richmond, Virginia, USA
 1 _UID 8C26014F84C4BB4FA01188F7FDB0E98AA496
 1 FAMC @F164@
 1 CHAN
@@ -8086,7 +8077,7 @@
 1 SEX F
 1 BIRT
 2 DATE 5 NOV 1972
-2 PLAC , , , , ,Baltimore,Maryland,USA
+2 PLAC , , , , , Baltimore, Maryland, USA
 1 _UID 56467D7CCC6ACB439202A9953F5D7F905621
 1 FAMS @F165@
 1 CHAN
@@ -8099,10 +8090,10 @@
 1 SEX F
 1 BIRT
 2 DATE 19 DEC 2002
-2 PLAC , , , , ,Baltimore,Maryland,USA
+2 PLAC , , , , , Baltimore, Maryland, USA
 1 CHR
 2 DATE 10 MAR 2003
-2 PLAC , , , , , St. Marys Episcopal,Harford County,Maryland,USA
+2 PLAC , , , , , St. Marys Episcopal, Harford County, Maryland, USA
 1 _UID CE8066B14165A447A7AFC5E3593B875564C1
 1 FAMC @F165@
 1 CHAN
@@ -8115,7 +8106,7 @@
 1 SEX F
 1 BIRT
 2 DATE 25 JAN 2006
-2 PLAC , , , , ,Baltimore,Maryland,USA
+2 PLAC , , , , , Baltimore, Maryland, USA
 1 _UID 7899CD7D023D1747B9019777FDBFC04F8BCE
 1 FAMC @F165@
 1 CHAN
@@ -8128,10 +8119,10 @@
 1 SEX M
 1 BIRT
 2 DATE 18 MAY 1974
-2 PLAC , , , , ,Baltimore County,Maryland,USA
+2 PLAC , , , , , Baltimore County, Maryland, USA
 1 CHR
 2 DATE JUN 1974
-2 PLAC , , , , , St Ursula's,Baltimore,Maryland,USA
+2 PLAC , , , , , St Ursula's, Baltimore, Maryland, USA
 1 _UID 8FD793B4E77A214CA166A94EB5DBAF4C041C
 1 FAMS @F166@
 1 CHAN
@@ -8144,7 +8135,7 @@
 1 SEX F
 1 BIRT
 2 DATE 11 JAN 1999
-2 PLAC , , , , ,Baltimore County,Maryland,USA
+2 PLAC , , , , , Baltimore County, Maryland, USA
 1 _UID 3B9EC47384B1374F9163F286B9C8BE6CE2E4
 1 FAMC @F166@
 1 CHAN
@@ -8157,7 +8148,7 @@
 1 SEX M
 1 BIRT
 2 DATE 7 SEP 2000
-2 PLAC , , , , ,Baltimore County,Maryland,USA
+2 PLAC , , , , , Baltimore County, Maryland, USA
 1 _UID 22293200BB769840A38CECFF182C88B92565
 1 FAMC @F166@
 1 CHAN
@@ -8171,7 +8162,7 @@
 1 SEX M
 1 BIRT
 2 DATE 6 AUG 1978
-2 PLAC , , , , ,Baltimore County,Maryland,USA
+2 PLAC , , , , , Baltimore County, Maryland, USA
 1 _UID 19A4363114254D43B1A6235AC96CD3A069D5
 1 FAMS @F167@
 1 CHAN
@@ -8184,7 +8175,7 @@
 1 SEX F
 1 BIRT
 2 DATE 16 JUL 2005
-2 PLAC , , , , ,Baltimore County,Maryland,USA
+2 PLAC , , , , , Baltimore County, Maryland, USA
 1 _UID C78301E22A50774A8E89AD54808C5E4A34D8
 1 FAMC @F167@
 1 CHAN
@@ -8197,7 +8188,7 @@
 1 SEX F
 1 BIRT
 2 DATE 3 MAR 1956
-2 PLAC , , , , ,Baltimore,Maryland,USA
+2 PLAC , , , , , Baltimore, Maryland, USA
 1 _UID AF18308E44C08B4FA998A53D1905D78C07FF
 1 FAMS @F168@
 1 CHAN
@@ -8249,9 +8240,9 @@
 1 SEX F
 1 BIRT
 2 DATE 23 MAY 1980
-2 PLAC , , , , ,Baltimore,Maryland,USA
+2 PLAC , , , , , Baltimore, Maryland, USA
 1 CHR
-2 PLAC , , , , , St. Issac Jobe,Parkville,Maryland,USA
+2 PLAC , , , , , St. Issac Jobe, Parkville, Maryland, USA
 1 _UID DB37798F3512AD43AC314D4D0AE38073A873
 1 FAMS @F169@
 1 CHAN
@@ -8280,7 +8271,7 @@
 1 SEX F
 1 BIRT
 2 DATE 24 MAY 1973
-2 PLAC , , , , ,Baltimore,Maryland,USA
+2 PLAC , , , , , Baltimore, Maryland, USA
 1 _UID 516A683A323FAA498E316CBA9E20A5525B8F
 1 FAMS @F170@
 1 CHAN
@@ -8296,7 +8287,7 @@
 2 PLAC , , , , , Ukraine
 1 CHR
 2 DATE 1998
-2 PLAC , , , , , St. Claires,Essex,Maryland,USA,adopted
+2 PLAC , , , , , St. Claires, Essex, Maryland, USA, adopted
 1 _UID F82BC0F9B5F7A441B251F6DA96DA4350437D
 1 FAMC @F170@
 1 CHAN
@@ -8309,7 +8300,7 @@
 1 SEX M
 1 BIRT
 2 DATE 22 SEP 1972
-2 PLAC , , , , ,Baltimore,Maryland,USA
+2 PLAC , , , , , Baltimore, Maryland, USA
 1 _UID E4AEE76B0E39C54E861D9308F9D957F69BB6
 1 FAMS @F171@
 1 CHAN
@@ -8325,7 +8316,7 @@
 2 PLAC , , , , , Johns Hopkins Bayview
 1 CHR
 2 DATE MAY 2000
-2 PLAC , , , , , Church of the Resurrection,Glen Bernie,Maryland,USA
+2 PLAC , , , , , Church of the Resurrection, Glen Bernie, Maryland, USA
 1 _UID 2278719FBA08604FA1391EA7D980516CD080
 1 FAMC @F171@
 1 CHAN
@@ -8338,10 +8329,10 @@
 1 SEX F
 1 BIRT
 2 DATE 17 JAN 1952
-2 PLAC , , , , , West Virginia,USA
+2 PLAC , , , , , West Virginia, USA
 1 DEAT
 2 DATE 17 MAY 2004
-2 PLAC , , , , ,Baltimore,Maryland,USA
+2 PLAC , , , , , Baltimore, Maryland, USA
 1 BURI
 2 PLAC , , , , , Cremated
 1 _UID E044CF3C97FFBE4682BFCC55DDC05F4168B2
@@ -8366,9 +8357,9 @@
 1 SEX F
 1 BIRT
 2 DATE 5 DEC 1974
-2 PLAC , , , , ,Baltimore,Maryland,USA
+2 PLAC , , , , , Baltimore, Maryland, USA
 1 CHR
-2 PLAC , , , , , St. Elizabeth ,Baltimore,Maryland,USA
+2 PLAC , , , , , St. Elizabeth, Baltimore, Maryland, USA
 1 _UID DC3B5AFF790BB8468235F4F196B6E8CB8DE4
 1 FAMS @F174@
 1 CHAN
@@ -8381,14 +8372,13 @@
 1 SEX F
 1 BIRT
 2 DATE 31 MAR 2003
-2 PLAC , , , , , Franklin Square Hospital,Baltimore,Maryland,USA
-1 CHR
-2 DATE SHE IS NOT DAWN'S CHILD
+2 PLAC , , , , , Franklin Square Hospital, Baltimore, Maryland, USA
+1 NOTE @N00026@
 1 _UID 54AE53FBE4985C48B9B70FE61C5AE9D60ADA
 1 FAMC @F174@
 1 CHAN
-2 DATE 14 JUL 2006
-3 TIME 10:51:05
+2 DATE 24 MAR 2022
+3 TIME 02:13:25
 0 @I572@ INDI
 1 NAME Christopher /Roth/
 2 SURN Roth
@@ -8396,7 +8386,7 @@
 1 SEX M
 1 BIRT
 2 DATE 8 JAN 1983
-2 PLAC , , , , ,Baltimore,Maryland,USA
+2 PLAC , , , , , Baltimore, Maryland, USA
 1 _UID CA8ADAFC50F82940AAB75AC64E48C9D59072
 1 FAMS @F175@
 1 CHAN
@@ -8409,10 +8399,10 @@
 1 SEX F
 1 BIRT
 2 DATE 5 OCT 2002
-2 PLAC , , , , , Franklin Square Hospital,Baltimore,Maryland,USA
+2 PLAC , , , , , Franklin Square Hospital, Baltimore, Maryland, USA
 1 CHR
 2 DATE OCT 2002
-2 PLAC , , , , , St Clare's,Essex,Maryland,USA
+2 PLAC , , , , , St Clare's, Essex, Maryland, USA
 1 _UID 572C6A87F8AE0C4FA9FC78CAC73F74C09673
 1 FAMC @F175@
 1 CHAN
@@ -8425,10 +8415,10 @@
 1 SEX F
 1 BIRT
 2 DATE 12 SEP 1995
-2 PLAC , , , , , Franklin Square Hospital,Baltimore,Maryland,USA
+2 PLAC , , , , , Franklin Square Hospital, Baltimore, Maryland, USA
 1 CHR
 2 DATE 1 OCT 1995
-2 PLAC , , , , , St. Clare's,Essex,Maryland,USA
+2 PLAC , , , , , St. Clare's, Essex, Maryland, USA
 1 _UID F1339D305B922449BEEB2613C3EB829FFCA6
 1 FAMC @F67@
 1 CHAN
@@ -8454,10 +8444,10 @@
 1 SEX M
 1 BIRT
 2 DATE 5 JUL 1990
-2 PLAC , , , , , Green Bay,WI,USA
+2 PLAC , , , , , Green Bay, WI, USA
 1 CHR
 2 DATE JUL 1990
-2 PLAC , , , Faith Lutheran, Green Bay, WI,USA
+2 PLAC , , , Faith Lutheran, Green Bay, WI, USA
 1 _UID E674691A5574D2488FD254256ADED0994B52
 1 FAMC @F112@
 1 CHAN
@@ -8470,7 +8460,7 @@
 1 SEX F
 1 BIRT
 2 DATE 7 NOV 1970
-2 PLAC , , , , ,Baltimore,Maryland,USA
+2 PLAC , , , , , Baltimore, Maryland, USA
 1 _UID 4C3ADA0DCE087349A18F595163DA669915E5
 1 FAMS @F176@
 1 CHAN
@@ -8515,7 +8505,7 @@
 1 SEX F
 1 BIRT
 2 DATE 14 MAR 1980
-2 PLAC , , , , , Lakewood,Ohio,USA
+2 PLAC , , , , , Lakewood, Ohio, USA
 1 _UID 3958229A4C02DB4EB857B9036E93B1DA1B8B
 1 FAMS @F177@
 1 CHAN
@@ -8564,7 +8554,7 @@
 1 SEX M
 1 BIRT
 2 DATE 16 AUG 2005
-2 PLAC , , , , , North Olmstead, Ohio,USA
+2 PLAC , , , , , North Olmstead, Ohio, USA
 1 _UID 94C3EDD6AE5EB8478988CFBAAE475044484F
 1 FAMC @F179@
 1 CHAN
@@ -8577,7 +8567,7 @@
 1 SEX F
 1 BIRT
 2 DATE 17 JUL 1988
-2 PLAC , , , , , Lakewood,Ohio,USA
+2 PLAC , , , , , Lakewood, Ohio, USA
 1 _UID FFA4D7079669E74EA0149B87E0CD8EA46A70
 1 FAMC @F90@
 1 CHAN
@@ -8602,9 +8592,10 @@
 1 SEX M
 1 BIRT
 2 DATE 8 MAY 1986
-2 PLAC , , , , , Lakewood,Ohio,USA
+2 PLAC , , , , , Lakewood, Ohio, USA
 1 CHR
-2 DATE ST CLEMENT LAKEWOOD OH
+2 TYPE St Clement, Lakewood, Ohio, USA
+2 DATE FROM 8 MAY 1986
 1 _UID 7755B7475F645743B3B03CDD75E0375281DE
 1 FAMC @F180@
 1 CHAN
@@ -8617,7 +8608,7 @@
 1 SEX M
 1 BIRT
 2 DATE 16 MAR 1986
-2 PLAC , , , , , Columbus,Ohio,USA
+2 PLAC , , , , , Columbus, Ohio, USA
 1 _UID 2DDE4A1D64E71A459C46E567FBD74C0B73A4
 1 FAMC @F92@
 1 CHAN
@@ -8630,7 +8621,7 @@
 1 SEX F
 1 BIRT
 2 DATE 8 FEB 1991
-2 PLAC , , , , , Columbus,Ohio,USA
+2 PLAC , , , , , Columbus, Ohio, USA
 1 _UID 8F5D0CF91755D9408884C5DFFA43065FC816
 1 FAMC @F92@
 1 CHAN
@@ -8656,7 +8647,7 @@
 1 CHIL @I7@
 1 MARR
 2 DATE 6 OCT 1962
-2 PLAC , , St. Alphonus RC,Baltimore,Maryland,USA
+2 PLAC , , St. Alphonus RC, Baltimore, Maryland, USA
 1 CHAN
 2 DATE 23 MAR 2022
 3 TIME 17:59:22
@@ -8668,7 +8659,7 @@
 1 CHIL @I9@
 1 MARR
 2 DATE 1 AUG 1936
-2 PLAC , , , , Maryland,USA
+2 PLAC , , , , Maryland, USA
 0 @F3@ FAM
 1 _UID E73D7D6992492D46AA40D582B8F70493DF59
 1 HUSB @I327@
@@ -8676,7 +8667,7 @@
 1 CHIL @I2@
 1 MARR
 2 DATE 17 AUG 1936
-2 PLAC , , Sacred Heart RC,Baltimore,Maryland,USA
+2 PLAC , , Sacred Heart RC, Baltimore, Maryland, USA
 0 @F4@ FAM
 1 _UID BD6FEF2A3CC81E4EAB6D5708ECAC6CA4D48C
 1 HUSB @I14@
@@ -8694,7 +8685,7 @@
 1 CHIL @I25@
 1 MARR
 2 DATE 14 JAN 1892
-2 PLAC , , St Paul`s RC,Baltimore,Maryland,USA
+2 PLAC , , St Paul`s RC, Baltimore, Maryland, USA
 0 @F5@ FAM
 1 _UID AA35A90989768C489F789558E3DF27D92AB2
 1 HUSB @I334@
@@ -8703,7 +8694,7 @@
 1 CHIL @I349@
 1 MARR
 2 DATE 20 DEC 1986
-2 PLAC , , St. Louis RC, Clarksville,Maryland,USA
+2 PLAC , , St. Louis RC, Clarksville, Maryland, USA
 0 @F6@ FAM
 1 _UID 458BDE0E6E5CCA4798920AC956476615ACC3
 1 HUSB @I353@
@@ -8711,7 +8702,7 @@
 1 CHIL @I351@
 1 CHIL @I352@
 1 MARR
-2 PLAC , , St Louis RC, Clarksville,Maryland,USA
+2 PLAC , , St Louis RC, Clarksville, Maryland, USA
 0 @F7@ FAM
 1 _UID 664C459DC957F64BA5F1D932DE33BFF2584B
 1 HUSB @I53@
@@ -8721,7 +8712,7 @@
 1 CHIL @I348@
 1 MARR
 2 DATE 16 JAN 1988
-2 PLAC , , St Louis RC, Clarksville,Maryland,USA
+2 PLAC , , St Louis RC, Clarksville, Maryland, USA
 0 @F8@ FAM
 1 _UID A85FD1056B802645A033BB18A3102A44FAC0
 1 HUSB @I590@
@@ -8744,7 +8735,7 @@
 1 CHIL @I13@
 1 MARR
 2 DATE 19 JUN 1965
-2 PLAC , , ss philip @@ jame,Baltimore,Maryland,USA
+2 PLAC , , ss philip @@ jame, Baltimore, Maryland, USA
 0 @F11@ FAM
 1 _UID 28D53D4603D7494E9AEC566BCEDEE7AF7A86
 1 HUSB @I31@
@@ -8757,7 +8748,7 @@
 1 CHIL @I30@
 1 MARR
 2 DATE 3 MAR 1867
-2 PLAC , , ,Baltimore,Maryland,USA
+2 PLAC , , , Baltimore, Maryland, USA
 0 @F12@ FAM
 1 _UID 28D1977035B3ED4E9BBE57A15F8A4BB65E7D
 1 HUSB @I40@
@@ -8781,7 +8772,7 @@
 1 CHIL @I72@
 1 MARR
 2 DATE 26 APR 1926
-2 PLAC , , ss philip&james,Baltimore,Maryland,USA
+2 PLAC , , ss philip&james, Baltimore, Maryland, USA
 0 @F14@ FAM
 1 _UID 329D7A1EC99AA64D922B7C997F31C45558CE
 1 HUSB @I17@
@@ -8796,7 +8787,7 @@
 1 CHIL @I85@
 1 MARR
 2 DATE 2 JUN 1921
-2 PLAC , , ,Baltimore,Maryland,USA
+2 PLAC , , , Baltimore, Maryland, USA
 0 @F15@ FAM
 1 _UID 9A4D72B500668F4D9FCD5DF95AD2F3EE1F8D
 1 HUSB @I19@
@@ -8831,7 +8822,7 @@
 1 CHIL @I209@
 1 MARR
 2 DATE 20 OCT 1927
-2 PLAC , , ss philip&james,Baltimore,Maryland,USA
+2 PLAC , , ss philip&james, Baltimore, Maryland, USA
 0 @F18@ FAM
 1 _UID BC5472ED8F768145A703AB36F774E5253AB2
 1 HUSB @I25@
@@ -8839,7 +8830,7 @@
 1 CHIL @I56@
 1 CHIL @I57@
 1 MARR
-2 PLAC , , St Michael,Baltimore,Maryland,USA
+2 PLAC , , St Michael, Baltimore, Maryland, USA
 0 @F19@ FAM
 1 _UID 16AED8D45BEDB449B4EE3F73638FEA1AFF34
 1 HUSB @I26@
@@ -8866,7 +8857,7 @@
 1 CHIL @I36@
 1 MARR
 2 DATE 15 FEB 1836
-2 PLAC , , ,  Oylegate RC, Ballynslaney, County Wexford,Ireland
+2 PLAC , , , Oylegate RC, Ballynslaney, County Wexford, Ireland
 0 @F22@ FAM
 1 _UID 704B989EECB56A4EB500C6851159B1298E33
 1 HUSB @I273@
@@ -8910,7 +8901,7 @@
 1 CHIL @I53@
 1 MARR
 2 DATE 7 FEB 1954
-2 PLAC , , , Washington, DC,USA
+2 PLAC , , , Washington, DC, USA
 0 @F27@ FAM
 1 _UID 1122AB8F9C733E42BBEAAA353D2FED57309F
 1 HUSB @I239@
@@ -8918,7 +8909,7 @@
 1 CHIL @I240@
 1 MARR
 2 DATE 25 AUG 1962
-2 PLAC , , St Michael,Baltimore,Maryland,USA
+2 PLAC , , St Michael, Baltimore, Maryland, USA
 0 @F28@ FAM
 1 _UID 01FC08E72BCB854FA0047CD62D7A57A34D5A
 1 HUSB @I241@
@@ -8928,7 +8919,7 @@
 1 CHIL @I244@
 1 MARR
 2 DATE 31 OCT 1959
-2 PLAC , , , , , St Michaels Church, Overlea,Maryland,USA
+2 PLAC , , , , , St Michaels Church, Overlea, Maryland, USA
 0 @F29@ FAM
 1 _UID E6BF421A8A6191498FC258DE4317AD64B898
 1 HUSB @I66@
@@ -8966,14 +8957,14 @@
 1 CHIL @I75@
 1 MARR
 2 DATE 15 MAY 1954
-2 PLAC , , ss philip&james,Baltimore,Maryland,USA
+2 PLAC , , ss philip&james, Baltimore, Maryland, USA
 0 @F35@ FAM
 1 _UID 80275640DB7E4E4182D44D40A7A3E3104585
 1 HUSB @I74@
 1 WIFE @I76@
 1 MARR
 2 DATE 16 JUN 1984
-2 PLAC , , St Johns Church, Severna Park,Maryland,USA
+2 PLAC , , St Johns Church, Severna Park, Maryland, USA
 0 @F36@ FAM
 1 _UID 44BA0D120BB5A249B31197DB37382846DBF0
 1 HUSB @I78@
@@ -9004,7 +8995,7 @@
 1 CHIL @I100@
 1 MARR
 2 DATE 27 NOV 1947
-2 PLAC , , , , , St. Marys,Govans,Maryland,USA
+2 PLAC , , , , , St. Marys, Govans, Maryland, USA
 0 @F39@ FAM
 1 _UID A76D82105E26A94EAAFBE97F5A53F8976A27
 1 HUSB @I101@
@@ -9016,7 +9007,7 @@
 1 CHIL @I106@
 1 MARR
 2 DATE 6 SEP 1948
-2 PLAC , , , , , St. Marys,Govans,Maryland,USA
+2 PLAC , , , , , St. Marys, Govans, Maryland, USA
 0 @F40@ FAM
 1 _UID EDF4712C3995314E85CD0BF83D33A3A8DB99
 1 HUSB @I107@
@@ -9028,14 +9019,14 @@
 1 CHIL @I112@
 1 MARR
 2 DATE 23 FEB 1952
-2 PLAC , , , , , St. Marys,Govans,Maryland,USA
+2 PLAC , , , , , St. Marys, Govans, Maryland, USA
 0 @F41@ FAM
 1 _UID 68BBFB0288B977489801DC5A9AD10891F3F7
 1 HUSB @I413@
 1 WIFE @I83@
 1 MARR
 2 DATE 6 OCT 1990
-2 PLAC , , , , , Our Lady Of Mount Carmel,Essex,Maryland,USA
+2 PLAC , , , , , Our Lady Of Mount Carmel, Essex, Maryland, USA
 0 @F42@ FAM
 1 _UID 3C66904CE91D924B9F87C666A052BC2A8B5B
 1 HUSB @I113@
@@ -9046,7 +9037,7 @@
 1 CHIL @I117@
 1 MARR
 2 DATE 13 SEP 1958
-2 PLAC , , , , , St. Marys,Govans,Maryland,USA
+2 PLAC , , , , , St. Marys, Govans, Maryland, USA
 0 @F43@ FAM
 1 _UID 21522C01FB327D41804076F3BCF281BA9D2D
 1 HUSB @I118@
@@ -9158,7 +9149,7 @@
 1 CHIL @I380@
 1 MARR
 2 DATE 18 OCT 1980
-2 PLAC , , , , , Towson United Methodist Church,Towson,Maryland,USA
+2 PLAC , , , , , Towson United Methodist Church, Towson, Maryland, USA
 0 @F58@ FAM
 1 _UID 49CC1196D5E9A943A90E36024CA0F4649958
 1 HUSB @I460@
@@ -9169,7 +9160,7 @@
 1 CHIL @I464@
 1 MARR
 2 DATE 27 JUL 1968
-2 PLAC , , St Mary's, Govans,Maryland,USA
+2 PLAC , , St Mary's, Govans, Maryland, USA
 0 @F59@ FAM
 1 _UID 18217A27DA147546B0BC40F7EFDEA430C7F7
 1 HUSB @I465@
@@ -9179,7 +9170,7 @@
 1 CHIL @I468@
 1 MARR
 2 DATE 22 JUN 1969
-2 PLAC , , St Mary's, Govans,Maryland,USA
+2 PLAC , , St Mary's, Govans, Maryland, USA
 0 @F60@ FAM
 1 _UID 6CF1118CB10DFC4798BD7A5586BF46AF591B
 1 HUSB @I469@
@@ -9188,7 +9179,7 @@
 1 CHIL @I471@
 1 MARR
 2 DATE 31 MAR 1973
-2 PLAC , , St Mary's, Govans,Maryland,USA
+2 PLAC , , St Mary's, Govans, Maryland, USA
 0 @F61@ FAM
 1 _UID A812B7B0C6E8354186823139325C4B790907
 1 HUSB @I105@
@@ -9208,14 +9199,14 @@
 1 CHIL @I479@
 1 MARR
 2 DATE 5 APR 1979
-2 PLAC , , , , ,Baltimore,Maryland,USA
+2 PLAC , , , , , Baltimore, Maryland, USA
 0 @F63@ FAM
 1 _UID 0961F27C10544241B5C51774DF69FC020A8A
 1 CHIL @I401@
 1 CHIL @I402@
 1 MARR
 2 DATE JUN 1984
-2 PLAC , , , , Towson Courthouse, Towson,Maryland,USA
+2 PLAC , , , , Towson Courthouse, Towson, Maryland, USA
 0 @F64@ FAM
 1 _UID A04281E141C7BB47A559214BB4D549931D07
 1 HUSB @I403@
@@ -9224,7 +9215,7 @@
 1 CHIL @I405@
 1 MARR
 2 DATE 17 JUN 1972
-2 PLAC , , , , , St. Clares,Essex,Maryland,USA
+2 PLAC , , , , , St. Clares, Essex, Maryland, USA
 0 @F65@ FAM
 1 _UID 77E21D04DCE48842A5DA67700A7AF6DBAF4B
 1 HUSB @I406@
@@ -9246,7 +9237,7 @@
 1 CHIL @I574@
 1 MARR
 2 DATE 30 AUG 1975
-2 PLAC , , , , , St. Clares,Essex,Maryland,USA
+2 PLAC , , , , , St. Clares, Essex, Maryland, USA
 0 @F68@ FAM
 1 _UID EE5CCC28F0C44344A5EA352C05799539B5AC
 1 HUSB @I354@
@@ -9255,7 +9246,7 @@
 1 CHIL @I356@
 1 MARR
 2 DATE 17 MAY 1980
-2 PLAC , , , , , Annunciation Church,Baltimore,Maryland,USA
+2 PLAC , , , , , Annunciation Church, Baltimore, Maryland, USA
 0 @F69@ FAM
 1 _UID AC21596CFE126C489F4288F4E0D4A6202D99
 1 DIV Y
@@ -9265,7 +9256,7 @@
 1 CHIL @I359@
 1 MARR
 2 DATE 5 OCT 1985
-2 PLAC , , , , , Annunciation,Baltimore,Maryland,USA 
+2 PLAC , , , , , Annunciation, Baltimore, Maryland, USA
 1 DIV Y
 0 @F70@ FAM
 1 _UID 00B1B19519B3204BB1FA621E6049ECF9E7CA
@@ -9276,7 +9267,7 @@
 1 CHIL @I362@
 1 MARR
 2 DATE 21 SEP 1985
-2 PLAC , , , , , Annunciation,Baltimore,Maryland,USA
+2 PLAC , , , , , Annunciation, Baltimore, Maryland, USA
 0 @F71@ FAM
 1 _UID 4025F9BEE49C8548B347A36DD8376ED5C5BF
 1 DIV Y
@@ -9286,7 +9277,7 @@
 1 CHIL @I365@
 1 MARR
 2 DATE 22 MAR 1975
-2 PLAC , , , , , Immaculate Heart of Mary,Towson,Maryland,USA
+2 PLAC , , , , , Immaculate Heart of Mary, Towson, Maryland, USA
 0 @F72@ FAM
 1 _UID F7A49134EE9E844B98207511CF9FBE7BA01E
 1 HUSB @I370@
@@ -9295,7 +9286,7 @@
 1 CHIL @I372@
 1 MARR
 2 DATE 18 SEP 1982
-2 PLAC , , , , , Holy Cross Church, Towson,Maryland,USA
+2 PLAC , , , , , Holy Cross Church, Towson, Maryland, USA
 0 @F73@ FAM
 1 _UID D33139F9373CE440905BEA060FC6F39101BE
 1 DIV Y
@@ -9312,7 +9303,7 @@
 1 WIFE @I373@
 1 MARR
 2 DATE 16 MAY 1981
-2 PLAC , , , , , Immaculate Heart of Mary,Towson,Maryland,USA
+2 PLAC , , , , , Immaculate Heart of Mary, Towson, Maryland, USA
 0 @F75@ FAM
 1 _UID EF90CD91C57C7A448F32BFA59F98570E9D34
 1 HUSB @I125@
@@ -9322,7 +9313,7 @@
 1 CHIL @I132@
 1 MARR
 2 DATE 6 FEB 1954
-2 PLAC , , , , , Christian Temple Catonsville,Maryland,USA
+2 PLAC , , , , , Christian Temple Catonsville, Maryland, USA
 0 @F76@ FAM
 1 _UID 741120E5BE0CA047836FB441A02BD25E1D6C
 1 HUSB @I133@
@@ -9359,7 +9350,7 @@
 1 CHIL @I506@
 1 MARR
 2 DATE 28 APR 1984
-2 PLAC , , St Clements Church, Lansdowne,Maryland,USA
+2 PLAC , , St Clements Church, Lansdowne, Maryland, USA
 0 @F80@ FAM
 1 _UID C3DA4026A5C839448F05C74CE7251C4F0BA9
 1 HUSB @I148@
@@ -9370,10 +9361,12 @@
 1 CHIL @I158@
 1 CHIL @I159@
 1 CHIL @I160@
-1 CHIL @I161@
 1 MARR
 2 DATE 18 AUG 1951
-2 PLAC , , Blessed Sacrament,Baltimore,Maryland,USA
+2 PLAC , , Blessed Sacrament, Baltimore, Maryland, USA
+1 CHAN
+2 DATE 24 MAR 2022
+3 TIME 02:33:10
 0 @F81@ FAM
 1 _UID F4B68A30BECCB9468796AE60F858076EDDEC
 1 HUSB @I177@
@@ -9384,7 +9377,7 @@
 1 CHIL @I181@
 1 MARR
 2 DATE 12 OCT 1946
-2 PLAC , , St Bernard,Baltimore,Maryland,USA
+2 PLAC , , St Bernard, Baltimore, Maryland, USA
 0 @F82@ FAM
 1 _UID C43340A70ADBB1498421CFBE5C4C3CAA7DA1
 1 HUSB @I150@
@@ -9394,7 +9387,7 @@
 1 CHIL @I192@
 1 MARR
 2 DATE 22 OCT 1955
-2 PLAC , , St Dominic,Baltimore,Maryland,USA
+2 PLAC , , St Dominic, Baltimore, Maryland, USA
 0 @F83@ FAM
 1 _UID B37CB4D2B6B9EE45864DD34B5419DBBA4AE9
 1 HUSB @I151@
@@ -9402,7 +9395,7 @@
 1 CHIL @I195@
 1 MARR
 2 DATE 19 NOV 1960
-2 PLAC , , St Bernard,Baltimore,Maryland,USA
+2 PLAC , , St Bernard, Baltimore, Maryland, USA
 0 @F84@ FAM
 1 _UID 0024803065D8DF41AA2A76417F1902F1474A
 1 HUSB @I152@
@@ -9412,7 +9405,7 @@
 1 CHIL @I199@
 1 MARR
 2 DATE 2 AUG 1958
-2 PLAC , , ss philip&james,Baltimore,Maryland,USA
+2 PLAC , , ss philip&james, Baltimore, Maryland, USA
 0 @F85@ FAM
 1 _UID 663A22D44E3D00468E9049B04CF618926A7D
 1 HUSB @I153@
@@ -9422,7 +9415,7 @@
 1 CHIL @I203@
 1 MARR
 2 DATE 3 JUN 1961
-2 PLAC , , Shrine Little Fl,Baltimore,Maryland,USA
+2 PLAC , , Shrine Little Fl, Baltimore, Maryland, USA
 0 @F86@ FAM
 1 _UID 4C1F611B086EEE4AB2936BB9A3B4F279C0F7
 1 HUSB @I162@
@@ -9433,7 +9426,7 @@
 1 CHIL @I166@
 1 MARR
 2 DATE 16 OCT 1976
-2 PLAC , , St Malachi, Cleveland, Ohio,USA
+2 PLAC , , St Malachi, Cleveland, Ohio, USA
 0 @F87@ FAM
 1 _UID 9DCABD29720F524A88BCA03E450323807719
 1 HUSB @I156@
@@ -9442,7 +9435,7 @@
 1 CHIL @I169@
 1 MARR
 2 DATE 8 APR 1978
-2 PLAC , , , , , Immaculate Heart ,Cleveland,Ohio,USA
+2 PLAC , , , , , Immaculate Heart, Cleveland, Ohio, USA
 0 @F88@ FAM
 1 _UID 1CFA6765041223438E7636587153B51C85C1
 1 HUSB @I157@
@@ -9451,7 +9444,7 @@
 1 CHIL @I283@
 1 MARR
 2 DATE 20 MAR 1981
-2 PLAC , , , , , Justice Center,Cleveland, Ohio,USA
+2 PLAC , , , , , Justice Center, Cleveland, Ohio, USA
 0 @F89@ FAM
 1 _UID 0B24C3FB02B5A442AEF90972BC3E10560C9D
 1 HUSB @I172@
@@ -9461,7 +9454,7 @@
 1 CHIL @I284@
 1 MARR
 2 DATE 15 SEP 1979
-2 PLAC , , St Clement, Lakewood, Ohio,USA
+2 PLAC , , St Clement, Lakewood, Ohio, USA
 0 @F90@ FAM
 1 _UID C6A1F82413FA0141BA652D684146E46758D6
 1 HUSB @I286@
@@ -9469,7 +9462,7 @@
 1 CHIL @I585@
 1 CHIL @I586@
 1 MARR
-2 PLAC , , , St Clement, Lakewood,Ohio,USA
+2 PLAC , , , St Clement, Lakewood, Ohio, USA
 0 @F91@ FAM
 1 _UID EDA2FF190185284CBD9880B0D63507CC04D5
 1 DIV Y
@@ -9477,7 +9470,7 @@
 1 WIFE @I160@
 1 MARR
 2 DATE 8 DEC 1982
-2 PLAC , , St Clement, lakewood, Ohio,USA
+2 PLAC , , St Clement, lakewood, Ohio, USA
 0 @F92@ FAM
 1 _UID FAD2613BD3A36C478188220CB1B2868B3C10
 1 HUSB @I176@
@@ -9496,7 +9489,7 @@
 1 CHIL @I345@
 1 MARR
 2 DATE 7 OCT 1978
-2 PLAC , , St Jane Frances, Riviera Beach,Maryland,USA
+2 PLAC , , St Jane Frances, Riviera Beach, Maryland, USA
 0 @F94@ FAM
 1 _UID E076B47EA22D68478071010EDF980B26AE21
 1 HUSB @I185@
@@ -9506,7 +9499,7 @@
 1 CHIL @I188@
 1 MARR
 2 DATE 10 AUG 1974
-2 PLAC , , St Jane Frances, Riviera Beach,Maryland,USA
+2 PLAC , , St Jane Frances, Riviera Beach, Maryland, USA
 0 @F95@ FAM
 1 _UID 1AE3490A526C054AA29128EE1ED31AC97A40
 1 HUSB @I347@
@@ -9514,7 +9507,7 @@
 1 CHIL @I346@
 1 MARR
 2 DATE 22 MAR 1986
-2 PLAC , , Court House, Queen Anne County,Maryland,USA
+2 PLAC , , Court House, Queen Anne County, Maryland, USA
 0 @F96@ FAM
 1 _UID 3365345830E66A44BCF3BE03ED3B812627AA
 1 HUSB @I190@
@@ -9524,7 +9517,7 @@
 1 CHIL @I457@
 1 MARR
 2 DATE 9 MAY 1981
-2 PLAC , , Immaculate Heart of Mary,Baltimore,Maryland,USA
+2 PLAC , , Immaculate Heart of Mary, Baltimore, Maryland, USA
 0 @F97@ FAM
 1 _UID 76041ED01804FD4F8125BB13FE4298C7E346
 1 HUSB @I193@
@@ -9533,7 +9526,7 @@
 1 CHIL @I458@
 1 MARR
 2 DATE 4 JUN 1983
-2 PLAC , , Immaculate Heart of Mary,Baltimore,Maryland,USA
+2 PLAC , , Immaculate Heart of Mary, Baltimore, Maryland, USA
 0 @F98@ FAM
 1 _UID ED156C85350C214DA0A639451098D5FCDF9A
 1 HUSB @I198@
@@ -9541,7 +9534,7 @@
 1 CHIL @I513@
 1 MARR
 2 DATE 17 SEP 1988
-2 PLAC , , Church of the Ascension,Baltimore,Maryland,USA
+2 PLAC , , Church of the Ascension, Baltimore, Maryland, USA
 0 @F99@ FAM
 1 _UID 5499C3B0EE24B7488F5F6B5A750861404276
 1 DIV Y
@@ -9552,7 +9545,7 @@
 1 CHIL @I484@
 1 MARR
 2 DATE 28 MAY 1988
-2 PLAC , , Church of the Ascension,Baltimore,Maryland,USA
+2 PLAC , , Church of the Ascension, Baltimore, Maryland, USA
 0 @F100@ FAM
 1 _UID 5A6A5BD9DAA6D44C87C3BB9B011253DC7AD5
 1 HUSB @I383@
@@ -9561,7 +9554,7 @@
 1 CHIL @I385@
 1 MARR
 2 DATE 30 DEC 1983
-2 PLAC , , Sh of Li Flower,Baltimore,Maryland,USA
+2 PLAC , , Sh of Li Flower, Baltimore, Maryland, USA
 0 @F101@ FAM
 1 _UID 055B1C691FFDDC4A8A9D2687D6A24A04C1FF
 1 HUSB @I202@
@@ -9569,7 +9562,7 @@
 1 CHIL @I382@
 1 MARR
 2 DATE 17 JUN 1989
-2 PLAC , , St Anthony,Baltimore,Maryland,USA
+2 PLAC , , St Anthony, Baltimore, Maryland, USA
 0 @F102@ FAM
 1 _UID 4C1BC4442E60A24DBA4D217DCD39449570F0
 1 HUSB @I210@
@@ -9579,7 +9572,7 @@
 1 CHIL @I213@
 1 MARR
 2 DATE 9 JUN 1956
-2 PLAC , , ss philip&james,Baltimore,Maryland,USA
+2 PLAC , , ss philip&james, Baltimore, Maryland, USA
 0 @F103@ FAM
 1 _UID 79B6F6C3ACAF3D419BDD50776251A5C11971
 1 HUSB @I215@
@@ -9590,7 +9583,7 @@
 1 CHIL @I219@
 1 MARR
 2 DATE 16 APR 1955
-2 PLAC , , ss philip&james,Baltimore,Maryland,USA
+2 PLAC , , ss philip&james, Baltimore, Maryland, USA
 0 @F104@ FAM
 1 _UID 6FBDCDFBD680BD4E889E63C319835B98308E
 1 HUSB @I207@
@@ -9601,7 +9594,7 @@
 1 CHIL @I228@
 1 MARR
 2 DATE 25 AUG 1956
-2 PLAC , , ss philip&james,Baltimore,Maryland,USA
+2 PLAC , , ss philip&james, Baltimore, Maryland, USA
 0 @F105@ FAM
 1 _UID B4270B4EF3B16E4A84A9971C391AE822CDF7
 1 HUSB @I208@
@@ -9614,7 +9607,7 @@
 1 CHIL @I235@
 1 MARR
 2 DATE 1 OCT 1960
-2 PLAC , , ss philip&james,Baltimore,Maryland,USA
+2 PLAC , , ss philip&james, Baltimore, Maryland, USA
 0 @F106@ FAM
 1 _UID 0EA19F7F45579643B27FF54CC0F32B84169A
 1 HUSB @I208@
@@ -9623,7 +9616,7 @@
 1 CHIL @I278@
 1 MARR
 2 DATE 20 NOV 1982
-2 PLAC , , ,Baltimore,Maryland,USA
+2 PLAC , , , Baltimore, Maryland, USA
 0 @F107@ FAM
 1 _UID B94695503B679F48A26F6273AE08088394D6
 1 HUSB @I209@
@@ -9632,7 +9625,7 @@
 1 CHIL @I238@
 1 MARR
 2 DATE 28 SEP 1968
-2 PLAC , , ss philip&james,Baltimore,Maryland,USA
+2 PLAC , , ss philip&james, Baltimore, Maryland, USA
 0 @F108@ FAM
 1 _UID 94249104FF307F44ACAC261AA86CEF08E220
 1 HUSB @I391@
@@ -9651,7 +9644,7 @@
 1 CHIL @I396@
 1 MARR
 2 DATE 7 APR 1984
-2 PLAC , , St Michael,Baltimore,Maryland,USA
+2 PLAC , , St Michael, Baltimore, Maryland, USA
 0 @F111@ FAM
 1 _UID 159BD70E4ECB784891179D503C676A0A1AE0
 1 HUSB @I216@
@@ -9660,7 +9653,7 @@
 1 CHIL @I575@
 1 MARR
 2 DATE 13 OCT 1984
-2 PLAC , , , , , Harundale Presbyterian,Glen Burnie,Maryland,USA
+2 PLAC , , , , , Harundale Presbyterian, Glen Burnie, Maryland, USA
 0 @F112@ FAM
 1 _UID 369D5F1E31E72242AC80DEA3F9143F92579D
 1 HUSB @I217@
@@ -9670,7 +9663,7 @@
 1 CHIL @I576@
 1 MARR
 2 DATE 4 SEP 1982
-2 PLAC , , , , , St. James Lutheran Church,Montaque,Michican,USA
+2 PLAC , , , , , St. James Lutheran Church, Montaque, Michican, USA
 0 @F113@ FAM
 1 _UID 27681993125C094690875BF0146AAF27AE0F
 1 HUSB @I222@
@@ -9679,7 +9672,7 @@
 1 CHIL @I275@
 1 MARR
 2 DATE 17 JAN 1981
-2 PLAC , , , St Ursula,Baltimore,Maryland,USA
+2 PLAC , , , St Ursula, Baltimore, Maryland, USA
 0 @F114@ FAM
 1 _UID 80DE1A364D88654A8593872D642D6141317E
 1 HUSB @I397@
@@ -9689,7 +9682,7 @@
 1 CHIL @I528@
 1 MARR
 2 DATE 28 SEP 1985
-2 PLAC , , , , , St. Charles ,Pikesville,Maryland,USA
+2 PLAC , , , , , St. Charles, Pikesville, Maryland, USA
 0 @F115@ FAM
 1 _UID 02008D770B17BF458085FE9518FEE6F7B7E2
 1 WIFE @I227@
@@ -9700,14 +9693,14 @@
 1 WIFE @I276@
 1 MARR
 2 DATE 20 JUN 1987
-2 PLAC , , White Sands of C, San Diego, California,USA
+2 PLAC , , White Sands of C, San Diego, California, USA
 0 @F117@ FAM
 1 _UID 955F63B0ABCE3146BC0F91B9F2B3067A312C
 1 HUSB @I390@
 1 WIFE @I235@
 1 MARR
 2 DATE 21 APR 1990
-2 PLAC , , , , , San Diego, California,USA
+2 PLAC , , , , , San Diego, California, USA
 0 @F118@ FAM
 1 _UID 43812723E26C8D4782205D23FEE7C7898776
 1 HUSB @I245@
@@ -9718,7 +9711,7 @@
 1 CHIL @I516@
 1 MARR
 2 DATE 6 NOV 1982
-2 PLAC , , , , , First Baptist Church, Hyattsville,Maryland,USA
+2 PLAC , , , , , First Baptist Church, Hyattsville, Maryland, USA
 0 @F119@ FAM
 1 _UID 4F24050B5F2BA0429E7EFC8E96F68C721F94
 1 HUSB @I246@
@@ -9727,7 +9720,7 @@
 1 CHIL @I249@
 1 MARR
 2 DATE 3 NOV 1984
-2 PLAC , , Holy Redeemer, College Park,Maryland,USA
+2 PLAC , , Holy Redeemer, College Park, Maryland, USA
 0 @F120@ FAM
 1 _UID E3732B20D2F91542A8BF946786B0F6B1024F
 1 HUSB @I250@
@@ -9775,7 +9768,7 @@
 1 CHIL @I322@
 1 MARR
 2 DATE 6 OCT 1925
-2 PLAC , , Holy Trinity RC, Steele County,Minnesota,USA
+2 PLAC , , Holy Trinity RC, Steele County, Minnesota, USA
 0 @F128@ FAM
 1 _UID 7A95AB96ED504242B794B0FC13BB1AC1B107
 1 HUSB @I290@
@@ -9813,7 +9806,7 @@
 1 CHIL @I298@
 1 MARR
 2 DATE 7 SEP 1880
-2 PLAC , , , Steele County,Minnesota,USA
+2 PLAC , , , Steele County, Minnesota, USA
 0 @F133@ FAM
 1 _UID 08B87891F57D97408C5FABE4E7F8A3C7D536
 1 HUSB @I300@
@@ -9835,7 +9828,7 @@
 1 CHIL @I327@
 1 MARR
 2 DATE 1909
-2 PLAC , , , Wanamie, Pennsylvania,USA
+2 PLAC , , , Wanamie, Pennsylvania, USA
 0 @F135@ FAM
 1 _UID EEDDAA0A7BD7C047A8072557667A6B5BA9DA
 1 HUSB @I331@
@@ -9854,7 +9847,7 @@
 1 CHIL @I339@
 1 MARR
 2 DATE 29 JUN 1957
-2 PLAC , , ,Baltimore,Maryland,USA
+2 PLAC , , , Baltimore, Maryland, USA
 0 @F137@ FAM
 1 _UID 6B12B8712A3F314A889E28834D92CE767EC9
 1 HUSB @I343@
@@ -9862,7 +9855,7 @@
 1 CHIL @I335@
 1 MARR
 2 DATE 1924
-2 PLAC , , ,Baltimore,Maryland,USA
+2 PLAC , , , Baltimore, Maryland, USA
 0 @F138@ FAM
 1 _UID ABCB55E2215F534EA7B8669D3C185EE1C3DC
 1 HUSB @I338@
@@ -9871,7 +9864,7 @@
 1 CHIL @I342@
 1 MARR
 2 DATE 31 OCT 1983
-2 PLAC , , Courthouse, Upper Marlboro,Maryland,USA
+2 PLAC , , Courthouse, Upper Marlboro, Maryland, USA
 0 @F139@ FAM
 1 _UID E15593282545894E91D6F8CFCCBD8D077DAD
 1 HUSB @I432@
@@ -9898,14 +9891,14 @@
 1 CHIL @I490@
 1 MARR
 2 DATE 11 SEP 1918
-2 PLAC , , ,Baltimore,Maryland,USA
+2 PLAC , , , Baltimore, Maryland, USA
 0 @F142@ FAM
 1 _UID 3967BF23E8A00142A2F23E93C885FF8D8B29
 1 HUSB @I12@
 1 WIFE @I501@
 1 MARR
 2 DATE 26 JUL 2003
-2 PLAC , , , , , Boise,Idaho,USA
+2 PLAC , , , , , Boise, Idaho, USA
 0 @F143@ FAM
 1 _UID CEBC9648DC112D4096004F00635EA4142059
 1 HUSB @I502@
@@ -9914,7 +9907,7 @@
 1 CHIL @I504@
 1 MARR
 2 DATE 11 SEP 1999
-2 PLAC , , , , , St. Joseph Church,Texas,Maryland,USA
+2 PLAC , , , , , St. Joseph Church, Texas, Maryland, USA
 0 @F144@ FAM
 1 _UID D2C57CFDE24EFF4A8ACCA31C0E09DCCF60EA
 1 HUSB @I507@
@@ -9923,7 +9916,7 @@
 1 CHIL @I533@
 1 MARR
 2 DATE 31 MAY 1980
-2 PLAC , , , , , Christian Temple,Catonsville,Maryland,USA
+2 PLAC , , , , , Christian Temple, Catonsville, Maryland, USA
 0 @F145@ FAM
 1 _UID D6BA03816FB835408DE74604B44C4017C527
 1 HUSB @I508@
@@ -9932,7 +9925,7 @@
 1 CHIL @I531@
 1 MARR
 2 DATE 22 MAY 1983
-2 PLAC , , , , , Lansdowne Christian Church, Lansdowne,Maryland,USA
+2 PLAC , , , , , Lansdowne Christian Church, Lansdowne, Maryland, USA
 0 @F146@ FAM
 1 _UID 65478F8996E7404DA944E820A6FC9D2F3193
 1 HUSB @I132@
@@ -9942,7 +9935,7 @@
 1 CHIL @I536@
 1 MARR
 2 DATE 27 APR 1991
-2 PLAC , , , , , Christian Temple,Catonsville,Maryland,USA
+2 PLAC , , , , , Christian Temple, Catonsville, Maryland, USA
 0 @F147@ FAM
 1 _UID 7D12E5841008144DB504EF2AD6293F5FE08D
 1 HUSB @I225@
@@ -9955,7 +9948,7 @@
 1 WIFE @I512@
 1 MARR
 2 DATE 19 APR 2001
-2 PLAC , , , , , Elkton,Maryland,USA
+2 PLAC , , , , , Elkton, Maryland, USA
 0 @F149@ FAM
 1 _UID 848DD340C2F25D41B834A3CC367389FCFFEF
 1 HUSB @I75@
@@ -9963,21 +9956,21 @@
 1 CHIL @I510@
 1 MARR
 2 DATE 6 NOV 1997
-2 PLAC , , , , , Maui,Hawaii,USA
+2 PLAC , , , , , Maui, Hawaii, USA
 0 @F150@ FAM
 1 _UID 16D548D51DE7C9468381BDEB74C46186E63D
 1 HUSB @I514@
 1 WIFE @I181@
 1 MARR
 2 DATE 2 DEC 2000
-2 PLAC , , , , , Holy Trinity,Glen Burnie,Maryland,USA
+2 PLAC , , , , , Holy Trinity, Glen Burnie, Maryland, USA
 0 @F151@ FAM
 1 _UID A8126A5348CCC848B0A08382DACAED8506AE
 1 HUSB @I518@
 1 WIFE @I244@
 1 MARR
 2 DATE 1 JUN 2002
-2 PLAC , , , , , New Germany State Park,Grantsville,Maryland,USA
+2 PLAC , , , , , New Germany State Park, Grantsville, Maryland, USA
 0 @F152@ FAM
 1 _UID D51B4C5C4B24F240AA057F0AAF6D97284C75
 1 HUSB @I230@
@@ -9987,14 +9980,14 @@
 1 CHIL @I520@
 1 MARR
 2 DATE 16 MAR 1996
-2 PLAC , , , , , San Diego,California,USA
+2 PLAC , , , , , San Diego, California, USA
 0 @F153@ FAM
 1 _UID 26C8917E1AEBF044A030092F46B45B2FC20B
 1 HUSB @I231@
 1 WIFE @I521@
 1 MARR
 2 DATE 29 NOV 2002
-2 PLAC , , , , ,Baltimore,Maryland,USA
+2 PLAC , , , , , Baltimore, Maryland, USA
 0 @F154@ FAM
 1 _UID 2C2A40D365B17A4B988A2F815822327234EC
 1 HUSB @I323@
@@ -10012,7 +10005,7 @@
 1 CHIL @I526@
 1 MARR
 2 DATE 25 JUL 1998
-2 PLAC , , , , , St Ursula,Baltimore,Maryland,USA
+2 PLAC , , , , , St Ursula, Baltimore, Maryland, USA
 0 @F157@ FAM
 1 _UID 0E4D7005C2F91D4197173B1DC4C34EBD81F8
 1 HUSB @I471@
@@ -10020,7 +10013,7 @@
 1 CHIL @I525@
 1 MARR
 2 DATE 28 FEB 2004
-2 PLAC , , , , , Easton Historical Society,Easton,Maryland,USA
+2 PLAC , , , , , Easton Historical Society, Easton, Maryland, USA
 0 @F158@ FAM
 1 _UID 302984C90232A14289A678015D48BB3C0153
 1 HUSB @I529@
@@ -10029,7 +10022,7 @@
 1 CHIL @I530@
 1 MARR
 2 DATE 12 OCT 1991
-2 PLAC , , , , , St. Charles,Pikesville,Maryland,USA
+2 PLAC , , , , , St. Charles, Pikesville, Maryland, USA
 0 @F159@ FAM
 1 _UID 2D199DB079A09B41B6E737D73B55A4A60D07
 1 HUSB @I537@
@@ -10037,14 +10030,14 @@
 1 CHIL @I538@
 1 MARR
 2 DATE 4 NOV 2000
-2 PLAC , , , , , Sts. Philip and James,Baltimore,Maryland,USA
+2 PLAC , , , , , Sts. Philip and James, Baltimore, Maryland, USA
 0 @F160@ FAM
 1 _UID CDD9EE09D5CDF4428A93C37E1B6AE70C4B86
 1 HUSB @I375@
 1 WIFE @I539@
 1 CHIL @I540@
 1 MARR
-2 PLAC , , , , , St. Ursula,Baltimore,Maryland,USA
+2 PLAC , , , , , St. Ursula, Baltimore, Maryland, USA
 0 @F161@ FAM
 1 _UID 682C18517F995E48A660ABFB2389E03B2E17
 1 DIV Y
@@ -10054,7 +10047,7 @@
 1 CHIL @I542@
 1 MARR
 2 DATE JUN 1984
-2 PLAC , , , , , Towson Courthouse,Towson,Maryland,USA
+2 PLAC , , , , , Towson Courthouse, Towson, Maryland, USA
 0 @F162@ FAM
 1 _UID 413E1E67F7B75347A759697449E8E60F4FD7
 1 HUSB @I461@
@@ -10062,7 +10055,7 @@
 1 CHIL @I544@
 1 MARR
 2 DATE 24 MAR 1999
-2 PLAC , , , , , Towson,Maryland,USA
+2 PLAC , , , , , Towson, Maryland, USA
 0 @F163@ FAM
 1 _UID EA3F93EF3C0D5B4CB3F71E1323BB8A300E84
 1 DIV Y
@@ -10071,9 +10064,11 @@
 1 CHIL @I546@
 1 MARR
 2 DATE 28 MAY 1994
-2 PLAC , , , , , St. Ursula's,Baltimore,Maryland,USA
+2 PLAC , , , , , St. Ursula's, Baltimore, Maryland, USA
 1 MARR Y
-1 DIV Y
+1 CHAN
+2 DATE 24 MAR 2022
+3 TIME 02:31:50
 0 @F164@ FAM
 1 _UID 45003EF9FD908C4A96A4C9BB8342A7BCC5DC
 1 HUSB @I547@
@@ -10082,7 +10077,7 @@
 1 CHIL @I549@
 1 MARR
 2 DATE 26 AUG 2000
-2 PLAC , , , , , Baltimore County,Maryland,USA
+2 PLAC , , , , , Baltimore County, Maryland, USA
 0 @F165@ FAM
 1 _UID F17FA1CF977A3241A32A48536CF95B6EFAAD
 1 HUSB @I466@
@@ -10118,7 +10113,7 @@
 1 CHIL @I561@
 1 MARR
 2 DATE 6 AUG 2000
-2 PLAC , , , , , Ocean City,Maryland,USA
+2 PLAC , , , , , Ocean City, Maryland, USA
 0 @F169@ FAM
 1 _UID E7B559E6726A56448FFE2EF0054F6B11CC53
 1 HUSB @I364@
@@ -10126,7 +10121,7 @@
 1 CHIL @I563@
 1 MARR
 2 DATE 25 SEP 1999
-2 PLAC , , , , , St Ursula's, Parkville,Maryland,USA
+2 PLAC , , , , , St Ursula's, Parkville, Maryland, USA
 0 @F170@ FAM
 1 _UID 53D90BABE15D4F4B908045ACEA59FCD8D2F1
 1 HUSB @I404@
@@ -10134,7 +10129,7 @@
 1 CHIL @I565@
 1 MARR
 2 DATE 23 APR 1996
-2 PLAC , , , , ,Baltimore Lutheran Church, Baltimore,Maryland,USA
+2 PLAC , , , , , Baltimore Lutheran Church, Baltimore, Maryland, USA
 0 @F171@ FAM
 1 _UID 3DAD963523873640BB089CE41736050670DF
 1 HUSB @I566@
@@ -10142,21 +10137,21 @@
 1 CHIL @I567@
 1 MARR
 2 DATE 14 MAR 1998
-2 PLAC , , , , , Our Lady of Mount Carmel, Essex,Maryland,USA
+2 PLAC , , , , , Our Lady of Mount Carmel, Essex, Maryland, USA
 0 @F172@ FAM
 1 _UID E5460C85A4240549B11CAF4B4006924BBC30
 1 HUSB @I108@
 1 WIFE @I568@
 1 MARR
 2 DATE 21 JUN 2000
-2 PLAC , , , , , Towson Court House, Towson,Maryland,USA
+2 PLAC , , , , , Towson Court House, Towson, Maryland, USA
 0 @F173@ FAM
 1 _UID E822219165E0364593412BAE2522B989B24A
 1 HUSB @I408@
 1 WIFE @I569@
 1 MARR
 2 DATE 9 SEP 2005
-2 PLAC , , , , , Towson Court House, Towson,Maryland,USA
+2 PLAC , , , , , Towson Court House, Towson, Maryland, USA
 0 @F174@ FAM
 1 _UID 5AF8483472235F45AB73298440A17CEE1D88
 1 HUSB @I407@
@@ -10164,7 +10159,7 @@
 1 CHIL @I571@
 1 MARR
 2 DATE 14 JUL 2004
-2 PLAC , , , , , Towson Court House, Towson,Maryland,USA
+2 PLAC , , , , , Towson Court House, Towson, Maryland, USA
 0 @F175@ FAM
 1 _UID 2FB9BF2D08665A498D699F04B727BFC7E204
 1 HUSB @I572@
@@ -10172,7 +10167,7 @@
 1 CHIL @I573@
 1 MARR
 2 DATE 8 JUN 2002
-2 PLAC , , , , , Friends House, Elkridge,Maryland,USA
+2 PLAC , , , , , Friends House, Elkridge, Maryland, USA
 0 @F176@ FAM
 1 _UID 090653985BD0F54AAA15EAB3F032CE5303AF
 1 HUSB @I219@
@@ -10181,7 +10176,7 @@
 1 CHIL @I579@
 1 MARR
 2 DATE 28 OCT 1995
-2 PLAC , , , St Ursula,Baltimore,Maryland,USA
+2 PLAC , , , St Ursula, Baltimore, Maryland, USA
 0 @F177@ FAM
 1 _UID 8CCC47ED23B7AA48A9F0683DDAD759F29256
 1 HUSB @I164@
@@ -10198,11 +10193,15 @@
 1 CHIL @I584@
 0 @F180@ FAM
 1 _UID 8A41580335A4334094CDBFCA3244A378ED25
-1 WIFE @I161@
 1 CHIL @I587@
+1 CHAN
+2 DATE 24 MAR 2022
+3 TIME 02:33:10
 0 @F181@ FAM
 1 _UID 5E301D7E1C9FA7489DF59E5524F9E31A7232
-1 WIFE @I161@
+1 CHAN
+2 DATE 24 MAR 2022
+3 TIME 02:33:10
 0 @I591@ INDI
 1 NAME John Gatewood /Sizer/
 2 GIVN John, Gatewood
@@ -10210,22 +10209,25 @@
 1 SEX M
 1 BIRT
 2 DATE 1821
-2 PLAC Henrico County,Virginia,USA
+2 PLAC Henrico County, Virginia, USA
 1 DEAT
 2 DATE 22 DEC 1898
-2 PLAC , , , Washington, District of Columbia,USA
+2 PLAC , , , Washington, District of Columbia, USA
 2 NOTE @N00004@
 1 NOTE @N00003@
+1 FAMC @F183@
 1 FAMS @F182@
 1 CHAN
 2 DATE 23 MAR 2022
-3 TIME 17:30:27
+3 TIME 20:55:39
 0 @F182@ FAM
 1 HUSB @I591@
+1 MARR
+2 DATE 15 AUG 1846
 1 CHIL @I323@
 1 CHAN
 2 DATE 23 MAR 2022
-3 TIME 17:15:37
+3 TIME 20:48:44
 0 @N00001@ NOTE Residences:
 1 CONT
 1 CONT 1910, 1920, 1930 131 10th St NE, Precinct 5, Washington, District of Columbia, United States (census)
@@ -10244,4 +10246,483 @@
 1 CHAN
 2 DATE 23 MAR 2022
 3 TIME 17:30:27
+0 @N00005@ NOTE Jeffrey John Langr and Timothy Edmund Langr were present
+1 CHAN
+2 DATE 23 MAR 2022
+3 TIME 20:44:27
+0 @I592@ INDI
+1 NAME John /Sizer/
+2 GIVN John
+2 SURN Sizer
+1 SEX M
+1 BIRT
+2 DATE 24 APR 1780
+2 PLAC Caroline, Virginia, USA, , , 
+1 DEAT
+2 DATE 1844
+2 PLAC Caroline, Virginia, USA
+1 NOTE @N00008@
+1 FAMC @F184@
+1 FAMS @F183@
+1 CHAN
+2 DATE 23 MAR 2022
+3 TIME 20:57:56
+0 @F183@ FAM
+1 HUSB @I592@
+1 MARR
+2 DATE ABT 1813
+2 PLAC Caroline, Virginia, USA
+2 NOTE @N00006@
+1 CHIL @I591@
+1 CHAN
+2 DATE 23 MAR 2022
+3 TIME 20:51:30
+0 @N00006@ NOTE
+1 CHAN
+2 DATE 23 MAR 2022
+3 TIME 20:51:30
+0 @I593@ INDI
+1 NAME John /Sizer/
+2 GIVN John
+2 SURN Sizer
+1 SEX M
+1 BIRT
+2 DATE ABT 1735
+2 PLAC Caroline, Virginia, British Colonial America
+2 NOTE @N00009@
+1 DEAT
+2 DATE 1811
+2 PLAC Caroline, Virginia, USA
+1 RESI
+2 DATE 1810
+2 PLAC Caroline, Virginia, USA
+1 NOTE @N00007@
+1 FAMC @F185@
+1 FAMS @F184@
+1 CHAN
+2 DATE 23 MAR 2022
+3 TIME 21:04:02
+0 @F184@ FAM
+1 HUSB @I593@
+1 WIFE @I595@
+1 CHIL @I592@
+1 CHAN
+2 DATE 23 MAR 2022
+3 TIME 21:04:02
+0 @N00007@ NOTE
+1 CHAN
+2 DATE 23 MAR 2022
+3 TIME 20:57:49
+0 @N00008@ NOTE LHZX-SQP
+1 CHAN
+2 DATE 23 MAR 2022
+3 TIME 20:57:56
+0 @N00009@ NOTE birth name Suizer
+1 CHAN
+2 DATE 23 MAR 2022
+3 TIME 21:00:42
+0 @I594@ INDI
+1 NAME /Sizer/
+2 SURN Sizer
+1 SEX M
+1 BIRT
+2 DATE ABT 1712
+1 FAMS @F185@
+1 CHAN
+2 DATE 23 MAR 2022
+3 TIME 21:02:01
+0 @F185@ FAM
+1 HUSB @I594@
+1 CHIL @I593@
+1 CHAN
+2 DATE 23 MAR 2022
+3 TIME 21:01:15
+0 @I595@ INDI
+1 NAME Ruth /Mason/
+2 GIVN Ruth
+2 SURN Mason
+1 SEX F
+1 BIRT
+2 DATE ABT 1739
+2 PLAC Caroline, Virginia, British Colonial America, , , 
+1 DEAT
+2 DATE TO 1811
+2 PLAC Caroline County, , Virginia, US, , 
+1 FAMC @F186@
+1 FAMS @F184@
+1 CHAN
+2 DATE 23 MAR 2022
+3 TIME 21:06:29
+0 @F186@ FAM
+1 HUSB @I596@
+1 WIFE @I597@
+1 CHIL @I595@
+1 CHAN
+2 DATE 23 MAR 2022
+3 TIME 21:14:00
+0 @I596@ INDI
+1 NAME Major John /Mason/
+2 GIVN Major, John
+2 SURN Mason
+1 SEX M
+1 BIRT
+2 DATE 6 AUG 1717
+2 PLAC Litchfield, Fauquier, Virginia, British Colonial America, , 
+1 DEAT
+2 DATE ABT 1782
+2 PLAC Caroline, Virginia, United States
+1 NOTE @N00010@
+1 FAMC @F188@
+1 FAMS @F186@
+1 CHAN
+2 DATE 23 MAR 2022
+3 TIME 21:17:01
+0 @N00010@ NOTE "Mason, David, son of John Mason Jr., who was one of the first justices of Sussex county (1754) and grandson of Captain John Mason, who died September 3, 1755; was burgess for Sussex county in the assemblies of 1761-1765, 1766-1768, 1769-1771, 17
+1 CONC 72-1774, 1775, and a member of the conventions of 1774, 1775, and 1776. His will was proved in Sussex, June 16, 1785, and shows that he left sons -- William, John, James, Henry, David, Benjamin, Peyton and Joseph Mason -- and daughters Rebecca, w
+1 CONC ife of Timothy Rives; Elizabeth Rives, and Mary Jeffries."
+1 CONT
+1 CONT Source: Encyclopedia of Virginia Biography, Vol. 1, by Lyon Gardiner Tyler, p. 285.
+1 CONT
+1 CONT Source: Southside Masons of Virginia: Descendants of John Mason, the Elder of Albemarle Parish, pp. 1-3.
+1 CONT
+1 CONT Family Members
+1 CONT Parents
+1 CONT John Mason
+1 CONT 1693–1755
+1 CONT
+1 CONT Siblings 
+1 CONT Rebecca Mason Moss, 1722–1828
+1 CONT
+1 CONT Anne Mason Gilliam, 1726–1784
+1 CONT
+1 CONT Daniel Mason, 1727–1798
+1 CONT
+1 CONT Christopher Mason, 1730–1778
+1 CHAN
+2 DATE 23 MAR 2022
+3 TIME 21:13:54
+0 @I597@ INDI
+1 NAME Crotia /Davenport/
+2 GIVN Crotia
+2 SURN Davenport
+1 SEX F
+1 BIRT
+2 DATE 1712
+2 PLAC King William, Virginia, British Colonial America, , , 
+1 DEAT
+2 DATE TO 1783
+2 PLAC Caroline, Virginia, USA
+1 NOTE @N00011@
+1 FAMC @F187@
+1 FAMS @F186@
+1 CHAN
+2 DATE 23 MAR 2022
+3 TIME 21:16:32
+0 @N00011@ NOTE
+1 CONT alternate name: Croshia
+1 CHAN
+2 DATE 23 MAR 2022
+3 TIME 21:15:20
+0 @F187@ FAM
+1 HUSB @I601@
+1 CHIL @I597@
+1 CHAN
+2 DATE 23 MAR 2022
+3 TIME 21:23:59
+0 @I598@ INDI
+1 NAME Peter /Mason/
+2 GIVN Peter
+2 SURN Mason
+1 SEX M
+1 BIRT
+2 DATE TO 8 DEC 1691
+2 PLAC England, United Kingdom, , , , 
+1 DEAT
+2 DATE 1747
+2 PLAC Caroline, Virginia, USA
+1 CHR
+2 DATE 8 DEC 1691
+2 PLAC St Clement Danes, Middlesex, England, United Kingdom
+1 FAMC @F189@
+1 FAMS @F188@
+1 CHAN
+2 DATE 23 MAR 2022
+3 TIME 21:20:08
+0 @F188@ FAM
+1 HUSB @I598@
+1 CHIL @I596@
+1 CHAN
+2 DATE 23 MAR 2022
+3 TIME 21:17:01
+0 @I599@ INDI
+1 NAME Peter /Mason/
+2 GIVN Peter
+2 SURN Mason
+1 SEX M
+1 BIRT
+2 DATE ABT 1670
+2 PLAC Middlesex, England, United Kingdom, , , 
+1 FAMS @F189@
+1 CHAN
+2 DATE 23 MAR 2022
+3 TIME 21:21:29
+0 @F189@ FAM
+1 HUSB @I599@
+1 WIFE @I600@
+1 CHIL @I598@
+1 CHAN
+2 DATE 23 MAR 2022
+3 TIME 21:21:29
+0 @I600@ INDI
+1 NAME Sarah /Mason/
+2 GIVN Sarah
+2 SURN Mason
+1 SEX F
+1 BIRT
+2 DATE ABT 1670
+2 PLAC Middlesex, England, United Kingdom, , , 
+1 FAMS @F189@
+1 CHAN
+2 DATE 23 MAR 2022
+3 TIME 21:22:05
+0 @I601@ INDI
+1 NAME Richard /Davenport/
+2 GIVN Richard
+2 SURN Davenport
+1 SEX M
+1 BIRT
+2 DATE 1694
+2 PLAC Pamunkey, King William, Virginia, British Colonial America, , 
+1 DEAT
+2 DATE 1776
+2 PLAC Caroline, Virginia, United States
+2 NOTE @N00012@
+1 RESI
+2 DATE 3 NOV 1726
+2 PLAC Spotsylvania, Virginia, United States
+2 NOTE @N00013@
+1 RESI
+2 DATE 1732
+2 PLAC Caroline, Virginia, United States
+1 RESI
+2 DATE 15 SEP 1752
+2 PLAC Caroline, Virginia, USA
+2 NOTE @N00015@
+1 BURI
+2 DATE 1776
+2 PLAC Caroline, Virginia, United States
+1 EVEN
+2 TYPE Grand Jury
+2 DATE 14 NOV 1745
+2 PLAC Caroline, Virginia, USA
+2 NOTE @N00014@
+1 FAMC @F190@
+1 FAMS @F187@
+1 CHAN
+2 DATE 23 MAR 2022
+3 TIME 21:29:40
+0 @N00012@ NOTE
+1 CHAN
+2 DATE 23 MAR 2022
+3 TIME 21:29:30
+0 @N00013@ NOTE made from extreme western part of King William Co. Virginia Suit against Thomas Gambrill in Spotsylvania County Court
+1 CHAN
+2 DATE 23 MAR 2022
+3 TIME 21:29:30
+0 @N00014@ NOTE appointment
+1 CHAN
+2 DATE 23 MAR 2022
+3 TIME 21:29:30
+0 @N00015@ NOTE Patent 396 acres
+1 CONT southeast corner near Thomas Terry and Richard Davis
+1 CHAN
+2 DATE 23 MAR 2022
+3 TIME 21:29:30
+0 @I602@ INDI
+1 NAME William David Davis /Davenport/
+2 GIVN William, David, Davis
+2 SURN Davenport
+1 SEX M
+1 BIRT
+2 DATE 1660
+2 PLAC King William, Virginia, British Colonial America, , , 
+1 DEAT
+2 DATE 24 MAY 1734
+2 PLAC White Oak Landing, King William, Virginia, British Colonial America
+1 RESI
+2 TYPE Mattaponi River Davenport Plantation
+2 DATE FROM 1667
+2 PLAC Pamunkey, King William, Virginia, British Colonial America
+2 NOTE @N00017@
+1 CHR
+2 DATE 1660
+2 PLAC Pamunkey, King William, Virginia, British Colonial America
+1 NOTE @N00016@
+1 FAMC @F191@
+1 FAMS @F190@
+1 SOUR @S00001@
+1 CHAN
+2 DATE 23 MAR 2022
+3 TIME 21:36:26
+0 @F190@ FAM
+1 HUSB @I602@
+1 CHIL @I601@
+1 CHAN
+2 DATE 23 MAR 2022
+3 TIME 21:29:40
+0 @N00016@ NOTE He had a plantation in Pamunkey Neck. Pamunkey+Neck+Davenports.
+1 CONT
+1 CONT Arrived in the Pamunkey Neck (Davis Davenport was not mentioned as an adjoining landowner of Major John Waller in 1667, when Elias Downes originally acquired the land he sold to Waller.)sometime between 1667 and 1696.
+1 CONT
+1 CONT Wrong+Side+Of+Blanket+Son,+Maybe+Of+A+Davis+Maybe+Richard
+1 CONT To Ann Davenport, Servant Abt 1660, Virginia, United States
+1 CONT
+1 CONT 1696 Descendants of William Davenport II
+1 CONT The first evidence of Davis Davenport is a survey made for Major John Waller, laying off almost 1,000 acres on the Mattaponi River in Pamunkey Neck (then part of King & Queen County) that Waller had bought from Elias Downes. 
+1 CONT
+1 CONT Davenport's plantation was shown on the survey as bounding Waller's purchase on the upriver side, and "below Davis Davenport's landing on Mattaponi" was cited in the survey notes as the beginning point of the survey.[1] A William Davis was show
+1 CONC n on the survey as an adjoining landowner diagonally across Waller's land from Davis Notes for Davis "David" Davenport: General Notes: Davis Davenport was named as the father of Martin Davenport in Martin's will. 
+1 CONT
+1 CONT Due to the destruction of nearly all colonial records in the area of Virginia in which he lived, there are only two records for him other than Martin Davenport's will. All three of these records give his name as "Davis", certainly a suggestion th
+1 CONC at there may be a Davis somewhere in the family tree. (it is curious, though, that the name was not passed on to any succeeding generation.) 
+1 CONT
+1 CONT The first evidence of Davis Davenport is a survey made in 1696 for Major John Waller, laying off almost 1,000 acres on the Mattaponi River in Pamunkey Neck (then part of King & Queen County) that Waller had bought from Elias Downes. <U+0093>Daven
+1 CONC port's plantation<U+0094> was shown on the survey as bounding Waller's purchase on the upriver side, and "below Davis Davenport's landing on Mattaponi" was cited in the survey notes as the beginning point of the survey.[1] A William Davis was sho
+1 CONC wn on the survey as an adjoining landowner diagonally across Waller's land from Davis Davenport. (Apparently the same William Davis and his son John Davis later owned land in Spotsylvania County in the same neighborhood as did John Waller, who mo
+1 CONC ved there in 1722.)
+1 CONT
+1 CONT Due to the destruction of nearly all colonial records in the area of Virginia in which he lived, there are only two records for him other than Martin Davenport'<U+0092>s will.
+1 CONT
+1 CONT All three of these records give his name as "Davis," certainly a suggestion that there may be a Davis somewhere in the family tree.
+1 CONT
+1 CONT Quit Rent Roll of King William County listed as Freeholder of 200 acres; his son Martin Davenport was listed with 100 acres
+1 CONT 1704 Pamunkey Neck, King William County, Colony of Virginia, British Colonial America. (Patent of 1667 within Talbot Downes -- Modified | History 31 July 2016 by W. T)
+1 CONT
+1 CONT Named as the father o f Martin Davenport in his son Martin's will24 May 1735Hanover County, Colony of Virginia, British Colonial America (-- Modified | History28 November 2015 by rral -- Descendants of William Davenport II)
+1 CONT
+1 CONT Sources:
+1 CONT Geneology.com Website-0001/0275
+1 CONT Geni.com/people/Davis-Davenport-of-pamunkey-nechK/6000000003741179155
+1 CONT Dna -- Davenportdna.com/Pamunkey
+1 CONT
+1 CONT Landing+On+Property 1676 Virginia, United States (James taylor. Mapped it. Library of Virginia. John Scott Davenport.)
+1 CONT
+1 CONT Adjoining+Land -- William Davis
+1 CHAN
+2 DATE 23 MAR 2022
+3 TIME 21:36:00
+0 @S00001@ SOUR
+1 TITL https://www.familysearch.org/tree/person/details/GM8P-TYF
+1 CHAN
+2 DATE 23 MAR 2022
+3 TIME 21:36:00
+0 @N00017@ NOTE Near Major John Waller from Elias Downe and opposite William Davis and son John DavisThe Davenport 
+1 CONT plantation and landing were sited 1667
+1 CONT New Kent Co., Virginia, B.C.A.
+1 CONT adjacent to had been patented when the Neck was in New Kent County Virginia.
+1 CONT
+1 CONT Pamunkey Neck was an American Indian reservation
+1 CONT before 1701
+1 CONT
+1 CHAN
+2 DATE 23 MAR 2022
+3 TIME 21:36:00
+0 @I603@ INDI
+1 NAME Richard Davis /Davenport/
+2 GIVN Richard, Davis
+2 SURN Davenport
+1 SEX M
+1 BIRT
+2 DATE 1629
+2 PLAC King William, Virginia, British Colonial America, , , 
+2 NOTE @N00019@
+1 DEAT
+2 DATE 1700
+2 PLAC King William, King William, Virginia, British Colonial America
+1 NOTE @N00018@
+1 FAMS @F191@
+1 CHAN
+2 DATE 23 MAR 2022
+3 TIME 21:38:04
+0 @F191@ FAM
+1 HUSB @I603@
+1 CHIL @I602@
+1 CHAN
+2 DATE 23 MAR 2022
+3 TIME 21:36:26
+0 @N00018@ NOTE Military Service:
+1 CONT Albemarle, Carolina, British Colonial America
+1 CONT Provisioner, Continental and State Troops, Albemarle County Carolina
+1 CHAN
+2 DATE 23 MAR 2022
+3 TIME 21:38:04
+0 @N00019@ NOTE Esquire
+1 CHAN
+2 DATE 23 MAR 2022
+3 TIME 21:38:04
+0 @I604@ INDI
+1 NAME Warwick Edmund /Manlove/
+2 GIVN Warwick, Edmund
+2 SURN Manlove
+1 SEX U
+1 BIRT
+2 DATE 2 JAN 2018
+2 PLAC University of Washington Medical Center, Seattle, Washington, USA, , 
+2 _TIME 20:50
+1 FAMC @F192@
+1 CHAN
+2 DATE 24 MAR 2022
+3 TIME 01:19:56
+0 @F192@ FAM
+1 HUSB @I605@
+1 WIFE @I54@
+1 MARR
+2 DATE 5 SEP 2014
+2 PLAC Blessed Sacrament, Seattle, Washington, USA
+1 CHIL @I604@
+1 CHAN
+2 DATE 24 MAR 2022
+3 TIME 01:23:07
+0 @I605@ INDI
+1 NAME William Silas /Manlove/
+2 GIVN William, Silas
+2 SURN Manlove
+1 SEX M
+1 BIRT
+2 DATE 18 DEC 1979
+2 PLAC St. Francis Hospital, Colorado Springs, Colorado, USA, , 
+1 NOTE @N00020@
+1 FAMS @F192@
+1 CHAN
+2 DATE 24 MAR 2022
+3 TIME 01:23:07
+0 @N00020@ NOTE IV
+1 CONT birth name: Anthony William
+1 CHAN
+2 DATE 24 MAR 2022
+3 TIME 01:21:49
+0 @N00021@ NOTE William Whitty,Margaret Leary
+1 CHAN
+2 DATE 24 MAR 2022
+3 TIME 01:45:11
+0 @N00022@ NOTE Patrick Doyle,Mary Culleton
+1 CHAN
+2 DATE 24 MAR 2022
+3 TIME 01:59:28
+0 @N00023@ NOTE James Culaton,Ellen Culaton
+1 CHAN
+2 DATE 24 MAR 2022
+3 TIME 01:59:38
+0 @N00024@ NOTE cremated
+1 CHAN
+2 DATE 24 MAR 2022
+3 TIME 02:10:41
+0 @N00025@ NOTE birth date December 24, year unknown
+1 CHAN
+2 DATE 24 MAR 2022
+3 TIME 02:11:43
+0 @N00026@ NOTE She is not Dawn's child
+1 CHAN
+2 DATE 24 MAR 2022
+3 TIME 02:13:25
 0 TRLR
