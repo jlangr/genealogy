@@ -2475,7 +2475,7 @@
 1 BIRT
 2 DATE 30 NOV 1927
 1 CHR
-2 PLAC , , ss philip&james, Baltimore, Maryland, USA
+2 PLAC , , Sts Philip and James Catholic Church, Baltimore, Maryland, USA
 1 _UID C8ADABF20ACAC64D913CABE982AF35DD9DF5
 1 FAMS @F80@
 1 FAMC @F16@
@@ -2490,7 +2490,7 @@
 1 BIRT
 2 DATE 18 FEB 1929
 1 CHR
-2 PLAC , , ss philip&james, Baltimore, Maryland, USA
+2 PLAC , , Sts Philip and James Catholic Church, Baltimore, Maryland, USA
 1 _UID D51A181477436D40869EE2B989F7BD0F8D1E
 1 FAMS @F81@
 1 FAMC @F16@
@@ -2505,7 +2505,7 @@
 1 BIRT
 2 DATE 15 JUN 1931
 1 CHR
-2 PLAC , , ss philip&james, Baltimore, Maryland, USA
+2 PLAC , , Sts Philip and James Catholic Church, Baltimore, Maryland, USA
 1 _UID 8A2015042F7EAB46B84880D8670A806F19B5
 1 FAMS @F82@
 1 FAMC @F16@
@@ -2520,7 +2520,7 @@
 1 BIRT
 2 DATE 16 SEP 1932
 1 CHR
-2 PLAC , , ss philip&james, Baltimore, Maryland, USA
+2 PLAC , , Sts Philip and James Catholic Church, Baltimore, Maryland, USA
 1 _UID 7698E2637FBE8344A444998F035CC230B87C
 1 FAMS @F83@
 1 FAMC @F16@
@@ -2903,7 +2903,7 @@
 1 BIRT
 2 DATE 4 MAR 1949
 1 CHR
-2 PLAC , , ss philip&james, Baltimore, Maryland, USA
+2 PLAC , , Sts Philip and James Catholic Church, Baltimore, Maryland, USA
 1 _UID 6A6ADE165E18A84F88F4BD1B738E6005EFFB
 1 FAMS @F93@
 1 FAMC @F81@
@@ -2918,7 +2918,7 @@
 1 BIRT
 2 DATE 29 NOV 1953
 1 CHR
-2 PLAC , , ss philip&james, Baltimore, Maryland, USA
+2 PLAC , , Sts Philip and James Catholic Church, Baltimore, Maryland, USA
 1 _UID 218B124B07310D448C3CDDDBE29E93A4C9FA
 1 FAMS @F94@
 1 FAMC @F81@
@@ -2933,7 +2933,7 @@
 1 BIRT
 2 DATE 10 SEP 1955
 1 CHR
-2 PLAC , , ss philip&james, Baltimore, Maryland, USA
+2 PLAC , , Sts Philip and James Catholic Church, Baltimore, Maryland, USA
 1 _UID 97D9632CC88E5F4795636989156D15F975BA
 1 FAMS @F95@
 1 FAMC @F81@
@@ -3354,7 +3354,7 @@
 2 DATE 6 SEP 1946
 2 PLAC , , Mercy Hospital, Baltimore, Maryland, USA
 1 CHR
-2 PLAC , , ss philip&james, Baltimore, Maryland, USA
+2 PLAC , , Sts Philip and James Catholic Church, Baltimore, Maryland, USA
 1 _UID B701E0966A23164DBC15D7591BDB60DD523B
 1 FAMS @F107@
 1 FAMC @F17@
@@ -4278,7 +4278,7 @@
 2 PLAC , , Mercy Hospital, Baltimore, Maryland, USA
 1 CHR
 2 DATE 19 JAN 1986
-2 PLAC , , ss philip&james, Baltimore, Maryland, USA
+2 PLAC , , Sts Philip and James Catholic Church, Baltimore, Maryland, USA
 1 _UID F988508848508949962D5CA4782783A64ED3
 1 FAMC @F106@
 1 CHAN
@@ -4294,7 +4294,7 @@
 2 PLAC , , Mercy Hospital, Baltimore, Maryland, USA
 1 CHR
 2 DATE 29 NOV 1987
-2 PLAC , , ss philip&james, Baltimore, Maryland, USA
+2 PLAC , , Sts Philip and James Catholic Church, Baltimore, Maryland, USA
 1 _UID 32EED304C40939419D70749B723DDF2109FB
 1 FAMC @F106@
 1 CHAN
@@ -4424,7 +4424,7 @@
 1 SEX M
 1 BIRT
 2 DATE 5 FEB 1990
-2 PLAC , , Holy Cross Mont, Montgomery, Maryland, USA
+2 PLAC , , Holy Cross Hospital, Montgomery County,, Maryland, USA
 1 CHR
 2 DATE 8 APR 1990
 2 PLAC , , St Louis RC, Clarksville, Maryland, USA
@@ -4819,9 +4819,9 @@
 2 DATE 7 JAN 2006
 3 TIME 16:29:00
 0 @I317@ INDI
-1 NAME JeromeThomas /Langr/
+1 NAME Jerome Thomas /Langr/
 2 SURN Langr
-2 GIVN JeromeThomas
+2 GIVN Jerome Thomas
 1 SEX M
 1 BIRT
 2 DATE 14 DEC 1927
@@ -7103,9 +7103,9 @@
 1 SEX F
 1 BIRT
 2 DATE 11 MAY 1967
-2 PLAC , , , Jamacia, NY, USA
+2 PLAC , , , Jamaica, NY, USA
 1 CHR
-2 PLAC , , , Jamacia, NY, USA
+2 PLAC , , , Jamaica, NY, USA
 1 _UID 29BA59A68F43E9468D1411F35EBD1E955680
 1 FAMS @F99@
 1 NOTE parents dennis edward paterson and mary charlotte prusok
@@ -8738,7 +8738,7 @@
 1 CHIL @I13@
 1 MARR
 2 DATE 19 JUN 1965
-2 PLAC , , ss philip @@ jame, Baltimore, Maryland, USA
+2 PLAC , , Sts Philip and James Catholic Church, Baltimore, Maryland, USA
 0 @F11@ FAM
 1 _UID 28D53D4603D7494E9AEC566BCEDEE7AF7A86
 1 HUSB @I31@
@@ -8775,7 +8775,7 @@
 1 CHIL @I72@
 1 MARR
 2 DATE 26 APR 1926
-2 PLAC , , ss philip&james, Baltimore, Maryland, USA
+2 PLAC , , Sts Philip and James Catholic Church, Baltimore, Maryland, USA
 0 @F14@ FAM
 1 _UID 329D7A1EC99AA64D922B7C997F31C45558CE
 1 HUSB @I17@
@@ -8825,7 +8825,7 @@
 1 CHIL @I209@
 1 MARR
 2 DATE 20 OCT 1927
-2 PLAC , , ss philip&james, Baltimore, Maryland, USA
+2 PLAC , , Sts Philip and James Catholic Church, Baltimore, Maryland, USA
 0 @F18@ FAM
 1 _UID BC5472ED8F768145A703AB36F774E5253AB2
 1 HUSB @I25@
@@ -8960,7 +8960,7 @@
 1 CHIL @I75@
 1 MARR
 2 DATE 15 MAY 1954
-2 PLAC , , ss philip&james, Baltimore, Maryland, USA
+2 PLAC , , Sts Philip and James Catholic Church, Baltimore, Maryland, USA
 0 @F35@ FAM
 1 _UID 80275640DB7E4E4182D44D40A7A3E3104585
 1 HUSB @I74@
@@ -9408,7 +9408,7 @@
 1 CHIL @I199@
 1 MARR
 2 DATE 2 AUG 1958
-2 PLAC , , ss philip&james, Baltimore, Maryland, USA
+2 PLAC , , Sts Philip and James Catholic Church, Baltimore, Maryland, USA
 0 @F85@ FAM
 1 _UID 663A22D44E3D00468E9049B04CF618926A7D
 1 HUSB @I153@
@@ -9575,7 +9575,7 @@
 1 CHIL @I213@
 1 MARR
 2 DATE 9 JUN 1956
-2 PLAC , , ss philip&james, Baltimore, Maryland, USA
+2 PLAC , , Sts Philip and James Catholic Church, Baltimore, Maryland, USA
 0 @F103@ FAM
 1 _UID 79B6F6C3ACAF3D419BDD50776251A5C11971
 1 HUSB @I215@
@@ -9586,7 +9586,7 @@
 1 CHIL @I219@
 1 MARR
 2 DATE 16 APR 1955
-2 PLAC , , ss philip&james, Baltimore, Maryland, USA
+2 PLAC , , Sts Philip and James Catholic Church, Baltimore, Maryland, USA
 0 @F104@ FAM
 1 _UID 6FBDCDFBD680BD4E889E63C319835B98308E
 1 HUSB @I207@
@@ -9597,7 +9597,7 @@
 1 CHIL @I228@
 1 MARR
 2 DATE 25 AUG 1956
-2 PLAC , , ss philip&james, Baltimore, Maryland, USA
+2 PLAC , , Sts Philip and James Catholic Church, Baltimore, Maryland, USA
 0 @F105@ FAM
 1 _UID B4270B4EF3B16E4A84A9971C391AE822CDF7
 1 HUSB @I208@
@@ -9610,7 +9610,7 @@
 1 CHIL @I235@
 1 MARR
 2 DATE 1 OCT 1960
-2 PLAC , , ss philip&james, Baltimore, Maryland, USA
+2 PLAC , , Sts Philip and James Catholic Church, Baltimore, Maryland, USA
 0 @F106@ FAM
 1 _UID 0EA19F7F45579643B27FF54CC0F32B84169A
 1 HUSB @I208@
@@ -9628,7 +9628,7 @@
 1 CHIL @I238@
 1 MARR
 2 DATE 28 SEP 1968
-2 PLAC , , ss philip&james, Baltimore, Maryland, USA
+2 PLAC , , Sts Philip and James Catholic Church, Baltimore, Maryland, USA
 0 @F108@ FAM
 1 _UID 94249104FF307F44ACAC261AA86CEF08E220
 1 HUSB @I391@
