@@ -10,7 +10,7 @@
 3 ADDR http://www.ancestris.org
 1 DEST ANY
 1 DATE 24 MAR 2022
-2 TIME 12:43:51
+2 TIME 12:54:41
 1 FILE langrMooneyFamilyTree.ged
 1 GEDC
 2 VERS 5.5.1
@@ -3052,8 +3052,8 @@
 2 DATE 5 JAN 2006
 3 TIME 15:04:16
 0 @I189@ INDI
-1 NAME Mary Rose /Mc Namara/
-2 SURN Mc Namara
+1 NAME Mary Rose /McNamara/
+2 SURN McNamara
 2 GIVN Mary, Rose
 1 SEX F
 1 BIRT
@@ -3268,8 +3268,8 @@
 2 DATE 11 JAN 2006
 3 TIME 20:30:56
 0 @I204@ INDI
-1 NAME Francis Hamilton /Mc Cully/
-2 SURN Mc Cully
+1 NAME Francis Hamilton /McCully/
+2 SURN McCully
 2 GIVN Francis, Hamilton
 1 SEX M
 1 BIRT
@@ -3280,8 +3280,8 @@
 2 DATE 7 JAN 2006
 3 TIME 16:18:47
 0 @I205@ INDI
-1 NAME Mary Louise /Mc Cully/
-2 SURN Mc Cully
+1 NAME Mary Louise /McCully/
+2 SURN McCully
 2 GIVN Mary, Louise
 1 SEX F
 1 BIRT
@@ -3295,8 +3295,8 @@
 2 DATE 7 JAN 2006
 3 TIME 16:17:08
 0 @I206@ INDI
-1 NAME Iris Theresa /Mc Cully/
-2 SURN Mc Cully
+1 NAME Iris Theresa /McCully/
+2 SURN McCully
 2 GIVN Iris, Theresa
 1 SEX F
 1 BIRT
@@ -3311,8 +3311,8 @@
 2 DATE 14 JUL 2006
 3 TIME 11:20:58
 0 @I207@ INDI
-1 NAME Francis Hamilton /Mc Cully/
-2 SURN Mc Cully
+1 NAME Francis Hamilton /McCully/
+2 SURN McCully
 2 GIVN Francis, Hamilton
 1 SEX M
 1 BIRT
@@ -3321,18 +3321,18 @@
 2 PLAC , , St Ann, Baltimore, Maryland, USA
 1 DEAT
 2 DATE 27 JAN 1979
-2 PLAC , , , Baltimore, Maryland, USA
+2 PLAC Johns Hopkins Hospital, Baltimore, Maryland, United States, , 
 1 BURI
 2 PLAC , , Moreland Memorial, Baltimore, Maryland, USA
 1 _UID 4A447B2B8DBD2443B62EA78BB0CBD957A6C0
 1 FAMS @F104@
 1 FAMC @F17@
 1 CHAN
-2 DATE 24 JAN 2006
-3 TIME 18:34:45
+2 DATE 24 MAR 2022
+3 TIME 18:54:39
 0 @I208@ INDI
-1 NAME Richard Barton /Mc Cully/
-2 SURN Mc Cully
+1 NAME Richard Barton /McCully/
+2 SURN McCully
 2 GIVN Richard, Barton
 1 SEX M
 1 BIRT
@@ -3346,8 +3346,8 @@
 2 DATE 7 JAN 2006
 3 TIME 16:15:26
 0 @I209@ INDI
-1 NAME Joseph Brent /Mc Cully/
-2 SURN Mc Cully
+1 NAME Joseph Brent /McCully/
+2 SURN McCully
 2 GIVN Joseph, Brent
 1 SEX M
 1 BIRT
@@ -3415,8 +3415,8 @@
 2 DATE 10 JAN 2006
 3 TIME 16:17:32
 0 @I214@ INDI
-1 NAME Timothy L /Mc Cubbin/
-2 SURN Mc Cubbin
+1 NAME Timothy L /McCubbin/
+2 SURN McCubbin
 2 GIVN Timothy, L
 1 SEX M
 1 _UID C037E70E024CBA4193E1EB8B4DFD820EF9AF
@@ -3579,8 +3579,8 @@
 2 DATE 24 JAN 2006
 3 TIME 18:35:31
 0 @I225@ INDI
-1 NAME Francis Hamilton /Mc Cully/
-2 SURN Mc Cully
+1 NAME Francis Hamilton /McCully/
+2 SURN McCully
 2 GIVN Francis, Hamilton
 1 SEX M
 1 BIRT
@@ -3594,8 +3594,8 @@
 2 DATE 24 JAN 2006
 3 TIME 18:37:03
 0 @I226@ INDI
-1 NAME Mary Allison /Mc Cully/
-2 SURN Mc Cully
+1 NAME Mary Allison /McCully/
+2 SURN McCully
 2 GIVN Mary, Allison
 1 SEX F
 1 BIRT
@@ -3609,8 +3609,8 @@
 2 DATE 24 JAN 2006
 3 TIME 18:43:20
 0 @I227@ INDI
-1 NAME Colleen Elizabeth /Mc Cully/
-2 SURN Mc Cully
+1 NAME Colleen Elizabeth /McCully/
+2 SURN McCully
 2 GIVN Colleen, Elizabeth
 1 SEX F
 1 BIRT
@@ -3627,8 +3627,8 @@
 2 DATE 24 JAN 2006
 3 TIME 18:49:02
 0 @I228@ INDI
-1 NAME Anita Kathleen /Mc Cully/
-2 SURN Mc Cully
+1 NAME Anita Kathleen /McCully/
+2 SURN McCully
 2 GIVN Anita, Kathleen
 1 SEX F
 1 BIRT
@@ -3656,8 +3656,8 @@
 2 DATE 12 JAN 2006
 3 TIME 15:05:05
 0 @I230@ INDI
-1 NAME R ichard Barton /Mc Cully Jr/
-2 SURN Mc Cully Jr
+1 NAME R ichard Barton /McCully Jr/
+2 SURN McCully Jr
 2 GIVN R, ichard, Barton
 1 SEX M
 1 BIRT
@@ -3670,8 +3670,8 @@
 2 DATE 7 JAN 2006
 3 TIME 16:23:30
 0 @I231@ INDI
-1 NAME Dennis Brian /Mc cully/
-2 SURN Mc cully
+1 NAME Dennis Brian /Mccully/
+2 SURN Mccully
 2 GIVN Dennis, Brian
 1 SEX M
 1 BIRT
@@ -3684,8 +3684,8 @@
 2 DATE 7 JAN 2006
 3 TIME 16:20:34
 0 @I232@ INDI
-1 NAME Michael Gregory /Mc Cully/
-2 SURN Mc Cully
+1 NAME Michael Gregory /McCully/
+2 SURN McCully
 2 GIVN Michael, Gregory
 1 SEX M
 1 BIRT
@@ -3702,8 +3702,8 @@
 2 DATE 7 JAN 2006
 3 TIME 16:15:45
 0 @I233@ INDI
-1 NAME Elizabeth O'neil /Mc Cully/
-2 SURN Mc Cully
+1 NAME Elizabeth O'neil /McCully/
+2 SURN McCully
 2 GIVN Elizabeth, O'neil
 1 SEX F
 1 BIRT
@@ -3718,8 +3718,8 @@
 2 DATE 7 JAN 2006
 3 TIME 16:20:15
 0 @I234@ INDI
-1 NAME Timothy Edward /Mc Cully/
-2 SURN Mc Cully
+1 NAME Timothy Edward /McCully/
+2 SURN McCully
 2 GIVN Timothy, Edward
 1 SEX M
 1 BIRT
@@ -3734,8 +3734,8 @@
 2 DATE 7 JAN 2006
 3 TIME 16:14:12
 0 @I235@ INDI
-1 NAME Lisa Ellen /Mc Cully/
-2 SURN Mc Cully
+1 NAME Lisa Ellen /McCully/
+2 SURN McCully
 2 GIVN Lisa, Ellen
 1 SEX F
 1 BIRT
@@ -3769,8 +3769,8 @@
 2 DATE 10 JAN 2006
 3 TIME 19:54:51
 0 @I237@ INDI
-1 NAME Shanon Alieen /Mc Cully/
-2 SURN Mc Cully
+1 NAME Shanon Alieen /McCully/
+2 SURN McCully
 2 GIVN Shanon, Alieen
 1 SEX F
 1 BIRT
@@ -3785,8 +3785,8 @@
 2 DATE 7 JAN 2006
 3 TIME 16:14:32
 0 @I238@ INDI
-1 NAME Carrie Marie /Mc Cully/
-2 SURN Mc Cully
+1 NAME Carrie Marie /McCully/
+2 SURN McCully
 2 GIVN Carrie, Marie
 1 SEX F
 1 BIRT
@@ -4178,8 +4178,8 @@
 2 DATE 5 JAN 2006
 3 TIME 09:51:26
 0 @I269@ INDI
-1 NAME /Mc ginnity/
-2 SURN Mc ginnity
+1 NAME /McGinnity/
+2 SURN McGinnity
 1 SEX M
 1 _UID 2AA350F67DD4C549BEFF7FFDECD56BE5BC04
 1 FAMS @F123@
@@ -4269,8 +4269,8 @@
 2 DATE 11 JAN 2006
 3 TIME 14:56:02
 0 @I277@ INDI
-1 NAME Brigid Kathleen /Mc Cully/
-2 SURN Mc Cully
+1 NAME Brigid Kathleen /McCully/
+2 SURN McCully
 2 GIVN Brigid, Kathleen
 1 SEX F
 1 BIRT
@@ -4285,8 +4285,8 @@
 2 DATE 7 JAN 2006
 3 TIME 16:22:16
 0 @I278@ INDI
-1 NAME Maureen Clare /Mc Cully/
-2 SURN Mc Cully
+1 NAME Maureen Clare /McCully/
+2 SURN McCully
 2 GIVN Maureen, Clare
 1 SEX F
 1 BIRT
@@ -4456,8 +4456,8 @@
 2 DATE 10 JAN 2006
 3 TIME 19:45:04
 0 @I289@ INDI
-1 NAME Mary Frances /SIZER/
-2 SURN SIZER
+1 NAME Mary Frances /Sizer/
+2 SURN Sizer
 2 GIVN Mary, Frances
 1 SEX F
 1 BIRT
@@ -7355,8 +7355,8 @@
 2 DATE 24 SEP 2002
 3 TIME 01:00:00
 0 @I499@ INDI
-1 NAME Brendan Barton /Mc Cully Jr/
-2 SURN Mc Cully Jr
+1 NAME Brendan Barton /McCully Jr/
+2 SURN McCully Jr
 2 GIVN Brendan, Barton
 1 SEX M
 1 BIRT
@@ -7646,8 +7646,8 @@
 2 DATE 11 JAN 2006
 3 TIME 20:43:52
 0 @I519@ INDI
-1 NAME Oliva Kay /Mc Cully Jr/
-2 SURN Mc Cully Jr
+1 NAME Oliva Kay /McCully Jr/
+2 SURN McCully Jr
 2 GIVN Oliva, Kay
 1 SEX F
 1 BIRT
@@ -7659,8 +7659,8 @@
 2 DATE 11 JAN 2006
 3 TIME 14:49:59
 0 @I520@ INDI
-1 NAME Aidan James /Mc Cully Jr/
-2 SURN Mc Cully Jr
+1 NAME Aidan James /McCully Jr/
+2 SURN McCully Jr
 2 GIVN Aidan, James
 1 SEX M
 1 BIRT
