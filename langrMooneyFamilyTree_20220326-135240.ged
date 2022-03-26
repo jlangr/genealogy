@@ -9,8 +9,8 @@
 2 CORP Ancestris Team
 3 ADDR http://www.ancestris.org
 1 DEST ANY
-1 DATE 25 MAR 2022
-2 TIME 14:19:11
+1 DATE 26 MAR 2022
+2 TIME 13:37:17
 1 FILE langrMooneyFamilyTree.ged
 1 GEDC
 2 VERS 5.5.1
@@ -67,13 +67,14 @@
 1 BURI
 2 DATE 17 MAR 1971
 2 PLAC , , Holy Redeemer CE, Baltimore, Maryland, USA
+1 NOTE @N00054@
 1 REFN 2
 1 _UID B35E6E2A3E8D144AA3F9E42F71FEBC6915FA
 1 FAMS @F2@
 1 FAMC @F4@
 1 CHAN
-2 DATE 23 MAR 2022
-3 TIME 17:14:33
+2 DATE 26 MAR 2022
+3 TIME 19:37:17
 0 @I4@ INDI
 1 NAME Jacqueline Marie /Mooney/
 2 SURN Mooney
@@ -149,13 +150,14 @@
 2 PLAC , , , Baltimore, Maryland, USA
 1 DEAT
 2 DATE 15 JUN 1981
+2 NOTE @N00052@
 1 REFN 3
 1 _UID B22E0262AA628E44A396364E377190384F89
 1 FAMS @F2@
 1 FAMC @F9@
 1 CHAN
-2 DATE 10 JAN 2006
-3 TIME 16:26:50
+2 DATE 26 MAR 2022
+3 TIME 14:24:23
 0 @I9@ INDI
 1 NAME Jo Anne Mary /Mooney/
 2 SURN Mooney
@@ -178,11 +180,12 @@
 1 BIRT
 2 DATE 20 OCT 1940
 2 PLAC , , , Baltimore, Maryland, USA
+1 NOTE @N00051@
 1 _UID 54D9040F844E2340AB67E939377F6E10DD1B
 1 FAMS @F10@
 1 CHAN
-2 DATE 5 JAN 2006
-3 TIME 15:27:59
+2 DATE 26 MAR 2022
+3 TIME 14:11:44
 0 @I11@ INDI
 1 NAME Karen Anne /Nasuta/
 2 SURN Nasuta
@@ -279,9 +282,10 @@
 1 FAMS @F4@
 1 FAMC @F12@
 1 NOTE remains moved to holy redeemer cem on 6/19/1970.buried with daughter kathleen mc cully.
+2 CONT https://www.familysearch.org/tree/person/details/9SVF-7XB
 1 CHAN
-2 DATE 5 JAN 2006
-3 TIME 09:32:07
+2 DATE 26 MAR 2022
+3 TIME 15:52:46
 0 @I16@ INDI
 1 NAME Mary Agnes /Mooney/
 2 SURN Mooney
@@ -703,14 +707,15 @@
 1 DEAT
 2 DATE 11 NOV 1882
 2 PLAC , , , , County Wexford, Ireland
+2 SOUR @S00008@
 1 BURI
 2 PLAC , , Crossabeg, , County Wexford, Ireland
 1 REFN 18
 1 _UID 2F6F11A07DC3E544984F5ADC02C80C762151
 1 FAMS @F21@
 1 CHAN
-2 DATE 24 SEP 2002
-3 TIME 01:00:00
+2 DATE 26 MAR 2022
+3 TIME 02:34:28
 0 @I39@ INDI
 1 NAME Anastasia /Culletin/
 2 SURN Culletin
@@ -941,9 +946,12 @@
 1 _UID DDFF161974938D479D1F2BD9189714339C7C
 1 FAMS @F20@
 1 NOTE info from mormons file 926222 parish kilcolman ,diocese tuam. see ship roster .
+2 CONT
+2 CONT possibly this person?
+2 CONT https://www.ancestry.com/discoveryui-content/view/3637634:1629?tid=&pid=&queryId=9bb788bebd6e88c6c36daecddbc3645c&_phsrc=NiL4&_phstart=successSource
 1 CHAN
-2 DATE 24 SEP 2002
-3 TIME 01:00:00
+2 DATE 26 MAR 2022
+3 TIME 15:28:09
 0 @I51@ INDI
 1 NAME Bridget /Taylor/
 2 SURN Taylor
@@ -1063,16 +1071,20 @@
 2 DATE 7 JAN 2006
 3 TIME 15:50:20
 0 @I58@ INDI
-1 NAME Joseph John /Peroutka/
+1 NAME Josef John /Peroutka/
 2 SURN Peroutka
-2 GIVN Joseph, John
+2 GIVN Josef, John
 1 SEX M
 1 BIRT
 2 DATE 25 FEB 1883
-2 PLAC , , , , , Austria
+2 PLAC , , , , Prague, Czechoslovakia
 1 DEAT
 2 DATE 19 JAN 1959
-2 PLAC , , 3516 Northern Pr, Baltimore, Maryland, USA
+2 PLAC , , 3516 Northern Parkway, Baltimore, Maryland, USA
+1 RESI
+2 DATE 1930
+2 PLAC , , , , Districts 251-500, Baltimore, Maryland, USA
+2 SOUR @S00009@
 1 BURI
 2 PLAC , , Holy Redeemer CE, Baltimore, Maryland, USA
 1 REFN 6
@@ -1080,17 +1092,20 @@
 1 FAMS @F9@
 1 FAMC @F29@
 1 NOTE naturalized citizen on 27 nov 1909. #114494
+2 CONT known as Joseph (per John Anthony Mooney Jr)
+2 CONT https://www.familysearch.org/tree/person/details/LDRV-JZ4d
 1 CHAN
-2 DATE 10 JAN 2006
-3 TIME 16:25:49
+2 DATE 26 MAR 2022
+3 TIME 14:50:05
 0 @I59@ INDI
-1 NAME Marie B /Linek/
-2 SURN Linek
+1 NAME Marie B /Linková/
+2 SURN Linková
 2 GIVN Marie, B
 1 SEX F
 1 BIRT
 2 DATE 14 MAY 1884
-2 PLAC , , 343, Duchcov, Teplice Co, czechoslovakia
+2 PLAC , , 343, Duchcov, Teplice Co, Czechoslovakia
+2 NOTE @N00053@
 1 DEAT
 2 DATE 4 MAR 1960
 2 PLAC , , 3516 Northern Pr, Baltimore, Maryland, USA
@@ -1100,10 +1115,15 @@
 1 _UID B31CDF93771D6F458A2C93A57209DD9D6C7C
 1 FAMS @F9@
 1 FAMC @F30@
-1 NOTE duchcov 5036n 01345e
+1 NOTE Duchcov: 5036n 01345e
+2 CONT Known as Mary Link or Marie Link
+2 CONT https://www.familysearch.org/tree/person/details/LX96-YRY
+2 CONT
+2 CONT sister: Anna
+2 CONT https://www.findagrave.com/memorial/209565177/anna-havlik_proklesek
 1 CHAN
-2 DATE 7 JAN 2006
-3 TIME 16:26:52
+2 DATE 26 MAR 2022
+3 TIME 15:11:12
 0 @I60@ INDI
 1 NAME Jan /Linek/
 2 SURN Linek
@@ -1193,6 +1213,7 @@
 2 SURN Peroutka
 2 GIVN Matthew, Matej
 1 SEX M
+1 FAMC @F33@
 1 BIRT
 2 DATE 1860
 2 PLAC , , , Kutna Hora, , Czech Austria Em
@@ -1204,11 +1225,10 @@
 1 REFN 12
 1 _UID AFB1F93CB0CF3D45AFA653DACEB6BFE03BDB
 1 FAMS @F29@
-1 FAMC @F33@
 1 NOTE kutna hora 4957n01516e  kutna hora means frock mountain
 1 CHAN
-2 DATE 10 JAN 2006
-3 TIME 16:24:36
+2 DATE 26 MAR 2022
+3 TIME 14:24:50
 0 @I67@ INDI
 1 NAME Marie /Antos/
 2 SURN Antos
@@ -4467,12 +4487,15 @@
 2 DATE 19 SEP 2008
 2 NOTE @N00005@
 2 _TIME 11pm
+1 CHR
+2 DATE 22 JUL 1928
+2 PLAC St. Peter's, Washington, District of Columbia, USA
 1 _UID E294502386FDAF428437F236AE87A28CA3BA
 1 FAMS @F26@
 1 FAMC @F128@
 1 CHAN
-2 DATE 23 MAR 2022
-3 TIME 20:44:27
+2 DATE 25 MAR 2022
+3 TIME 20:36:21
 0 @I290@ INDI
 1 NAME Earl Eugene /Sizer/
 2 SURN Sizer
@@ -4483,12 +4506,13 @@
 2 PLAC , , , Riverdale, Maryland, USA
 1 DEAT
 2 DATE 24 DEC 1967
+1 NOTE @N00049@
 1 _UID 97952A35EE27624EA2DC21AA571C5AFF651E
 1 FAMS @F128@
 1 FAMC @F129@
 1 CHAN
-2 DATE 6 JAN 2006
-3 TIME 10:14:16
+2 DATE 25 MAR 2022
+3 TIME 20:28:53
 0 @I291@ INDI
 1 NAME Magdalene Eleanor /Schroen/
 2 SURN Schroen
@@ -4501,13 +4525,28 @@
 2 DATE 8 JAN 1994
 2 PLAC Cedar Hill Cemetery, Suitland, Maryland, USA
 2 NOTE @N00029@
+1 RESI
+2 DATE 1967
+2 PLAC Oxon Hil, Maryland, USA
+1 RESI
+2 DATE FROM 1967
+2 PLAC Hillcrest Heights, Maryland, USA
+1 RESI
+2 PLAC Waldorf, MD
+2 NOTE @N00047@
+1 RESI
+2 PLAC Presidential Woods Health Care Center, Adelphi, Maryland, USA
+2 NOTE @N00048@
+1 CHR
+2 DATE AUG 1907
+2 PLAC , , , Washington, District of Columbia, United States
 1 NOTE @N00028@
 1 _UID 68CA05268E786B4A94E7D9E22457AA087B84
 1 FAMS @F128@
 1 FAMC @F130@
 1 CHAN
 2 DATE 25 MAR 2022
-3 TIME 19:23:55
+3 TIME 20:35:41
 0 @I292@ INDI
 1 NAME Steven Francis /Langr/
 2 SURN Langr
@@ -4517,12 +4556,13 @@
 2 DATE 18 NOV 1955
 2 PLAC , , Owatonna City Hospital, Owatonna, Minnesota, USA
 1 CHR
+2 DATE 4 DEC 1955
 2 PLAC , , , , , Holy Trinity RC
 1 _UID 396A193DC402EA44A5F0A2C3FFAAAD95D247
 1 FAMC @F26@
 1 CHAN
-2 DATE 7 JAN 2006
-3 TIME 16:30:09
+2 DATE 25 MAR 2022
+3 TIME 20:34:24
 0 @I293@ INDI
 1 NAME Mark Edmund /Langr/
 2 SURN Langr
@@ -4532,13 +4572,14 @@
 2 DATE 17 MAR 1959
 2 PLAC , , Washington Hospital Center, Washington, DC, USA
 1 CHR
+2 DATE 29 MAY 1959
 2 PLAC , , St Marys RC, Laurel, Maryland, USA
 1 _UID 7BF8A4357615F24B907FEBAC3FA4155709A7
 1 FAMS @F131@
 1 FAMC @F26@
 1 CHAN
-2 DATE 7 JAN 2006
-3 TIME 16:32:54
+2 DATE 25 MAR 2022
+3 TIME 20:33:38
 0 @I294@ INDI
 1 NAME Christine Cecile /Langr/
 2 SURN Langr
@@ -7350,11 +7391,12 @@
 1 SEX M
 1 BIRT
 2 DATE 13 NOV 1805
+1 NOTE @N00050@
 1 _UID FF9E5E524075E4429D3E66C628D5959C5D82
 1 FAMC @F23@
 1 CHAN
-2 DATE 11 OCT 2001
-3 TIME 01:00:00
+2 DATE 26 MAR 2022
+3 TIME 02:44:19
 0 @I498@ INDI
 1 NAME Mary /Hanly/
 2 SURN Hanly
@@ -10697,15 +10739,15 @@
 1 NAME Warwick Edmund /Manlove/
 2 GIVN Warwick, Edmund
 2 SURN Manlove
-1 SEX U
+1 SEX M
 1 BIRT
 2 DATE 2 JAN 2018
 2 PLAC University of Washington Medical Center, Seattle, Washington, USA, , 
 2 _TIME 20:50
 1 FAMC @F192@
 1 CHAN
-2 DATE 24 MAR 2022
-3 TIME 01:19:56
+2 DATE 25 MAR 2022
+3 TIME 20:42:12
 0 @F192@ FAM
 1 HUSB @I605@
 1 WIFE @I54@
@@ -10811,10 +10853,14 @@
 1 CHAN
 2 DATE 25 MAR 2022
 3 TIME 19:19:29
-0 @N00028@ NOTE Buried next to her husband Earl.
+0 @N00028@ NOTE nickname "Mad." Llived most of her early life in the District of Columbia. Magdalene's primary mission in her life was the care of her family. Grandson Jeffrey recalled that she never got angry with anybody. Her children remember her as a dedicat
+1 CONC ed mother who got up early every morning to fix them breakfast, give them the weather report, and get them out to school or to work on time. Her older grandchildren fondly remember how Grandmother Magdalene spoiled them and gave them personal att
+1 CONC ention when their turn came to stay with her during school vacations. The older grandchildren remember that Grandpa Earl gave each of them a bag of candy whenever they visited, and Grandma continued this tradition after Grandpa Earl died. Magdale
+1 CONC ne was also a very good cook and a gracious hostess who served big family dinners, followed by cookies and huge chunks of cake with frosting, almost every Sunday, as long as she was able. (Compiled by Edmund A. Langr, 29 Apr 1994, updated 8 Jan 1
+1 CONC 998)
 1 CHAN
 2 DATE 25 MAR 2022
-3 TIME 19:23:55
+3 TIME 20:31:38
 0 @N00029@ NOTE buried next to her husband Earl
 1 CHAN
 2 DATE 25 MAR 2022
@@ -10997,7 +11043,7 @@
 1 FAMC @F130@
 1 CHAN
 2 DATE 25 MAR 2022
-3 TIME 19:52:22
+3 TIME 20:23:37
 0 @I618@ INDI
 1 NAME Agnes M. /Schroen/
 2 GIVN Agnes, M.
@@ -11024,23 +11070,24 @@
 2 DATE 25 MAR 2022
 3 TIME 20:17:46
 0 @I619@ INDI
-1 NAME Ella /Schroen/
-2 GIVN Ella
+1 NAME Ella Elizabeth /Schroen/
+2 GIVN Ella, Elizabeth
 2 SURN Schroen
 1 SEX F
-1 BIRT Y
+1 BIRT
+2 DATE 1917
 1 RESI
 2 PLAC St. Augustine, Florida, USA
 1 NOTE @N00043@
 1 FAMC @F130@
 1 CHAN
 2 DATE 25 MAR 2022
-3 TIME 20:09:54
+3 TIME 20:25:23
 0 @I620@ INDI
 1 NAME Catherine Loraine /Schroen/
 2 GIVN Catherine, Loraine
 2 SURN Schroen
-1 SEX U
+1 SEX M
 1 BIRT
 2 DATE 28 APR 1920
 2 PLAC , , , Washington, District of Columbia, United States
@@ -11048,11 +11095,16 @@
 2 DATE 19 AUG 1994
 1 RESI
 2 TYPE Warsaw, Virginia, USA
+1 RESI
+2 PLAC , , , Washington, District of Columbia, United States
+1 BURI
+2 PLAC Arlington National Cemetery, Arlington County, Virginia, USA
 1 NOTE @N00042@
 1 FAMC @F130@
+1 FAMS @F198@
 1 CHAN
 2 DATE 25 MAR 2022
-3 TIME 20:19:11
+3 TIME 20:20:19
 0 @S00002@ SOUR
 1 TITL https://www.findagrave.com/memorial/20791621/agnes-m-cato
 1 CHAN
@@ -11122,9 +11174,10 @@
 2 DATE 25 MAR 2022
 3 TIME 20:08:20
 0 @N00042@ NOTE married name Ferguson
+1 CONT G4N
 1 CHAN
 2 DATE 25 MAR 2022
-3 TIME 20:09:42
+3 TIME 20:20:19
 0 @N00043@ NOTE married name Yoder
 1 CHAN
 2 DATE 25 MAR 2022
@@ -11141,4 +11194,77 @@
 1 CHAN
 2 DATE 25 MAR 2022
 3 TIME 20:17:46
+0 @I622@ INDI
+1 NAME John Wesley /Ferguson/
+2 GIVN John, Wesley
+2 SURN Ferguson
+1 SEX M
+1 BIRT
+2 DATE 28 AUG 1925
+2 PLAC Jasper, Marion, Tennessee, USA, , 
+1 DEAT
+2 DATE 8 JUL 1989
+2 PLAC Washington, District of Columbia, United States
+2 NOTE @N00046@
+1 NOTE @N00045@
+1 FAMS @F198@
+1 CHAN
+2 DATE 25 MAR 2022
+3 TIME 20:21:42
+0 @F198@ FAM
+1 HUSB @I620@
+1 WIFE @I622@
+1 CHAN
+2 DATE 25 MAR 2022
+3 TIME 20:20:19
+0 @N00045@ NOTE 9XM6-FWC
+1 CHAN
+2 DATE 25 MAR 2022
+3 TIME 20:21:42
+0 @N00046@ NOTE
+1 CHAN
+2 DATE 25 MAR 2022
+3 TIME 20:21:42
+0 @N00047@ NOTE after living in Hillcrest Heights
+1 CHAN
+2 DATE 25 MAR 2022
+3 TIME 20:28:14
+0 @N00048@ NOTE last residence
+1 CHAN
+2 DATE 25 MAR 2022
+3 TIME 20:28:14
+0 @N00049@ NOTE Earl was a gentle person with a nice humor. He always loved the babies.
+1 CHAN
+2 DATE 25 MAR 2022
+3 TIME 20:28:53
+0 @S00008@ SOUR
+1 TITL https://www.familysearch.org/ark:/61903/1:1:FT3V-TYZ
+1 CHAN
+2 DATE 26 MAR 2022
+3 TIME 02:34:28
+0 @N00050@ NOTE https://www.familysearch.org/ark:/61903/1:1:FTKN-7WR possibly? Death 1835 Wexford
+1 CHAN
+2 DATE 26 MAR 2022
+3 TIME 02:44:19
+0 @N00051@ NOTE father: https://www.findagrave.com/memorial/130870491/anthony-thomas-nasuta
+1 CHAN
+2 DATE 26 MAR 2022
+3 TIME 14:11:44
+0 @N00052@ NOTE see The Evening Sun (Baltimore) Jun 17 1981 for obituary. Brother: Joseph W.T. Peroutka
+1 CHAN
+2 DATE 26 MAR 2022
+3 TIME 14:24:23
+0 @S00009@ SOUR
+1 TITL census
+1 CHAN
+2 DATE 26 MAR 2022
+3 TIME 14:50:05
+0 @N00053@ NOTE
+1 CHAN
+2 DATE 26 MAR 2022
+3 TIME 14:40:53
+0 @N00054@ NOTE duplicate entry at https://www.familysearch.org/tree/person/details/G9TD-9CX from the one we linked up to
+1 CHAN
+2 DATE 26 MAR 2022
+3 TIME 19:37:17
 0 TRLR

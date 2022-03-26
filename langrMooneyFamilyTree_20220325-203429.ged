@@ -10,7 +10,7 @@
 3 ADDR http://www.ancestris.org
 1 DEST ANY
 1 DATE 25 MAR 2022
-2 TIME 14:04:56
+2 TIME 14:34:24
 1 FILE langrMooneyFamilyTree.ged
 1 GEDC
 2 VERS 5.5.1
@@ -4483,12 +4483,13 @@
 2 PLAC , , , Riverdale, Maryland, USA
 1 DEAT
 2 DATE 24 DEC 1967
+1 NOTE @N00049@
 1 _UID 97952A35EE27624EA2DC21AA571C5AFF651E
 1 FAMS @F128@
 1 FAMC @F129@
 1 CHAN
-2 DATE 6 JAN 2006
-3 TIME 10:14:16
+2 DATE 25 MAR 2022
+3 TIME 20:28:53
 0 @I291@ INDI
 1 NAME Magdalene Eleanor /Schroen/
 2 SURN Schroen
@@ -4501,13 +4502,25 @@
 2 DATE 8 JAN 1994
 2 PLAC Cedar Hill Cemetery, Suitland, Maryland, USA
 2 NOTE @N00029@
+1 RESI
+2 DATE 1967
+2 PLAC Oxon Hil, Maryland, USA
+1 RESI
+2 DATE FROM 1967
+2 PLAC Hillcrest Heights, Maryland, USA
+1 RESI
+2 PLAC Waldorf, MD
+2 NOTE @N00047@
+1 RESI
+2 PLAC Presidential Woods Health Care Center, Adelphi, Maryland, USA
+2 NOTE @N00048@
 1 NOTE @N00028@
 1 _UID 68CA05268E786B4A94E7D9E22457AA087B84
 1 FAMS @F128@
 1 FAMC @F130@
 1 CHAN
 2 DATE 25 MAR 2022
-3 TIME 19:23:55
+3 TIME 20:31:38
 0 @I292@ INDI
 1 NAME Steven Francis /Langr/
 2 SURN Langr
@@ -4517,12 +4530,13 @@
 2 DATE 18 NOV 1955
 2 PLAC , , Owatonna City Hospital, Owatonna, Minnesota, USA
 1 CHR
+2 DATE 4 DEC 1955
 2 PLAC , , , , , Holy Trinity RC
 1 _UID 396A193DC402EA44A5F0A2C3FFAAAD95D247
 1 FAMC @F26@
 1 CHAN
-2 DATE 7 JAN 2006
-3 TIME 16:30:09
+2 DATE 25 MAR 2022
+3 TIME 20:34:24
 0 @I293@ INDI
 1 NAME Mark Edmund /Langr/
 2 SURN Langr
@@ -4532,13 +4546,14 @@
 2 DATE 17 MAR 1959
 2 PLAC , , Washington Hospital Center, Washington, DC, USA
 1 CHR
+2 DATE 29 MAY 1959
 2 PLAC , , St Marys RC, Laurel, Maryland, USA
 1 _UID 7BF8A4357615F24B907FEBAC3FA4155709A7
 1 FAMS @F131@
 1 FAMC @F26@
 1 CHAN
-2 DATE 7 JAN 2006
-3 TIME 16:32:54
+2 DATE 25 MAR 2022
+3 TIME 20:33:38
 0 @I294@ INDI
 1 NAME Christine Cecile /Langr/
 2 SURN Langr
@@ -10811,10 +10826,14 @@
 1 CHAN
 2 DATE 25 MAR 2022
 3 TIME 19:19:29
-0 @N00028@ NOTE Buried next to her husband Earl.
+0 @N00028@ NOTE nickname "Mad." Llived most of her early life in the District of Columbia. Magdalene's primary mission in her life was the care of her family. Grandson Jeffrey recalled that she never got angry with anybody. Her children remember her as a dedicat
+1 CONC ed mother who got up early every morning to fix them breakfast, give them the weather report, and get them out to school or to work on time. Her older grandchildren fondly remember how Grandmother Magdalene spoiled them and gave them personal att
+1 CONC ention when their turn came to stay with her during school vacations. The older grandchildren remember that Grandpa Earl gave each of them a bag of candy whenever they visited, and Grandma continued this tradition after Grandpa Earl died. Magdale
+1 CONC ne was also a very good cook and a gracious hostess who served big family dinners, followed by cookies and huge chunks of cake with frosting, almost every Sunday, as long as she was able. (Compiled by Edmund A. Langr, 29 Apr 1994, updated 8 Jan 1
+1 CONC 998)
 1 CHAN
 2 DATE 25 MAR 2022
-3 TIME 19:23:55
+3 TIME 20:31:38
 0 @N00029@ NOTE buried next to her husband Earl
 1 CHAN
 2 DATE 25 MAR 2022
@@ -10997,12 +11016,12 @@
 1 FAMC @F130@
 1 CHAN
 2 DATE 25 MAR 2022
-3 TIME 19:52:22
+3 TIME 20:23:37
 0 @I618@ INDI
-1 NAME Agnes M. /Sizer/
+1 NAME Agnes M. /Schroen/
 2 GIVN Agnes, M.
-2 SURN Sizer
-1 SEX M
+2 SURN Schroen
+1 SEX F
 1 BIRT
 2 DATE 13 OCT 1910
 2 SOUR @S00002@
@@ -11016,51 +11035,63 @@
 1 BURI
 2 PLAC Section 2, Dumfries Public Cemetery, Dumfries, Prince William County, Virginia, USA
 2 NOTE @N00040@
+1 NOTE @N00044@
 1 FAMC @F130@
 1 FAMS @F197@
+1 SOUR @S00007@
 1 CHAN
 2 DATE 25 MAR 2022
-3 TIME 20:04:31
+3 TIME 20:17:46
 0 @I619@ INDI
-1 NAME Ella /Yoder/
-2 GIVN Ella
-2 SURN Yoder
+1 NAME Ella Elizabeth /Schroen/
+2 GIVN Ella, Elizabeth
+2 SURN Schroen
 1 SEX F
-1 BIRT Y
+1 BIRT
+2 DATE 1917
 1 RESI
 2 PLAC St. Augustine, Florida, USA
+1 NOTE @N00043@
 1 FAMC @F130@
 1 CHAN
 2 DATE 25 MAR 2022
-3 TIME 19:53:52
+3 TIME 20:25:23
 0 @I620@ INDI
-1 NAME Catherine L. /Ferguson/
-2 GIVN Catherine, L.
-2 SURN Ferguson
-1 SEX U
-1 BIRT Y
+1 NAME Catherine Loraine /Schroen/
+2 GIVN Catherine, Loraine
+2 SURN Schroen
+1 SEX M
+1 BIRT
+2 DATE 28 APR 1920
+2 PLAC , , , Washington, District of Columbia, United States
 1 DEAT
 2 DATE 19 AUG 1994
 1 RESI
 2 TYPE Warsaw, Virginia, USA
+1 RESI
+2 PLAC , , , Washington, District of Columbia, United States
+1 BURI
+2 PLAC Arlington National Cemetery, Arlington County, Virginia, USA
+1 NOTE @N00042@
 1 FAMC @F130@
+1 FAMS @F198@
 1 CHAN
 2 DATE 25 MAR 2022
-3 TIME 19:55:15
+3 TIME 20:20:19
 0 @S00002@ SOUR
 1 TITL https://www.findagrave.com/memorial/20791621/agnes-m-cato
 1 CHAN
 2 DATE 25 MAR 2022
-3 TIME 20:04:16
+3 TIME 20:17:46
 0 @S00003@ SOUR
 1 TEXT https://www.findagrave.com/memorial/20791621/agnes-m-cato
 1 CHAN
 2 DATE 25 MAR 2022
-3 TIME 20:04:16
+3 TIME 20:17:46
 0 @S00004@ SOUR
 1 CHAN
 2 DATE 25 MAR 2022
-3 TIME 20:04:16
+3 TIME 20:17:46
 0 @N00039@ NOTE
 1 CHAN
 2 DATE 25 MAR 2022
@@ -11074,16 +11105,109 @@
 1 NAME Horace B /Cato/
 2 GIVN Horace, B
 2 SURN Cato
-1 SEX F
-1 BIRT Y
+1 SEX M
+1 BIRT
+2 DATE 30 SEP 1903
+1 DEAT
+2 DATE 24 MAY 1980
+1 BURI
+2 PLAC Section 2, Dumfries Public Cemetery, Dumfries, Prince William County, Virginia, USA
+2 SOUR @S00005@
+2 SOUR @S00006@
+1 NOTE @N00041@
 1 FAMS @F197@
 1 CHAN
 2 DATE 25 MAR 2022
-3 TIME 20:04:56
+3 TIME 20:09:16
 0 @F197@ FAM
 1 HUSB @I618@
 1 WIFE @I621@
 1 CHAN
 2 DATE 25 MAR 2022
 3 TIME 20:04:31
+0 @N00041@ NOTE
+1 CHAN
+2 DATE 25 MAR 2022
+3 TIME 20:08:20
+0 @S00005@ SOUR
+1 TEXT https://www.findagrave.com/memorial/20791623/horace-b-cato
+1 CHAN
+2 DATE 25 MAR 2022
+3 TIME 20:09:16
+0 @S00006@ SOUR
+1 OBJE @M00001@
+1 CHAN
+2 DATE 25 MAR 2022
+3 TIME 20:09:16
+0 @M00001@ OBJE
+1 FILE
+2 FORM
+2 TITL Find a Grave
+1 CHAN
+2 DATE 25 MAR 2022
+3 TIME 20:08:20
+0 @N00042@ NOTE married name Ferguson
+1 CONT G4N
+1 CHAN
+2 DATE 25 MAR 2022
+3 TIME 20:20:19
+0 @N00043@ NOTE married name Yoder
+1 CHAN
+2 DATE 25 MAR 2022
+3 TIME 20:09:54
+0 @N00044@ NOTE Marriage Registration
+1 CONT 24 Apr 1934
+1 CONT Richmond, Virginia, United States
+1 CONT https://www.familysearch.org/tree/person/details/LY1R-78S
+1 CHAN
+2 DATE 25 MAR 2022
+3 TIME 20:17:46
+0 @S00007@ SOUR
+1 TITL https://www.familysearch.org
+1 CHAN
+2 DATE 25 MAR 2022
+3 TIME 20:17:46
+0 @I622@ INDI
+1 NAME John Wesley /Ferguson/
+2 GIVN John, Wesley
+2 SURN Ferguson
+1 SEX M
+1 BIRT
+2 DATE 28 AUG 1925
+2 PLAC Jasper, Marion, Tennessee, USA, , 
+1 DEAT
+2 DATE 8 JUL 1989
+2 PLAC Washington, District of Columbia, United States
+2 NOTE @N00046@
+1 NOTE @N00045@
+1 FAMS @F198@
+1 CHAN
+2 DATE 25 MAR 2022
+3 TIME 20:21:42
+0 @F198@ FAM
+1 HUSB @I620@
+1 WIFE @I622@
+1 CHAN
+2 DATE 25 MAR 2022
+3 TIME 20:20:19
+0 @N00045@ NOTE 9XM6-FWC
+1 CHAN
+2 DATE 25 MAR 2022
+3 TIME 20:21:42
+0 @N00046@ NOTE
+1 CHAN
+2 DATE 25 MAR 2022
+3 TIME 20:21:42
+0 @N00047@ NOTE after living in Hillcrest Heights
+1 CHAN
+2 DATE 25 MAR 2022
+3 TIME 20:28:14
+0 @N00048@ NOTE last residence
+1 CHAN
+2 DATE 25 MAR 2022
+3 TIME 20:28:14
+0 @N00049@ NOTE Earl was a gentle person with a nice humor. He always loved the babies.
+1 CHAN
+2 DATE 25 MAR 2022
+3 TIME 20:28:53
 0 TRLR
