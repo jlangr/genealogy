@@ -10,7 +10,7 @@
 3 ADDR http://www.ancestris.org
 1 DEST ANY
 1 DATE 28 MAR 2022
-2 TIME 11:33:26
+2 TIME 14:35:44
 1 FILE langrMooneyFamilyTree.ged
 1 GEDC
 2 VERS 5.5.1
@@ -128,7 +128,7 @@
 2 DATE 28 MAR 1970
 2 PLAC , , Providence Hospital, Washington, DC, USA
 1 CHR
-2 PLAC , , St Camillus RC, silver spring, Maryland, USA
+2 PLAC , , St Camillus RC, Silver Spring, Maryland, USA
 1 DEAT
 2 DATE 20 MAR 1999
 2 PLAC , , , , Laurel, Maryland, USA
@@ -919,7 +919,7 @@
 2 PLAC , , , , Strokestown, County Roscommon, Ireland
 1 CHR
 2 DATE 12 DEC 1885
-2 PLAC , , , , John Kennedy, ---- Banaghan
+2 NOTE @N00073@
 1 DEAT
 2 DATE 24 JAN 1978
 2 PLAC , , , Baltimore, Maryland, USA
@@ -929,8 +929,8 @@
 1 FAMS @F25@
 1 FAMC @F12@
 1 CHAN
-2 DATE 5 JAN 2006
-3 TIME 09:42:38
+2 DATE 28 MAR 2022
+3 TIME 20:35:41
 0 @I50@ INDI
 1 NAME Patrick /Mooney/
 2 SURN Mooney
@@ -966,7 +966,7 @@
 1 REFN 17
 1 _UID E1896A1E7CE80A4FBCCBDF39CD8166808223
 1 FAMS @F20@
-1 NOTE probably died around 1848 because pat husband thomas son and bridget daughter came to america without her.
+1 NOTE probably died around 1848 because Pat husband Thomas son and Bridget daughter came to America without her.
 1 CHAN
 2 DATE 24 SEP 2002
 3 TIME 01:00:00
@@ -980,7 +980,7 @@
 2 PLAC , , , Claremorris, County Mayo, Ireland
 1 CHR
 2 DATE 2 OCT 1839
-2 PLAC , , , , , same
+2 PLAC , , , Claremorris, County Mayo, Ireland
 1 DEAT
 2 PLAC , , , , , USA
 1 _UID 0D415A322337994C98653650F2B0A715FA4E
@@ -11435,4 +11435,8 @@
 1 CHAN
 2 DATE 28 MAR 2022
 3 TIME 17:33:24
+0 @N00073@ NOTE
+1 CHAN
+2 DATE 28 MAR 2022
+3 TIME 20:35:41
 0 TRLR
