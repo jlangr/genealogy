@@ -9,8 +9,8 @@
 2 CORP Ancestris Team
 3 ADDR http://www.ancestris.org
 1 DEST ANY
-1 DATE 26 MAR 2022
-2 TIME 08:40:53
+1 DATE 28 MAR 2022
+2 TIME 08:22:49
 1 FILE langrMooneyFamilyTree.ged
 1 GEDC
 2 VERS 5.5.1
@@ -67,13 +67,14 @@
 1 BURI
 2 DATE 17 MAR 1971
 2 PLAC , , Holy Redeemer CE, Baltimore, Maryland, USA
+1 NOTE @N00054@
 1 REFN 2
 1 _UID B35E6E2A3E8D144AA3F9E42F71FEBC6915FA
 1 FAMS @F2@
 1 FAMC @F4@
 1 CHAN
-2 DATE 23 MAR 2022
-3 TIME 17:14:33
+2 DATE 26 MAR 2022
+3 TIME 19:37:17
 0 @I4@ INDI
 1 NAME Jacqueline Marie /Mooney/
 2 SURN Mooney
@@ -260,9 +261,9 @@
 2 DATE 14 AUG 2002
 3 TIME 01:00:00
 0 @I15@ INDI
-1 NAME Mary /Banaghan/ Banahan
+1 NAME Mary A. /Banaghan/ Banahan
 2 SURN Banaghan
-2 GIVN Mary
+2 GIVN Mary, A.
 2 NSFX Banahan
 1 SEX F
 1 BIRT
@@ -270,20 +271,22 @@
 2 PLAC , , Bridge St, Strokestown, County Roscommon, Ireland
 1 CHR
 2 DATE 22 NOV 1870
-2 PLAC , , , , Luke Lenehan, Bridget Coyne
+2 NOTE @N00055@
 1 DEAT
 2 DATE 7 SEP 1941
 2 PLAC , , , Baltimore, Maryland, USA
 1 BURI
-2 PLAC , , Holy Cross Cemetery, Baltimore, Maryland, USA
+2 PLAC , , Most Holy Redeemer Cemetery, Baltimore, Maryland, USA
+2 SOUR @S00010@
 1 REFN 5
 1 _UID FD489791597E1A47965799ACB3214E362FC4
 1 FAMS @F4@
 1 FAMC @F12@
 1 NOTE remains moved to holy redeemer cem on 6/19/1970.buried with daughter kathleen mc cully.
+2 CONT https://www.familysearch.org/tree/person/details/9SVF-7XB
 1 CHAN
-2 DATE 5 JAN 2006
-3 TIME 09:32:07
+2 DATE 26 MAR 2022
+3 TIME 19:52:39
 0 @I16@ INDI
 1 NAME Mary Agnes /Mooney/
 2 SURN Mooney
@@ -753,8 +756,8 @@
 2 DATE 24 SEP 2002
 3 TIME 01:00:00
 0 @I41@ INDI
-1 NAME Agnes /McLoughin/
-2 SURN McLoughin
+1 NAME Agnes /McLoughlin/
+2 SURN McLoughlin
 2 GIVN Agnes
 1 SEX F
 1 BIRT
@@ -762,14 +765,14 @@
 2 PLAC , , , , Curska, Currka, County Roscommon, Ireland
 1 DEAT
 2 DATE 6 FEB 1889
-2 PLAC , , , , Strokestown, County Roscommon, Ireland
+2 PLAC , , , , , Adventist Hospital, Tacoma Park, Maryland, USA
 1 REFN 11
 1 _UID 8329C71C169DB44C8FFFD6AF9FA8B986DBAC
 1 FAMS @F12@
 1 FAMC @F24@
 1 CHAN
-2 DATE 7 JAN 2006
-3 TIME 16:13:13
+2 DATE 26 MAR 2022
+3 TIME 20:19:13
 0 @I42@ INDI
 1 NAME John /Banaghan/
 2 SURN Banaghan
@@ -944,9 +947,12 @@
 1 _UID DDFF161974938D479D1F2BD9189714339C7C
 1 FAMS @F20@
 1 NOTE info from mormons file 926222 parish kilcolman ,diocese tuam. see ship roster .
+2 CONT
+2 CONT possibly this person?
+2 CONT https://www.ancestry.com/discoveryui-content/view/3637634:1629?tid=&pid=&queryId=9bb788bebd6e88c6c36daecddbc3645c&_phsrc=NiL4&_phstart=successSource
 1 CHAN
-2 DATE 24 SEP 2002
-3 TIME 01:00:00
+2 DATE 26 MAR 2022
+3 TIME 15:28:09
 0 @I51@ INDI
 1 NAME Bridget /Taylor/
 2 SURN Taylor
@@ -1075,7 +1081,7 @@
 2 PLAC , , , , Prague, Czechoslovakia
 1 DEAT
 2 DATE 19 JAN 1959
-2 PLAC , , 3516 Northern Pr, Baltimore, Maryland, USA
+2 PLAC , , 3516 Northern Parkway, Baltimore, Maryland, USA
 1 RESI
 2 DATE 1930
 2 PLAC , , , , Districts 251-500, Baltimore, Maryland, USA
@@ -1091,7 +1097,7 @@
 2 CONT https://www.familysearch.org/tree/person/details/LDRV-JZ4d
 1 CHAN
 2 DATE 26 MAR 2022
-3 TIME 14:37:25
+3 TIME 14:50:05
 0 @I59@ INDI
 1 NAME Marie B /Linková/
 2 SURN Linková
@@ -1110,11 +1116,15 @@
 1 _UID B31CDF93771D6F458A2C93A57209DD9D6C7C
 1 FAMS @F9@
 1 FAMC @F30@
-1 NOTE duchcov 5036n 01345e
+1 NOTE Duchcov: 5036n 01345e
 2 CONT Known as Mary Link or Marie Link
+2 CONT https://www.familysearch.org/tree/person/details/LX96-YRY
+2 CONT
+2 CONT sister: Anna
+2 CONT https://www.findagrave.com/memorial/209565177/anna-havlik_proklesek
 1 CHAN
 2 DATE 26 MAR 2022
-3 TIME 14:40:53
+3 TIME 15:11:12
 0 @I60@ INDI
 1 NAME Jan /Linek/
 2 SURN Linek
@@ -4455,17 +4465,19 @@
 1 CHR
 2 DATE 3 DEC 1926
 2 PLAC , , Holy Trinity RC, Litomysl, Minnesota, USA
+2 NOTE @N00059@
 1 DEAT
 2 DATE 27 OCT 1999
 2 PLAC , , , , , Laurel, Maryland, USA
 1 BURI
 2 PLAC , , , , , St Mary of the Mills, Laurel, Maryland, USA
+1 NOTE @N00058@
 1 _UID 5AB6040D3F6F4D4E930E98A2CE1616347332
 1 FAMS @F26@
 1 FAMC @F127@
 1 CHAN
-2 DATE 10 JAN 2006
-3 TIME 19:45:04
+2 DATE 28 MAR 2022
+3 TIME 14:16:39
 0 @I289@ INDI
 1 NAME Mary Frances /Sizer/
 2 SURN Sizer
@@ -4485,8 +4497,8 @@
 1 FAMS @F26@
 1 FAMC @F128@
 1 CHAN
-2 DATE 25 MAR 2022
-3 TIME 20:36:21
+2 DATE 28 MAR 2022
+3 TIME 14:21:48
 0 @I290@ INDI
 1 NAME Earl Eugene /Sizer/
 2 SURN Sizer
@@ -4548,12 +4560,13 @@
 2 PLAC , , Owatonna City Hospital, Owatonna, Minnesota, USA
 1 CHR
 2 DATE 4 DEC 1955
-2 PLAC , , , , , Holy Trinity RC
+2 PLAC , , , , , Most Holy Trinity RC, Lytomysl, Steele County, Minnesota, USA
+2 NOTE @N00060@
 1 _UID 396A193DC402EA44A5F0A2C3FFAAAD95D247
 1 FAMC @F26@
 1 CHAN
-2 DATE 25 MAR 2022
-3 TIME 20:34:24
+2 DATE 28 MAR 2022
+3 TIME 14:22:49
 0 @I293@ INDI
 1 NAME Mark Edmund /Langr/
 2 SURN Langr
@@ -5004,12 +5017,13 @@
 1 BIRT
 2 DATE 3 MAY 1911
 2 PLAC , , , Glen Lyon, Pennsylvania, USA
+1 NOTE @N00056@
 1 _UID 2640CC99F4972445AB3E046C6CAADBE5EE56
 1 FAMS @F3@
 1 FAMC @F134@
 1 CHAN
-2 DATE 5 JAN 2006
-3 TIME 15:30:14
+2 DATE 27 MAR 2022
+3 TIME 22:33:40
 0 @I328@ INDI
 1 NAME Mary /Sechak/
 2 SURN Sechak
@@ -5018,12 +5032,13 @@
 1 BIRT
 2 DATE 16 FEB 1916
 2 PLAC , , , Glen Lyon, Pennsylvania, USA
+1 NOTE @N00057@
 1 _UID D531FD270EB58A4E9A9EF6C8F6F616DB9820
 1 FAMS @F3@
 1 FAMC @F135@
 1 CHAN
-2 DATE 6 JAN 2006
-3 TIME 10:21:20
+2 DATE 27 MAR 2022
+3 TIME 22:33:45
 0 @I329@ INDI
 1 NAME Anthony /Navickas/
 2 SURN Navickas
@@ -8948,7 +8963,10 @@
 1 CHIL @I53@
 1 MARR
 2 DATE 7 FEB 1954
-2 PLAC , , , Washington, DC, USA
+2 PLAC , , St Thomas Apostle Church, Washington, DC, USA
+1 CHAN
+2 DATE 28 MAR 2022
+3 TIME 14:21:48
 0 @F27@ FAM
 1 _UID 1122AB8F9C733E42BBEAAA353D2FED57309F
 1 HUSB @I239@
@@ -11249,9 +11267,60 @@
 1 TITL census
 1 CHAN
 2 DATE 26 MAR 2022
-3 TIME 14:37:25
+3 TIME 14:50:05
 0 @N00053@ NOTE
 1 CHAN
 2 DATE 26 MAR 2022
 3 TIME 14:40:53
+0 @N00054@ NOTE duplicate entry at https://www.familysearch.org/tree/person/details/G9TD-9CX from the one we linked up to
+1 CHAN
+2 DATE 26 MAR 2022
+3 TIME 19:37:17
+0 @N00055@ NOTE godparents Luke Lenehan, Bridget Coyne
+1 CHAN
+2 DATE 26 MAR 2022
+3 TIME 19:52:06
+0 @S00010@ SOUR
+1 TITL https://www.findagrave.com/memorial/55642936/mary-a-mooney
+1 CHAN
+2 DATE 26 MAR 2022
+3 TIME 19:52:39
+0 @N00056@ NOTE https://www.findagrave.com/memorial/81827886/john-a-navitski
+1 CONT maybe: https://www.familysearch.org/tree/person/details/LYMH-RPD
+1 CHAN
+2 DATE 27 MAR 2022
+3 TIME 22:33:40
+0 @N00057@ NOTE https://www.findagrave.com/memorial/81827895/mary-s-navitski
+1 CHAN
+2 DATE 27 MAR 2022
+3 TIME 22:33:45
+0 @N00058@ NOTE story: Edmund spoke Czech as a child, and had to repeat first grade in elementary school because of his lack of English skills. You would never have known from his adult accent and skills.
+1 CONT
+1 CONT his mother died when he was 12, and as the eldest child took over many adult responsibilities to help run the farm and his good-sized family
+1 CONT
+1 CONT Work history:
+1 CONT * analyst, National Security Agency (NSA) 1953, and 1956 to 1991 (presumably most of it in Fort Meade, Maryland)
+1 CONT * carpenter, 1956
+1 CONT * farm manager and operator, 1954-1955
+1 CONT * military service in the U.S. army as a translator, 1951-1952
+1 CONT * farm work, raised livestock and operated machinery, 1945-1947
+1 CONT
+1 CONT He learned Russian as part of his job at the NSA, and also spoke some Slovak.
+1 CONT
+1 CONT Edmund was very active in St Mary of the Mills Roman Catholic Church in Laurel, Maryland. He was an usher, lector, and member of the Knights of Columbus.
+1 CONT
+1 CONT He was also a skilled speaker, and participated in the local Toastmaster's group as well as taught speech classes.
+1 CONT
+1 CONT He was politically active in the form of publishing position papers and writing letters on public matters.
+1 CHAN
+2 DATE 28 MAR 2022
+3 TIME 14:16:39
+0 @N00059@ NOTE Baptized by Father Matousek
+1 CHAN
+2 DATE 28 MAR 2022
+3 TIME 14:16:39
+0 @N00060@ NOTE godparents: Catherine Coleman and Jerome Langr
+1 CHAN
+2 DATE 28 MAR 2022
+3 TIME 14:22:49
 0 TRLR

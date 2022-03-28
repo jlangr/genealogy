@@ -9,8 +9,8 @@
 2 CORP Ancestris Team
 3 ADDR http://www.ancestris.org
 1 DEST ANY
-1 DATE 26 MAR 2022
-2 TIME 13:52:39
+1 DATE 28 MAR 2022
+2 TIME 11:33:26
 1 FILE langrMooneyFamilyTree.ged
 1 GEDC
 2 VERS 5.5.1
@@ -756,8 +756,8 @@
 2 DATE 24 SEP 2002
 3 TIME 01:00:00
 0 @I41@ INDI
-1 NAME Agnes /McLoughin/
-2 SURN McLoughin
+1 NAME Agnes /McLoughlin/
+2 SURN McLoughlin
 2 GIVN Agnes
 1 SEX F
 1 BIRT
@@ -765,14 +765,14 @@
 2 PLAC , , , , Curska, Currka, County Roscommon, Ireland
 1 DEAT
 2 DATE 6 FEB 1889
-2 PLAC , , , , Strokestown, County Roscommon, Ireland
+2 PLAC , , , , , Adventist Hospital, Tacoma Park, Maryland, USA
 1 REFN 11
 1 _UID 8329C71C169DB44C8FFFD6AF9FA8B986DBAC
 1 FAMS @F12@
 1 FAMC @F24@
 1 CHAN
-2 DATE 7 JAN 2006
-3 TIME 16:13:13
+2 DATE 26 MAR 2022
+3 TIME 20:19:13
 0 @I42@ INDI
 1 NAME John /Banaghan/
 2 SURN Banaghan
@@ -1000,12 +1000,13 @@
 1 CHR
 2 DATE 5 APR 1964
 2 PLAC , , St Marys RC, Laurel, Maryland, USA
+2 NOTE @N00063@
 1 _UID E7527F0DFC69FE46AF292851C511230DC544
 1 FAMS @F7@
 1 FAMC @F26@
 1 CHAN
-2 DATE 7 JAN 2006
-3 TIME 16:37:54
+2 DATE 28 MAR 2022
+3 TIME 14:29:22
 0 @I54@ INDI
 1 NAME Kathleen Alexandra /Langr/
 2 SURN Langr
@@ -4465,17 +4466,19 @@
 1 CHR
 2 DATE 3 DEC 1926
 2 PLAC , , Holy Trinity RC, Litomysl, Minnesota, USA
+2 NOTE @N00059@
 1 DEAT
 2 DATE 27 OCT 1999
 2 PLAC , , , , , Laurel, Maryland, USA
 1 BURI
 2 PLAC , , , , , St Mary of the Mills, Laurel, Maryland, USA
+1 NOTE @N00058@
 1 _UID 5AB6040D3F6F4D4E930E98A2CE1616347332
 1 FAMS @F26@
 1 FAMC @F127@
 1 CHAN
-2 DATE 10 JAN 2006
-3 TIME 19:45:04
+2 DATE 28 MAR 2022
+3 TIME 14:16:39
 0 @I289@ INDI
 1 NAME Mary Frances /Sizer/
 2 SURN Sizer
@@ -4495,8 +4498,8 @@
 1 FAMS @F26@
 1 FAMC @F128@
 1 CHAN
-2 DATE 25 MAR 2022
-3 TIME 20:36:21
+2 DATE 28 MAR 2022
+3 TIME 14:21:48
 0 @I290@ INDI
 1 NAME Earl Eugene /Sizer/
 2 SURN Sizer
@@ -4558,12 +4561,13 @@
 2 PLAC , , Owatonna City Hospital, Owatonna, Minnesota, USA
 1 CHR
 2 DATE 4 DEC 1955
-2 PLAC , , , , , Holy Trinity RC
+2 PLAC , , , , , Most Holy Trinity RC, Lytomysl, Steele County, Minnesota, USA
+2 NOTE @N00060@
 1 _UID 396A193DC402EA44A5F0A2C3FFAAAD95D247
 1 FAMC @F26@
 1 CHAN
-2 DATE 25 MAR 2022
-3 TIME 20:34:24
+2 DATE 28 MAR 2022
+3 TIME 14:22:49
 0 @I293@ INDI
 1 NAME Mark Edmund /Langr/
 2 SURN Langr
@@ -4575,12 +4579,13 @@
 1 CHR
 2 DATE 29 MAY 1959
 2 PLAC , , St Marys RC, Laurel, Maryland, USA
+2 NOTE @N00061@
 1 _UID 7BF8A4357615F24B907FEBAC3FA4155709A7
 1 FAMS @F131@
 1 FAMC @F26@
 1 CHAN
-2 DATE 25 MAR 2022
-3 TIME 20:33:38
+2 DATE 28 MAR 2022
+3 TIME 14:25:45
 0 @I294@ INDI
 1 NAME Christine Cecile /Langr/
 2 SURN Langr
@@ -4592,11 +4597,12 @@
 1 CHR
 2 DATE 14 AUG 1960
 2 PLAC , , St Marys RC, Laurel, Maryland, USA
+2 NOTE @N00062@
 1 _UID 5C19D3030D2F434980239B4304D1A65A69C7
 1 FAMC @F26@
 1 CHAN
-2 DATE 10 JAN 2006
-3 TIME 19:46:42
+2 DATE 28 MAR 2022
+3 TIME 14:28:46
 0 @I295@ INDI
 1 NAME Linda Sue /Louderback/
 2 SURN Louderback
@@ -4654,8 +4660,8 @@
 2 DATE 7 JAN 2006
 3 TIME 16:31:29
 0 @I299@ INDI
-1 NAME Christine /Ryshavy/
-2 SURN Ryshavy
+1 NAME Christine /Ryšavy/
+2 SURN Ryšavy
 2 GIVN Christine
 1 SEX F
 1 BIRT
@@ -4667,12 +4673,12 @@
 1 FAMS @F127@
 1 FAMC @F133@
 1 CHAN
-2 DATE 10 JAN 2006
-3 TIME 16:14:38
+2 DATE 28 MAR 2022
+3 TIME 17:30:26
 0 @I300@ INDI
-1 NAME Joseph /Ryshavy/
-2 SURN Ryshavy
-2 GIVN Joseph
+1 NAME Josef /Ryšavy/
+2 SURN Ryšavy
+2 GIVN Josef
 1 SEX M
 1 BIRT
 2 DATE 27 SEP 1862
@@ -4680,15 +4686,23 @@
 1 DEAT
 2 DATE 26 APR 1942
 2 PLAC , , , , Minnesota, USA
+2 NOTE @N00066@
+1 BURI
+2 PLAC Sacred Heart Cemetery Owatonna, Steele County, Minnesota, USA, , 
+2 NOTE @N00067@
+1 IMMI
+2 DATE MAY 1892
+2 PLAC USA
+1 NOTE @N00064@
 1 _UID 413D1D4D075111468DFA573A5C26828639E7
 1 FAMS @F133@
 1 CHAN
-2 DATE 6 JAN 2006
-3 TIME 10:23:00
+2 DATE 28 MAR 2022
+3 TIME 17:10:48
 0 @I301@ INDI
-1 NAME Frances /Motl/
+1 NAME Františka /Motl/
 2 SURN Motl
-2 GIVN Frances
+2 GIVN Františka
 1 SEX F
 1 BIRT
 2 DATE 15 OCT 1863
@@ -4696,31 +4710,68 @@
 1 DEAT
 2 DATE 15 AUG 1940
 2 PLAC , , , , Minnesota, USA
+1 NOTE @N00065@
 1 _UID B6BB2DB959649942A865BE612764FCE183F1
 1 FAMS @F133@
 1 CHAN
-2 DATE 5 JAN 2006
-3 TIME 15:24:33
+2 DATE 28 MAR 2022
+3 TIME 14:34:03
 0 @I302@ INDI
-1 NAME Helen /Ryshavy/
-2 SURN Ryshavy
-2 GIVN Helen
+1 NAME Helen M. /Ryšavy/
+2 SURN Ryšavy
+2 GIVN Helen, M.
 1 SEX F
+1 BIRT
+2 DATE 18 AUG 1891
+2 PLAC Bohemia, Czechoslovakia
+1 DEAT
+2 DATE 22 APR 1982
+2 PLAC , , , Steele County, Minnesota, USA
+1 BURI
+2 DATE 1982
+2 PLAC Plot 111 2 E, Holy Trinity Cemetery, Litomysl, Steele, Minnesota, USA, , 
+2 NOTE @N00069@
+1 IMMI
+2 DATE 1893
+2 NOTE @N00070@
 1 _UID 5CA17AD83AA2BA42B99303BBF2AEF48A4FE1
 1 FAMC @F133@
 1 CHAN
-2 DATE 6 JAN 2006
-3 TIME 10:23:11
+2 DATE 28 MAR 2022
+3 TIME 17:30:18
 0 @I303@ INDI
-1 NAME Edward /Ryshavy/
-2 SURN Ryshavy
-2 GIVN Edward
+1 NAME Edward Joseph /Ryšavy/
+2 SURN Ryšavy
+2 GIVN Edward, Joseph
 1 SEX M
+1 BIRT
+2 DATE 13 DEC 1888
+2 PLAC Dolní Dobrouč, Ústí nad Orlicí, Czechia
+1 DEAT
+2 DATE 9 MAR 1939
+2 PLAC Blooming Prairie, Steele, Minnesota, United States
+1 RESI
+2 DATE 1895
+2 PLAC Owatonna Township, Steele, Minnesota, USA
+2 NOTE @N00072@
+1 RESI
+2 PLAC Somerset Township, Steele, Minnesota, USA
+1 RESI
+2 DATE 1910
+2 PLAC Blooming Prairie, Steele, Minnesota, United States
+1 BURI
+2 DATE 1939
+2 PLAC Litomysl, Steele, Minnesota, United States
+1 EVEN
+2 TYPE Military Draft Registration
+2 DATE FROM 1917 TO 1918
+1 NOTE @N00071@
+1 SOUR @S00011@
 1 _UID BD71E1D04A635C44831829994C23FA0BFD4D
 1 FAMC @F133@
 1 CHAN
-2 DATE 10 JAN 2006
-3 TIME 16:14:23
+2 DATE 28 MAR 2022
+3 TIME 17:33:24
 0 @I304@ INDI
 1 NAME Anna /Ryshavy/
 2 SURN Ryshavy
@@ -4742,15 +4793,15 @@
 2 DATE 10 JAN 2006
 3 TIME 16:16:02
 0 @I306@ INDI
-1 NAME Mary /Ryshavy/
-2 SURN Ryshavy
-2 GIVN Mary
+1 NAME Mary Agnes /Ryšavy/
+2 SURN Ryšavy
+2 GIVN Mary, Agnes
 1 SEX F
 1 _UID 4FBC6B24D978E54FAB1784AEC03743307D81
 1 FAMC @F133@
 1 CHAN
-2 DATE 6 JAN 2006
-3 TIME 10:22:43
+2 DATE 28 MAR 2022
+3 TIME 17:30:44
 0 @I307@ INDI
 1 NAME Amelia /Rshavy/
 2 SURN Rshavy
@@ -5014,12 +5065,13 @@
 1 BIRT
 2 DATE 3 MAY 1911
 2 PLAC , , , Glen Lyon, Pennsylvania, USA
+1 NOTE @N00056@
 1 _UID 2640CC99F4972445AB3E046C6CAADBE5EE56
 1 FAMS @F3@
 1 FAMC @F134@
 1 CHAN
-2 DATE 5 JAN 2006
-3 TIME 15:30:14
+2 DATE 27 MAR 2022
+3 TIME 22:33:40
 0 @I328@ INDI
 1 NAME Mary /Sechak/
 2 SURN Sechak
@@ -5028,12 +5080,13 @@
 1 BIRT
 2 DATE 16 FEB 1916
 2 PLAC , , , Glen Lyon, Pennsylvania, USA
+1 NOTE @N00057@
 1 _UID D531FD270EB58A4E9A9EF6C8F6F616DB9820
 1 FAMS @F3@
 1 FAMC @F135@
 1 CHAN
-2 DATE 6 JAN 2006
-3 TIME 10:21:20
+2 DATE 27 MAR 2022
+3 TIME 22:33:45
 0 @I329@ INDI
 1 NAME Anthony /Navickas/
 2 SURN Navickas
@@ -8958,7 +9011,10 @@
 1 CHIL @I53@
 1 MARR
 2 DATE 7 FEB 1954
-2 PLAC , , , Washington, DC, USA
+2 PLAC , , St Thomas Apostle Church, Washington, DC, USA
+1 CHAN
+2 DATE 28 MAR 2022
+3 TIME 14:21:48
 0 @F27@ FAM
 1 _UID 1122AB8F9C733E42BBEAAA353D2FED57309F
 1 HUSB @I239@
@@ -9894,7 +9950,11 @@
 1 CHIL @I299@
 1 MARR
 2 DATE 10 MAY 1887
-2 PLAC , , Dolni Dobrouc, , , Czechoslovakia
+2 PLAC , sv. Mukulas Church, Dolni Dobrouc, , , Czechoslovakia
+2 NOTE @N00068@
+1 CHAN
+2 DATE 28 MAR 2022
+3 TIME 17:10:48
 0 @F134@ FAM
 1 _UID 398B6667802524429FC9EF5E4F44A565EE73
 1 HUSB @I329@
@@ -11277,4 +11337,102 @@
 1 CHAN
 2 DATE 26 MAR 2022
 3 TIME 19:52:39
+0 @N00056@ NOTE https://www.findagrave.com/memorial/81827886/john-a-navitski
+1 CONT maybe: https://www.familysearch.org/tree/person/details/LYMH-RPD
+1 CHAN
+2 DATE 27 MAR 2022
+3 TIME 22:33:40
+0 @N00057@ NOTE https://www.findagrave.com/memorial/81827895/mary-s-navitski
+1 CHAN
+2 DATE 27 MAR 2022
+3 TIME 22:33:45
+0 @N00058@ NOTE story: Edmund spoke Czech as a child, and had to repeat first grade in elementary school because of his lack of English skills. You would never have known from his adult accent and skills.
+1 CONT
+1 CONT his mother died when he was 12, and as the eldest child took over many adult responsibilities to help run the farm and his good-sized family
+1 CONT
+1 CONT Work history:
+1 CONT * analyst, National Security Agency (NSA) 1953, and 1956 to 1991 (presumably most of it in Fort Meade, Maryland)
+1 CONT * carpenter, 1956
+1 CONT * farm manager and operator, 1954-1955
+1 CONT * military service in the U.S. army as a translator, 1951-1952
+1 CONT * farm work, raised livestock and operated machinery, 1945-1947
+1 CONT
+1 CONT He learned Russian as part of his job at the NSA, and also spoke some Slovak.
+1 CONT
+1 CONT Edmund was very active in St Mary of the Mills Roman Catholic Church in Laurel, Maryland. He was an usher, lector, and member of the Knights of Columbus.
+1 CONT
+1 CONT He was also a skilled speaker, and participated in the local Toastmaster's group as well as taught speech classes.
+1 CONT
+1 CONT He was politically active in the form of publishing position papers and writing letters on public matters.
+1 CHAN
+2 DATE 28 MAR 2022
+3 TIME 14:16:39
+0 @N00059@ NOTE Baptized by Father Matousek
+1 CHAN
+2 DATE 28 MAR 2022
+3 TIME 14:16:39
+0 @N00060@ NOTE godparents: Catherine Coleman and Jerome Langr
+1 CHAN
+2 DATE 28 MAR 2022
+3 TIME 14:22:49
+0 @N00061@ NOTE godparents Georgette Irwin and Michael Sizer
+1 CHAN
+2 DATE 28 MAR 2022
+3 TIME 14:25:45
+0 @N00062@ NOTE godparents Mary Frances Quaid and Bernard J. Langr
+1 CHAN
+2 DATE 28 MAR 2022
+3 TIME 14:28:46
+0 @N00063@ NOTE godparents aunt Carolyn Jean Fisher and Renald Bryner
+1 CHAN
+2 DATE 28 MAR 2022
+3 TIME 14:29:22
+0 @N00064@ NOTE also known as Joseph
+1 CHAN
+2 DATE 28 MAR 2022
+3 TIME 14:33:44
+0 @N00065@ NOTE also known as Frances
+1 CHAN
+2 DATE 28 MAR 2022
+3 TIME 14:34:03
+0 @N00066@ NOTE
+1 CHAN
+2 DATE 28 MAR 2022
+3 TIME 16:21:43
+0 @N00067@ NOTE https://www.findagrave.com/memorial/65420323/joseph_(josef)-rysavy
+1 CHAN
+2 DATE 28 MAR 2022
+3 TIME 16:21:43
+0 @N00068@ NOTE also known as Frances
+1 CHAN
+2 DATE 28 MAR 2022
+3 TIME 17:10:48
+0 @N00069@ NOTE https://www.findagrave.com/memorial/65420393/helen-m-rysavy
+1 CHAN
+2 DATE 28 MAR 2022
+3 TIME 17:19:38
+0 @N00070@ NOTE age 2 with her parents
+1 CHAN
+2 DATE 28 MAR 2022
+3 TIME 17:19:38
+0 @N00071@ NOTE https://www.familysearch.org/tree/person/details/LJLX-ZGG
+1 CHAN
+2 DATE 28 MAR 2022
+3 TIME 17:20:08
+0 @N00072@ NOTE
+1 CHAN
+2 DATE 28 MAR 2022
+3 TIME 17:25:21
+0 @S00011@ SOUR
+1 OBJE @M00002@
+1 CHAN
+2 DATE 28 MAR 2022
+3 TIME 17:33:24
+0 @M00002@ OBJE
+1 FILE /Users/jlangr/Downloads/thumb200s.jpg
+2 FORM jpg
+2 TITL
+1 CHAN
+2 DATE 28 MAR 2022
+3 TIME 17:33:24
 0 TRLR
