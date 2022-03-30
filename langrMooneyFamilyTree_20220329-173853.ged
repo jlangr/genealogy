@@ -10,7 +10,7 @@
 3 ADDR http://www.ancestris.org
 1 DEST ANY
 1 DATE 29 MAR 2022
-2 TIME 07:43:22
+2 TIME 14:23:31
 1 FILE langrMooneyFamilyTree.ged
 1 GEDC
 2 VERS 5.5.1
@@ -4711,11 +4711,12 @@
 2 DATE 15 AUG 1940
 2 PLAC , , , , Minnesota, USA
 1 NOTE @N00065@
+1 FAMC @F200@
 1 _UID B6BB2DB959649942A865BE612764FCE183F1
 1 FAMS @F133@
 1 CHAN
-2 DATE 28 MAR 2022
-3 TIME 14:34:03
+2 DATE 29 MAR 2022
+3 TIME 20:10:37
 0 @I302@ INDI
 1 NAME Helen M. /Ryšavy/
 2 SURN Ryšavy
@@ -4787,25 +4788,45 @@
 2 SURN Ryšavy
 2 GIVN Agnes
 1 SEX F
+1 BIRT
+2 DATE 1 MAY 1896
+2 PLAC Bixby, Steele County, Minnesota, USA
+2 NOTE @N00079@
+1 DEAT
+2 DATE 22 OCT 1961
+2 PLAC Claremont, Dodge, Minnesota, United States
+2 NOTE @N00080@
+1 BURI
+2 PLAC Plot 1 16 1 W, Holy Trinity Cemetery, Litomysl, Steele County, Minnesota, USA
+1 FAMS @F199@
 1 _UID 6DF5A4352CB1D9468C173CFBE2A5AEFA408C
 1 FAMC @F133@
 1 CHAN
 2 DATE 29 MAR 2022
-3 TIME 13:43:15
+3 TIME 19:28:52
 0 @I306@ INDI
 1 NAME Mary Agnes /Ryšavy/
 2 SURN Ryšavy
 2 GIVN Mary, Agnes
 1 SEX F
+1 BIRT
+2 DATE 23 MAR 1895
+2 PLAC Steele County, Minnesota, USA
+1 DEAT
+2 DATE 4 JUN 1938
+2 PLAC Aurora Township, Steele County, Minnesota, USA
+1 BURI
+2 PLAC Plot 8 134 2, Holy Trinity Cemetery, Litomysl, Steele County, Minnesota, USA
+1 FAMS @F181@
 1 _UID 4FBC6B24D978E54FAB1784AEC03743307D81
 1 FAMC @F133@
 1 CHAN
-2 DATE 28 MAR 2022
-3 TIME 17:30:44
+2 DATE 29 MAR 2022
+3 TIME 14:39:20
 0 @I307@ INDI
-1 NAME Amelia /Ryšavy/
+1 NAME Amelia Helen /Ryšavy/
 2 SURN Ryšavy
-2 GIVN Amelia
+2 GIVN Amelia, Helen
 1 SEX F
 1 BIRT
 2 DATE 12 MAY 1898
@@ -4815,13 +4836,14 @@
 2 PLAC Steele County, Minnesota, USA
 1 BURI
 2 PLAC Sacred Heart Cemetery, Owatonna, Steele County, Minnesota, USA
+2 NOTE @N00077@
 1 NOTE @N00075@
 1 FAMS @F180@
 1 _UID AE35784E0C35C54B9F530F6D43FBE1C54CE9
 1 FAMC @F133@
 1 CHAN
 2 DATE 29 MAR 2022
-3 TIME 13:43:04
+3 TIME 13:45:10
 0 @I308@ INDI
 1 NAME Frank /Langr/
 2 SURN Langr
@@ -5377,13 +5399,14 @@
 2 GIVN Anna, Christine
 1 SEX F
 1 BIRT
+2 DATE 10 AUG 1993
 2 PLAC , , Fredrick Memorial Hospital, Fredrick, Maryland, USA
 1 FAMS @F194@
 1 _UID F2640E76EE8C6943BB13646B18D7C1A2EF34
 1 FAMC @F7@
 1 CHAN
-2 DATE 25 MAR 2022
-3 TIME 19:16:23
+2 DATE 29 MAR 2022
+3 TIME 20:23:31
 0 @I349@ INDI
 1 NAME William Temple /Andrews/
 2 SURN Andrews
@@ -10885,31 +10908,40 @@
 2 DATE 1 JUN 2021
 2 PLAC Memorial North Children's Hospital, Colorado Springs, Colorado, USA, , 
 2 NOTE @N00027@
+2 _TIME 09:59am
+1 CHR
+2 DATE 17 AUG 2021
 1 FAMC @F194@
 1 CHAN
-2 DATE 25 MAR 2022
-3 TIME 19:22:01
+2 DATE 29 MAR 2022
+3 TIME 20:16:42
 0 @F194@ FAM
 1 HUSB @I607@
 1 WIFE @I348@
+1 MARR
+2 DATE 21 MAR 2020
+2 PLAC St. Paul Catholic Church, Colorado Springs, Colorado, USA
+2 NOTE @N00085@
 1 CHIL @I606@
 1 CHAN
-2 DATE 25 MAR 2022
-3 TIME 19:16:23
+2 DATE 29 MAR 2022
+3 TIME 20:22:00
 0 @I607@ INDI
 1 NAME Ricky /Favilla/
 2 GIVN Ricky
 2 SURN Favilla
 1 SEX M
-1 BIRT Y
+1 BIRT
+2 DATE 10 AUG 1993
+2 PLAC , , , , , Frederick Hospital, Frederick, Maryland, USA
 1 FAMS @F194@
 1 CHAN
-2 DATE 25 MAR 2022
-3 TIME 19:20:43
-0 @N00027@ NOTE born 3 months premature. Mom (Anna) was put on bedrest near beginning of May.
+2 DATE 29 MAR 2022
+3 TIME 20:23:16
+0 @N00027@ NOTE born 3 months premature. Mom (Anna) was put on bedrest near beginning of May. Due date was August 26. 
 1 CHAN
-2 DATE 25 MAR 2022
-3 TIME 19:19:29
+2 DATE 29 MAR 2022
+3 TIME 20:16:42
 0 @N00028@ NOTE nickname "Mad." Llived most of her early life in the District of Columbia. Magdalene's primary mission in her life was the care of her family. Grandson Jeffrey recalled that she never got angry with anybody. Her children remember her as a dedicat
 1 CONC ed mother who got up early every morning to fix them breakfast, give them the weather report, and get them out to school or to work on time. Her older grandchildren fondly remember how Grandmother Magdalene spoiled them and gave them personal att
 1 CONC ention when their turn came to stay with her during school vacations. The older grandchildren remember that Grandpa Earl gave each of them a bag of candy whenever they visited, and Grandma continued this tradition after Grandpa Earl died. Magdale
@@ -11408,10 +11440,10 @@
 1 CHAN
 2 DATE 28 MAR 2022
 3 TIME 21:17:52
-0 @N00075@ NOTE https://www.findagrave.com/memorial/97270986/amelia-helen-sobrek
+0 @N00075@ NOTE
 1 CHAN
 2 DATE 29 MAR 2022
-3 TIME 13:36:30
+3 TIME 13:45:10
 0 @I623@ INDI
 1 NAME Louis L. /Sobrek/
 2 GIVN Louis, L.
@@ -11425,10 +11457,11 @@
 2 PLAC Steele County, Minnesota, USA
 1 BURI
 2 PLAC Sacred Heart Cemetery, Owatonna, Steele County, Minnesota, USA
+2 NOTE @N00076@
 1 FAMS @F180@
 1 CHAN
 2 DATE 29 MAR 2022
-3 TIME 13:42:22
+3 TIME 13:44:37
 0 @F180@ FAM
 1 HUSB @I623@
 1 WIFE @I307@
@@ -11437,4 +11470,152 @@
 1 CHAN
 2 DATE 29 MAR 2022
 3 TIME 13:42:22
+0 @N00076@ NOTE https://www.findagrave.com/memorial/97270985/louis-l-sobrek
+1 CHAN
+2 DATE 29 MAR 2022
+3 TIME 13:44:37
+0 @N00077@ NOTE https://www.findagrave.com/memorial/97270986/amelia-helen-sobrek
+1 CHAN
+2 DATE 29 MAR 2022
+3 TIME 13:45:10
+0 @I624@ INDI
+1 NAME Joseph Edward Sr. /Jirele/
+2 GIVN Joseph, Edward, Sr.
+2 SURN Jirele
+1 SEX M
+1 BIRT
+2 DATE 18 APR 1886
+2 PLAC Owatonna, Steele County, Minnesota, USA, , 
+1 DEAT
+2 DATE 25 APR 1968
+2 PLAC Owatonna, Steele County, Minnesota, USA
+1 BURI
+2 PLAC Plot 8 134 1, Holy Trinity Cemetery, Litomysl, Steele County, Minnesota, USA
+2 NOTE @N00078@
+1 FAMS @F181@
+1 CHAN
+2 DATE 29 MAR 2022
+3 TIME 14:39:51
+0 @N00078@ NOTE https://www.findagrave.com/memorial/65298118/joseph-edward-jirele
+1 CHAN
+2 DATE 29 MAR 2022
+3 TIME 14:38:57
+0 @F181@ FAM
+1 HUSB @I624@
+1 WIFE @I306@
+1 MARR
+2 DATE 18 MAY 1915
+1 CHAN
+2 DATE 29 MAR 2022
+3 TIME 14:39:51
+0 @N00079@ NOTE direct information from family members for family tree obtained by Erin Skala as a childhood school project
+1 CHAN
+2 DATE 29 MAR 2022
+3 TIME 19:24:17
+0 @N00080@ NOTE A double funeral at Sacred Heart Church will be held Thursday for Mr. and Mrs. John A. Simon, Owatonna. They were killed in a two-car accident four and one-half miles north of Claremont Sunday afternoon.
+1 CONT
+1 CONT Their daughter, Angeline, who was critically injured in the accident, was reported in "greatly improved" condition at the City Hospital late Tuesday.
+1 CONT
+1 CONT The couple, 68 and 65 years old, are survived by four daughters: Mrs. John (Marcella) Wacek and Mrs. Joseph (Maryann) Skala of Owatonna, Sister M. Veritas (Florence) of Currie, Minn., and Angeline at home.
+1 CONT
+1 CONT Mr. Simon is survived also by five sisters; Misses Rose and Josephine Simon of Owatonna, Mrs. Anton (Martha) Kvasnicka of Bixby, Mrs. John Jirele and Mrs. Edward Deml.
+1 CONT
+1 CONT Mrs. Simon is survived also by three sisters; Helen Rishavy of Medford, Mrs. Anna Mikyska of Rice Lake, Wisc., and Mrs. Louis Sobrek of Owatonna.
+1 CONT
+1 CONT The couple are also survived by 15 grandchildren.
+1 CONT
+1 CONT Published in Owatonna People Press.
+1 CHAN
+2 DATE 29 MAR 2022
+3 TIME 19:24:17
+0 @I625@ INDI
+1 NAME John Adolf /Simon/
+2 GIVN John, Adolf
+2 SURN Simon
+1 SEX M
+1 BIRT
+2 DATE 23 NOV 1892
+2 PLAC Somerset, Steele, Minnesota, USA, , 
+2 NOTE @N00081@
+1 DEAT
+2 DATE 22 OCT 1961
+2 PLAC Dodge, Minnesota, USA, , , 
+2 NOTE @N00082@
+1 FAMS @F199@
+1 CHAN
+2 DATE 29 MAR 2022
+3 TIME 19:28:37
+0 @N00081@ NOTE from birth record
+1 CHAN
+2 DATE 29 MAR 2022
+3 TIME 19:25:56
+0 @N00082@ NOTE died in car accident.
+1 CONT see obituary notice for spouse Agnes.
+1 CHAN
+2 DATE 29 MAR 2022
+3 TIME 19:28:37
+0 @F199@ FAM
+1 HUSB @I625@
+1 WIFE @I305@
+1 MARR
+2 DATE 19 MAY 1920
+1 CHAN
+2 DATE 29 MAR 2022
+3 TIME 19:28:52
+0 @I626@ INDI
+1 NAME Benjamin /Motl/
+2 GIVN Benjamin
+2 SURN Motl
+1 SEX M
+1 BIRT
+2 DATE 16 OCT 1834
+2 PLAC Bohemia, Czechoslovakia, , , , 
+2 NOTE @N00083@
+1 DEAT
+2 DATE 22 NOV 1902
+2 PLAC Bohemia, Czechoslovakia
+2 NOTE @N00084@
+1 FAMS @F200@
+1 CHAN
+2 DATE 29 MAR 2022
+3 TIME 20:12:13
+0 @N00083@ NOTE not independently verified. Noted on findagrave.com page for daughter Frances Motl (https://www.findagrave.com/memorial/65420335/frances-rysavy)
+1 CHAN
+2 DATE 29 MAR 2022
+3 TIME 20:05:59
+0 @N00084@ NOTE not independently verified. Noted on findagrave.com page for daughter Frances Motl (https://www.findagrave.com/memorial/65420335/frances-rysavy)
+1 CHAN
+2 DATE 29 MAR 2022
+3 TIME 20:05:59
+0 @I627@ INDI
+1 NAME Františka /Dusek/
+2 GIVN Františka
+2 SURN Dusek
+1 SEX F
+1 BIRT
+2 DATE ABT 1834
+2 PLAC Bohemia, Czechoslovakia, , , , 
+1 DEAT
+2 PLAC Bohemia, Czechoslovakia
+1 FAMS @F200@
+1 CHAN
+2 DATE 29 MAR 2022
+3 TIME 20:10:10
+0 @F200@ FAM
+1 HUSB @I626@
+1 WIFE @I627@
+1 MARR
+2 DATE 16 SEP 1862
+1 CHIL @I301@
+1 CHAN
+2 DATE 29 MAR 2022
+3 TIME 20:12:13
+0 @N00085@ NOTE Perhaps 15 total people participated or were in attendance (other than priest + altar support).
+1 CONT
+1 CONT COVID-19 outbreak in 2020 had led to mass shutdown of most events; the Sunday before the event we had still been planning on a full wedding reception of 125+ attendees.
+1 CONT
+1 CONT Wedding was postponed until the summer, then rescheduled for May(?) 2021, but canceled again. The couple enjoyed a smaller "party" at Colorado Mountain Brewery in Colorado Springs with about 40 folks in attendance.
+1 CHAN
+2 DATE 29 MAR 2022
+3 TIME 20:23:16
 0 TRLR

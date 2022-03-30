@@ -10,7 +10,7 @@
 3 ADDR http://www.ancestris.org
 1 DEST ANY
 1 DATE 29 MAR 2022
-2 TIME 08:38:57
+2 TIME 08:39:51
 1 FILE langrMooneyFamilyTree.ged
 1 GEDC
 2 VERS 5.5.1
@@ -4805,11 +4805,12 @@
 2 PLAC Aurora Township, Steele County, Minnesota, USA
 1 BURI
 2 PLAC Plot 8 134 2, Holy Trinity Cemetery, Litomysl, Steele County, Minnesota, USA
+1 FAMS @F181@
 1 _UID 4FBC6B24D978E54FAB1784AEC03743307D81
 1 FAMC @F133@
 1 CHAN
 2 DATE 29 MAR 2022
-3 TIME 14:11:16
+3 TIME 14:39:20
 0 @I307@ INDI
 1 NAME Amelia Helen /Ryšavy/
 2 SURN Ryšavy
@@ -11469,11 +11470,20 @@
 1 BURI
 2 PLAC Plot 8 134 1, Holy Trinity Cemetery, Litomysl, Steele County, Minnesota, USA
 2 NOTE @N00078@
+1 FAMS @F181@
 1 CHAN
 2 DATE 29 MAR 2022
-3 TIME 14:38:57
+3 TIME 14:39:51
 0 @N00078@ NOTE https://www.findagrave.com/memorial/65298118/joseph-edward-jirele
 1 CHAN
 2 DATE 29 MAR 2022
 3 TIME 14:38:57
+0 @F181@ FAM
+1 HUSB @I624@
+1 WIFE @I306@
+1 MARR
+2 DATE 18 MAY 1915
+1 CHAN
+2 DATE 29 MAR 2022
+3 TIME 14:39:51
 0 TRLR
