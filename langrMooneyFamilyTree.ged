@@ -9,8 +9,8 @@
 2 CORP Ancestris Team
 3 ADDR http://www.ancestris.org
 1 DEST ANY
-1 DATE 29 MAR 2022
-2 TIME 17:38:53
+1 DATE 30 MAR 2022
+2 TIME 07:10:54
 1 FILE langrMooneyFamilyTree.ged
 1 GEDC
 2 VERS 5.5.1
@@ -5401,12 +5401,15 @@
 1 BIRT
 2 DATE 10 AUG 1993
 2 PLAC , , Fredrick Memorial Hospital, Fredrick, Maryland, USA
+1 CHR
+2 DATE 17 OCT 2021
+2 PLAC St. Paul Catholic Church, Colorado Springs, Colorado, USA
 1 FAMS @F194@
 1 _UID F2640E76EE8C6943BB13646B18D7C1A2EF34
 1 FAMC @F7@
 1 CHAN
 2 DATE 29 MAR 2022
-3 TIME 20:23:31
+3 TIME 20:46:08
 0 @I349@ INDI
 1 NAME William Temple /Andrews/
 2 SURN Andrews
@@ -10911,11 +10914,10 @@
 2 _TIME 09:59am
 1 CHR
 2 DATE 17 AUG 2021
-2 PLAC St. Paul Catholic Church, Colorado Springs, Colorado, USA
 1 FAMC @F194@
 1 CHAN
 2 DATE 29 MAR 2022
-3 TIME 23:25:30
+3 TIME 20:16:42
 0 @F194@ FAM
 1 HUSB @I607@
 1 WIFE @I348@
@@ -10939,10 +10941,10 @@
 1 CHAN
 2 DATE 29 MAR 2022
 3 TIME 20:23:16
-0 @N00027@ NOTE born 3 months premature. Mom (Anna) was put on bedrest near beginning of May. Due date was August 26.
+0 @N00027@ NOTE born 3 months premature. Mom (Anna) was put on bedrest near beginning of May. Due date was August 26. 
 1 CHAN
 2 DATE 29 MAR 2022
-3 TIME 23:25:30
+3 TIME 20:16:42
 0 @N00028@ NOTE nickname "Mad." Llived most of her early life in the District of Columbia. Magdalene's primary mission in her life was the care of her family. Grandson Jeffrey recalled that she never got angry with anybody. Her children remember her as a dedicat
 1 CONC ed mother who got up early every morning to fix them breakfast, give them the weather report, and get them out to school or to work on time. Her older grandchildren fondly remember how Grandmother Magdalene spoiled them and gave them personal att
 1 CONC ention when their turn came to stay with her during school vacations. The older grandchildren remember that Grandpa Earl gave each of them a bag of candy whenever they visited, and Grandma continued this tradition after Grandpa Earl died. Magdale
