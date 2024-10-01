@@ -1,0 +1,7316 @@
+0 HEAD
+1 SUBM @SUBM1@
+1 SOUR Ancestry.com Family Trees
+2 NAME Ancestry.com Member Trees
+2 VERS 2022.08
+2 _TREE Langr Family Tree
+3 RIN 187338254
+3 _ENV prd
+2 CORP Ancestry.com
+3 PHON 801-705-7000
+3 WWW www.ancestry.com
+3 ADDR 1300 West Traverse Parkway
+4 CONT Lehi, UT  84043
+4 CONT USA
+1 DATE 29 Jun 2023
+2 TIME 17:38:21
+1 GEDC
+2 VERS 5.5.1
+2 FORM LINEAGE-LINKED
+1 CHAR UTF-8
+0 @SUBM1@ SUBM
+1 NAME Ancestry.com Member Trees Submitter
+0 @I322443825013@ INDI
+1 NAME Jeffrey John /Langr/
+2 GIVN Jeffrey John
+2 SURN Langr
+2 SOUR @S1189121733@
+3 PAGE "U.S., School Yearbooks, 1880-2012"; School Name: Eleanor Roosevelt High School; Year: 1980
+3 _APID 1,1265::620794974
+2 SOUR @S1189121733@
+3 PAGE "U.S., School Yearbooks, 1880-2012"; School Name: Eleanor Roosevelt High School; Year: 1981
+3 _APID 1,1265::618894523
+1 SEX M
+1 FAMC @F4@
+1 FAMS @F13@
+1 BIRT
+2 DATE 17 Mar 1964
+2 PLAC Cheverly, Prince George's, Maryland, USA
+2 SOUR @S1189121733@
+3 PAGE "U.S., School Yearbooks, 1880-2012"; School Name: Eleanor Roosevelt High School; Year: 1980
+3 _APID 1,1265::620794974
+2 SOUR @S1189121733@
+3 PAGE "U.S., School Yearbooks, 1880-2012"; School Name: Eleanor Roosevelt High School; Year: 1981
+3 _APID 1,1265::618894523
+1 RESI
+2 DATE 1996
+2 PLAC Frederick, MD
+2 SOUR @S1189121868@
+3 _APID 1,1788::51342696
+1 RESI
+2 PLAC Frederick, Maryland, USA
+2 SOUR @S1189121893@
+3 _APID 1,1732::394769479
+1 SOUR @S1189121914@
+2 PAGE City: Frederick; State: Maryland; Year(s): 1996
+2 _APID 1,7339::215613178
+1 OBJE @O3@
+2 _PRIM Y
+2 _CROP
+3 _LEFT 0
+3 _TOP 107
+3 _WDTH 329
+3 _HGHT 429
+3 _TYPE primary
+1 OBJE @O13@
+2 _CROP
+3 _LEFT 64
+3 _TOP 74
+3 _WDTH 254
+3 _HGHT 298
+3 _TYPE primary
+0 @I322443825204@ INDI
+1 NAME Mary /Sizer/
+2 GIVN Mary
+2 SURN Sizer
+1 SEX F
+1 FAMC @F50@
+1 FAMS @F4@
+1 BIRT
+2 DATE 1928
+2 PLAC District of Columbia, USA
+1 RESI
+2 DATE 1950
+2 PLAC Washington, Washington, District of Columbia, USA
+2 SOUR @S1189121534@
+3 PAGE United States of America, Bureau of the Census; Washington, D.C.; Seventeenth Census of the United States, 1950; Record Group: Records of the Bureau of the Census, 1790-2007; Record Group Number: 29; Residence Date: 1950; Home in 1950: Washington
+4 CONC , Washingt
+3 _APID 1,62308::15654300
+1 RESI
+2 PLAC Washington, Washington, District of Columbia
+2 SOUR @S1189121534@
+3 PAGE United States of America, Bureau of the Census; Washington, D.C.; Seventeenth Census of the United States, 1950; Record Group: Records of the Bureau of the Census, 1790-2007; Record Group Number: 29; Residence Date: 1950; Home in 1950: Washington
+4 CONC , Washingt
+3 _APID 1,62308::15654300
+1 DEAT
+2 DATE 2008
+2 PLAC Laurel, Prince George's County, Maryland, USA
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 30424348697:1030:63490130
+0 @I322443825256@ INDI
+1 NAME Edmund Anastasius Anastas /Langr/
+2 GIVN Edmund Anastasius Anastas
+2 SURN Langr
+1 SEX M
+1 FAMC @F42@
+1 FAMC @F52@
+1 FAMS @F4@
+1 BIRT
+2 DATE 26 Nov 1926
+2 PLAC Somerset, Steele, Minnesota, USA
+1 DEAT
+2 DATE 27 Oct 1999
+2 PLAC Laurel, Prince George's County, Maryland, USA
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 30424348579:1030:63490130
+1 SOUR @S1189215022@
+2 PAGE Edmund A Langr 1935-2014
+2 DATA
+3 WWW https://www.fold3.com/record/62401778/edmund-a-langr-social-security-death-index?xid=1945
+2 OBJE @O12@
+1 SOUR @S1189215093@
+2 PAGE Page 1 - Selective Service Registration Cards, World War II: Multiple Registrations 2012
+2 DATA
+3 WWW https://www.fold3.com/image/617672068?filmstrip=true&amp;terms=langr,edmund&amp;xid=1945
+2 OBJE @O38@
+1 OBJE @O21@
+2 _PRIM Y
+0 @I322443825315@ INDI
+1 NAME Magdalene Eleanor /Sizer/
+2 GIVN Magdalene Eleanor
+2 SURN Sizer
+2 SOUR @S1189121534@
+3 _APID 1,62308::15654299
+1 SEX F
+1 FAMC @F35@
+1 FAMS @F50@
+1 BIRT
+2 DATE 20 Jul 1907
+2 PLAC Washington, District of Columbia
+2 SOUR @S1189121534@
+3 _APID 1,62308::15654299
+1 RESI
+2 DATE 1920
+2 PLAC Washington, Washington, District of Columbia, USA
+2 SOUR @S1189421646@
+3 PAGE Year: 1920; Census Place: Washington, Washington, District of Columbia; Roll: T625_208; Page: 5A; Enumeration District: 130
+3 _APID 1,6061::113347344
+1 RESI
+2 DATE 1950
+2 PLAC Washington, Washington, District of Columbia, USA
+2 SOUR @S1189121534@
+3 _APID 1,62308::15654299
+1 DEAT
+2 DATE 8 Jan 1994
+2 PLAC Silver Spring, Prince George's, Maryland, United States
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 293037302:1030:5273553
+0 @I322443825326@ INDI
+1 NAME Earl E. /Sizer/
+2 GIVN Earl E.
+2 SURN Sizer
+2 SOUR @S1189121534@
+3 _APID 1,62308::15654298
+2 SOUR @S1189233848@
+3 PAGE Evening Star; Publication Date: 30 Mar 1954; Publication Place: Washington, District of Columbia, USA; URL: https://www.newspapers.com/image/869689106/?article=e0cef63a-ca1d-42bd-a0af-2f2316b6e083&focus=0.37801486,0.05569443,0.4919586,0.097535945&x
+4 CONC id=3355
+3 _APID 1,61843::1056824393
+1 SEX M
+1 FAMC @F27@
+1 FAMS @F50@
+1 BIRT
+2 DATE 4 May 1907
+2 PLAC Washington, District of Columbia, District of Columbia, United States of America
+2 SOUR @S1189121534@
+3 _APID 1,62308::15654298
+2 SOUR @S1189121991@
+3 DATA
+4 WWW https://www.findagrave.com/memorial/119499181/earl-e-sizer
+3 _APID 1,60525::71221017
+1 RESI
+2 DATE 1950
+2 PLAC Washington, Washington, District of Columbia, USA
+2 SOUR @S1189121534@
+3 _APID 1,62308::15654298
+1 DEAT
+2 DATE 24 December 1967
+2 PLAC Prince George's County, Maryland, United States of America
+2 SOUR @S1189121991@
+3 DATA
+4 WWW https://www.findagrave.com/memorial/119499181/earl-e-sizer
+3 _APID 1,60525::71221017
+1 BURI
+2 PLAC Suitland, Prince George's County, Maryland, United States of America
+2 SOUR @S1189121991@
+3 DATA
+4 WWW https://www.findagrave.com/memorial/119499181/earl-e-sizer
+3 _APID 1,60525::71221017
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 422409422346:1030:11995708
+0 @I322443825337@ INDI
+1 NAME Unknown /paternal grandmother/
+2 GIVN Unknown
+2 SURN paternal grandmother
+1 SEX F
+1 FAMS @F42@
+0 @I322443825345@ INDI
+1 NAME Unknown /paternal grandfather/
+2 GIVN Unknown
+2 SURN paternal grandfather
+1 SEX M
+1 FAMS @F42@
+0 @I322443825994@ INDI
+1 NAME Charles Earl /Sizer/
+2 GIVN Charles Earl
+2 SURN Sizer
+2 SOUR @S1189121534@
+3 _APID 1,62308::15654301
+2 SOUR @S1189121991@
+3 _APID 1,60525::50412510
+2 SOUR @S1189122155@
+3 _APID 1,2441::1833690
+1 SEX M
+1 FAMC @F50@
+1 BIRT
+2 DATE 28 Dec 1929
+2 PLAC Washington, District of Columbia
+2 SOUR @S1189121534@
+3 _APID 1,62308::15654301
+2 SOUR @S1189121991@
+3 _APID 1,60525::50412510
+2 SOUR @S1189122155@
+3 _APID 1,2441::1833690
+1 RESI
+2 DATE 1950
+2 PLAC Washington, Washington, District of Columbia, USA
+2 SOUR @S1189121534@
+3 _APID 1,62308::15654301
+2 NOTE Relation to Head: Son; Marital Status: Never Married
+1 DEAT
+2 DATE 20 Nov 1992
+2 SOUR @S1189121991@
+3 _APID 1,60525::50412510
+2 SOUR @S1189122155@
+3 _APID 1,2441::1833690
+1 BURI
+2 PLAC Arlington, Arlington County, Virginia, United States of America
+2 SOUR @S1189121991@
+3 _APID 1,60525::50412510
+1 SOUR @S1189215022@
+2 PAGE Charles E Sizer 1935-2014
+2 DATA
+3 WWW https://www.fold3.com/record/79540077/charles-e-sizer-social-security-death-index?xid=1945
+2 OBJE @O23@
+1 OBJE @O42@
+2 _PRIM Y
+0 @I322443825995@ INDI
+1 NAME Georgette A /Sizer/
+2 GIVN Georgette A
+2 SURN Sizer
+2 SOUR @S1189121534@
+3 _APID 1,62308::15654302
+1 SEX F
+1 FAMC @F50@
+1 BIRT
+2 DATE abt 1942
+2 PLAC Washington, District of Columbia
+2 SOUR @S1189121534@
+3 _APID 1,62308::15654302
+1 RESI
+2 DATE 1950
+2 PLAC Washington, Washington, District of Columbia, USA
+2 SOUR @S1189121534@
+3 _APID 1,62308::15654302
+0 @I322443825996@ INDI
+1 NAME Michael E /Sizer/
+2 GIVN Michael E
+2 SURN Sizer
+2 SOUR @S1189121534@
+3 _APID 1,62308::15654303
+1 SEX M
+1 FAMC @F50@
+1 BIRT
+2 DATE abt 1946
+2 PLAC Washington, District of Columbia
+2 SOUR @S1189121534@
+3 _APID 1,62308::15654303
+1 RESI
+2 DATE 1950
+2 PLAC Washington, Washington, District of Columbia, USA
+2 SOUR @S1189121534@
+3 _APID 1,62308::15654303
+0 @I322443825997@ INDI
+1 NAME Carolyn J /Sizer/
+2 GIVN Carolyn J
+2 SURN Sizer
+2 SOUR @S1189121534@
+3 _APID 1,62308::15654304
+1 SEX F
+1 FAMC @F50@
+1 BIRT
+2 DATE abt 1950
+2 PLAC Washington, District of Columbia
+2 SOUR @S1189121534@
+3 _APID 1,62308::15654304
+1 RESI
+2 DATE 1950
+2 PLAC Washington, Washington, District of Columbia, USA
+2 SOUR @S1189121534@
+3 _APID 1,62308::15654304
+0 @I322443827019@ INDI
+1 NAME Kathleen Marie /Mooney/
+2 GIVN Kathleen Marie
+2 SURN Mooney
+2 SOUR @S1189121914@
+3 _APID 1,7339::310888254
+2 SOUR @S1189121893@
+3 _APID 1,1732::394769480
+1 SEX F
+1 FAMC @F60@
+1 FAMS @F13@
+1 BIRT
+2 DATE 5 Oct 1966
+2 PLAC Maryland, USA
+2 SOUR @S1189121893@
+3 _APID 1,1732::394769480
+1 RESI
+2 DATE 1996
+2 PLAC Frederick, Maryland, USA
+2 SOUR @S1189121914@
+3 _APID 1,7339::310888254
+0 @I322443828127@ INDI
+1 NAME Norbert George /Langr/
+2 GIVN Norbert George
+2 SURN Langr
+1 SEX M
+1 FAMC @F12@
+1 FAMS @F52@
+1 BIRT
+2 DATE 6 Apr 1899
+2 PLAC Somerset Township, Steele, Minnesota, USA
+1 DEAT
+2 DATE 12 Jun 1951
+2 PLAC Steele, Minnesota, USA
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 18731261006:1030:34984570
+2 _APID 24038186113:1030:596228
+1 SOUR @S1189215093@
+2 PAGE Page 1 - Selective Service Registration Cards, World War II: Multiple Registrations 2012
+2 DATA
+3 WWW https://www.fold3.com/image/617672072?filmstrip=true&amp;terms=langr,edmund&amp;xid=1945
+2 OBJE @O19@
+0 @I322443828128@ INDI
+1 NAME Christina Christine Ann /Rysavy/
+2 GIVN Christina Christine Ann
+2 SURN Rysavy
+1 SEX F
+1 FAMC @F15@
+1 FAMS @F52@
+1 BIRT
+2 DATE 8 Jul 1899
+2 PLAC Steele, Minnesota, USA
+1 BIRT
+2 DATE July 7, 1899
+2 PLAC Steele, Minnesota, USA
+1 DEAT
+2 DATE 09 Oct 1937
+2 PLAC Steele, Minnesota, USA
+1 BURI
+2 PLAC Litomysl, Steele County, Minnesota, United States of America
+2 SOUR @S1189121991@
+3 DATA
+4 WWW https://www.findagrave.com/memorial/65333558/christine-langr
+3 _APID 1,60525::28805519
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 6957996409:1030:596228
+2 _APID 18732018487:1030:34984570
+2 _APID 30337095367:1030:63490130
+1 OBJE @O39@
+2 _PRIM Y
+1 OBJE @O2@
+1 OBJE @O37@
+0 @I322443828130@ INDI
+1 NAME Jerome Thomas /Langr/
+2 GIVN Jerome Thomas
+2 SURN Langr
+1 SEX M
+1 FAMC @F52@
+1 BIRT
+2 DATE 14 Dec 1927
+2 PLAC Somerset Township, Steele, Minnesota, USA
+1 DEAT
+2 DATE 2 Jan 1999
+2 PLAC Steele, Minnesota, USA
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 30424411212:1030:63490130
+0 @I322443828132@ INDI
+1 NAME Margaret Esther /Langr/
+2 GIVN Margaret Esther
+2 SURN Langr
+1 SEX F
+1 FAMC @F52@
+1 BIRT
+2 DATE 10 Apr 1929
+2 PLAC Minnesota, USA
+1 DEAT
+2 DATE 2 Aug 2021
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 30424416780:1030:63490130
+0 @I322443828133@ INDI
+1 NAME Francis Capras /Langr/
+2 GIVN Francis Capras
+2 SURN Langr
+1 SEX M
+1 FAMC @F52@
+1 BIRT
+2 DATE 26 May 1930
+2 PLAC Steele, Minnesota, USA
+1 DEAT
+2 DATE 2 Nov 2019
+2 PLAC Waseca, Waseca, Minnesota, USA
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 30424417720:1030:63490130
+0 @I322443828135@ INDI
+1 NAME Bernard Julian /Langr/
+2 GIVN Bernard Julian
+2 SURN Langr
+1 SEX M
+1 FAMC @F52@
+1 BIRT
+2 DATE 26 Jan 1932
+2 PLAC Somerset Township, Steele, Minnesota, USA
+1 DEAT
+2 DATE 8 Apr 2013
+2 PLAC Mankato, Blue Earth, Minnesota, USA
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 30424417856:1030:63490130
+0 @I322443828139@ INDI
+1 NAME Donald Norbert /Langr/
+2 GIVN Donald Norbert
+2 SURN Langr
+1 SEX M
+1 FAMC @F52@
+1 BIRT
+2 DATE 4 Jul 1933
+2 PLAC Minnesota, USA
+1 DEAT
+2 DATE 11 Nov 2018
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 30424418875:1030:63490130
+0 @I322443828141@ INDI
+1 NAME Delores Dolores Christine /Langr/
+2 GIVN Delores Dolores Christine
+2 SURN Langr
+1 SEX F
+1 FAMC @F52@
+1 BIRT
+2 DATE 5 Nov 1935
+2 PLAC Somerset Township, Steele, Minnesota, USA
+1 DEAT
+2 DATE 24 Nov 2009
+2 PLAC Halstead, Harvey County, Kansas, USA
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 30424419329:1030:63490130
+0 @I322443828857@ INDI
+1 NAME Frank Jay /Lang(e)r/
+2 GIVN Frank Jay
+2 SURN Lang(e)r
+1 SEX M
+1 FAMS @F12@
+1 BIRT
+2 DATE Sep 1856
+2 PLAC Bohemia, Czechoslavakia
+1 DEAT
+2 DATE 1922
+2 PLAC Somerset, Steele, Minnesota
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 18731262202:1030:34984570
+2 _APID 282051084124:1030:119143940
+0 @I322443828859@ INDI
+1 NAME Anna /Kasper/
+2 GIVN Anna
+2 SURN Kasper
+2 SOUR @S1189121991@
+3 _APID 1,60525::110358770
+1 SEX F
+1 FAMC @F21@
+1 FAMS @F12@
+1 BIRT
+2 DATE 28 Feb 1860
+2 PLAC Bohemia
+2 SOUR @S1189121991@
+3 _APID 1,60525::110358770
+1 DEAT
+2 DATE 17 Sep 1928
+2 PLAC Somerset, Steele, Minnesota
+2 SOUR @S1189121991@
+3 _APID 1,60525::110358770
+1 BURI
+2 PLAC Litomysl, Steele County, Minnesota, United States of America
+2 SOUR @S1189121991@
+3 _APID 1,60525::110358770
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 18731262798:1030:34984570
+2 _APID 29794144326:1030:16854242
+0 @I322443834019@ INDI
+1 NAME John Anthony /Mooney/
+2 GIVN John Anthony
+2 SURN Mooney
+2 SOUR @S1189121991@
+3 _APID 1,60525::214145306
+1 SEX M
+1 FAMC @F48@
+1 FAMS @F47@
+1 FAMS @F60@
+1 BIRT
+2 DATE 20 Jan 1939
+2 PLAC  Baltimore, Maryland, USA
+2 SOUR @S1189121991@
+3 _APID 1,60525::214145306
+1 MARR
+2 DATE 6 Oct 1962
+1 DEAT
+2 DATE 29 Sep 2021
+2 PLAC Lewes, Sussex, Delaware, USA
+2 SOUR @S1189121991@
+3 _APID 1,60525::214145306
+1 BURI
+2 PLAC Clarksville, Howard County, Maryland, United States of America
+2 SOUR @S1189121991@
+3 _APID 1,60525::214145306
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 432389101487:1030:178084247
+0 @I322443834322@ INDI
+1 NAME John Anthony /Mooney/
+2 GIVN John Anthony
+2 SURN Mooney
+1 SEX M
+1 FAMC @F23@
+1 FAMS @F48@
+1 BIRT
+2 DATE 8 NOV 1902
+2 PLAC Baltimore, Baltimore, Maryland, USA
+1 BIRT
+2 DATE 23 Nov 1902
+2 PLAC Baltimore City, Maryland, USA
+1 DEAT
+2 DATE 15 Mar 1981
+2 PLAC Baltimore, Maryland, USA
+1 DEAT
+2 DATE 14 March 1971
+2 PLAC Baltimore City, Maryland, USA
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 32574328078:1030:88349591
+2 _APID 122289953380:1030:176491758
+2 _APID 262076504517:1030:158137212
+2 _APID 432389101432:1030:178084247
+0 @I322443834323@ INDI
+1 NAME Anne Mary /Peroutka/
+2 GIVN Anne Mary
+2 SURN Peroutka
+1 SEX F
+1 FAMC @F59@
+1 FAMS @F48@
+1 BIRT
+2 DATE 03 Jan 1908
+2 PLAC Baltimore, Baltimore City, Maryland, United States
+1 DEAT
+2 DATE 15 June 1981
+2 PLAC Baltimore, Baltimore City, Maryland, United States
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 262076504518:1030:158137212
+2 _APID 432389100773:1030:178084247
+0 @I322443834324@ INDI
+1 NAME Sandra Marie /Navitski Mooney/
+2 GIVN Sandra Marie
+2 SURN Navitski Mooney
+1 SEX F
+1 FAMS @F47@
+1 BIRT
+2 DATE 1 Jul 1941
+2 PLAC Baltimore, Maryland, USA
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 432389102628:1030:178084247
+0 @I322443834325@ INDI
+1 NAME Heather Marie /Mooney/
+2 GIVN Heather Marie
+2 SURN Mooney
+1 SEX F
+1 FAMC @F47@
+1 BIRT
+2 DATE 28 Mar 1970
+1 DEAT
+2 DATE 20 Mar 1999
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 432389102543:1030:178084247
+0 @I322443834658@ INDI
+1 NAME Richard Joseph /Mooney/
+2 GIVN Richard Joseph
+2 SURN Mooney
+1 SEX M
+1 FAMC @F57@
+1 FAMS @F23@
+1 BIRT
+2 DATE 9 December 1867
+2 PLAC Baltimore, Baltimore, Maryland, USA
+1 BIRT
+2 DATE 9 December 1867
+2 PLAC Baltimore (Independent City), Maryland
+1 DEAT
+2 DATE 26 July 1918
+2 PLAC Baltimore,Md
+2 SOUR @S1189121991@
+3 DATA
+4 WWW https://www.findagrave.com/memorial/55642895/richard-j.-mooney
+3 _APID 1,60525::15123073
+1 BURI
+2 PLAC Baltimore, Baltimore City, Maryland, United States of America
+2 SOUR @S1189121991@
+3 DATA
+4 WWW https://www.findagrave.com/memorial/55642895/richard-j.-mooney
+3 _APID 1,60525::15123073
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 6831188371:1030:47113302
+2 _APID 32574327987:1030:88349591
+2 _APID 122289953404:1030:176491758
+2 _APID 262076504773:1030:158137212
+2 _APID 432390347090:1030:178084247
+1 OBJE @O40@
+2 _PRIM Y
+1 OBJE @O17@
+1 OBJE @O11@
+0 @I322443834659@ INDI
+1 NAME Mary Jane /Banaghan Mooney/
+2 GIVN Mary Jane
+2 SURN Banaghan Mooney
+1 SEX F
+1 FAMS @F23@
+1 BIRT
+2 DATE 8 Oct 1870
+2 PLAC Maryland
+1 BIRT
+2 DATE 8 Oct 1870
+2 PLAC Strokestown, Roscommon, Ireland
+1 DEAT
+2 DATE 7 September 1941
+2 PLAC Baltimore City, Maryland, USA
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 32574328073:1030:88349591
+2 _APID 122289952507:1030:176491758
+2 _APID 262076504772:1030:158137212
+2 _APID 432390347091:1030:178084247
+0 @I322443834660@ INDI
+1 NAME Joseph Michael /Mooney/
+2 GIVN Joseph Michael
+2 SURN Mooney
+1 SEX M
+1 FAMC @F23@
+1 BIRT
+2 DATE 15 August 1911
+2 PLAC Baltimore City, Maryland, USA
+1 DEAT
+2 PLAC Baltimore City, Maryland, USA
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 32575369837:1030:88349591
+2 _APID 122289953383:1030:176491758
+2 _APID 262076504974:1030:158137212
+0 @I322443834662@ INDI
+1 NAME Mary Agnes /Mooney/
+2 GIVN Mary Agnes
+2 SURN Mooney
+1 SEX F
+1 FAMC @F23@
+1 BIRT
+2 DATE 4 Apr 1892
+2 PLAC Maryland
+1 DEAT
+2 DATE 1 June 1969
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 32574328075:1030:88349591
+2 _APID 122289953392:1030:176491758
+2 _APID 262076504975:1030:158137212
+0 @I322443834663@ INDI
+1 NAME Richard Joseph /Mooney/ Jr.
+2 GIVN Richard Joseph
+2 SURN Mooney
+2 NSFX Jr.
+1 SEX M
+1 FAMC @F23@
+1 BIRT
+2 DATE 19 Mar 1899
+2 PLAC Maryland
+1 DEAT
+2 DATE Nov 1976
+2 PLAC Halethorpe, Baltimore, Maryland, USA
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 32574328074:1030:88349591
+2 _APID 122289953405:1030:176491758
+2 _APID 262076504976:1030:158137212
+0 @I322443834664@ INDI
+1 NAME Thomas Leo /Mooney/ Sr
+2 GIVN Thomas Leo
+2 SURN Mooney
+2 NSFX Sr
+1 SEX M
+1 FAMC @F23@
+1 BIRT
+2 DATE 14 Jun 1895
+2 PLAC Baltimore, Baltimore City, Maryland, USA
+1 DEAT
+2 DATE 15 Feb 1974
+2 PLAC Baltimore, Baltimore, Maryland, USA
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 32574328077:1030:88349591
+2 _APID 122289953414:1030:176491758
+2 _APID 262076504977:1030:158137212
+0 @I322443834666@ INDI
+1 NAME Kathleen Rita /Mooney/
+2 GIVN Kathleen Rita
+2 SURN Mooney
+1 SEX F
+1 FAMC @F23@
+1 BIRT
+2 DATE 9 Aug 1907
+2 PLAC Baltimore, Baltimore, Maryland, USA
+1 DEAT
+2 DATE 14 Apr 1978
+2 PLAC Baltimore City, Maryland, USA
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 32574300689:1030:88349591
+2 _APID 122289953385:1030:176491758
+2 _APID 262076504978:1030:158137212
+0 @I322443834667@ INDI
+1 NAME Jennie /Mooney/
+2 GIVN Jennie
+2 SURN Mooney
+1 SEX F
+1 FAMC @F23@
+1 BIRT
+2 DATE abt 1904
+2 PLAC Baltimore City, Maryland, USA
+1 BIRT
+2 DATE 3 November 1905
+2 PLAC Baltimore City, Maryland, USA
+1 DEAT
+2 DATE 4 November 1905
+2 PLAC Baltimore City, Maryland, USA
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 32575369835:1030:88349591
+2 _APID 262076504979:1030:158137212
+0 @I322443835795@ INDI
+1 NAME Thomas /Mooney/
+2 GIVN Thomas
+2 SURN Mooney
+1 SEX M
+1 FAMC @F54@
+1 FAMS @F57@
+1 BIRT
+2 DATE May 3, 1844
+2 PLAC Claremorris, County Mayo, Ireland
+1 BIRT
+2 DATE 1842
+2 PLAC Claremorris, County Mayo, Ireland
+1 DEAT
+2 DATE Mar 20, 1925
+2 PLAC Baltimore City, Maryland, USA
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 6841105177:1030:47113302
+2 _APID 32575369832:1030:88349591
+2 _APID 122289953413:1030:176491758
+1 OBJE @O36@
+2 _PRIM Y
+0 @I322443835796@ INDI
+1 NAME Jane /Ormond/
+2 GIVN Jane
+2 SURN Ormond
+1 SEX F
+1 FAMC @F25@
+1 FAMS @F57@
+1 BIRT
+2 DATE 05 Dec 1847
+2 PLAC Slaney Lodge, Co. Wexford, Ireland
+1 MARR
+2 DATE 1866
+1 DEAT
+2 DATE Mar 10, 1921
+2 PLAC Baltimore, Maryland, USA
+1 DEAT
+2 DATE 08 Mar 1921
+2 PLAC Baltimore, Maryland, USA
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 32575369833:1030:88349591
+2 _APID 122289953552:1030:176491758
+0 @I322443835797@ INDI
+1 NAME Martin Francis /Mooney/
+2 GIVN Martin Francis
+2 SURN Mooney
+1 SEX M
+1 FAMC @F57@
+1 BIRT
+2 DATE 24 Aug 1869
+2 PLAC Baltimore City, Maryland, USA
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 25562071376:1030:47113302
+2 _APID 122289953391:1030:176491758
+2 _APID 230001856818:1030:88349591
+0 @I322443835798@ INDI
+1 NAME Ann Mary Leorella /Mooney/
+2 GIVN Ann Mary Leorella
+2 SURN Mooney
+1 SEX F
+1 FAMC @F57@
+1 BIRT
+2 DATE 5 June 1879
+2 PLAC Baltimore City, Maryland, USA
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 25562072466:1030:47113302
+2 _APID 122289953361:1030:176491758
+2 _APID 230001856823:1030:88349591
+0 @I322443835799@ INDI
+1 NAME William Leo /Mooney/
+2 GIVN William Leo
+2 SURN Mooney
+1 SEX M
+1 FAMC @F57@
+1 BIRT
+2 DATE 05 Nov 1873
+2 PLAC Baltimore City, Maryland, USA
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 25562072455:1030:47113302
+2 _APID 122289953419:1030:176491758
+2 _APID 230001856820:1030:88349591
+0 @I322443835800@ INDI
+1 NAME John Thomas /Mooney/
+2 GIVN John Thomas
+2 SURN Mooney
+1 SEX M
+1 FAMC @F57@
+1 BIRT
+2 DATE 25 Sep 1871
+2 PLAC Baltimore City, Maryland, USA
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 25562072451:1030:47113302
+2 _APID 122289953382:1030:176491758
+2 _APID 230001856819:1030:88349591
+0 @I322443835802@ INDI
+1 NAME Edward Michael /Mooney/
+2 GIVN Edward Michael
+2 SURN Mooney
+1 SEX M
+1 FAMC @F57@
+1 BIRT
+2 DATE 13 Nov 1875
+2 PLAC Maryland, USA
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 122289953369:1030:176491758
+2 _APID 230001856822:1030:88349591
+0 @I322443835803@ INDI
+1 NAME Unknown /Mooney/
+2 GIVN Unknown
+2 SURN Mooney
+1 SEX F
+1 FAMC @F23@
+1 BIRT
+2 DATE 4/1892
+2 PLAC Baltimore, Maryland
+1 DEAT
+2 DATE Bef. 1900
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 32575369836:1030:88349591
+0 @I322443835805@ INDI
+1 NAME Annie /Mooney/
+2 GIVN Annie
+2 SURN Mooney
+1 SEX F
+1 FAMC @F23@
+1 BIRT
+2 DATE 25 November 1898
+2 PLAC Baltimore City, Maryland, USA
+1 DEAT
+2 DATE 7 July 1999
+2 PLAC Baltimore City, Maryland, USA
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 32575369843:1030:88349591
+0 @I322443835808@ INDI
+1 NAME Angela /Mooney/
+2 GIVN Angela
+2 SURN Mooney
+1 SEX F
+1 FAMC @F23@
+1 BIRT
+2 DATE 18 February 1909
+2 PLAC Baltimore City, Maryland, USA
+1 DEAT
+2 DATE 9 June 1909
+2 PLAC Baltimore City, Maryland, USA
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 32575369844:1030:88349591
+0 @I322443835809@ INDI
+1 NAME James /Mooney/
+2 GIVN James
+2 SURN Mooney
+1 SEX M
+1 FAMC @F23@
+1 BIRT
+2 DATE abt 1897
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 75005312281:1030:88349591
+0 @I322443835810@ INDI
+1 NAME Jane Elizabeth /Mooney/
+2 GIVN Jane Elizabeth
+2 SURN Mooney
+1 SEX F
+1 FAMC @F23@
+1 BIRT
+2 DATE 31 July 1904
+2 PLAC Baltimore City, Maryland, USA
+1 DEAT
+2 DATE 13 April 1943
+2 PLAC Baltimore City, Maryland, USA
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 32575369839:1030:88349591
+2 _APID 122289953376:1030:176491758
+0 @I322443837884@ INDI
+1 NAME Patrick /Mooney/
+2 GIVN Patrick
+2 SURN Mooney
+1 SEX M
+1 FAMS @F54@
+1 BIRT
+2 DATE ABT 1816
+2 PLAC Ireland
+1 DEAT
+2 PLAC USA
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 122289953403:1030:176491758
+0 @I322443837886@ INDI
+1 NAME Bridget /Taylor/
+2 GIVN Bridget
+2 SURN Taylor
+1 SEX F
+1 FAMS @F54@
+1 BIRT
+2 PLAC Ireland
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 122289953762:1030:176491758
+0 @I322443837888@ INDI
+1 NAME Bridget /Mooney/
+2 GIVN Bridget
+2 SURN Mooney
+1 SEX F
+1 FAMC @F54@
+1 BIRT
+2 DATE 1839
+2 PLAC Ireland
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 122289953364:1030:176491758
+0 @I322443842103@ INDI
+1 NAME Richard /Ormond/
+2 GIVN Richard
+2 SURN Ormond
+1 SEX M
+1 FAMS @F25@
+1 BIRT
+2 PLAC Ireland
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 122289953553:1030:176491758
+0 @I322443842104@ INDI
+1 NAME Ann /Welsh/
+2 GIVN Ann
+2 SURN Welsh
+1 SEX F
+1 FAMS @F25@
+1 BIRT
+2 PLAC Ireland
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 122289953834:1030:176491758
+0 @I322444179008@ INDI
+1 NAME Joseph Josef Cosmos /Rysavy/
+2 GIVN Joseph Josef Cosmos
+2 SURN Rysavy
+1 SEX M
+1 FAMC @F49@
+1 FAMS @F15@
+1 BIRT
+2 DATE 27/Sep/1862
+2 PLAC Bohemia
+1 DEAT
+2 DATE 26 APR 1942
+2 PLAC Owatonna, Steele County, Minnesota, USA
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 1441784437:1030:596228
+2 _APID 18814381856:1030:34984570
+2 _APID 30337065285:1030:63490130
+2 _APID 102272616238:1030:175379582
+2 _APID 350184572197:1030:119424651
+0 @I322444179011@ INDI
+1 NAME Frances Frantiska /Motl Motlova /
+2 GIVN Frances Frantiska
+2 SURN Motl Motlova 
+1 SEX F
+1 FAMC @F55@
+1 FAMS @F15@
+1 BIRT
+2 DATE 15 Oct 1863
+2 PLAC Dolni Dobrouc, Ústí nad Orlicí, East Bohemia, Czech Republic
+1 DEAT
+2 DATE 15 Aug 1940
+2 PLAC Owatonna, Steele County, Minnesota, USA
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 1441784447:1030:596228
+2 _APID 18814381858:1030:34984570
+2 _APID 30337065970:1030:63490130
+2 _APID 102272616741:1030:175379582
+2 _APID 350184572202:1030:119424651
+1 OBJE @O16@
+2 _PRIM Y
+0 @I322444179013@ INDI
+1 NAME Anna A /Rysavy/
+2 GIVN Anna A
+2 SURN Rysavy
+1 SEX F
+1 FAMC @F15@
+1 BIRT
+2 DATE 1 Dec 1887
+2 PLAC Dolni Dobrouc, Ústí nad Orlicí, East Bohemia, Czech Republic
+1 DEAT
+2 DATE 03 JUL 1888
+2 PLAC Dolni Dobrouc, Ústí nad Orlicí, East Bohemia, Czech Republic
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 20286553116:1030:34984570
+2 _APID 102272615419:1030:175379582
+2 _APID 360022135394:1030:63490130
+0 @I322444179014@ INDI
+1 NAME Amelia Frances /Rysavy/
+2 GIVN Amelia Frances
+2 SURN Rysavy
+1 SEX F
+1 FAMC @F15@
+1 BIRT
+2 DATE 12 May 1898
+2 PLAC Owatonna Ste, Minnesota
+1 DEAT
+2 DATE 25 Feb 1988
+2 PLAC Steele, Minnesota, USA
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 20286513408:1030:34984570
+2 _APID 30337090982:1030:63490130
+2 _APID 102272616170:1030:175379582
+2 _APID 350186261025:1030:119424651
+0 @I322444179018@ INDI
+1 NAME Baby /Rysavy/
+2 GIVN Baby
+2 SURN Rysavy
+1 SEX F
+1 FAMC @F15@
+1 BIRT
+2 DATE 23 Feb 1908
+2 PLAC Blooming Prairie, Steele, Minnesota, USA
+1 DEAT
+2 DATE 23 Feb 1908
+2 PLAC Blooming Prairie, Steele, Minnesota, USA
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 360087693661:1030:63490130
+0 @I322444179020@ INDI
+1 NAME Emma Rysavy /Rysavy/
+2 GIVN Emma Rysavy
+2 SURN Rysavy
+1 SEX F
+1 FAMC @F15@
+1 BIRT
+2 DATE May 1898
+2 PLAC Somerset twp, Steele County, Minnesota
+1 DEAT
+2 DATE 18 Oct 1989
+2 PLAC Ramsey, Minnesota
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 6957996408:1030:596228
+2 _APID 18814388925:1030:34984570
+0 @I322444179021@ INDI
+1 NAME Edward Joseph /Rysavy/
+2 GIVN Edward Joseph
+2 SURN Rysavy
+1 SEX M
+1 FAMC @F15@
+1 BIRT
+2 DATE 13 DEC 1888
+2 PLAC Dolni Dobrouc, Ústí nad Orlicí, East Bohemia, Czech Republic
+1 DEAT
+2 DATE 9 Mar 1939
+2 PLAC Somerset Township, Steele, Minnesota, USA
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 6957990563:1030:596228
+2 _APID 18814388918:1030:34984570
+2 _APID 30336967666:1030:63490130
+2 _APID 102272616195:1030:175379582
+2 _APID 350184556100:1030:119424651
+0 @I322444179023@ INDI
+1 NAME Helena Marie /Rysavy/
+2 GIVN Helena Marie
+2 SURN Rysavy
+1 SEX F
+1 FAMC @F15@
+1 BIRT
+2 DATE 18 Aug 1891
+2 PLAC House 123, Dolní Dobrouc, East Bohemia, Czech Republic
+1 DEAT
+2 DATE 22 APR 1982
+2 PLAC Owatonna, Steele County, Minnesota, USA
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 6957996406:1030:596228
+2 _APID 18814388920:1030:34984570
+2 _APID 30337096971:1030:63490130
+2 _APID 102272616257:1030:175379582
+2 _APID 350186261015:1030:119424651
+0 @I322444179024@ INDI
+1 NAME Mary Agnes /Rysavy/
+2 GIVN Mary Agnes
+2 SURN Rysavy
+1 SEX F
+1 FAMC @F15@
+1 BIRT
+2 DATE 23 Mar 1895
+2 PLAC Somerset twp, Steele County, Minnesota
+1 DEAT
+2 DATE 04 JUN 1938
+2 PLAC Owatonna, Steele County,  Minnesota, USA
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 6957996407:1030:596228
+2 _APID 20286553112:1030:34984570
+2 _APID 30334433901:1030:63490130
+0 @I322444180119@ INDI
+1 NAME Vincent Vincenc /Rysavy/
+2 GIVN Vincent Vincenc
+2 SURN Rysavy
+1 SEX M
+1 FAMC @F1@
+1 FAMS @F49@
+1 BIRT
+2 DATE 28 Feb 1829
+2 PLAC House 66, Dolní Dobrouc, East Bohemia, Czech Republic
+1 DEAT
+2 DATE 1902
+2 PLAC Owatonna, Steele, Minnesota, USA
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 30337193188:1030:63490130
+2 _APID 102272616276:1030:175379582
+2 _APID 260203578020:1030:100330310
+2 _APID 350184576763:1030:119424651
+0 @I322444180128@ INDI
+1 NAME Terezie /Cermak/
+2 GIVN Terezie
+2 SURN Cermak
+1 SEX F
+1 FAMS @F49@
+1 BIRT
+2 DATE 21 Nov 1831
+2 PLAC Dolni Dobrouc, Ústí nad Orlicí, East Bohemia, Czech Republic
+1 DEAT
+2 DATE 26 Jan 1880
+2 PLAC Dolni Dobrouc, Ústí nad Orlicí, East Bohemia, Czech Republic
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 30337193502:1030:63490130
+2 _APID 102272616214:1030:175379582
+2 _APID 262160411881:1030:100330310
+2 _APID 350184576764:1030:119424651
+0 @I322444180131@ INDI
+1 NAME Franc /Rysavy/
+2 GIVN Franc
+2 SURN Rysavy
+1 SEX M
+1 FAMC @F49@
+1 BIRT
+2 DATE Abt 1860
+2 PLAC Czech Republic
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 30337212441:1030:63490130
+2 _APID 102272615910:1030:175379582
+0 @I322444180134@ INDI
+1 NAME Jan C /Rysavy/
+2 GIVN Jan C
+2 SURN Rysavy
+1 SEX M
+1 FAMC @F49@
+1 BIRT
+2 DATE 28 Jan 1872
+2 PLAC House 66, Dolní Dobrouc, East Bohemia, Czech Republic
+1 DEAT
+2 DATE 23 Aug 1872
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 30337213035:1030:63490130
+2 _APID 102272615833:1030:175379582
+0 @I322444180136@ INDI
+1 NAME Agnes Anezka  /Rysavy/
+2 GIVN Agnes Anezka 
+2 SURN Rysavy
+1 SEX F
+1 FAMC @F49@
+1 BIRT
+2 DATE 25 Apr 1865
+2 PLAC House 66, Dolní Dobrouc, East Bohemia, Czech Republic
+1 DEAT
+2 DATE 29 May 1865
+2 PLAC House 66, Dolní Dobrouc, East Bohemia, Czech Republic
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 30337211426:1030:63490130
+2 _APID 102272615383:1030:175379582
+0 @I322444180141@ INDI
+1 NAME Jan A /Rysavy/
+2 GIVN Jan A
+2 SURN Rysavy
+1 SEX M
+1 FAMC @F49@
+1 BIRT
+2 DATE 19 Jan 1859
+1 DEAT
+2 DATE 2 Feb 1869
+2 PLAC House 66, Dolní Dobrouc, East Bohemia, Czech Republic
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 30337210713:1030:63490130
+2 _APID 102272615337:1030:175379582
+0 @I322444180143@ INDI
+1 NAME Jan B /Rysavy/
+2 GIVN Jan B
+2 SURN Rysavy
+1 SEX M
+1 FAMC @F49@
+1 BIRT
+2 DATE 24 Nov 1870
+1 DEAT
+2 DATE 28 Dec 1870
+2 PLAC House 66, Dolní Dobrouc, East Bohemia, Czech Republic
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 30337212799:1030:63490130
+2 _APID 102272615343:1030:175379582
+0 @I322444180145@ INDI
+1 NAME Alois Louis /Rysavy/
+2 GIVN Alois Louis
+2 SURN Rysavy
+1 SEX M
+1 FAMC @F49@
+1 BIRT
+2 DATE 02 Oct 1853
+2 PLAC Dolni Dobrouc, Ústí nad Orlicí, East Bohemia, Czech Republic
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 30337194927:1030:63490130
+2 _APID 102272615613:1030:175379582
+2 _APID 262339008018:1030:100330310
+2 _APID 352000986864:1030:119424651
+0 @I322444180146@ INDI
+1 NAME John (Jan) /Rysavy/
+2 GIVN John (Jan)
+2 SURN Rysavy
+1 SEX M
+1 FAMC @F49@
+1 BIRT
+2 DATE 21 Oct 1874
+2 PLAC Bohunovice, East Bohemia, Czech Republic
+1 DEAT
+2 DATE 02 Mar 1963
+2 PLAC Steele, Minnesota, USA
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 30337213334:1030:63490130
+2 _APID 102272616410:1030:175379582
+2 _APID 352000986954:1030:119424651
+0 @I322444180147@ INDI
+1 NAME Frances (Frantiska) /Rysavy/
+2 GIVN Frances (Frantiska)
+2 SURN Rysavy
+1 SEX F
+1 FAMC @F49@
+1 BIRT
+2 DATE 19 May 1860
+2 PLAC Dolni Dobrouc, Ústí nad Orlicí, East Bohemia, Czech Republic
+1 DEAT
+2 DATE 13 Mar 1932
+2 PLAC Willow River, Pine, Minnesota, USA
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 30337210956:1030:63490130
+2 _APID 102272616122:1030:175379582
+2 _APID 352000101132:1030:119424651
+0 @I322444180151@ INDI
+1 NAME Mary /Portelee/
+2 GIVN Mary
+2 SURN Portelee
+1 SEX F
+1 FAMC @F49@
+1 BIRT
+2 DATE Abt 1860
+2 PLAC Czech Republic
+1 DEAT
+2 DATE 01 Apr 1924
+2 PLAC Owatonna, Steele, Minnesota, USA
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 30337209585:1030:63490130
+2 _APID 102272616104:1030:175379582
+2 _APID 352000986902:1030:119424651
+0 @I322444180154@ INDI
+1 NAME Anna B /Rysavy/
+2 GIVN Anna B
+2 SURN Rysavy
+1 SEX F
+1 FAMC @F15@
+1 BIRT
+2 DATE 01 Apr 1890
+2 PLAC Dolni Dobrouc, Ústí nad Orlicí, East Bohemia, Czech Republic
+1 DEAT
+2 DATE 19 Jul 1891
+2 PLAC Dolni Dobrouc, Ústí nad Orlicí, East Bohemia, Czech Republic
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 102272615493:1030:175379582
+2 _APID 360022135511:1030:63490130
+0 @I322444180156@ INDI
+1 NAME Anna F /Rysavy/
+2 GIVN Anna F
+2 SURN Rysavy
+1 SEX F
+1 FAMC @F15@
+1 BIRT
+2 DATE 05 Mar 1894
+2 PLAC Somerset Township, Steele County, Minnesota, USA
+1 DEAT
+2 DATE 06 Jul 1974
+2 PLAC Rice Lake, Barron, Wisconsin, USA
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 30337163739:1030:63490130
+2 _APID 102272616075:1030:175379582
+2 _APID 350186261019:1030:119424651
+0 @I322444180157@ INDI
+1 NAME Agnes Mary /Rysavy/
+2 GIVN Agnes Mary
+2 SURN Rysavy
+1 SEX F
+1 FAMC @F15@
+1 BIRT
+2 DATE 01 May 1896
+2 PLAC Steele, Minnesota, USA
+1 DEAT
+2 DATE 22 Oct 1961
+2 PLAC Claremont, Dodge, Minnesota, USA
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 30337163846:1030:63490130
+2 _APID 102272616737:1030:175379582
+2 _APID 350247154962:1030:119424651
+0 @I322444181087@ INDI
+1 NAME John Jan /Rysavy/
+2 GIVN John Jan
+2 SURN Rysavy
+1 SEX M
+1 FAMS @F1@
+1 BIRT
+2 DATE 23 Feb 1802
+2 PLAC House 66, Dolní Dobrouc, East Bohemia, Czech Republic
+1 DEAT
+2 DATE Aft. 1902
+2 PLAC House 66, Dolní Dobrouc, East Bohemia, Czech Republic
+1 DEAT
+2 DATE 23 Oct 1836
+2 PLAC House 66, Dolní Dobrouc, East Bohemia, Czech Republic
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 102272615896:1030:175379582
+2 _APID 262160412222:1030:100330310
+0 @I322444181088@ INDI
+1 NAME Eleanora /Svercl/
+2 GIVN Eleanora
+2 SURN Svercl
+1 SEX F
+1 FAMC @F2@
+1 FAMS @F1@
+1 BIRT
+2 DATE 20 Jan 1804
+2 PLAC House 215, Dolní Dobrouc, East Bohemia, Czech Republic
+1 DEAT
+2 DATE 19 Oct 1836
+2 PLAC Dolní Dobrouc, East Bohemia, Czech Republic
+1 DEAT
+2 DATE 19 Oct 1836
+2 PLAC Dolní Dobrouc, East Bohemia, Czech Republic
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 102272616937:1030:175379582
+2 _APID 262160412223:1030:100330310
+0 @I322444183390@ INDI
+1 NAME Joseph Josef  /Svercl/
+2 GIVN Joseph Josef 
+2 SURN Svercl
+1 SEX M
+1 FAMC @F8@
+1 FAMS @F2@
+1 BIRT
+2 DATE 11 Aug 1763
+2 PLAC NHNR, Dolní Dobrouc, East Bohemia, Czech Republic
+1 DEAT
+2 DATE 1853
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 262430338736:1030:100330310
+2 _APID 360113597759:1030:63490130
+1 OBJE @O31@
+2 _PRIM Y
+0 @I322444183392@ INDI
+1 NAME Anna /Wacek/
+2 GIVN Anna
+2 SURN Wacek
+1 SEX F
+1 FAMS @F2@
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 262430338739:1030:100330310
+2 _APID 360113597760:1030:63490130
+0 @I322444183394@ INDI
+1 NAME Joseph Josef /Svercl/
+2 GIVN Joseph Josef
+2 SURN Svercl
+1 SEX M
+1 FAMC @F2@
+1 BIRT
+2 DATE 26 Dec 1796
+2 PLAC House 215, Dolní Dobrouc, East Bohemia, Czech Republic
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 362131229710:1030:63490130
+0 @I322444183396@ INDI
+1 NAME Ignac /Svercl/
+2 GIVN Ignac
+2 SURN Svercl
+1 SEX M
+1 FAMC @F2@
+1 BIRT
+2 DATE 14 Mar 1794
+2 PLAC House 215, Dolní Dobrouc, East Bohemia, Czech Republic
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 262430182168:1030:100330310
+2 _APID 362131230353:1030:63490130
+0 @I322444183401@ INDI
+1 NAME Anna /Rysavy/
+2 GIVN Anna
+2 SURN Rysavy
+1 SEX F
+1 FAMC @F1@
+1 BIRT
+2 DATE 4 Mar 1834
+2 PLAC House 66, Dolní Dobrouc, East Bohemia, Czech Republic
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 360113553537:1030:63490130
+0 @I322444183402@ INDI
+1 NAME Frank Frantisek /Rysavy/
+2 GIVN Frank Frantisek
+2 SURN Rysavy
+1 SEX M
+1 FAMC @F1@
+1 BIRT
+2 DATE 28 Nov 1831
+2 PLAC House 66, Dolní Dobrouc, East Bohemia, Czech Republic
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 360117347877:1030:63490130
+0 @I322444183403@ INDI
+1 NAME Agnes /Rysavy/
+2 GIVN Agnes
+2 SURN Rysavy
+1 SEX F
+1 FAMC @F1@
+1 BIRT
+2 DATE 25 May 1827
+2 PLAC House 66, Dolní Dobrouc, East Bohemia, Czech Republic
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 360117349645:1030:63490130
+0 @I322444183404@ INDI
+1 NAME Marina /Rysavy/
+2 GIVN Marina
+2 SURN Rysavy
+1 SEX F
+1 FAMC @F1@
+1 BIRT
+2 DATE 14 Apr 1826
+2 PLAC House 66, Dolní Dobrouc, East Bohemia, Czech Republic
+1 DEAT
+2 DATE 26 Aug 1826
+2 PLAC House 66, Dolní Dobrouc, East Bohemia, Czech Republic
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 360117374122:1030:63490130
+0 @I322444183408@ INDI
+1 NAME Frank Franciscus /Rysavy/
+2 GIVN Frank Franciscus
+2 SURN Rysavy
+1 SEX M
+1 FAMC @F1@
+1 BIRT
+2 DATE 25 Aug 1836
+2 PLAC House 66, Dolní Dobrouc, East Bohemia, Czech Republic
+1 DEAT
+2 DATE 14 Oct 1836
+2 PLAC House 66, Dolní Dobrouc, East Bohemia, Czech Republic
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 360121753620:1030:63490130
+0 @I322444183919@ INDI
+1 NAME Martin /Svercl/
+2 GIVN Martin
+2 SURN Svercl
+1 SEX M
+1 FAMC @F16@
+1 FAMS @F8@
+1 BIRT
+2 DATE 7 Oct 1731
+2 PLAC NHNR, Dolní Dobrouc, East Bohemia, Czech Republic
+1 DEAT
+2 DATE 27 Oct 1808
+2 PLAC House 19, Dolní Dobrouc, East Bohemia, Czech Republic
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 152391712884:1030:111269663
+2 _APID 262430339109:1030:100330310
+2 _APID 360090553643:1030:63490130
+0 @I322444183920@ INDI
+1 NAME Anna /Pechacek/
+2 GIVN Anna
+2 SURN Pechacek
+1 SEX F
+1 FAMC @F18@
+1 FAMS @F8@
+1 BIRT
+2 DATE 1 Dec 1733
+2 PLAC NHNR, Dolní Dobrouc, East Bohemia, Czech Republic
+1 DEAT
+2 DATE 4 Feb 1802
+2 PLAC House 19, Dolní Dobrouc, East Bohemia, Czech Republic
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 262430339111:1030:100330310
+2 _APID 362116089757:1030:63490130
+1 OBJE @O29@
+2 _PRIM Y
+1 OBJE @O1@
+1 OBJE @O10@
+0 @I322444183923@ INDI
+1 NAME Rosalie Rozalie /Svercl/
+2 GIVN Rosalie Rozalie
+2 SURN Svercl
+1 SEX F
+1 FAMC @F8@
+1 BIRT
+2 DATE 17 Sep 1756
+2 PLAC House 23, Dolní Dobrouc, East Bohemia, Czech Republic
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 360114545735:1030:63490130
+0 @I322444183925@ INDI
+1 NAME Anna /Svercl/
+2 GIVN Anna
+2 SURN Svercl
+1 SEX F
+1 FAMC @F8@
+1 BIRT
+2 DATE 28 Aug 1770
+2 PLAC NHNR, Dolní Dobrouc, East Bohemia, Czech Republic
+1 DEAT
+2 DATE 16 Feb 1844
+2 PLAC House 87, Dolní Dobrouc, East Bohemia, Czech Republic
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 362169628763:1030:63490130
+0 @I322444183927@ INDI
+1 NAME John Jan Joannes /Svercl/
+2 GIVN John Jan Joannes
+2 SURN Svercl
+1 SEX M
+1 FAMC @F8@
+1 BIRT
+2 DATE 8 Nov 1758
+2 PLAC NHNR, Dolní Dobrouc, East Bohemia, Czech Republic
+1 DEAT
+2 DATE 1848
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 362176068108:1030:63490130
+0 @I322444183929@ INDI
+1 NAME Wencl Wenceslaus /Svercl/
+2 GIVN Wencl Wenceslaus
+2 SURN Svercl
+1 SEX M
+1 FAMC @F8@
+1 BIRT
+2 DATE 1 Mar 1761
+2 PLAC NHNR, Dolní Dobrouc, East Bohemia, Czech Republic
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 362177040338:1030:63490130
+0 @I322444183931@ INDI
+1 NAME Anna /Svercl/
+2 GIVN Anna
+2 SURN Svercl
+1 SEX F
+1 FAMC @F8@
+1 BIRT
+2 DATE 7 Jan 1766
+2 PLAC NHNR, Dolní Dobrouc, East Bohemia, Czech Republic
+1 DEAT
+2 DATE 17 Feb 1767
+2 PLAC NHNR, Dolní Dobrouc, East Bohemia, Czech Republic
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 362195876006:1030:63490130
+0 @I322444293197@ INDI
+1 NAME Jirzi (George) /Svercl/
+2 GIVN Jirzi (George)
+2 SURN Svercl
+1 SEX M
+1 FAMC @F40@
+1 FAMS @F16@
+1 BIRT
+2 DATE 25 Mar 1699
+2 PLAC NHNR, Dolní Dobrouc, East Bohemia, Czech Republic
+1 MARR
+2 DATE 21 OCT 1725
+2 PLAC St. John Church, Horni Dobrouc, Czech
+1 DEAT
+2 DATE 3 Apr 1763
+2 PLAC NHNR, Dolní Dobrouc, East Bohemia, Czech Republic
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 152391712459:1030:111269663
+2 _APID 162058687142:1030:118097884
+2 _APID 360090551646:1030:63490130
+1 OBJE @O28@
+2 _PRIM Y
+1 OBJE @O33@
+1 OBJE @O14@
+0 @I322444293198@ INDI
+1 NAME Anna /Dusek/
+2 GIVN Anna
+2 SURN Dusek
+1 SEX F
+1 FAMS @F16@
+1 BIRT
+2 DATE 30 Mar 1705
+2 PLAC NHNR, Dolní Dobrouc, East Bohemia, Czech Republic
+1 DEAT
+2 DATE 2 Sep 1761
+2 PLAC NHNR, Dolní Dobrouc, East Bohemia, Czech Republic
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 152391712462:1030:111269663
+2 _APID 360090551781:1030:63490130
+0 @I322444293199@ INDI
+1 NAME Catherina Katherina /Svercl/
+2 GIVN Catherina Katherina
+2 SURN Svercl
+1 SEX F
+1 FAMC @F16@
+1 BIRT
+2 DATE 11 Feb 1727
+2 PLAC NHNR, Dolní Dobrouc, East Bohemia, Czech Republic
+1 DEAT
+2 DATE WFT Est 1763-1822
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 152391712299:1030:111269663
+2 _APID 360090551422:1030:63490130
+0 @I322444293201@ INDI
+1 NAME Juditha /Svercl /
+2 GIVN Juditha
+2 SURN Svercl 
+1 SEX F
+1 FAMC @F16@
+1 BIRT
+2 DATE 2 May 1738
+2 PLAC NHNR, Dolní Dobrouc, East Bohemia, Czech Republic
+1 DEAT
+2 DATE 20 Feb 1803
+2 PLAC Cermna, #141, East Bohemia, Czech Republic 1108-078
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 152391712882:1030:111269663
+2 _APID 362117967443:1030:63490130
+0 @I322444293202@ INDI
+1 NAME John Jan /Svercl/
+2 GIVN John Jan
+2 SURN Svercl
+1 SEX M
+1 FAMC @F16@
+1 BIRT
+2 DATE 12 Jan 1729
+2 PLAC NHNR, Dolní Dobrouc, East Bohemia, Czech Republic
+1 DEAT
+2 DATE 1729-1818
+2 PLAC czech
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 152391712888:1030:111269663
+2 _APID 362195873304:1030:63490130
+0 @I322444293205@ INDI
+1 NAME George* /Svercl/
+2 GIVN George*
+2 SURN Svercl
+1 SEX M
+1 FAMC @F16@
+1 BIRT
+2 DATE 25 Dec 1733
+2 PLAC NHNR, Dolní Dobrouc, East Bohemia, Czech Republic
+1 DEAT
+2 DATE 1734-1823
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 152391712895:1030:111269663
+2 _APID 362195873671:1030:63490130
+0 @I322444293208@ INDI
+1 NAME Magda /Svercl/
+2 GIVN Magda
+2 SURN Svercl
+1 SEX F
+1 FAMC @F16@
+1 BIRT
+2 DATE 28 Aug 1740
+2 PLAC NHNR, Dolní Dobrouc, East Bohemia, Czech Republic
+1 DEAT
+2 DATE 1741-1834
+2 PLAC czech
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 152391712896:1030:111269663
+2 _APID 362195873762:1030:63490130
+0 @I322444293210@ INDI
+1 NAME Anna /Svercl/
+2 GIVN Anna
+2 SURN Svercl
+1 SEX F
+1 FAMC @F16@
+1 BIRT
+2 DATE 23 Dec 1742
+2 PLAC NHNR, Dolní Dobrouc, East Bohemia, Czech Republic
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 362195873797:1030:63490130
+0 @I322444293211@ INDI
+1 NAME Joseph /Svercl/
+2 GIVN Joseph
+2 SURN Svercl
+1 SEX M
+1 FAMC @F16@
+1 BIRT
+2 DATE 17 Dec 1743
+2 PLAC NHNR, Dolní Dobrouc, East Bohemia, Czech Republic
+1 DEAT
+2 DATE 1744-1833
+2 PLAC czech
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 152391712900:1030:111269663
+2 _APID 362195874437:1030:63490130
+0 @I322444293214@ INDI
+1 NAME Rosalie* /Svercl/
+2 GIVN Rosalie*
+2 SURN Svercl
+1 SEX F
+1 FAMC @F16@
+1 BIRT
+2 DATE 2 Oct 1746
+2 PLAC NHNR, Dolní Dobrouc, East Bohemia, Czech Republic
+1 DEAT
+2 DATE 1747-1840
+2 PLAC czech
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 152391712901:1030:111269663
+2 _APID 362195874482:1030:63490130
+0 @I322444293216@ INDI
+1 NAME Wencl* /Svercl/
+2 GIVN Wencl*
+2 SURN Svercl
+1 SEX M
+1 FAMC @F16@
+1 BIRT
+2 DATE 19 Nov 1749
+2 PLAC NHNR, Dolní Dobrouc, East Bohemia, Czech Republic
+1 DEAT
+2 DATE 22 May 1752
+2 PLAC NHNR, Dolní Dobrouc, East Bohemia, Czech Republic
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 152391712902:1030:111269663
+2 _APID 362195874547:1030:63490130
+0 @I322444293922@ INDI
+1 NAME Joseph Fred /Kasper/
+2 GIVN Joseph Fred
+2 SURN Kasper
+1 SEX M
+1 FAMS @F21@
+1 BIRT
+2 DATE 28 May 1825
+2 PLAC Bohemia, Czechoslovakia
+1 DEAT
+2 DATE 10 Mar 1887
+2 PLAC  Bohemian National Cemetery, Steele, Minnesota, United States
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 29794144324:1030:16854242
+0 @I322444293924@ INDI
+1 NAME Dorthea "Dora" /Brozek/
+2 GIVN Dorthea "Dora"
+2 SURN Brozek
+1 SEX F
+1 FAMS @F21@
+1 BIRT
+2 DATE 13 Jan 1834
+2 PLAC Bohemia
+1 DEAT
+2 DATE Aft. 1885
+2 PLAC Steele, Minnesota
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 29794144325:1030:16854242
+0 @I322444293927@ INDI
+1 NAME Dorota Roz /Kasper/
+2 GIVN Dorota Roz
+2 SURN Kasper
+1 SEX F
+1 FAMC @F21@
+1 BIRT
+2 DATE 29 Jan 1857
+2 PLAC Bohemia
+1 DEAT
+2 DATE 29 Jan 1894
+2 PLAC Somerset, Steele, Minnesota- Buried Owatonna, Steele, Minnesota
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 29794142946:1030:16854242
+0 @I322444293930@ INDI
+1 NAME Mary Amy /Kasper/
+2 GIVN Mary Amy
+2 SURN Kasper
+1 SEX F
+1 FAMC @F21@
+1 BIRT
+2 DATE Dec 1861
+2 PLAC Bohemia Czechoslovakia
+1 DEAT
+2 DATE 31 Dec 1943
+2 PLAC Owatonna, Steele, Minnesota
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 29794144327:1030:16854242
+0 @I322444293933@ INDI
+1 NAME Jane "Jennie" /Kasper/
+2 GIVN Jane "Jennie"
+2 SURN Kasper
+1 SEX F
+1 FAMC @F21@
+1 BIRT
+2 DATE abt 1863
+2 PLAC Bohemia
+1 DEAT
+2 DATE 25 Nov 1885
+2 PLAC Steele County, Minnesota
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 29794144328:1030:16854242
+0 @I322444293936@ INDI
+1 NAME Frances "Fannie" /Kasper/
+2 GIVN Frances "Fannie"
+2 SURN Kasper
+1 SEX F
+1 FAMC @F21@
+1 BIRT
+2 DATE May 1865
+2 PLAC Somerset, Steele, Minnesota
+1 DEAT
+2 DATE 1955
+2 PLAC Owatonna, Steele, Minnesota
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 29794144329:1030:16854242
+0 @I322444293937@ INDI
+1 NAME Frank /Kasper/
+2 GIVN Frank
+2 SURN Kasper
+1 SEX M
+1 FAMC @F21@
+1 BIRT
+2 DATE 1 May 1869
+2 PLAC Steele Co., Minnesota
+1 DEAT
+2 DATE 10 Dec 1955
+2 PLAC Steele Co., Minnesota
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 29794144330:1030:16854242
+0 @I322444293940@ INDI
+1 NAME Walter Valentine /Kasper/
+2 GIVN Walter Valentine
+2 SURN Kasper
+1 SEX M
+1 FAMC @F21@
+1 BIRT
+2 DATE Feb 1872
+2 PLAC Somerset, Steele, Minnesota
+1 DEAT
+2 DATE 15 Sep 1917
+2 PLAC Owatonna, Steele, Minnesota
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 29794144331:1030:16854242
+0 @I322444293941@ INDI
+1 NAME Josephine Mary /Kasper/
+2 GIVN Josephine Mary
+2 SURN Kasper
+1 SEX F
+1 FAMC @F21@
+1 BIRT
+2 DATE 10 May 1872
+2 PLAC Minnesota
+1 DEAT
+2 DATE 5 Jun 1941
+2 PLAC Dodge, Minnesota
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 29794144332:1030:16854242
+0 @I322444293942@ INDI
+1 NAME Emily Bertha /Kasper/
+2 GIVN Emily Bertha
+2 SURN Kasper
+1 SEX F
+1 FAMC @F21@
+1 BIRT
+2 DATE 9 Jun 1874
+2 PLAC Somerset Township, Steele, Minnesota
+1 DEAT
+2 DATE 6 Nov 1938
+2 PLAC Olmsted County, Minnesota, USA
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 29794144333:1030:16854242
+0 @I322444293943@ INDI
+1 NAME Agnes Lenora (Ina) /Kasper/
+2 GIVN Agnes Lenora (Ina)
+2 SURN Kasper
+1 SEX F
+1 FAMC @F21@
+1 BIRT
+2 DATE 24 Aug 1879
+2 PLAC Somerset, Steele, Minnesota
+1 DEAT
+2 DATE 10 May 1960
+2 PLAC Steele Co., Minnesota
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 29794144334:1030:16854242
+0 @I322444293944@ INDI
+1 NAME Joseph /Kasper/
+2 GIVN Joseph
+2 SURN Kasper
+1 SEX M
+1 FAMC @F21@
+1 BIRT
+2 DATE 30 Jan 1852
+2 PLAC Wildenschwert, Bohemia, Austria
+1 DEAT
+2 PLAC Minnesota
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 29794144336:1030:16854242
+0 @I322444293945@ INDI
+1 NAME Albert /Kasper/
+2 GIVN Albert
+2 SURN Kasper
+1 SEX M
+1 FAMC @F21@
+1 BIRT
+2 DATE 9 Mar 1853
+2 PLAC Bohemia Czechoslovakia
+1 DEAT
+2 DATE 2 Oct 1937
+2 PLAC Owatonna, Steele, Minnesota
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 29794144337:1030:16854242
+0 @I322444293947@ INDI
+1 NAME Antonin /Kasper/
+2 GIVN Antonin
+2 SURN Kasper
+1 SEX M
+1 FAMC @F21@
+1 BIRT
+2 DATE 28 Apr 1855
+2 PLAC Bohemia Czechoslovakia
+1 DEAT
+2 DATE 24 Feb 1933
+2 PLAC Owatonna, Steele, Minnesota
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 29794144338:1030:16854242
+0 @I322444293948@ INDI
+1 NAME Julia /Kasper/
+2 GIVN Julia
+2 SURN Kasper
+1 SEX F
+1 FAMC @F21@
+1 BIRT
+2 DATE 25 Oct 1853
+2 PLAC Bohemia, Czech Republic
+1 DEAT
+2 DATE 27 Jun 1884
+2 PLAC Steele, Minnesota
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 29794260824:1030:16854242
+0 @I322444293949@ INDI
+1 NAME Lambert /Langer/
+2 GIVN Lambert
+2 SURN Langer
+1 SEX M
+1 FAMC @F12@
+1 BIRT
+2 DATE Mar 1890
+2 PLAC Minnesota
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 29794482349:1030:16854242
+0 @I322444293950@ INDI
+1 NAME Lilly /Langer/
+2 GIVN Lilly
+2 SURN Langer
+1 SEX F
+1 FAMC @F12@
+1 BIRT
+2 DATE Feb 1892
+2 PLAC Minnesota
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 29794482350:1030:16854242
+0 @I322444293952@ INDI
+1 NAME Vlasta /Langer/
+2 GIVN Vlasta
+2 SURN Langer
+1 SEX F
+1 FAMC @F12@
+1 BIRT
+2 DATE Jun 1894
+2 PLAC Minnesota
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 29794482351:1030:16854242
+0 @I322444293953@ INDI
+1 NAME Walter /Langer/
+2 GIVN Walter
+2 SURN Langer
+1 SEX M
+1 FAMC @F12@
+1 BIRT
+2 DATE Dec 1896
+2 PLAC Minnesota
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 29794482352:1030:16854242
+0 @I322444293954@ INDI
+1 NAME Francis /Langr/
+2 GIVN Francis
+2 SURN Langr
+1 SEX F
+1 FAMC @F12@
+1 BIRT
+2 DATE Aug 1883
+2 PLAC Minnesota
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 29794482437:1030:16854242
+0 @I322444293955@ INDI
+1 NAME Ferdinand /Langr/
+2 GIVN Ferdinand
+2 SURN Langr
+1 SEX M
+1 FAMC @F12@
+1 BIRT
+2 DATE Oct 1885
+2 PLAC Minnesota
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 29794482438:1030:16854242
+0 @I322444293956@ INDI
+1 NAME Frank /Langr/
+2 GIVN Frank
+2 SURN Langr
+1 SEX M
+1 FAMC @F12@
+1 BIRT
+2 DATE Aug 1887
+2 PLAC Minnesota
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 29794482440:1030:16854242
+0 @I322444294456@ INDI
+1 NAME Charles Mills /Sizer/
+2 GIVN Charles Mills
+2 SURN Sizer
+2 SOUR @S1189121991@
+3 _APID 1,60525::125607768
+1 SEX M
+1 FAMC @F30@
+1 FAMS @F27@
+1 FAMS @F22@
+1 BIRT
+2 DATE 1 January 1863
+2 PLAC Richmond County, Virginia, United States of America
+2 SOUR @S1189121991@
+3 _APID 1,60525::125607768
+1 BIRT
+2 DATE May 1863
+2 PLAC Richmond County, Virginia, United States of America
+1 DEAT
+2 DATE 14 November 1930
+2 PLAC Washington, District of Columbia, District of Columbia, United States of America
+2 SOUR @S1189121991@
+3 _APID 1,60525::125607768
+1 BURI
+2 PLAC Washington, District of Columbia, District of Columbia, United States of America
+2 SOUR @S1189121991@
+3 _APID 1,60525::125607768
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID -310849717:1030:11995708
+2 _APID 170153998907:1030:116347803
+0 @I322444294457@ INDI
+1 NAME Mary "Mollie" Stewart /Hines/
+2 GIVN Mary "Mollie" Stewart
+2 SURN Hines
+2 SOUR @S1189121991@
+3 _APID 1,60525::171613748
+1 SEX F
+1 FAMS @F27@
+1 BIRT
+2 DATE November 1867
+2 PLAC District of Columbia, United States of America
+2 SOUR @S1189121991@
+3 _APID 1,60525::171613748
+1 DEAT
+2 DATE 25 May 1913
+2 PLAC District of Columbia, United States of America
+2 SOUR @S1189121991@
+3 _APID 1,60525::171613748
+1 BURI
+2 PLAC Washington, District of Columbia, District of Columbia, United States of America
+2 SOUR @S1189121991@
+3 _APID 1,60525::171613748
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 422409419082:1030:11995708
+0 @I322444295446@ INDI
+1 NAME John Gatewood /Sizer/
+2 GIVN John Gatewood
+2 SURN Sizer
+1 SEX M
+1 FAMC @F9@
+1 FAMS @F30@
+1 FAMS @F31@
+1 BIRT
+2 DATE 21 Jul 1821
+2 PLAC Caroline, Virginia, United States
+1 DEAT
+2 DATE 20 Dec 1898
+2 PLAC District of Columbia, United States
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID -354570080:1030:11995708
+2 _APID 170154002383:1030:116347803
+2 _APID 340037845734:1030:32275714
+0 @I322444295449@ INDI
+1 NAME Matilda Alvira /Beech/
+2 GIVN Matilda Alvira
+2 SURN Beech
+1 SEX F
+1 FAMC @F61@
+1 FAMC @F62@
+1 FAMS @F30@
+1 BIRT
+2 DATE 1830
+2 PLAC Fredericksburg City, Virginia, United States of America
+1 BIRT
+2 DATE 6 Nov 1828
+2 PLAC Fredericksburg City, Virginia, United States of America
+1 DEAT
+2 DATE 14 Jul 1889
+2 PLAC District Of Columbia
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID -310860738:1030:11995708
+2 _APID 170154002392:1030:116347803
+2 _APID 262268339073:1030:46171030
+1 OBJE @O9@
+2 _PRIM Y
+1 OBJE @O34@
+0 @I322444295450@ INDI
+1 NAME John E /Sizer/
+2 GIVN John E
+2 SURN Sizer
+1 SEX M
+1 FAMC @F30@
+1 BIRT
+2 DATE 1850
+2 PLAC Richmond, Henrico, Virginia, United States
+1 BIRT
+2 DATE 1851
+2 PLAC Richmond, Henrico, Virginia, United States
+1 DEAT
+2 DATE 14 Jan 1867
+2 PLAC Washington, District of Columbia, USA
+1 DEAT
+2 DATE 13 Jan 1867
+2 PLAC Richmond, Virginia, USA
+1 DEAT
+2 DATE September 20,1883
+2 PLAC Washington, District of Columbia, USA
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID -310857498:1030:11995708
+2 _APID 170184486670:1030:116347803
+2 _APID 340037845736:1030:32275714
+0 @I322444295453@ INDI
+1 NAME Edward Lewis "bud" /Sizer/
+2 GIVN Edward Lewis "bud"
+2 SURN Sizer
+1 SEX M
+1 FAMC @F30@
+1 BIRT
+2 DATE 1853
+2 PLAC Richmond, Henrico, Virginia, United States
+1 DEAT
+2 DATE 20 Sep 1883
+2 PLAC , Washington, District of Columbia, District of Columbia, USA
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID -310854812:1030:11995708
+2 _APID 170184486672:1030:116347803
+2 _APID 340037845738:1030:32275714
+0 @I322444295456@ INDI
+1 NAME Rosa Willett /Sizer/
+2 GIVN Rosa Willett
+2 SURN Sizer
+1 SEX F
+1 FAMC @F27@
+1 BIRT
+2 DATE Sep 1886
+2 PLAC District of Columbia, USA
+1 DEAT
+2 DATE 31 Jul 1912
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 422409419443:1030:11995708
+0 @I322444295457@ INDI
+1 NAME Marie Regina /Sizer/
+2 GIVN Marie Regina
+2 SURN Sizer
+1 SEX F
+1 FAMC @F27@
+1 BIRT
+2 DATE 19 Jan 1890
+2 PLAC Washington, District of Columbia
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 422409419444:1030:11995708
+0 @I322444295458@ INDI
+1 NAME Katharine M "Kittie" /Sizer/
+2 GIVN Katharine M "Kittie"
+2 SURN Sizer
+1 SEX F
+1 FAMC @F27@
+1 BIRT
+2 DATE Aug 1894
+2 PLAC Maryland, USA
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 422409419445:1030:11995708
+0 @I322444295459@ INDI
+1 NAME Ralph /Sizer/
+2 GIVN Ralph
+2 SURN Sizer
+1 SEX M
+1 FAMC @F27@
+1 BIRT
+2 DATE May 1898
+2 PLAC Maryland, USA
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 422409419446:1030:11995708
+0 @I322444295460@ INDI
+1 NAME Mary Agnes /Kelly/
+2 GIVN Mary Agnes
+2 SURN Kelly
+1 SEX F
+1 FAMS @F22@
+1 BIRT
+2 DATE Apr 1889
+2 PLAC District of Columbia, USA
+1 DEAT
+2 DATE 28 March 1954
+2 PLAC Washington, District of Columbia, District of Columbia, United States of America
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 422409427838:1030:11995708
+0 @I322444295462@ INDI
+1 NAME Dorothy Louise /Sizer/
+2 GIVN Dorothy Louise
+2 SURN Sizer
+1 SEX F
+1 FAMC @F22@
+1 BIRT
+2 DATE 27 Apr 1915
+2 PLAC Washington, District of Columbia
+1 DEAT
+2 DATE 22 Apr 2005
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 422409427836:1030:11995708
+0 @I322444295464@ INDI
+1 NAME Joseph Mills /Sizer/
+2 GIVN Joseph Mills
+2 SURN Sizer
+1 SEX M
+1 FAMC @F22@
+1 BIRT
+2 DATE 2 October 1915
+2 PLAC Washington, District of Columbia, District of Columbia, United States of America
+1 DEAT
+2 DATE 27 June 1973
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 422409427837:1030:11995708
+0 @I322444295465@ INDI
+1 NAME Mary Georgette /Sizer/
+2 GIVN Mary Georgette
+2 SURN Sizer
+1 SEX F
+1 FAMC @F22@
+1 BIRT
+2 DATE 9 Apr 1924
+2 PLAC Washington, District of Columbia, District of Columbia, United States of America
+1 DEAT
+2 DATE 20 Nov 2007
+2 PLAC Ocean View, Sussex County, Delaware, United States of America
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 422409428010:1030:11995708
+0 @I322444295467@ INDI
+1 NAME Mary Elizabeth "Betty" /Sizer/
+2 GIVN Mary Elizabeth "Betty"
+2 SURN Sizer
+1 SEX F
+1 FAMC @F22@
+1 BIRT
+2 DATE 24 Aug 1927
+2 PLAC Washington, District of Columbia, District of Columbia, United States of America
+1 DEAT
+2 DATE 5 Jul 2015
+2 PLAC Keystone, Benton County, Iowa, United States of America
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 422409428011:1030:11995708
+0 @I322444296053@ INDI
+1 NAME Captain John /Sizer/
+2 GIVN Captain John
+2 SURN Sizer
+1 SEX M
+1 FAMC @F5@
+1 FAMS @F9@
+1 BIRT
+2 DATE 24 Apr 1780
+2 PLAC Bowling Green, Caroline, Virginia
+1 MARR
+2 DATE 01 SEP 1815
+2 PLAC Caroline, Virginia, United States
+1 RESI
+2 DATE 1831-1848
+2 PLAC Virginia, USA
+2 SOUR @S1189424398@
+3 PAGE The National Archives; Washington, D.C.; Ledgers of Payments, 1818-1872, to U.S. Pensioners Under Acts of 1818 Through 1858 From Records of the Office of the Third Auditor of the Treasury; Record Group Title: Records of the Accounting Officers of t
+4 CONC he Depar
+3 _APID 1,1116::20573
+1 DEAT
+2 DATE 17 Jul 1845
+2 PLAC Bowling Green, Caroline, Virginia
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 441310203:1030:16950131
+2 _APID 102232628430:1030:170470832
+2 _APID 222079963382:1030:114501948
+2 _APID 302068198648:1030:119107052
+2 _APID 340038140914:1030:32275714
+0 @I322444296054@ INDI
+1 NAME Elizabeth M. /Gatewood/
+2 GIVN Elizabeth M.
+2 SURN Gatewood
+1 SEX F
+1 FAMC @F38@
+1 FAMS @F9@
+1 BIRT
+2 DATE About 1795
+2 PLAC Bowling Green, Caroline, Virginia, United States
+1 MARR
+2 DATE 01 SEP 1815
+2 PLAC Caroline, Virginia, United States
+1 DEAT
+2 DATE 25 Nov 1888
+2 PLAC Bowling Green, Caroline, Virginia, United States
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 102232628667:1030:170470832
+2 _APID 222077291599:1030:114501948
+2 _APID 340038140978:1030:32275714
+0 @I322444296055@ INDI
+1 NAME Harriet /Sizer/
+2 GIVN Harriet
+2 SURN Sizer
+1 SEX F
+1 FAMC @F9@
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 340038141236:1030:32275714
+0 @I322444296057@ INDI
+1 NAME William Preston /Sizer/
+2 GIVN William Preston
+2 SURN Sizer
+1 SEX M
+1 FAMC @F9@
+1 BIRT
+2 DATE 02 JUL 1816
+2 PLAC Bowling Green, Caroline, Virginia, United States
+1 DEAT
+2 DATE 1863
+2 PLAC , Caroline, Virginia, USA
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 340112518929:1030:32275714
+0 @I322444296059@ INDI
+1 NAME Reuben Mason /Sizer/
+2 GIVN Reuben Mason
+2 SURN Sizer
+1 SEX M
+1 FAMC @F9@
+1 BIRT
+2 DATE SEP 1818
+2 PLAC Bowling Green, Caroline, Virginia, United States
+1 DEAT
+2 DATE 1863
+2 PLAC Virginia, United States
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 340112518930:1030:32275714
+0 @I322444296061@ INDI
+1 NAME Marcia A. /Sizer/
+2 GIVN Marcia A.
+2 SURN Sizer
+1 SEX F
+1 FAMC @F9@
+1 BIRT
+2 DATE 1819
+2 PLAC Bowling Green, Caroline, Virginia, United States
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 340112518931:1030:32275714
+0 @I322444296062@ INDI
+1 NAME Rosa M. /Sizer/
+2 GIVN Rosa M.
+2 SURN Sizer
+1 SEX F
+1 FAMC @F30@
+1 BIRT
+2 DATE Oct 1848
+2 PLAC Richmond, Henrico, Virginia, United States
+1 DEAT
+2 DATE 08 Dec 1857
+2 PLAC Richmond, Henrico, Virginia, United States
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 170184343719:1030:116347803
+2 _APID 340037845737:1030:32275714
+0 @I322444296064@ INDI
+1 NAME Virginia C. /Ballard/
+2 GIVN Virginia C.
+2 SURN Ballard
+1 SEX F
+1 FAMS @F31@
+1 BIRT
+2 DATE 1834
+2 PLAC KY
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 340037910822:1030:32275714
+0 @I322444297235@ INDI
+1 NAME Ann /Williams/
+2 GIVN Ann
+2 SURN Williams
+1 SEX F
+1 FAMS @F61@
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 172204004497:1030:116347803
+0 @I322444297242@ INDI
+1 NAME William /Sizer/
+2 GIVN William
+2 SURN Sizer
+1 SEX M
+1 FAMC @F30@
+1 BIRT
+2 DATE Jan 1862
+1 DEAT
+2 DATE 28 Nov 1862
+2 PLAC Richmond, Virginia, USA
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 172211016601:1030:116347803
+0 @I322444297725@ INDI
+1 NAME James Henry /Beach/
+2 GIVN James Henry
+2 SURN Beach
+1 SEX M
+1 FAMS @F62@
+1 BIRT
+2 DATE 1795
+2 PLAC Virginia, USA
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 262268336910:1030:46171030
+0 @I322444297726@ INDI
+1 NAME Lucinda /Beech/
+2 GIVN Lucinda
+2 SURN Beech
+1 SEX F
+1 FAMC @F62@
+1 BIRT
+2 DATE 26 December 1826
+2 PLAC Occoquan, Virginia
+1 DEAT
+2 DATE 2 Mar 1914
+2 PLAC Alexandria, Virginia, USA
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 262146340914:1030:46171030
+0 @I322444297728@ INDI
+1 NAME James Henry /Beach/
+2 GIVN James Henry
+2 SURN Beach
+1 SEX M
+1 FAMC @F62@
+1 BIRT
+2 DATE 10 August 1827
+2 PLAC Virginia
+1 DEAT
+2 DATE 20 June 1900
+2 PLAC Alexandria, Alexandria City, Virginia
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 262268339069:1030:46171030
+0 @I322444297730@ INDI
+1 NAME Sarah Elizabeth /Beech/
+2 GIVN Sarah Elizabeth
+2 SURN Beech
+1 SEX F
+1 FAMC @F62@
+1 BIRT
+2 DATE 1827
+2 PLAC Fredericksburg, VA
+1 DEAT
+2 DATE 14 Aug 1897
+2 PLAC District of Columbia
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 262268339077:1030:46171030
+0 @I322444298429@ INDI
+1 NAME Benjamin /Motl /
+2 GIVN Benjamin
+2 SURN Motl 
+1 SEX M
+1 FAMC @F17@
+1 FAMS @F55@
+1 BIRT
+2 DATE 16 Oct 1834
+2 PLAC House 129, Dolní Dobrouc, East Bohemia, Czech Republic
+1 DEAT
+2 DATE 22 Nov 1902
+2 PLAC Dolni Dobrouc, Ústí nad Orlicí, East Bohemia, Czech Republic
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 30355565726:1030:63490130
+2 _APID 102272615629:1030:175379582
+0 @I322444298431@ INDI
+1 NAME Frantiska /Dusek/
+2 GIVN Frantiska
+2 SURN Dusek
+1 SEX F
+1 FAMS @F55@
+1 BIRT
+2 DATE 1 Oct 1834
+2 PLAC Cermná, East Bohemia, Czech Republic
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 30355565757:1030:63490130
+2 _APID 102272615979:1030:175379582
+0 @I322444298433@ INDI
+1 NAME Frantisek /Motl/
+2 GIVN Frantisek
+2 SURN Motl
+1 SEX M
+1 FAMC @F55@
+1 BIRT
+2 DATE 01 Feb 1878
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 102272615467:1030:175379582
+0 @I322444298435@ INDI
+1 NAME Marie /Motl/
+2 GIVN Marie
+2 SURN Motl
+1 SEX F
+1 FAMC @F55@
+1 BIRT
+2 DATE 04 Sep 1876
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 102272615478:1030:175379582
+0 @I322444298436@ INDI
+1 NAME Anna /Motl/
+2 GIVN Anna
+2 SURN Motl
+1 SEX F
+1 FAMC @F55@
+1 BIRT
+2 DATE 22 Jan 1867
+2 PLAC Dolni Dobrouc, Ústí nad Orlicí, East Bohemia, Czech Republic
+1 DEAT
+2 DATE 31 Aug 1868
+2 PLAC House 129, Dolní Dobrouc, East Bohemia, Czech Republic
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 30415183530:1030:63490130
+2 _APID 102272615598:1030:175379582
+0 @I322444298438@ INDI
+1 NAME Josef /Motl/
+2 GIVN Josef
+2 SURN Motl
+1 SEX M
+1 FAMC @F55@
+1 BIRT
+2 DATE 23 Dec 1880
+2 PLAC Dolni Dobrouc, Ústí nad Orlicí, East Bohemia, Czech Republic
+1 DEAT
+2 DATE 07 Apr 1951
+2 PLAC Steele, Minnesota, USA
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 102272615829:1030:175379582
+0 @I322444298442@ INDI
+1 NAME Barbara /Motl/
+2 GIVN Barbara
+2 SURN Motl
+1 SEX F
+1 FAMC @F55@
+1 BIRT
+2 DATE 26 Jun 1872
+1 DEAT
+2 DATE 24 Jul 1929
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 30415184340:1030:63490130
+2 _APID 102272615939:1030:175379582
+0 @I322444298444@ INDI
+1 NAME Benjamin /Motl/
+2 GIVN Benjamin
+2 SURN Motl
+1 SEX M
+1 FAMC @F55@
+1 BIRT
+2 DATE 19 Feb 1865
+2 PLAC House 129, Dolní Dobrouc, East Bohemia, Czech Republic
+1 DEAT
+2 DATE 1 Apr 1934
+2 PLAC Dolni Dobrouc, Ústí nad Orlicí, East Bohemia, Czech Republic
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 30403994033:1030:63490130
+2 _APID 102272616061:1030:175379582
+0 @I322444299337@ INDI
+1 NAME Frank Frantisek Franz /Motl/
+2 GIVN Frank Frantisek Franz
+2 SURN Motl
+1 SEX M
+1 FAMC @F32@
+1 FAMS @F17@
+1 BIRT
+2 DATE 10 Dec 1786
+2 PLAC Dolní Cermná, East Bohemia, Czech Republic
+1 DEAT
+2 DATE 13 Dec 1846
+2 PLAC House 129, Dolní Dobrouc, East Bohemia, Czech Republic
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 30424698732:1030:63490130
+0 @I322444299338@ INDI
+1 NAME Rosalie Rozalie /Holub /
+2 GIVN Rosalie Rozalie
+2 SURN Holub 
+1 SEX F
+1 FAMS @F17@
+1 BIRT
+2 DATE 21 Dec 1792
+2 PLAC House 129, Dolní Dobrouc, East Bohemia, Czech Republic
+1 DEAT
+2 DATE 11 Dec 1853
+2 PLAC House 129, Dolní Dobrouc, East Bohemia, Czech Republic
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 30424698939:1030:63490130
+0 @I322444299341@ INDI
+1 NAME Terezie /Motl/
+2 GIVN Terezie
+2 SURN Motl
+1 SEX F
+1 FAMC @F17@
+1 BIRT
+2 DATE 22 Nov 1820
+2 PLAC House 129, Dolní Dobrouc, East Bohemia, Czech Republic
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 30424699789:1030:63490130
+0 @I322444299342@ INDI
+1 NAME Frank Frantisek /Motl/
+2 GIVN Frank Frantisek
+2 SURN Motl
+1 SEX M
+1 FAMC @F17@
+1 BIRT
+2 DATE 12 Mar 1822
+2 PLAC House 129, Dolní Dobrouc, East Bohemia, Czech Republic
+1 DEAT
+2 DATE 19 Jun 1822
+2 PLAC House 129, Dolní Dobrouc, East Bohemia, Czech Republic
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 30424699975:1030:63490130
+0 @I322444299344@ INDI
+1 NAME Bernard /Motl/
+2 GIVN Bernard
+2 SURN Motl
+1 SEX M
+1 FAMC @F17@
+1 BIRT
+2 DATE 20 Aug 1825
+2 PLAC House 129, Dolní Dobrouc, East Bohemia, Czech Republic
+1 DEAT
+2 DATE 4 Oct 1843
+2 PLAC House 129, Dolní Dobrouc, East Bohemia, Czech Republic
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 30424700463:1030:63490130
+0 @I322444299345@ INDI
+1 NAME Frank Frantisek Franciscus /Motl/
+2 GIVN Frank Frantisek Franciscus
+2 SURN Motl
+1 SEX M
+1 FAMC @F17@
+1 BIRT
+2 DATE 24 Sep 1823
+2 PLAC House 129, Dolní Dobrouc, East Bohemia, Czech Republic
+1 DEAT
+2 DATE 7 Nov 1824
+2 PLAC House 129, Dolní Dobrouc, East Bohemia, Czech Republic
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 360177805968:1030:63490130
+0 @I322444299347@ INDI
+1 NAME Frank Frantisek /Motl/
+2 GIVN Frank Frantisek
+2 SURN Motl
+1 SEX M
+1 FAMC @F55@
+1 BIRT
+2 DATE 29 Dec 1870
+2 PLAC House 129, Dolní Dobrouc, East Bohemia, Czech Republic
+1 DEAT
+2 DATE 20 Jun 1871
+2 PLAC House 129, Dolní Dobrouc, East Bohemia, Czech Republic
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 360116257556:1030:63490130
+0 @I322444299548@ INDI
+1 NAME Josef /Motl/
+2 GIVN Josef
+2 SURN Motl
+1 SEX M
+1 FAMS @F32@
+1 BIRT
+2 DATE 6 Sep 1749
+2 PLAC NHNR, Dolní Dobrouc, East Bohemia, Czech Republic
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 30424706683:1030:63490130
+0 @I322444299549@ INDI
+1 NAME Anna /Havel/
+2 GIVN Anna
+2 SURN Havel
+1 SEX F
+1 FAMS @F32@
+1 BIRT
+2 DATE 1752
+2 PLAC House 16, Dolní Dobrouc, East Bohemia, Czech Republic
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 360189904526:1030:63490130
+0 @I322444299551@ INDI
+1 NAME Josef /Motl/
+2 GIVN Josef
+2 SURN Motl
+1 SEX M
+1 FAMC @F32@
+1 BIRT
+2 DATE 22 Dec 1779
+2 PLAC House 98, Dolní Dobrouc, East Bohemia, Czech Republic
+1 DEAT
+2 DATE 13 Feb 1784
+2 PLAC House 98, Dolní Dobrouc, East Bohemia, Czech Republic
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 30424707236:1030:63490130
+0 @I322444299554@ INDI
+1 NAME Rosalie /Motl/
+2 GIVN Rosalie
+2 SURN Motl
+1 SEX F
+1 FAMC @F32@
+1 BIRT
+2 DATE 27 Jul 1781
+2 PLAC House 98, Dolní Dobrouc, East Bohemia, Czech Republic
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 30424707358:1030:63490130
+0 @I322444299555@ INDI
+1 NAME Barbara /Motl/
+2 GIVN Barbara
+2 SURN Motl
+1 SEX F
+1 FAMC @F32@
+1 BIRT
+2 DATE 16 Dec 1782
+2 PLAC House 98, Dolní Dobrouc, East Bohemia, Czech Republic
+1 DEAT
+2 DATE 10 Oct 1852
+2 PLAC House 229, Dolní Dobrouc, East Bohemia, Czech Republic
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 30424707413:1030:63490130
+0 @I322444299556@ INDI
+1 NAME Barbara /Motl/
+2 GIVN Barbara
+2 SURN Motl
+1 SEX F
+1 FAMC @F17@
+1 BIRT
+2 DATE 24 Oct 1827
+2 PLAC House 129, Dolní Dobrouc, East Bohemia, Czech Republic
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 30424700558:1030:63490130
+0 @I322444299557@ INDI
+1 NAME Frank Frantisek Franciscus /Motl/
+2 GIVN Frank Frantisek Franciscus
+2 SURN Motl
+1 SEX M
+1 FAMC @F17@
+1 BIRT
+2 DATE 18 Feb 1830
+2 PLAC House 129, Dolní Dobrouc, East Bohemia, Czech Republic
+1 DEAT
+2 DATE 27 Feb 1830
+2 PLAC House 129, Dolní Dobrouc, East Bohemia, Czech Republic
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 360136944569:1030:63490130
+0 @I322444885069@ INDI
+1 NAME Wencl Vaclav /Pechacek/
+2 GIVN Wencl Vaclav
+2 SURN Pechacek
+1 SEX M
+1 FAMC @F6@
+1 FAMS @F18@
+1 BIRT
+2 DATE 27 Aug 1708
+2 PLAC NHNR, Dolní Dobrouc, East Bohemia, Czech Republic
+1 DEAT
+2 DATE Bet. 1746–1799
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 292165586959:1030:17008009
+2 _APID 362060294557:1030:63490130
+1 OBJE @O26@
+2 _PRIM Y
+1 OBJE @O4@
+1 OBJE @O20@
+0 @I322444885070@ INDI
+1 NAME Katherina Catherine /Motl/
+2 GIVN Katherina Catherine
+2 SURN Motl
+1 SEX F
+1 FAMS @F18@
+1 BIRT
+2 DATE 15 Nov 1705
+2 PLAC NHNR, Dolní Dobrouc, East Bohemia, Czech Republic
+1 DEAT
+2 DATE 25 May 1772
+2 PLAC House 174, Dolní Dobrouc, East Bohemia, Czech Republic
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 292165586645:1030:17008009
+2 _APID 362060294631:1030:63490130
+0 @I322444885071@ INDI
+1 NAME Dorothea /Pechacek/
+2 GIVN Dorothea
+2 SURN Pechacek
+1 SEX F
+1 FAMC @F18@
+1 BIRT
+2 DATE 1 Jan 1743
+2 PLAC NHNR, Dolní Dobrouc, East Bohemia, Czech Republic
+1 DEAT
+2 DATE 19 Jan 1801
+2 PLAC Petrovice, East Bohemia, Czech Republic
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 362062034115:1030:63490130
+0 @I322444885072@ INDI
+1 NAME Judith /Pechacek/
+2 GIVN Judith
+2 SURN Pechacek
+1 SEX F
+1 FAMC @F18@
+1 BIRT
+2 DATE 5 Apr 1740
+2 PLAC NHNR, Dolní Dobrouc, East Bohemia, Czech Republic
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 362119990887:1030:63490130
+0 @I322444885073@ INDI
+1 NAME Paul Paulus /Pechacek/
+2 GIVN Paul Paulus
+2 SURN Pechacek
+1 SEX M
+1 FAMC @F18@
+1 BIRT
+2 DATE 19 Jan 1738
+2 PLAC NHNR, Dolní Dobrouc, East Bohemia, Czech Republic
+1 BIRT
+2 DATE 19 Jan 1739
+2 PLAC NHNR, Dolní Dobrouc, East Bohemia, Czech Republic
+1 DEAT
+2 DATE 2 Dec 1778
+2 PLAC House 173, Dolní Dobrouc, East Bohemia, Czech Republic
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 292165586963:1030:17008009
+2 _APID 362119994991:1030:63490130
+0 @I322444885074@ INDI
+1 NAME Catherina /Pechacek/
+2 GIVN Catherina
+2 SURN Pechacek
+1 SEX F
+1 FAMC @F18@
+1 BIRT
+2 DATE 17 Oct 1735
+2 PLAC NHNR, Dolní Dobrouc, East Bohemia, Czech Republic
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 362120019073:1030:63490130
+0 @I322444886127@ INDI
+1 NAME Martin /Pechacek/
+2 GIVN Martin
+2 SURN Pechacek
+1 SEX M
+1 FAMC @F34@
+1 FAMS @F6@
+1 BIRT
+2 DATE 28 Oct 1682
+2 PLAC NHNR, Dolní Dobrouc, East Bohemia, Czech Republic
+1 DEAT
+2 DATE 24 Jan 1731
+2 PLAC NHNR, Dolní Dobrouc, East Bohemia, Czech Republic
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 200117607296:1030:54844968
+2 _APID 292165587299:1030:17008009
+1 OBJE @O24@
+2 _PRIM Y
+1 OBJE @O43@
+0 @I322444886128@ INDI
+1 NAME Katherine /Spinler/
+2 GIVN Katherine
+2 SURN Spinler
+1 SEX F
+1 FAMS @F6@
+1 BIRT
+2 DATE 2 Aug 1682
+2 PLAC NHNR, Dolní Dobrouc, East Bohemia, Czech Republic
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 200117607297:1030:54844968
+2 _APID 292165587302:1030:17008009
+0 @I322444886271@ INDI
+1 NAME Jan /Pechacek/
+2 GIVN Jan
+2 SURN Pechacek
+1 SEX M
+1 FAMS @F34@
+1 BIRT
+2 PLAC Böhmen, Tschechoslowakei
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 200117607293:1030:54844968
+0 @I322444886272@ INDI
+1 NAME Anna /Mackova/
+2 GIVN Anna
+2 SURN Mackova
+1 SEX F
+1 FAMC @F53@
+1 FAMS @F34@
+1 FAMS @F64@
+1 BIRT
+2 PLAC Böhmen, Tschechoslowakei
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 200117607295:1030:54844968
+0 @I322444886447@ INDI
+1 NAME Andreas Ondrej /Macek - Macku/
+2 GIVN Andreas Ondrej
+2 SURN Macek - Macku
+1 SEX M
+1 FAMS @F53@
+1 BIRT
+2 DATE 1624
+2 PLAC Čermná, Ústí nad Orlicí, Pardubický kraj, Tschechoslowakei
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 200117607292:1030:54844968
+0 @I322444886448@ INDI
+1 NAME Katerina /Macková-Mackú/
+2 GIVN Katerina
+2 SURN Macková-Mackú
+1 SEX F
+1 FAMS @F53@
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 200117607291:1030:54844968
+0 @I322444886449@ INDI
+1 NAME Anna /Pechácková/
+2 GIVN Anna
+2 SURN Pechácková
+1 SEX F
+1 FAMC @F64@
+1 BIRT
+2 DATE 16 Jun 1686
+2 PLAC Čermná, Ústí nad Orlicí, Východočeský kraj, Tschechoslowakei
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 200117607294:1030:54844968
+0 @I322445767298@ INDI
+1 NAME Henry Martin /Schroen/
+2 GIVN Henry Martin
+2 SURN Schroen
+2 SOUR @S1189421646@
+3 _APID 1,6061::113347345
+1 SEX M
+1 FAMC @F35@
+1 BIRT
+2 DATE August 20 1908
+2 PLAC District of Columbia
+2 SOUR @S1189421646@
+3 _APID 1,6061::113347345
+1 BIRT
+2 DATE 21 Aug 1908
+2 PLAC District of Columbia
+1 RESI
+2 DATE 1920
+2 PLAC Washington, Washington, District of Columbia, USA
+2 SOUR @S1189421646@
+3 _APID 1,6061::113347345
+1 DEAT
+2 DATE Oct 1970
+2 PLAC Washington, District of Columbia, District of Columbia, USA
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 1210133341:1030:15665875
+2 _APID 24024004320:1030:5273553
+0 @I322445767299@ INDI
+1 NAME Agnes Marie /Schroen/
+2 GIVN Agnes Marie
+2 SURN Schroen
+2 SOUR @S1189421646@
+3 _APID 1,6061::113347346
+1 SEX F
+1 FAMC @F35@
+1 BIRT
+2 DATE 13 Oct 1909
+2 PLAC District of Columbia
+2 SOUR @S1189421646@
+3 _APID 1,6061::113347346
+1 BIRT
+2 DATE 13 Oct 1910
+2 PLAC District of Columbia
+1 RESI
+2 DATE 1920
+2 PLAC Washington, Washington, District of Columbia, USA
+2 SOUR @S1189421646@
+3 _APID 1,6061::113347346
+1 DEAT
+2 DATE 14 Mar 2003
+2 PLAC Prince William, Virginia, USA
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 1210134856:1030:15665875
+2 _APID 24024004510:1030:5273553
+0 @I322445767300@ INDI
+1 NAME James Wilson "JW" /Schroen/
+2 GIVN James Wilson "JW"
+2 SURN Schroen
+2 SOUR @S1189421646@
+3 _APID 1,6061::113347347
+1 SEX M
+1 FAMC @F35@
+1 BIRT
+2 DATE 1913
+2 PLAC District of Columbia
+2 SOUR @S1189421646@
+3 _APID 1,6061::113347347
+1 RESI
+2 DATE 1920
+2 PLAC Washington, Washington, District of Columbia, USA
+2 SOUR @S1189421646@
+3 _APID 1,6061::113347347
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 1210134859:1030:15665875
+2 _APID 24024004712:1030:5273553
+0 @I322445767301@ INDI
+1 NAME Ella Elizabeth /Schroen/
+2 GIVN Ella Elizabeth
+2 SURN Schroen
+2 SOUR @S1189421646@
+3 _APID 1,6061::113347348
+1 SEX F
+1 FAMC @F35@
+1 BIRT
+2 DATE Dec 13 1916
+2 PLAC Prince Georges, Maryland, USA
+2 SOUR @S1189421646@
+3 _APID 1,6061::113347348
+1 RESI
+2 DATE 1920
+2 PLAC Washington, Washington, District of Columbia, USA
+2 SOUR @S1189421646@
+3 _APID 1,6061::113347348
+1 DEAT
+2 DATE 17 Jul 2004
+2 PLAC Hawthorne, Alachua, Florida, USA
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 20191654932:1030:15665875
+2 _APID 24024006656:1030:5273553
+0 @I322445767302@ INDI
+1 NAME Mary Lucy /Schroen/
+2 GIVN Mary Lucy
+2 SURN Schroen
+2 SOUR @S1189421646@
+3 _APID 1,6061::113347349
+1 SEX F
+1 FAMC @F35@
+1 BIRT
+2 DATE abt 1920
+2 PLAC Maryland
+2 SOUR @S1189421646@
+3 _APID 1,6061::113347349
+1 RESI
+2 DATE 1920
+2 PLAC Washington, Washington, District of Columbia, USA
+2 SOUR @S1189421646@
+3 _APID 1,6061::113347349
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 1210134864:1030:15665875
+0 @I322445767303@ INDI
+1 NAME Martin Joseph /Schroen/
+2 GIVN Martin Joseph
+2 SURN Schroen
+2 SOUR @S1189421646@
+3 _APID 1,6061::113347342
+1 SEX M
+1 FAMC @F44@
+1 FAMS @F35@
+1 BIRT
+2 DATE 1 Apr 1880
+2 PLAC Baltimore Maryland
+2 SOUR @S1189421646@
+3 _APID 1,6061::113347342
+1 RESI
+2 DATE 1920
+2 PLAC Washington, Washington, District of Columbia, USA
+2 SOUR @S1189421646@
+3 _APID 1,6061::113347342
+1 DEAT
+2 DATE Feb 9 1932
+2 PLAC Washington DC
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 293033071:1030:5273553
+2 _APID 110108189445:1030:112620173
+0 @I322445767304@ INDI
+1 NAME Ella Irene /Chappelear/
+2 GIVN Ella Irene
+2 SURN Chappelear
+2 SOUR @S1189421646@
+3 _APID 1,6061::113347343
+1 SEX F
+1 FAMC @F3@
+1 FAMS @F35@
+1 BIRT
+2 DATE Oct 14 1884
+2 PLAC Charlotte Hall St Marys Co MD
+2 SOUR @S1189421646@
+3 _APID 1,6061::113347343
+1 RESI
+2 DATE 1920
+2 PLAC Washington, Washington, District of Columbia, USA
+2 SOUR @S1189421646@
+3 _APID 1,6061::113347343
+1 DEAT
+2 DATE Nov 22 1959
+2 PLAC Washington DC
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 293031797:1030:5273553
+2 _APID 1210133325:1030:15665875
+0 @I322445768119@ INDI
+1 NAME George Joseph /Schroen/
+2 GIVN George Joseph
+2 SURN Schroen
+1 SEX M
+1 FAMC @F36@
+1 FAMS @F44@
+1 FAMS @F39@
+1 BIRT
+2 DATE 23 Jun 1859
+2 PLAC Baltimore, Maryland, United States
+1 DEAT
+2 DATE 3 Dec 1938
+2 PLAC Baltimore, Maryland, United States
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 873490081:1030:15665875
+2 _APID 51000649275:1030:5273553
+2 _APID 110107514585:1030:112620173
+1 OBJE @O35@
+2 _PRIM Y
+0 @I322445768122@ INDI
+1 NAME Agnes E /Meyers/
+2 GIVN Agnes E
+2 SURN Meyers
+1 NAME Agnes E /Myers/
+2 GIVN Agnes E
+2 SURN Myers
+1 SEX F
+1 FAMS @F44@
+1 BIRT
+2 DATE 02 Jun 1861
+2 PLAC Maryland
+1 DEAT
+2 DATE 23 Mar 1930
+2 PLAC Maryland
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 51000649276:1030:5273553
+2 _APID 110107514604:1030:112620173
+0 @I322445768127@ INDI
+1 NAME Martin Tynan /Schroen/
+2 GIVN Martin Tynan
+2 SURN Schroen
+1 SEX M
+1 FAMC @F35@
+1 BIRT
+2 DATE April 6 1915
+1 DEAT
+2 DATE Feb 1916
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 24024005046:1030:5273553
+0 @I322445768129@ INDI
+1 NAME Marie Irene /Schroen/
+2 GIVN Marie Irene
+2 SURN Schroen
+1 SEX F
+1 FAMC @F35@
+1 BIRT
+2 DATE Feb 12 1918
+2 PLAC Maryland
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 24024005272:1030:5273553
+0 @I322445768131@ INDI
+1 NAME Catherine Lorraine /Schroen/
+2 GIVN Catherine Lorraine
+2 SURN Schroen
+1 SEX F
+1 FAMC @F35@
+1 BIRT
+2 DATE April 28 1920
+2 PLAC Wash, District of Columbia
+1 DEAT
+2 DATE 19 Aug 1994
+2 PLAC Richmond, Virginia, USA
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 24024005449:1030:5273553
+0 @I322445768133@ INDI
+1 NAME PhM1c  Albert Joseph /Schroen/ US Navy WWII Veteran
+2 GIVN PhM1c  Albert Joseph
+2 SURN Schroen
+2 NSFX US Navy WWII Veteran
+1 SEX M
+1 FAMC @F35@
+1 BIRT
+2 DATE Feb 9 1922 
+2 PLAC District of Columbia
+1 DEAT
+2 DATE 2 Feb 2009
+2 PLAC Vineland, Cumberland, New Jersey
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 1210136049:1030:15665875
+2 _APID 24024006119:1030:5273553
+0 @I322445768135@ INDI
+1 NAME Charles Anthony /Schroen/
+2 GIVN Charles Anthony
+2 SURN Schroen
+1 SEX M
+1 FAMC @F35@
+1 BIRT
+2 DATE Jan 1924
+1 DEAT
+2 DATE 28 Jul 1924
+2 PLAC District of Columbia
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 24024006358:1030:5273553
+2 _APID 112038601090:1030:15665875
+0 @I322445768966@ INDI
+1 NAME James William /Chappelear/
+2 GIVN James William
+2 SURN Chappelear
+1 SEX M
+1 FAMC @F14@
+1 FAMS @F3@
+1 BIRT
+2 DATE 17 Jul 1842
+2 PLAC St Mary's County, Maryland, USA
+1 DEAT
+2 DATE 6 Sep 1916
+2 PLAC 1520 East Capitol St. Washington DC
+1 BURI
+2 PLAC Washington, District of Columbia, District of Columbia, United States of America
+2 SOUR @S1189121991@
+3 DATA
+4 WWW https://www.findagrave.com/memorial/106684513/james-william-chappelear
+3 _APID 1,60525::63493920
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 1216038907:1030:15665875
+2 _APID 182136512280:1030:75244082
+1 OBJE @O22@
+2 _PRIM Y
+1 OBJE @O41@
+0 @I322445768970@ INDI
+1 NAME Ella Corrine /Canter/
+2 GIVN Ella Corrine
+2 SURN Canter
+1 SEX F
+1 FAMC @F51@
+1 FAMS @F3@
+1 BIRT
+2 DATE 24 Jan 1860
+2 PLAC Patuxent, Charles County, Maryland, USA
+1 EVEN
+2 TYPE Arrival
+2 DATE 31 Aug 1861
+2 PLAC New York, New York, USA
+2 SOUR @S1189623093@
+3 PAGE Year: 1861; Arrival: New York, New York, USA; Microfilm Serial: M237, 1820-1897; Line: 23; List Number: 844
+3 _APID 1,7488::2260336
+1 EVEN
+2 TYPE Obituary for ELLA C. CHAPPELEAB
+2 DATE 31 Mar 1934
+2 PLAC Washington, District of Columbia
+2 SOUR @S1189623116@
+3 PAGE Obituary for ELLA C. CHAPPELEAB 31 Mar 1934
+3 DATA
+4 WWW https://www.newspapers.com/clip/116709056/obituary-for-ella-c-chappeleab/?xid=637
+3 OBJE @O27@
+2 OBJE @O27@
+1 EVEN
+2 TYPE Departure
+2 PLAC Liverpool, England
+2 SOUR @S1189623093@
+3 PAGE Year: 1861; Arrival: New York, New York, USA; Microfilm Serial: M237, 1820-1897; Line: 23; List Number: 844
+3 _APID 1,7488::2260336
+1 DEAT
+2 DATE 31 March 1934
+2 PLAC District of Columbia, USA
+1 BURI
+2 PLAC Washington, District of Columbia, District of Columbia, United States of America
+2 SOUR @S1189121991@
+3 DATA
+4 WWW https://www.findagrave.com/memorial/53033612/ella-corrine-chappelear
+3 _APID 1,60525::13144474
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 246172085:1030:5273553
+2 _APID 1636359686:1030:15665875
+1 OBJE @O27@
+0 @I322445768973@ INDI
+1 NAME James Albert /Chappelear/
+2 GIVN James Albert
+2 SURN Chappelear
+1 SEX M
+1 FAMC @F3@
+1 BIRT
+2 DATE 28 Feb 1887
+2 PLAC Charlotte Hall, St Mary's, Maryland, USA
+1 DEAT
+2 DATE Oct 30 1979
+2 PLAC District Of Columbia County, District of Columbia, USA
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 110079690962:1030:15665875
+0 @I322445768976@ INDI
+1 NAME Andrew LeRoy /Chappelear/
+2 GIVN Andrew LeRoy
+2 SURN Chappelear
+1 SEX M
+1 FAMC @F3@
+1 BIRT
+2 DATE 30 January 1882
+2 PLAC Charlotte Hall St Marys Co MD
+1 DEAT
+2 DATE 20 JUL 1950
+2 PLAC Prince George's County, Maryland, USA
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 110079694402:1030:15665875
+0 @I322445768979@ INDI
+1 NAME William Adrian /Chappelear/
+2 GIVN William Adrian
+2 SURN Chappelear
+1 SEX M
+1 FAMC @F3@
+1 BIRT
+2 DATE 4 Aug 1890
+2 PLAC Charlotte Hall, St. Mary's, Maryland, USA
+1 DEAT
+2 DATE 13 SEP 1950
+2 PLAC Washington, District Of Columbia, USA
+1 DEAT
+2 DATE 15 Mar 1952
+2 PLAC Washington, District Of Columbia, USA
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 110079694405:1030:15665875
+2 _APID 182136538941:1030:75244082
+0 @I322445768980@ INDI
+1 NAME Edith Dent /Chappelear/
+2 GIVN Edith Dent
+2 SURN Chappelear
+1 SEX F
+1 FAMC @F3@
+1 BIRT
+2 DATE Nov 1878
+2 PLAC Charlotte Hall, St. Marys County, Maryland
+1 DEAT
+2 DATE 19 SEP 1937
+2 PLAC Washington, District Of Columbia, USA
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 110079694407:1030:15665875
+0 @I322445768983@ INDI
+1 NAME Ethel /Chappelear/
+2 GIVN Ethel
+2 SURN Chappelear
+1 SEX F
+1 FAMC @F3@
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 110079694943:1030:15665875
+0 @I322445768994@ INDI
+1 NAME Cela /Schroen/
+2 GIVN Cela
+2 SURN Schroen
+1 SEX F
+1 FAMC @F35@
+1 BIRT
+2 DATE abt 1917
+2 PLAC Maryland
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 112038924979:1030:15665875
+0 @I322445769864@ INDI
+1 NAME John A /Schroen/ Sr
+2 GIVN John A
+2 SURN Schroen
+2 NSFX Sr
+1 SEX M
+1 FAMC @F43@
+1 FAMS @F36@
+1 BIRT
+2 DATE 4 Jan 1836
+2 PLAC Bayern, Landkreis Traunstein, Bavaria (Bayern), Germany
+1 DEAT
+2 DATE 4 Jan 1908
+2 PLAC Massachusetts Avenue, Irvington, Baltimore City, Maryland, USA
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 296663487:1030:15665875
+2 _APID 110107517352:1030:112620173
+1 OBJE @O30@
+2 _PRIM Y
+1 OBJE @O18@
+1 OBJE @O32@
+0 @I322445769865@ INDI
+1 NAME Eva Margareth /Dickas (Dicas)/
+2 GIVN Eva Margareth
+2 SURN Dickas (Dicas)
+1 SEX F
+1 FAMS @F36@
+1 BIRT
+2 DATE 24 Dec 1837
+2 PLAC Forchheim, Landkreis Eichstätt, Bavaria (Bayern), Germany
+1 DEAT
+2 DATE 16 Dec 1914
+2 PLAC Baltimore, Baltimore, Maryland, United States
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 435833703:1030:15665875
+2 _APID 110108192123:1030:112620173
+0 @I322445769866@ INDI
+1 NAME Charles "Charlie"  Ernest Henry /Schroen/ Sr
+2 GIVN Charles "Charlie"  Ernest Henry
+2 SURN Schroen
+2 NSFX Sr
+2 SOUR @S1189121534@
+3 PAGE United States of America, Bureau of the Census; Washington, D.C.; Seventeenth Census of the United States, 1950; Record Group: Records of the Bureau of the Census, 1790-2007; Record Group Number: 29; Residence Date: 1950; Home in 1950: Baltimore, B
+4 CONC altimore
+3 _APID 1,62308::61776256
+1 SEX M
+1 FAMC @F36@
+1 BIRT
+2 DATE 14 May 1879
+2 PLAC Baltimore Ward 20, Baltimore City Independent, Maryland, United States, 
+2 SOUR @S1189121534@
+3 PAGE United States of America, Bureau of the Census; Washington, D.C.; Seventeenth Census of the United States, 1950; Record Group: Records of the Bureau of the Census, 1790-2007; Record Group Number: 29; Residence Date: 1950; Home in 1950: Baltimore, B
+4 CONC altimore
+3 _APID 1,62308::61776256
+1 RESI
+2 DATE 1950
+2 PLAC Baltimore, Baltimore, Maryland, USA
+2 SOUR @S1189121534@
+3 PAGE United States of America, Bureau of the Census; Washington, D.C.; Seventeenth Census of the United States, 1950; Record Group: Records of the Bureau of the Census, 1790-2007; Record Group Number: 29; Residence Date: 1950; Home in 1950: Baltimore, B
+4 CONC altimore
+3 _APID 1,62308::61776256
+2 NOTE Relation to Head: Head; Marital Status: Married
+1 RESI
+2 PLAC Baltimore, Baltimore, Maryland
+2 SOUR @S1189121534@
+3 PAGE United States of America, Bureau of the Census; Washington, D.C.; Seventeenth Census of the United States, 1950; Record Group: Records of the Bureau of the Census, 1790-2007; Record Group Number: 29; Residence Date: 1950; Home in 1950: Baltimore, B
+4 CONC altimore
+3 _APID 1,62308::61776256
+1 DEAT
+2 DATE 24 Jul 1958
+2 PLAC Baltimore, Baltimore, Maryland, United States, 
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 296579487:1030:15665875
+2 _APID 110108192127:1030:112620173
+1 OBJE @O8@
+2 _PRIM Y
+0 @I322445769868@ INDI
+1 NAME Bernadette /Schroen/
+2 GIVN Bernadette
+2 SURN Schroen
+1 SEX F
+1 FAMC @F36@
+1 BIRT
+2 PLAC Baltimore City, Maryland, USA
+1 DEAT
+2 PLAC Baltimore City, Maryland
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 110108192129:1030:112620173
+0 @I322445769870@ INDI
+1 NAME Brother Francis (Frank) C /Schroen S.J./
+2 GIVN Brother Francis (Frank) C
+2 SURN Schroen S.J.
+1 SEX M
+1 FAMC @F36@
+1 BIRT
+2 DATE 4 Jan 1857
+2 PLAC Forchheim, Landkreis Forchheim, Bavaria (Bayern), Germany
+1 DEAT
+2 DATE 23 Aug 1924
+2 PLAC Georgetown, Washington DC, District of Columbia, USA
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 644852608:1030:15665875
+2 _APID 110108192131:1030:112620173
+0 @I322445769873@ INDI
+1 NAME Peter  A "Pete" "Captain"  /Schroen/
+2 GIVN Peter  A "Pete" "Captain" 
+2 SURN Schroen
+1 SEX M
+1 FAMC @F36@
+1 BIRT
+2 DATE Sep 1869
+2 PLAC Baltimore, Maryland, United States
+1 DEAT
+2 DATE 19 May 1931
+2 PLAC Baltimore, Baltimore, Maryland, United States
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 644859648:1030:15665875
+2 _APID 110108192133:1030:112620173
+0 @I322445769876@ INDI
+1 NAME Magdalena "Lena"  Eleanor /Schroen/
+2 GIVN Magdalena "Lena"  Eleanor
+2 SURN Schroen
+1 SEX F
+1 FAMC @F36@
+1 BIRT
+2 DATE 1866
+2 PLAC Baltimore, Maryland, United States
+1 DEAT
+2 DATE 01 Jun 1962
+2 PLAC Baltimore, Baltimore, Maryland, United States
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 110108192135:1030:112620173
+0 @I322445769878@ INDI
+1 NAME Christiana "Christine" /Schroen/
+2 GIVN Christiana "Christine"
+2 SURN Schroen
+1 SEX F
+1 FAMC @F36@
+1 BIRT
+2 DATE 26 Apr 1861
+2 PLAC Baltimore, Baltimore, Maryland, United States
+1 DEAT
+2 DATE 26 Aug 1947
+2 PLAC Philadelphia, Philadelphia, Pennsylvania, USA
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 873490089:1030:15665875
+2 _APID 110108192138:1030:112620173
+0 @I322445769880@ INDI
+1 NAME Anthonia (Antonia) "Annie" Rose /Schroen/
+2 GIVN Anthonia (Antonia) "Annie" Rose
+2 SURN Schroen
+1 SEX F
+1 FAMC @F36@
+1 BIRT
+2 DATE 17 Dec 1881
+2 PLAC Baltimore, Baltimore, Maryland, United States
+1 DEAT
+2 DATE 3 Nov 1980
+2 PLAC Baltimore, Baltimore, Maryland, United States
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 873490103:1030:15665875
+2 _APID 110108192141:1030:112620173
+0 @I322445769883@ INDI
+1 NAME Elizabeth A "Lizzie" /Schroen/
+2 GIVN Elizabeth A "Lizzie"
+2 SURN Schroen
+1 SEX F
+1 FAMC @F36@
+1 BIRT
+2 DATE Nov 1858
+2 PLAC Maryland
+1 DEAT
+2 DATE Nov 1880
+2 PLAC Baltimore, Baltimore, Maryland, United States
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 110108192144:1030:112620173
+2 _APID 112285748685:1030:15665875
+0 @I322445769886@ INDI
+1 NAME Margaret A /Schroen/
+2 GIVN Margaret A
+2 SURN Schroen
+1 SEX F
+1 FAMC @F36@
+1 BIRT
+2 DATE Mar 1875
+2 PLAC Maryland
+1 DEAT
+2 DATE 18 May 1954
+2 PLAC Baltimore, Baltimore, Maryland, United States
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 952589587:1030:15665875
+2 _APID 110108192146:1030:112620173
+0 @I322445769888@ INDI
+1 NAME Catherine Helen /Schroen/
+2 GIVN Catherine Helen
+2 SURN Schroen
+1 SEX F
+1 FAMC @F36@
+1 BIRT
+2 DATE Aug 1872
+2 PLAC Maryland
+1 DEAT
+2 DATE 31 Aug 1940
+2 PLAC Baltimore City, Maryland, United States of America
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 1271155173:1030:15665875
+2 _APID 110108192148:1030:112620173
+0 @I322445769889@ INDI
+1 NAME Anna "Annie" Margaretha /Schroen/
+2 GIVN Anna "Annie" Margaretha
+2 SURN Schroen
+1 SEX F
+1 FAMC @F36@
+1 BIRT
+2 DATE Jan 1865
+2 PLAC Baltimore, Maryland, United States
+1 DEAT
+2 DATE 15 Jan 1942
+2 PLAC Baltimore, Maryland, United States
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 873490097:1030:15665875
+2 _APID 110108195380:1030:112620173
+0 @I322445769892@ INDI
+1 NAME John A. /Schroen/
+2 GIVN John A.
+2 SURN Schroen
+1 SEX M
+1 FAMC @F36@
+1 BIRT
+2 DATE 1869
+2 PLAC Baltimore City, Maryland
+1 DEAT
+2 DATE 16 June 1948
+2 PLAC Baltimore City, Maryland
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 873580841:1030:15665875
+2 _APID 110108195383:1030:112620173
+0 @I322445769894@ INDI
+1 NAME Catherine Agnes /Schroen/
+2 GIVN Catherine Agnes
+2 SURN Schroen
+1 SEX F
+1 FAMC @F36@
+1 BIRT
+2 DATE 10 Jul 1894
+2 PLAC Baltimore, Baltimore, Maryland, United States
+1 DEAT
+2 DATE 24 May 1936
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 110108195386:1030:112620173
+0 @I322445769897@ INDI
+1 NAME Catherine Agnes /Schroen/
+2 GIVN Catherine Agnes
+2 SURN Schroen
+1 SEX F
+1 FAMC @F44@
+1 BIRT
+2 DATE 10 Jul 1894
+2 PLAC Baltimore, Baltimore, Maryland, USA
+1 DEAT
+2 DATE 24 May 1936
+2 PLAC Maryland, USA
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 110107513405:1030:112620173
+0 @I322445769899@ INDI
+1 NAME Lena Julia /Schroen/
+2 GIVN Lena Julia
+2 SURN Schroen
+1 SEX F
+1 FAMC @F44@
+1 BIRT
+2 DATE 14 Dec 1883
+2 PLAC Maryland, USA
+1 DEAT
+2 DATE 16 Mar 1980
+2 PLAC Orange City, Orange, Florida, United States
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 110108189447:1030:112620173
+0 @I322445769901@ INDI
+1 NAME Johan J /Schroen/
+2 GIVN Johan J
+2 SURN Schroen
+1 SEX M
+1 FAMC @F44@
+1 BIRT
+2 DATE 2 Nov 1875
+2 PLAC Maryland, USA
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 110108189448:1030:112620173
+0 @I322445769902@ INDI
+1 NAME Mary E. /Meldick/
+2 GIVN Mary E.
+2 SURN Meldick
+1 SEX F
+1 FAMS @F39@
+1 BIRT
+2 DATE 1854
+2 PLAC ?Baltimore, Maryland
+1 DEAT
+2 DATE May 4, 1890
+2 PLAC Baltimore, Maryland, United States
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 110107515083:1030:112620173
+0 @I322445770941@ INDI
+1 NAME ?Franz (Francis) /Schroen /
+2 GIVN ?Franz (Francis)
+2 SURN Schroen 
+1 SEX M
+1 FAMC @F58@
+1 FAMS @F43@
+1 FAMS @F45@
+1 BIRT
+2 DATE 1817
+2 PLAC Wuerttemberg, Germany
+1 BAPM
+2 DATE 1817
+2 PLAC Siebeneichen, Hzt. Lauenburg, Schleswig-Holstein, Deutschland
+2 SOUR @S1189423033@
+3 PAGE Film Number: 1949602
+3 _APID 1,61456::9476685
+1 RESI
+2 DATE 1880
+2 PLAC Baltimore, Maryland, USA
+2 SOUR @S1189423045@
+3 _APID 1,2469::734264469
+1 DEAT
+2 PLAC Bayern, Germany
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 873451011:1030:15665875
+0 @I322445770943@ INDI
+1 NAME ?Elisabetha //
+2 GIVN ?Elisabetha
+1 SEX F
+1 FAMS @F43@
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 112039230491:1030:15665875
+0 @I322445770944@ INDI
+1 NAME Georg  (George) /Schroen/
+2 GIVN Georg  (George)
+2 SURN Schroen
+1 SEX M
+1 FAMC @F43@
+1 BIRT
+2 DATE 1840
+2 PLAC Germany
+1 DEAT
+2 DATE Bef. 1885
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 28655071393:1030:15665875
+0 @I322445770945@ INDI
+1 NAME Heinrich (Henry) /Schroen /
+2 GIVN Heinrich (Henry)
+2 SURN Schroen 
+1 SEX M
+1 FAMC @F43@
+1 BIRT
+2 DATE Abt. 1838
+2 PLAC , , Bayern, Germany
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 112039230434:1030:15665875
+0 @I322445771505@ INDI
+1 NAME Johann Friedrich /Schön/
+2 GIVN Johann Friedrich
+2 SURN Schön
+1 SEX M
+1 FAMC @F20@
+1 FAMS @F58@
+1 BIRT
+2 DATE 25 Jan 1799
+2 PLAC , , Baden-Wuerttemberg, Germany
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 28058605954:1030:15665875
+0 @I322445771509@ INDI
+1 NAME /?Lachter/
+2 SURN ?Lachter
+1 SEX F
+1 FAMS @F58@
+1 BIRT
+2 DATE Abt. 1795
+2 PLAC , , Bayern, Germany
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 112029408238:1030:15665875
+0 @I322445771510@ INDI
+1 NAME ?Elisabetha //
+2 GIVN ?Elisabetha
+1 SEX F
+1 FAMS @F45@
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 112039230491:1030:15665875
+0 @I322445771852@ INDI
+1 NAME ?Jacob /Schon/
+2 GIVN ?Jacob
+2 SURN Schon
+1 SEX M
+1 FAMS @F20@
+1 BIRT
+2 DATE abt. 1768
+2 PLAC , , Baden-Wuerttemberg, Germany
+1 _WLNK
+2 TITL Burial record of Johann Friedrich Schön (references to Magdal...
+2 NOTE https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSWC-DX25?mode=g&cc=3015626
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 112029408847:1030:15665875
+0 @I322445771854@ INDI
+1 NAME Magdalena /?Hausterin \ Hauser/
+2 GIVN Magdalena
+2 SURN ?Hausterin \ Hauser
+1 SEX F
+1 FAMS @F20@
+1 BIRT
+2 DATE Abt. 1768
+2 PLAC , , Baden-Wuerttemberg, Germany
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 112231269239:1030:15665875
+0 @I322445773841@ INDI
+1 NAME George James /Chappelear/
+2 GIVN George James
+2 SURN Chappelear
+1 SEX M
+1 FAMC @F46@
+1 FAMS @F14@
+1 BIRT
+2 DATE 22 November 1800
+2 PLAC St Marys, St Mary's, Maryland, USA
+1 DEAT
+2 DATE 11 Apr 1887
+2 PLAC St Mary's County, Maryland, USA
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 182136510072:1030:75244082
+2 _APID 282029287409:1030:151478382
+0 @I322445773844@ INDI
+1 NAME Elizabeth Dent /Tyser (Ticer)/
+2 GIVN Elizabeth Dent
+2 SURN Tyser (Ticer)
+1 SEX F
+1 FAMS @F14@
+1 BIRT
+2 DATE 30 May 1821
+2 PLAC St Mary's County, Maryland, USA
+1 DEAT
+2 DATE 10 April 1890
+2 PLAC Maryland, USA
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 182136512031:1030:75244082
+2 _APID 282196237609:1030:151478382
+0 @I322445773846@ INDI
+1 NAME Emily F /Chappelear/
+2 GIVN Emily F
+2 SURN Chappelear
+1 SEX F
+1 FAMC @F14@
+1 BIRT
+2 DATE 12 Mar 1850
+2 PLAC St Mary's County, Maryland, USA
+1 DEAT
+2 DATE after 1900
+2 PLAC On 1900 census
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 182136512281:1030:75244082
+0 @I322445773847@ INDI
+1 NAME Benjamin Franklin /Chappelear/
+2 GIVN Benjamin Franklin
+2 SURN Chappelear
+1 SEX M
+1 FAMC @F14@
+1 BIRT
+2 DATE 8 Jun 1855
+2 PLAC Maryland, USA
+1 DEAT
+2 DATE 1932
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 182136512282:1030:75244082
+2 _APID 282064561121:1030:151478382
+0 @I322445773848@ INDI
+1 NAME Richard Nathan /Chappelear/
+2 GIVN Richard Nathan
+2 SURN Chappelear
+1 SEX M
+1 FAMC @F14@
+1 BIRT
+2 DATE 15 Oct 1856
+2 PLAC St Mary's County, Maryland, USA
+1 DEAT
+2 DATE July 30 1903
+2 PLAC Killed by lightning while under tree during electric storm
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 182136512285:1030:75244082
+0 @I322445773849@ INDI
+1 NAME Ann Elizabeth /Chappelear/
+2 GIVN Ann Elizabeth
+2 SURN Chappelear
+1 SEX F
+1 FAMC @F14@
+1 BIRT
+2 DATE 9 April 1860
+2 PLAC Maryland, USA
+1 DEAT
+2 DATE 6 March 1940
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 182136512286:1030:75244082
+2 _APID 282404275372:1030:151478382
+0 @I322445773850@ INDI
+1 NAME Thomas /Chappelear/
+2 GIVN Thomas
+2 SURN Chappelear
+1 SEX M
+1 FAMC @F14@
+1 BIRT
+2 DATE abt 1862
+2 PLAC St. Mary`s County  MD
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 182136512287:1030:75244082
+2 _APID 282208837710:1030:151478382
+0 @I322445773851@ INDI
+1 NAME John H /Chappelear/
+2 GIVN John H
+2 SURN Chappelear
+1 SEX M
+1 FAMC @F14@
+1 BIRT
+2 DATE 16 Nov 1835
+2 PLAC St. Mary's County, Maryland, United States of America
+1 DEAT
+2 DATE 11 Jul 1923
+2 PLAC Buried at Old Fields Episcopal Church Bryantown Charles Co Md
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 182136534107:1030:75244082
+2 _APID 282064561131:1030:151478382
+0 @I322445773852@ INDI
+1 NAME Mary E /Chappelear/
+2 GIVN Mary E
+2 SURN Chappelear
+1 SEX F
+1 FAMC @F14@
+1 BIRT
+2 DATE 18 March 1837
+2 PLAC St Mary's County, Maryland, USA
+1 DEAT
+2 DATE bef 1870
+2 PLAC No on 1870 census
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 182136534140:1030:75244082
+2 _APID 282064561133:1030:151478382
+0 @I322445773855@ INDI
+1 NAME George James /Chappelear/ Jr
+2 GIVN George James
+2 SURN Chappelear
+2 NSFX Jr
+1 SEX M
+1 FAMC @F14@
+1 BIRT
+2 DATE 17 Feb 1839
+2 PLAC St Mary's County, Maryland, USA
+1 DEAT
+2 DATE 21 October 1898
+2 PLAC Charles County, Maryland, USA
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 182136534212:1030:75244082
+0 @I322445773856@ INDI
+1 NAME Sarah Ann Rebecca /Chappelear/
+2 GIVN Sarah Ann Rebecca
+2 SURN Chappelear
+1 SEX F
+1 FAMC @F14@
+1 BIRT
+2 DATE 27 February 1845
+2 PLAC St Mary's County, Maryland, USA
+1 DEAT
+2 DATE 4 January 1921
+2 PLAC Charles Co Maryland
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 182136534758:1030:75244082
+2 _APID 282065886870:1030:151478382
+0 @I322445774265@ INDI
+1 NAME Benjamin F /Chappelear/ I
+2 GIVN Benjamin F
+2 SURN Chappelear
+2 NSFX I
+1 SEX M
+1 FAMC @F33@
+1 FAMS @F46@
+1 BIRT
+2 DATE 1767
+2 PLAC St Mary's, Maryland, USA
+1 DEAT
+2 DATE Bef. 2 Jun 1819
+2 PLAC Charlotte Hall, St Mary's, Maryland, USA
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 282064561105:1030:151478382
+0 @I322445774268@ INDI
+1 NAME Mary /Wood/
+2 GIVN Mary
+2 SURN Wood
+1 SEX F
+1 FAMS @F46@
+1 BIRT
+2 DATE 1770
+2 PLAC Charles or St. Mary's County, Maryland, USA
+1 DEAT
+2 DATE 1852
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 282044371141:1030:151478382
+0 @I322445774273@ INDI
+1 NAME Alice /Chappelear/
+2 GIVN Alice
+2 SURN Chappelear
+1 SEX F
+1 FAMC @F14@
+1 BIRT
+2 DATE 1858
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 282404275335:1030:151478382
+0 @I322445774450@ INDI
+1 NAME James Henry /Chappelear/
+2 GIVN James Henry
+2 SURN Chappelear
+1 SEX M
+1 FAMC @F10@
+1 FAMS @F33@
+1 BIRT
+2 DATE 7 November 1732
+2 PLAC St Mary's, Maryland, USA
+1 DEAT
+2 DATE 11 Oct 1808
+2 PLAC St Marys, St Mary's, Maryland, United States
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 282064635295:1030:151478382
+1 OBJE @O7@
+2 _PRIM Y
+0 @I322445774452@ INDI
+1 NAME Elizabeth  /Dent/
+2 GIVN Elizabeth 
+2 SURN Dent
+1 SEX F
+1 FAMS @F33@
+1 BIRT
+2 DATE 27 April 1727
+2 PLAC St Mary's, Maryland, USA
+1 DEAT
+2 DATE 1796
+2 PLAC St Mary's, Maryland, USA
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 282064635382:1030:151478382
+0 @I322445774621@ INDI
+1 NAME Isaac /Chapelier/ Jr.
+2 GIVN Isaac
+2 SURN Chapelier
+2 NSFX Jr.
+1 SEX M
+1 FAMS @F10@
+1 BIRT
+2 DATE 16 MAR 1698
+2 PLAC London, Middlesex, England
+1 DEAT
+2 DATE 11 Mar 1741
+2 PLAC St Marys, St Mary's, Maryland, USA
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 282065176558:1030:151478382
+0 @I322445774622@ INDI
+1 NAME Rachel /Wood/
+2 GIVN Rachel
+2 SURN Wood
+1 SEX F
+1 FAMS @F10@
+1 BIRT
+2 DATE 1715
+2 PLAC St Mary's, Maryland, United States
+1 DEAT
+2 DATE 1752
+2 PLAC St Marys, St Mary's, Maryland
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 282065176599:1030:151478382
+0 @I322445775366@ INDI
+1 NAME John /Sizer/
+2 GIVN John
+2 SURN Sizer
+1 SEX M
+1 FAMS @F5@
+1 BIRT
+2 DATE Abt. 1750
+2 PLAC Bowling Green, Caroline County, Virginia
+1 DEAT
+2 DATE Bet. 11 Jan–09 Jun 1818
+2 PLAC Caroline County, Virginia
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 441310238:1030:16950131
+2 _APID 102232936818:1030:170470832
+2 _APID 302348661765:1030:119107052
+0 @I322445775367@ INDI
+1 NAME Ruth /Mason/
+2 GIVN Ruth
+2 SURN Mason
+1 SEX F
+1 FAMS @F5@
+1 BIRT
+2 DATE Abt. 1750
+2 PLAC Caroline County, Virginia
+1 DEAT
+2 DATE Bef. 04 Dec 1811
+2 PLAC Caroline County, Virginia
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 441309535:1030:16950131
+2 _APID 102232936828:1030:170470832
+2 _APID 302068646826:1030:119107052
+0 @I322445775370@ INDI
+1 NAME Littleton Beaufort /Sizer/
+2 GIVN Littleton Beaufort
+2 SURN Sizer
+1 SEX M
+1 FAMC @F9@
+1 BIRT
+2 DATE 15 November 1833
+2 PLAC Virginia, United States of America
+1 DEAT
+2 DATE 1 May 1913
+2 PLAC Covington City, Virginia, United States of America
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 441310248:1030:16950131
+2 _APID 102232584414:1030:170470832
+0 @I322445776113@ INDI
+1 NAME Clara A /Sizer/
+2 GIVN Clara A
+2 SURN Sizer
+1 SEX F
+1 FAMC @F9@
+1 BIRT
+2 DATE JAN 1834
+2 PLAC Bowling Green, Caroline, Virginia, United States
+1 DEAT
+2 DATE 1841
+2 PLAC Caroline, Virginia, United States
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 441310211:1030:16950131
+0 @I322445776115@ INDI
+1 NAME James Lancelot /Sizer/
+2 GIVN James Lancelot
+2 SURN Sizer
+1 SEX M
+1 FAMC @F9@
+1 BIRT
+2 DATE MAR 1823
+2 PLAC Caroline, Virginia, United States
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 441310235:1030:16950131
+0 @I322445776117@ INDI
+1 NAME Lucian D /Sizer/
+2 GIVN Lucian D
+2 SURN Sizer
+1 SEX M
+1 FAMC @F9@
+1 BIRT
+2 DATE 02 FEB 1839
+2 PLAC Bowling Green, Caroline, Virginia, United States
+1 DEAT
+2 DATE 24 FEB 1918
+2 PLAC District of Columbia, United States
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 441310249:1030:16950131
+0 @I322445776118@ INDI
+1 NAME Mary /Sizer/
+2 GIVN Mary
+2 SURN Sizer
+1 SEX F
+1 FAMC @F9@
+1 BIRT
+2 DATE 1840
+2 PLAC Bowling Green, Caroline, Virginia, United States
+1 DEAT
+2 DATE 1841
+2 PLAC Caroline, Virginia, United States
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 441310258:1030:16950131
+0 @I322445776119@ INDI
+1 NAME Greenville Alexander /Sizer/
+2 GIVN Greenville Alexander
+2 SURN Sizer
+1 SEX M
+1 FAMC @F9@
+1 BIRT
+2 DATE JUL 1830
+2 PLAC Bowling Green, Caroline, Virginia, United States
+1 DEAT
+2 DATE 20 Dec 1898
+2 PLAC District of Columbia, United States
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 441310228:1030:16950131
+2 _APID 302068195681:1030:119107052
+0 @I322445776559@ INDI
+1 NAME William /Gatewood/
+2 GIVN William
+2 SURN Gatewood
+1 SEX M
+1 FAMC @F28@
+1 FAMS @F38@
+1 BIRT
+2 DATE 1764
+2 PLAC , Caroline, Virginia, USA
+1 RESI
+2 DATE Abt 1853
+2 PLAC Charleston, South Carolina
+2 SOUR @S1189424836@
+3 PAGE Wills and Miscellaneous Probate Records, 1671-1868; Author: Charleston County (South Carolina). Probate Judge; Probate Place: Charleston, South Carolina
+3 _APID 1,9080::11995
+1 DEAT
+2 DATE 1853
+2 PLAC , Caroline, Virginia, USA
+1 PROB
+2 DATE 24 May 1853
+2 PLAC Charleston, South Carolina, USA
+2 SOUR @S1189424836@
+3 PAGE Wills and Miscellaneous Probate Records, 1671-1868; Author: Charleston County (South Carolina). Probate Judge; Probate Place: Charleston, South Carolina
+3 _APID 1,9080::11995
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 222077309978:1030:114501948
+2 _APID 222277496536:1030:11625700
+0 @I322445776561@ INDI
+1 NAME Clara /Dickerson Gatewood/
+2 GIVN Clara
+2 SURN Dickerson Gatewood
+1 SEX F
+1 FAMS @F38@
+1 BIRT
+2 DATE ABT 1764
+2 PLAC Caroline, Virginia, United States
+1 DEAT
+2 DATE BEF 1850
+2 PLAC Kentucky, USA
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 222077322162:1030:114501948
+2 _APID 222277496639:1030:11625700
+0 @I322445776750@ INDI
+1 NAME James Fullerton /Gatewood/ Capt. 
+2 GIVN James Fullerton
+2 SURN Gatewood
+2 NSFX Capt. 
+1 SEX M
+1 FAMC @F26@
+1 FAMS @F28@
+1 FAMS @F24@
+1 BIRT
+2 DATE 1732
+2 PLAC Essex County, Virginia, USA
+1 DEAT
+2 DATE 1807
+2 PLAC Caroline County, Virginia, USA
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID -375545354:1030:11625700
+2 _APID 130075414178:1030:81136991
+2 _APID 170008336866:1030:101316403
+0 @I322445776752@ INDI
+1 NAME Amelia Amy /Peatross Gatewood/
+2 GIVN Amelia Amy
+2 SURN Peatross Gatewood
+1 SEX F
+1 FAMS @F28@
+1 BIRT
+2 DATE 1740
+2 PLAC Caroline County, Virginia, USA
+1 DEAT
+2 DATE 12 OCT 1802
+2 PLAC Caroline County, Virginia, USA
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 26059970418:1030:11625700
+2 _APID 130075414180:1030:81136991
+0 @I322445776984@ INDI
+1 NAME James /Gatewood/
+2 GIVN James
+2 SURN Gatewood
+1 SEX M
+1 FAMS @F26@
+1 BIRT
+2 DATE 1700
+2 PLAC South Farnham, Essex, Virginia, United States
+1 DEAT
+2 DATE 30 November 1778
+2 PLAC Caroline, Virginia, United States
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 130075425939:1030:81136991
+1 SOUR @S1189427749@
+2 _APID 1,62476::7021660529
+0 @I322445776985@ INDI
+1 NAME Penelope /Webb (Fullerton)/
+2 GIVN Penelope
+2 SURN Webb (Fullerton)
+2 SOUR @S1189427835@
+3 PAGE Book: W 8,; Page: 108
+3 _APID 1,4033::7138
+1 SEX F
+1 FAMC @F11@
+1 FAMS @F26@
+1 FAMS @F19@
+1 BIRT
+2 DATE 1710
+2 PLAC Essex, Virginia, United States
+1 DEAT
+2 DATE 30 November 1778
+2 PLAC Caroline, Virginia, USA
+2 SOUR @S1189427749@
+3 DATA
+4 WWW https://gw.geneanet.org/ltoler?n=fullerton&oc=&p=penelope
+3 _APID 1,62476::7021660360
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 130075425941:1030:81136991
+2 _APID 170008336161:1030:101316403
+2 _APID 362317020209:1030:83847154
+1 SOUR @S1189427801@
+2 PAGE Source number: 6576.006; Source type: Family group sheet, FGSE, listed as parents; Number of Pages: 1
+2 _APID 1,7836::443324
+0 @I322445776990@ INDI
+1 NAME Frances /Scott/
+2 GIVN Frances
+2 SURN Scott
+1 SEX F
+1 FAMS @F24@
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 130075425969:1030:81136991
+0 @I322445796122@ INDI
+1 NAME James C /Fullerton/
+2 GIVN James C
+2 SURN Fullerton
+1 SEX M
+1 FAMC @F7@
+1 FAMS @F11@
+1 BIRT
+2 DATE 1675
+2 PLAC Rappahannock, Essex, Virginia, USA
+2 SOUR @S1189427749@
+3 _APID 1,62476::7021660359
+1 BIRT
+2 DATE 21 Mar 1677
+2 PLAC Rappahannock, Essex, Virginia, USA
+1 MARR
+2 DATE 1713
+2 PLAC Old Rappahannoch and Essex Counties
+1 DEAT
+2 DATE Abt. 1713
+2 PLAC Essex, Virginia, USA
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 170008336131:1030:101316403
+2 _APID 362367234220:1030:83847154
+2 _APID 412294851181:1030:105938863
+0 @I322445796126@ INDI
+1 NAME Sarah /Pickett Fullerton Webb/
+2 GIVN Sarah
+2 SURN Pickett Fullerton Webb
+1 SEX F
+1 FAMS @F11@
+1 BIRT
+2 DATE 01 May 1668
+2 PLAC Rappahannock, Essex, Virginia, USA
+1 DEAT
+2 DATE 1748
+2 PLAC Essex, Virginia, USA
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 170008335738:1030:101316403
+2 _APID 362367234222:1030:83847154
+0 @I322445796139@ INDI
+1 NAME Hannah /Fullerton/
+2 GIVN Hannah
+2 SURN Fullerton
+1 SEX F
+1 FAMC @F11@
+1 BIRT
+2 DATE 1712
+2 PLAC Essex, Virginia, United States
+1 DEAT
+2 DATE 02 Mar 1771
+2 PLAC Essex, Virginia, United States
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 170008336493:1030:101316403
+0 @I322445796140@ INDI
+1 NAME Elizabeth /Fullerton/
+2 GIVN Elizabeth
+2 SURN Fullerton
+1 SEX F
+1 FAMC @F11@
+1 BIRT
+2 DATE 1702
+2 PLAC Essex, Virginia, United States
+1 DEAT
+2 DATE AFT 1777
+2 PLAC Essex, VA
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 170008336943:1030:101316403
+2 _APID 412294851185:1030:105938863
+0 @I322445796142@ INDI
+1 NAME Mary /Fullerton/
+2 GIVN Mary
+2 SURN Fullerton
+1 SEX F
+1 FAMC @F11@
+1 BIRT
+2 DATE 1710
+2 PLAC Essex, Virginia, United States
+1 DEAT
+2 DATE 1793
+2 PLAC Caroline, Virginia, United States
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 170008337049:1030:101316403
+2 _APID 412294851191:1030:105938863
+0 @I322445796143@ INDI
+1 NAME Jane /Martin/
+2 GIVN Jane
+2 SURN Martin
+1 SEX F
+1 FAMC @F11@
+1 BIRT
+2 DATE 1694
+2 PLAC St Peters Parrish, New Kent, Virginia, United States
+1 DEAT
+2 DATE 06 Dec 1769
+2 PLAC Warren County, Tennessee, USA (Probably)
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 170008337704:1030:101316403
+2 _APID 412294851187:1030:105938863
+0 @I322445796144@ INDI
+1 NAME James /Fullerton/
+2 GIVN James
+2 SURN Fullerton
+1 SEX M
+1 FAMC @F11@
+1 BIRT
+2 DATE 1704
+2 PLAC Virginia, United States
+1 DEAT
+2 DATE 17 Jun 1727
+2 PLAC Essex, Virginia, United States
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 170008338264:1030:101316403
+0 @I322445796146@ INDI
+1 NAME Richard /Johnson/
+2 GIVN Richard
+2 SURN Johnson
+1 SEX M
+1 FAMS @F19@
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+0 @I322445796147@ INDI
+1 NAME Griffen /Gatewood/
+2 GIVN Griffen
+2 SURN Gatewood
+1 SEX M
+1 FAMC @F26@
+1 BIRT
+2 DATE 1759
+2 PLAC Caroline, Virginia, United States
+1 DEAT
+2 DATE 1807
+2 PLAC Caroline, Virginia, United States
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+0 @I322445796148@ INDI
+1 NAME Caty /Gatewood/
+2 GIVN Caty
+2 SURN Gatewood
+1 SEX F
+1 FAMC @F26@
+1 BIRT
+2 DATE 1765
+2 PLAC Caroline, Virginia, United States
+1 DEAT
+2 PLAC Jefferson, Kentucky, United States
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 362412904487:1030:83847154
+0 @I322445796151@ INDI
+1 NAME James /Gatewood/
+2 GIVN James
+2 SURN Gatewood
+1 SEX M
+1 FAMC @F26@
+1 BIRT
+2 DATE 1764
+2 PLAC Essex, Virginia, United States
+1 DEAT
+2 DATE 10 Oct 1856
+2 PLAC Larue, Kentucky, United States
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+0 @I322445796153@ INDI
+1 NAME Clara /Gatewood/
+2 GIVN Clara
+2 SURN Gatewood
+1 SEX F
+1 FAMC @F26@
+1 BIRT
+2 DATE 1741
+2 PLAC Caroline County, Virginia, USA
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 362412904491:1030:83847154
+0 @I322445796154@ INDI
+1 NAME Cathy /Gatewood/
+2 GIVN Cathy
+2 SURN Gatewood
+1 SEX F
+1 FAMC @F26@
+1 BIRT
+2 DATE BET 1719 AND 1747
+1 DEAT
+2 DATE BET 1724 AND 1829
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+0 @I322445796155@ INDI
+1 NAME Mary "Polly" /Gatewood/
+2 GIVN Mary "Polly"
+2 SURN Gatewood
+1 SEX F
+1 FAMC @F26@
+1 BIRT
+2 DATE 1742
+2 PLAC Caroline, Virginia, United States
+1 DEAT
+2 DATE 19 Jan 1789
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 170008335918:1030:101316403
+0 @I322445796156@ INDI
+1 NAME Griffin /Gatewood/
+2 GIVN Griffin
+2 SURN Gatewood
+1 SEX M
+1 FAMC @F26@
+1 BIRT
+2 DATE 1741
+2 PLAC Caroline County, Virginia, USA
+1 DEAT
+2 DATE 27 Apr 1795
+2 PLAC , Jefferson, Kentucky, USA
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 170008335991:1030:101316403
+0 @I322445796158@ INDI
+1 NAME Ann /Gatewood/
+2 GIVN Ann
+2 SURN Gatewood
+1 SEX F
+1 FAMC @F26@
+1 BIRT
+2 DATE 1719
+2 PLAC Caroline, Virginia, USA
+1 DEAT
+2 DATE 1724
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 170008336061:1030:101316403
+2 _APID 362412904497:1030:83847154
+0 @I322445796159@ INDI
+1 NAME Reuben /Gatewood/
+2 GIVN Reuben
+2 SURN Gatewood
+1 SEX M
+1 FAMC @F26@
+1 BIRT
+2 DATE 1740
+2 PLAC Essex Co, Virginia
+1 DEAT
+2 DATE 1808
+2 PLAC Essex, Virginia, United States
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 170008336275:1030:101316403
+0 @I322445796160@ INDI
+1 NAME Catherine "Caty" /Gatewood/
+2 GIVN Catherine "Caty"
+2 SURN Gatewood
+1 SEX F
+1 FAMC @F26@
+1 BIRT
+2 DATE 1738
+2 PLAC Caroline, Virginia, United States
+1 DEAT
+2 DATE 1823
+2 PLAC Caroline County, Virginia
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 170008337812:1030:101316403
+0 @I322445796163@ INDI
+1 NAME Benjamin /Gatewood/
+2 GIVN Benjamin
+2 SURN Gatewood
+1 SEX M
+1 FAMC @F26@
+1 BIRT
+2 DATE 1730
+2 PLAC Hoskins Creek, Southfarnham Parish, Essex, Virginia, USA
+1 DEAT
+2 DATE Oct 1780
+2 PLAC Caroline, Virginia, United States
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 170008338305:1030:101316403
+0 @I322445796165@ INDI
+1 NAME Amy /Gatewood/
+2 GIVN Amy
+2 SURN Gatewood
+1 SEX F
+1 FAMC @F26@
+1 BIRT
+2 DATE 1735
+2 PLAC Essex, Virginia, United States
+1 DEAT
+2 DATE Sep 1818
+2 PLAC So Farnham, Essex, Virginia, United States
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 170008338451:1030:101316403
+2 _APID 362317020217:1030:83847154
+0 @I322445796167@ INDI
+1 NAME John N /Gatewood/
+2 GIVN John N
+2 SURN Gatewood
+1 SEX M
+1 FAMC @F26@
+1 BIRT
+2 DATE 14 Feb 1740
+2 PLAC Caroline County, Virginia, USA
+1 DEAT
+2 DATE 27 APR 1795
+2 PLAC Jefferson County, Kentucky, USA
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 170008337833:1030:101316403
+2 _APID 362367057793:1030:83847154
+0 @I322445796863@ INDI
+1 NAME James /Fullerton/
+2 GIVN James
+2 SURN Fullerton
+1 SEX M
+1 FAMS @F7@
+1 BIRT
+2 DATE  1638
+2 PLAC Ulster Prov., N. Ireland    Ullard, Kilkenny, Ireland 
+1 DEAT
+2 DATE 1678
+2 PLAC Piscatacon, Rappahannock, Virginia, United States
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 412294851524:1030:105938863
+0 @I322445796866@ INDI
+1 NAME Jane Joane /Lewis/
+2 GIVN Jane Joane
+2 SURN Lewis
+1 SEX F
+1 FAMS @F7@
+1 BIRT
+2 DATE 1640
+2 PLAC Warrick River, Brunswick, Virginia
+1 DEAT
+2 DATE 3 Jul 1678
+2 PLAC Old, Rappahannock, Virginia, United States
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 412294851530:1030:105938863
+0 @I322445796870@ INDI
+1 NAME Jane /Fullerton/
+2 GIVN Jane
+2 SURN Fullerton
+1 FAMC @F7@
+1 BIRT
+2 DATE 2 Feb
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 412294852032:1030:105938863
+0 @I322445796871@ INDI
+1 NAME Mary /Fullerton/
+2 GIVN Mary
+2 SURN Fullerton
+1 SEX F
+1 FAMC @F7@
+1 BIRT
+2 DATE 1678
+2 PLAC Essex County, Virginia, USA
+1 DEAT
+2 DATE Jul 1753
+2 PLAC Southfarnham, Essex, Virginia
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 412294852034:1030:105938863
+0 @I322445796873@ INDI
+1 NAME Hannah /Fullerton/
+2 GIVN Hannah
+2 SURN Fullerton
+1 SEX F
+1 FAMC @F7@
+1 BIRT
+2 DATE 1676
+2 PLAC Essex County, Virginia, United States
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 412294852035:1030:105938863
+0 @I322445796877@ INDI
+1 NAME Sarah /Fullerton/
+2 GIVN Sarah
+2 SURN Fullerton
+1 SEX F
+1 FAMC @F11@
+1 BIRT
+2 DATE 1706
+2 PLAC Essex, Virginia, United States
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 412294851189:1030:105938863
+0 @I322445797872@ INDI
+1 NAME Josef John /Peroutka/
+2 GIVN Josef John
+2 SURN Peroutka
+1 SEX M
+1 FAMC @F56@
+1 FAMS @F59@
+1 BIRT
+2 DATE 25 Feb 1883
+2 PLAC Bohemia, Czechoslovakia
+1 EVEN
+2 TYPE Arrival
+2 DATE 1903
+2 SOUR @S1189428390@
+3 PAGE Year: 1930; Census Place: Baltimore, Maryland; Page: 6B; Enumeration District: 0421; FHL microfilm: 2340603
+3 _APID 1,6224::104946956
+1 RESI
+2 DATE 1930
+2 PLAC Baltimore (Districts 251-500), Baltimore, , Maryland, USA
+2 SOUR @S1189428390@
+3 PAGE Year: 1930; Census Place: Baltimore, Maryland; Page: 6B; Enumeration District: 0421; FHL microfilm: 2340603
+3 _APID 1,6224::104946956
+1 DEAT
+2 DATE 19 Jan 1959
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 432389099023:1030:178084247
+0 @I322445797873@ INDI
+1 NAME Mariam B. (or Marie) /Linka (Link) Peroutka/
+2 GIVN Mariam B. (or Marie)
+2 SURN Linka (Link) Peroutka
+1 SEX F
+1 FAMS @F59@
+1 BIRT
+2 DATE ABT 1884
+2 PLAC Bohemia, Czechoslovakia
+1 DEAT
+2 DATE 4 Mar 1960
+2 PLAC Baltimore, Maryland, USA
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 432389099542:1030:178084247
+0 @I322445797877@ INDI
+1 NAME Thomas J /Peroutka/
+2 GIVN Thomas J
+2 SURN Peroutka
+1 SEX M
+1 FAMC @F59@
+1 BIRT
+2 DATE 15 Feb 1906
+2 PLAC Baltimore, Maryland, USA
+1 DEAT
+2 DATE 1928
+2 PLAC Baltimore, Maryland USA
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 432389100639:1030:178084247
+0 @I322445797880@ INDI
+1 NAME Marie A. /Peroutka Pfarr/
+2 GIVN Marie A.
+2 SURN Peroutka Pfarr
+1 SEX F
+1 FAMC @F59@
+1 BIRT
+2 DATE 1 JUN 1911
+2 PLAC Baltimore, Baltimore City, Maryland, United States
+1 DEAT
+2 DATE OCT 1995
+2 PLAC Baltimore, Baltimore City, Maryland, United States
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 432389100777:1030:178084247
+0 @I322445797881@ INDI
+1 NAME Joseph William Thomas /Peroutka/
+2 GIVN Joseph William Thomas
+2 SURN Peroutka
+1 SEX M
+1 FAMC @F59@
+1 BIRT
+2 DATE 5 JUL 1909
+2 PLAC Northeast Baltimore
+1 DEAT
+2 DATE 22 NOV 1999
+2 PLAC Orlando, Orange, Florida
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 432389100778:1030:178084247
+0 @I322445798112@ INDI
+1 NAME Matej (Matthew) /Peroutka/
+2 GIVN Matej (Matthew)
+2 SURN Peroutka
+1 SEX M
+1 FAMS @F56@
+1 BIRT
+2 DATE 1 Feb 1859
+2 PLAC Makolusky, Central Bohemia, Czech Republic
+1 DEAT
+2 DATE 26 Oct 1911
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 432354713099:1030:178084247
+0 @I322445798113@ INDI
+1 NAME Marie /Antousova Peroutka/
+2 GIVN Marie
+2 SURN Antousova Peroutka
+1 SEX F
+1 FAMS @F56@
+1 BIRT
+2 DATE 1860
+2 PLAC Suchdol nad Lužnicí, Jihocesky, Czech Republic
+1 DEAT
+2 DATE 12/16/1910
+2 PLAC Baltimore, Maryland
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 432384787597:1030:178084247
+0 @I322445798114@ INDI
+1 NAME Frank Joseph "Peanuts" /Peroutka/
+2 GIVN Frank Joseph "Peanuts"
+2 SURN Peroutka
+1 SEX M
+1 FAMC @F56@
+1 BIRT
+2 DATE 26 June 1898
+2 PLAC Podlusky, Ustecky, Czech Republic
+1 DEAT
+2 DATE 10 Apr 1950
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 432384783679:1030:178084247
+0 @I322445798115@ INDI
+1 NAME Anna Mary /Peroutka Fraley/
+2 GIVN Anna Mary
+2 SURN Peroutka Fraley
+1 SEX F
+1 FAMC @F56@
+1 BIRT
+2 DATE 04 Apr 1896
+2 PLAC Kutna Hora Czecheslovakia
+1 DEAT
+2 DATE Jan 1978
+2 PLAC Towson, Baltimore, Maryland, USA
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 432384789473:1030:178084247
+0 @I322446615260@ INDI
+1 NAME Eliezer Andrew /Canter/
+2 GIVN Eliezer Andrew
+2 SURN Canter
+1 SEX M
+1 FAMC @F29@
+1 FAMS @F51@
+1 FAMS @F37@
+1 BIRT
+2 DATE March 13 1831
+2 PLAC Benedict, Charles, Maryland, USA
+1 DEAT
+2 DATE Oct 18 1910
+2 PLAC Hughesville Charles Co MD
+1 BURI
+2 PLAC Hughesville, Charles County, Maryland, United States of America
+2 SOUR @S1189121991@
+3 DATA
+4 WWW https://www.findagrave.com/memorial/38241195/andrew-eliezer-canter
+3 _APID 1,60525::17395083
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 245994261:1030:5273553
+2 _APID 110079693078:1030:15665875
+2 _APID 232429278851:1030:185590271
+1 OBJE @O6@
+2 _PRIM Y
+0 @I322446615262@ INDI
+1 NAME Jane /Lamar/
+2 GIVN Jane
+2 SURN Lamar
+1 SEX F
+1 FAMS @F51@
+1 BIRT
+2 DATE Dec 7 1836
+2 PLAC Prince George's County, Maryland, USA
+1 DEAT
+2 DATE July 7 1914
+2 PLAC Hughesville Charles Co MD
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 245995321:1030:5273553
+2 _APID 110079693080:1030:15665875
+2 _APID 232429278852:1030:185590271
+0 @I322446615265@ INDI
+1 NAME Andrew Mitchell /Canter/
+2 GIVN Andrew Mitchell
+2 SURN Canter
+1 SEX M
+1 FAMC @F51@
+1 BIRT
+2 DATE Aug 23 1873
+2 PLAC Hughesville Charles Co MD
+1 DEAT
+2 DATE Oct 2 1954
+2 PLAC Prince Georges Hospitla Cheverly Prince Georges Co Md
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 246169657:1030:5273553
+1 OBJE @O5@
+0 @I322446615268@ INDI
+1 NAME Carrie Emily Naomi /Canter/
+2 GIVN Carrie Emily Naomi
+2 SURN Canter
+1 SEX F
+1 FAMC @F51@
+1 BIRT
+2 DATE Nov 9 1876
+2 PLAC Hughesville Charles Co MD
+1 DEAT
+2 DATE Aug 8 1966
+2 PLAC Magruders Ferry Rd Brandywine Prince Georges Co MD
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 246170042:1030:5273553
+0 @I322446615269@ INDI
+1 NAME Elizabeth Blanche /Canter/
+2 GIVN Elizabeth Blanche
+2 SURN Canter
+1 SEX F
+1 FAMC @F51@
+1 BIRT
+2 DATE June 17 1878
+2 PLAC Hughesville, Charles Co Maryland, USA
+1 BIRT
+2 DATE 17 Jan 1878
+2 PLAC Hughesville, Charles Co Maryland, USA
+1 DEAT
+2 DATE Aug 9 1888
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 246170549:1030:5273553
+2 _APID 232429278856:1030:185590271
+0 @I322446615270@ INDI
+1 NAME Henry Edgar /Canter/
+2 GIVN Henry Edgar
+2 SURN Canter
+1 SEX M
+1 FAMC @F51@
+1 BIRT
+2 DATE Jan 17 1869
+2 PLAC Patuxent City Charles Co MD
+1 DEAT
+2 DATE June 8 1948
+2 PLAC Providence Hospital Washington DC
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 246171053:1030:5273553
+0 @I322446615272@ INDI
+1 NAME Frances Olivia /Canter/
+2 GIVN Frances Olivia
+2 SURN Canter
+1 SEX F
+1 FAMC @F51@
+1 BIRT
+2 DATE Jan 23 1855
+2 PLAC Patuxent City Charles Co MD
+1 DEAT
+2 DATE Feb 24 1890
+2 PLAC Charles Co Maryland
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 246171548:1030:5273553
+0 @I322446615273@ INDI
+1 NAME Florence Victoria /Canter/
+2 GIVN Florence Victoria
+2 SURN Canter
+1 SEX F
+1 FAMC @F51@
+1 BIRT
+2 DATE April 1863
+2 PLAC Patuxent City Charles Co MD
+1 DEAT
+2 DATE July 22 1917
+2 PLAC Sibley Hospital Washington DC
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 246172690:1030:5273553
+0 @I322446615275@ INDI
+1 NAME Washington G /Canter/
+2 GIVN Washington G
+2 SURN Canter
+1 SEX M
+1 FAMC @F51@
+1 BIRT
+2 DATE 1865
+2 PLAC Charles Co Maryland
+1 DEAT
+2 DATE 1880
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 246173236:1030:5273553
+0 @I322446616446@ INDI
+1 NAME Henry V. /Canter/
+2 GIVN Henry V.
+2 SURN Canter
+1 SEX M
+1 FAMS @F29@
+1 BIRT
+2 DATE 26 January 1795
+2 PLAC Near Benedict, Charles, MD
+1 DEAT
+2 DATE 6 December 1866
+2 PLAC Charles County, Maryland, USA
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 232429278892:1030:185590271
+1 OBJE @O25@
+2 _PRIM Y
+0 @I322446616447@ INDI
+1 NAME Sarah Anne /Hickey/
+2 GIVN Sarah Anne
+2 SURN Hickey
+1 SEX F
+1 FAMS @F29@
+1 BIRT
+2 DATE 1799
+2 PLAC Charles County, Maryland, USA
+1 DEAT
+2 DATE 7 May 1837
+2 PLAC Hughesville, Charles County, Maryland, USA
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 232429278893:1030:185590271
+0 @I322446616450@ INDI
+1 NAME Margaret Matilda /DeMarr/
+2 GIVN Margaret Matilda
+2 SURN DeMarr
+1 SEX F
+1 FAMS @F37@
+1 BIRT
+2 DATE 30 Mar 1849
+2 PLAC Acquasco, Prince George's, Maryland, United States
+1 DEAT
+2 DATE 17 Apr 1942
+2 PLAC Aquasco, Prince George's, Maryland
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 232429278868:1030:185590271
+1 OBJE @O15@
+2 _PRIM Y
+0 @I322446617010@ INDI
+1 NAME Pavel /Svercl/
+2 GIVN Pavel
+2 SURN Svercl
+1 SEX M
+1 FAMC @F63@
+1 FAMS @F40@
+1 FAMS @F41@
+1 BIRT
+2 DATE 1679
+2 PLAC Czech Republic
+1 DEAT
+2 DATE WFT Est 1702-1762
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 152391712879:1030:111269663
+2 _APID 162058687775:1030:118097884
+0 @I322446617011@ INDI
+1 NAME Marie /Motl/
+2 GIVN Marie
+2 SURN Motl
+1 SEX F
+1 FAMS @F40@
+1 BIRT
+2 DATE 29 Sep 1651
+2 PLAC Dolní Dobrouč, Landskron, Böhmen, Tschechoslowakei
+1 DEAT
+2 DATE WFT Est 1702-1768
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 152391712880:1030:111269663
+2 _APID 162058688599:1030:118097884
+0 @I322446619556@ INDI
+1 NAME Jan /Svercl/
+2 GIVN Jan
+2 SURN Svercl
+1 SEX M
+1 FAMS @F63@
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 162058688596:1030:118097884
+0 @I322446619557@ INDI
+1 NAME Katerina /Svercl/
+2 GIVN Katerina
+2 SURN Svercl
+1 SEX F
+1 FAMC @F63@
+1 BIRT
+2 DATE 08 Aug 1657
+2 PLAC Dolní Dobrouč, Landskron, Böhmen, Tschechoslowakei
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 162058688598:1030:118097884
+0 @I322446619562@ INDI
+1 NAME Marie /Sverclová/
+2 GIVN Marie
+2 SURN Sverclová
+1 SEX F
+1 FAMC @F40@
+1 BIRT
+2 DATE 26 Jun 1702
+2 PLAC Dolní Dobrouč, Ústí nad Orlicí, Východočeský kraj, Tschechoslowakei
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 162058688601:1030:118097884
+0 @I322446619564@ INDI
+1 NAME Marie /Motl/
+2 GIVN Marie
+2 SURN Motl
+1 SEX F
+1 FAMS @F41@
+1 SOUR @S1189122297@
+2 PAGE Ancestry Family Tree
+2 _APID 162058687776:1030:118097884
+0 @F1@ FAM
+1 HUSB @I322444181087@
+1 WIFE @I322444181088@
+1 CHIL @I322444183404@
+1 CHIL @I322444183403@
+1 CHIL @I322444180119@
+1 CHIL @I322444183402@
+1 CHIL @I322444183401@
+1 CHIL @I322444183408@
+1 MARR
+2 DATE 3 May 1825
+2 PLAC House 66, Dolní Dobrouc, East Bohemia, Czech Republic
+0 @F2@ FAM
+1 HUSB @I322444183390@
+1 WIFE @I322444183392@
+1 CHIL @I322444183396@
+1 CHIL @I322444183394@
+1 CHIL @I322444181088@
+0 @F3@ FAM
+1 HUSB @I322445768966@
+1 WIFE @I322445768970@
+1 CHIL @I322445768980@
+1 CHIL @I322445768976@
+1 CHIL @I322445767304@
+1 CHIL @I322445768973@
+1 CHIL @I322445768979@
+1 CHIL @I322445768983@
+1 MARR
+2 DATE 2 Apr 1877
+2 PLAC Trinity Episcopal Chapel, Old Fields, Hughesville, Maryland, USA
+0 @F4@ FAM
+1 HUSB @I322443825256@
+1 WIFE @I322443825204@
+1 CHIL @I322443825013@
+1 MARR
+2 DATE 27 Feb 1954
+2 PLAC Washington, District of Columbia, USA
+0 @F5@ FAM
+1 HUSB @I322445775366@
+1 WIFE @I322445775367@
+1 CHIL @I322444296053@
+1 MARR
+2 DATE 1783
+2 PLAC Caroline Co,Va
+0 @F6@ FAM
+1 HUSB @I322444886127@
+1 WIFE @I322444886128@
+1 CHIL @I322444885069@
+1 MARR
+2 DATE 22 Nov 1705
+2 PLAC NHNR, Dolní Dobrouc, East Bohemia, Czech Republic
+1 MARR
+2 PLAC Böhmen, Tschechoslowakei
+0 @F7@ FAM
+1 HUSB @I322445796863@
+1 WIFE @I322445796866@
+1 CHIL @I322445796870@
+1 CHIL @I322445796122@
+1 CHIL @I322445796873@
+1 CHIL @I322445796871@
+1 MARR
+2 DATE 1665
+2 PLAC Old, Rappahannock, Virginia, United States
+0 @F8@ FAM
+1 HUSB @I322444183919@
+1 WIFE @I322444183920@
+1 CHIL @I322444183923@
+1 CHIL @I322444183927@
+1 CHIL @I322444183929@
+1 CHIL @I322444183390@
+1 CHIL @I322444183931@
+1 CHIL @I322444183925@
+1 MARR
+2 DATE 9 Nov 1755
+2 PLAC NHNR, Dolní Dobrouc, East Bohemia, Czech Republic
+0 @F9@ FAM
+1 HUSB @I322444296053@
+1 WIFE @I322444296054@
+1 CHIL @I322444296057@
+1 CHIL @I322444296059@
+1 CHIL @I322444296061@
+1 CHIL @I322444295446@
+1 CHIL @I322445776115@
+1 CHIL @I322445776119@
+1 CHIL @I322445775370@
+1 CHIL @I322445776113@
+1 CHIL @I322445776117@
+1 CHIL @I322445776118@
+1 CHIL @I322444296055@
+1 MARR
+2 DATE 16 Oct 1815
+2 PLAC Caroline, Virginia, United States
+0 @F10@ FAM
+1 HUSB @I322445774621@
+1 WIFE @I322445774622@
+1 CHIL @I322445774450@
+1 MARR
+2 DATE 1720
+2 PLAC St Mary's County, Maryland, Colonial America
+1 MARR
+2 DATE 1730
+2 PLAC Maryland
+1 MARR
+2 PLAC Maryland
+1 MARR
+2 PLAC Maryland, USA
+1 MARR
+2 PLAC St. Mary's, Maryland, United States
+0 @F11@ FAM
+1 HUSB @I322445796122@
+1 WIFE @I322445796126@
+1 CHIL @I322445796143@
+1 CHIL @I322445796140@
+1 CHIL @I322445796144@
+1 CHIL @I322445796877@
+1 CHIL @I322445776985@
+1 CHIL @I322445796142@
+1 CHIL @I322445796139@
+1 MARR
+2 DATE 28 Oct 1701
+2 PLAC Essex, Virginia, United States
+1 MARR
+2 DATE 1713
+2 PLAC Richmond and Essex, Virginia, USA
+0 @F12@ FAM
+1 HUSB @I322443828857@
+1 WIFE @I322443828859@
+1 CHIL @I322444293954@
+1 CHIL @I322444293955@
+1 CHIL @I322444293956@
+1 CHIL @I322444293949@
+1 CHIL @I322444293950@
+1 CHIL @I322444293952@
+1 CHIL @I322444293953@
+1 CHIL @I322443828127@
+1 MARR
+2 DATE 7 Sep 1881
+2 PLAC Steele Co., Minnesota
+0 @F13@ FAM
+1 HUSB @I322443825013@
+1 WIFE @I322443827019@
+1 MARR
+2 DATE 01 16 1988
+2 PLAC Howard County, Maryland, USA
+0 @F14@ FAM
+1 HUSB @I322445773841@
+1 WIFE @I322445773844@
+1 CHIL @I322445773851@
+1 CHIL @I322445773852@
+1 CHIL @I322445773855@
+1 CHIL @I322445768966@
+1 CHIL @I322445773856@
+1 CHIL @I322445773846@
+1 CHIL @I322445773847@
+1 CHIL @I322445773848@
+1 CHIL @I322445774273@
+1 CHIL @I322445773849@
+1 CHIL @I322445773850@
+1 MARR
+2 DATE 2 Jan 1834
+2 PLAC Saint Mary's, Saint Mary's, Maryland
+0 @F15@ FAM
+1 HUSB @I322444179008@
+1 WIFE @I322444179011@
+1 CHIL @I322444179013@
+1 CHIL @I322444179021@
+1 CHIL @I322444180154@
+1 CHIL @I322444179023@
+1 CHIL @I322444180156@
+1 CHIL @I322444179024@
+1 CHIL @I322444180157@
+1 CHIL @I322444179020@
+1 CHIL @I322444179014@
+1 CHIL @I322443828128@
+1 CHIL @I322444179018@
+1 MARR
+2 DATE 10 May 1887
+2 PLAC Dolni Dobrouc, Ústí nad Orlicí, East Bohemia, Czech Republic
+0 @F16@ FAM
+1 HUSB @I322444293197@
+1 WIFE @I322444293198@
+1 CHIL @I322444293199@
+1 CHIL @I322444293202@
+1 CHIL @I322444183919@
+1 CHIL @I322444293205@
+1 CHIL @I322444293201@
+1 CHIL @I322444293208@
+1 CHIL @I322444293210@
+1 CHIL @I322444293211@
+1 CHIL @I322444293214@
+1 CHIL @I322444293216@
+1 MARR
+2 DATE 21 Oct 1725
+2 PLAC St.John Church,Horni Dobrouc,Czechoslovakia
+0 @F17@ FAM
+1 HUSB @I322444299337@
+1 WIFE @I322444299338@
+1 CHIL @I322444299341@
+1 CHIL @I322444299342@
+1 CHIL @I322444299345@
+1 CHIL @I322444299344@
+1 CHIL @I322444299556@
+1 CHIL @I322444299557@
+1 CHIL @I322444298429@
+1 MARR
+2 DATE 24 Nov 1819
+2 PLAC House 129, Dolní Dobrouc, East Bohemia, Czech Republic
+0 @F18@ FAM
+1 HUSB @I322444885069@
+1 WIFE @I322444885070@
+1 CHIL @I322444183920@
+1 CHIL @I322444885074@
+1 CHIL @I322444885073@
+1 CHIL @I322444885072@
+1 CHIL @I322444885071@
+1 MARR
+2 DATE 2 Nov 1732
+2 PLAC NHNR, Dolní Dobrouc, East Bohemia, Czech Republic
+0 @F19@ FAM
+1 HUSB @I322445796146@
+1 WIFE @I322445776985@
+1 MARR
+2 DATE 1730
+2 PLAC Richmond and Essex, Virginia, USA
+0 @F20@ FAM
+1 HUSB @I322445771852@
+1 WIFE @I322445771854@
+1 CHIL @I322445771505@
+0 @F21@ FAM
+1 HUSB @I322444293922@
+1 WIFE @I322444293924@
+1 CHIL @I322444293944@
+1 CHIL @I322444293945@
+1 CHIL @I322444293948@
+1 CHIL @I322444293947@
+1 CHIL @I322444293927@
+1 CHIL @I322443828859@
+1 CHIL @I322444293930@
+1 CHIL @I322444293933@
+1 CHIL @I322444293936@
+1 CHIL @I322444293937@
+1 CHIL @I322444293940@
+1 CHIL @I322444293941@
+1 CHIL @I322444293942@
+1 CHIL @I322444293943@
+1 MARR
+2 DATE 19 May 1851
+2 PLAC Austria
+0 @F22@ FAM
+1 HUSB @I322444294456@
+1 WIFE @I322444295460@
+1 CHIL @I322444295462@
+1 CHIL @I322444295464@
+1 CHIL @I322444295465@
+1 CHIL @I322444295467@
+0 @F23@ FAM
+1 HUSB @I322443834658@
+1 WIFE @I322443834659@
+1 CHIL @I322443835803@
+1 CHIL @I322443834662@
+1 CHIL @I322443834664@
+1 CHIL @I322443835809@
+1 CHIL @I322443835805@
+1 CHIL @I322443834663@
+1 CHIL @I322443834322@
+1 CHIL @I322443834667@
+1 CHIL @I322443835810@
+1 CHIL @I322443834666@
+1 CHIL @I322443835808@
+1 CHIL @I322443834660@
+1 MARR
+2 DATE 1891
+0 @F24@ FAM
+1 HUSB @I322445776750@
+1 WIFE @I322445776990@
+1 MARR
+2 DATE 1788
+2 PLAC Fredericksburg, Spotsylvania, Virginia, USA
+0 @F25@ FAM
+1 HUSB @I322443842103@
+1 WIFE @I322443842104@
+1 CHIL @I322443835796@
+0 @F26@ FAM
+1 HUSB @I322445776984@
+1 WIFE @I322445776985@
+1 CHIL @I322445796158@
+1 CHIL @I322445796154@
+1 CHIL @I322445796163@
+1 CHIL @I322445776750@
+1 CHIL @I322445796165@
+1 CHIL @I322445796160@
+1 CHIL @I322445796159@
+1 CHIL @I322445796167@
+1 CHIL @I322445796153@
+1 CHIL @I322445796156@
+1 CHIL @I322445796155@
+1 CHIL @I322445796147@
+1 CHIL @I322445796151@
+1 CHIL @I322445796148@
+1 MARR
+2 DATE 17 Jun 1727
+2 PLAC South Farnham, Essex, Virginia, United States
+1 MARR
+2 DATE 1730
+2 PLAC South Farnham, Essex, Virginia, United States
+2 SOUR @S1189427835@
+3 PAGE Book: W 8,; Page: 108
+3 _APID 1,4033::7138
+1 MARR
+2 DATE 1750
+0 @F27@ FAM
+1 HUSB @I322444294456@
+1 WIFE @I322444294457@
+1 CHIL @I322444295456@
+1 CHIL @I322444295457@
+1 CHIL @I322444295458@
+1 CHIL @I322444295459@
+1 CHIL @I322443825326@
+1 MARR
+2 DATE 19 Dec 1885
+2 PLAC Washington, District of Columbia
+0 @F28@ FAM
+1 HUSB @I322445776750@
+1 WIFE @I322445776752@
+1 CHIL @I322445776559@
+1 MARR
+2 DATE 1760
+2 PLAC Essex, Virginia
+0 @F29@ FAM
+1 HUSB @I322446616446@
+1 WIFE @I322446616447@
+1 CHIL @I322446615260@
+1 MARR
+2 DATE 1816
+2 PLAC Maryland, United States
+0 @F30@ FAM
+1 HUSB @I322444295446@
+1 WIFE @I322444295449@
+1 CHIL @I322444296062@
+1 CHIL @I322444295450@
+1 CHIL @I322444295453@
+1 CHIL @I322444297242@
+1 CHIL @I322444294456@
+1 MARR
+2 DATE 15 Aug 1846
+2 PLAC Richmond, Virginia
+0 @F31@ FAM
+1 HUSB @I322444295446@
+1 WIFE @I322444296064@
+1 MARR
+2 DATE 15 Dec 1848
+2 PLAC Orange, Virginia
+0 @F32@ FAM
+1 HUSB @I322444299548@
+1 WIFE @I322444299549@
+1 CHIL @I322444299551@
+1 CHIL @I322444299554@
+1 CHIL @I322444299555@
+1 CHIL @I322444299337@
+1 MARR
+2 DATE 1777
+0 @F33@ FAM
+1 HUSB @I322445774450@
+1 WIFE @I322445774452@
+1 CHIL @I322445774265@
+1 MARR
+2 DATE 1744 
+2 PLAC  Chaptico, St. Mary's County, MD
+1 MARR
+2 DATE 1760
+2 PLAC St Marys, St Mary's County, Maryland
+0 @F34@ FAM
+1 HUSB @I322444886271@
+1 WIFE @I322444886272@
+1 CHIL @I322444886127@
+1 MARR
+2 PLAC Böhmen, Tschechoslowakei
+0 @F35@ FAM
+1 HUSB @I322445767303@
+1 WIFE @I322445767304@
+1 CHIL @I322443825315@
+1 CHIL @I322445767298@
+1 CHIL @I322445767299@
+1 CHIL @I322445767300@
+1 CHIL @I322445768127@
+1 CHIL @I322445767301@
+1 CHIL @I322445768994@
+1 CHIL @I322445768129@
+1 CHIL @I322445767302@
+1 CHIL @I322445768131@
+1 CHIL @I322445768133@
+1 CHIL @I322445768135@
+1 MARR
+2 DATE Sept 26 1906
+2 PLAC District of Columbia
+0 @F36@ FAM
+1 HUSB @I322445769864@
+1 WIFE @I322445769865@
+1 CHIL @I322445769870@
+1 CHIL @I322445769883@
+1 CHIL @I322445768119@
+1 CHIL @I322445769878@
+1 CHIL @I322445769889@
+1 CHIL @I322445769876@
+1 CHIL @I322445769892@
+1 CHIL @I322445769873@
+1 CHIL @I322445769888@
+1 CHIL @I322445769886@
+1 CHIL @I322445769866@
+1 CHIL @I322445769880@
+1 CHIL @I322445769894@
+1 CHIL @I322445769868@
+1 MARR
+2 DATE 1856
+2 PLAC Bavaria, , Bayern, Germany
+0 @F37@ FAM
+1 HUSB @I322446615260@
+1 WIFE @I322446616450@
+1 MARR
+2 DATE 20 DEC 1866
+2 PLAC All Faith Episcopal, Charlotte Hall, Saint Mary's County, Maryland
+0 @F38@ FAM
+1 HUSB @I322445776559@
+1 WIFE @I322445776561@
+1 CHIL @I322444296054@
+1 MARR
+2 DATE Oct 1786
+2 PLAC Caroline County, Virginia, USA
+0 @F39@ FAM
+1 HUSB @I322445768119@
+1 WIFE @I322445769902@
+1 MARR
+2 DATE 08 Aug 1878
+2 PLAC Baltimore, Maryland
+0 @F40@ FAM
+1 HUSB @I322446617010@
+1 WIFE @I322446617011@
+1 CHIL @I322444293197@
+1 CHIL @I322446619562@
+1 MARR
+2 DATE WFT Est 1674-1702
+1 MARR
+2 DATE Bet. 1674–1702
+1 MARR
+2 DATE 26 Oct 1692
+2 PLAC Dolní Dobrouč, Landskron, Böhmen, Tschechoslowakei
+1 MARR
+2 DATE 1698
+0 @F41@ FAM
+1 HUSB @I322446617010@
+1 WIFE @I322446619564@
+0 @F42@ FAM
+1 HUSB @I322443825345@
+1 WIFE @I322443825337@
+1 CHIL @I322443825256@
+0 @F43@ FAM
+1 HUSB @I322445770941@
+1 WIFE @I322445770943@
+1 CHIL @I322445769864@
+1 CHIL @I322445770945@
+1 CHIL @I322445770944@
+0 @F44@ FAM
+1 HUSB @I322445768119@
+1 WIFE @I322445768122@
+1 CHIL @I322445769901@
+1 CHIL @I322445767303@
+1 CHIL @I322445769899@
+1 CHIL @I322445769897@
+1 MARR
+2 DATE 1877
+0 @F45@ FAM
+1 HUSB @I322445770941@
+1 WIFE @I322445771510@
+0 @F46@ FAM
+1 HUSB @I322445774265@
+1 WIFE @I322445774268@
+1 CHIL @I322445773841@
+1 MARR
+2 DATE 9 Dec 1797
+2 PLAC St Marys, St Mary's, Maryland, United States
+0 @F47@ FAM
+1 HUSB @I322443834019@
+1 WIFE @I322443834324@
+1 CHIL @I322443834325@
+0 @F48@ FAM
+1 HUSB @I322443834322@
+1 WIFE @I322443834323@
+1 CHIL @I322443834019@
+1 MARR
+2 DATE 01 Aug 1936
+1 MARR
+2 DATE ABT 1939
+2 PLAC Baltimore, Baltimore City, Maryland, United States
+0 @F49@ FAM
+1 HUSB @I322444180119@
+1 WIFE @I322444180128@
+1 CHIL @I322444180145@
+1 CHIL @I322444180141@
+1 CHIL @I322444180131@
+1 CHIL @I322444180151@
+1 CHIL @I322444180147@
+1 CHIL @I322444179008@
+1 CHIL @I322444180136@
+1 CHIL @I322444180143@
+1 CHIL @I322444180134@
+1 CHIL @I322444180146@
+1 MARR
+2 DATE 18 Jan 1853
+2 PLAC House 66, Dolní Dobrouc, East Bohemia, Czech Republic
+0 @F50@ FAM
+1 HUSB @I322443825326@
+1 WIFE @I322443825315@
+1 CHIL @I322443825204@
+1 CHIL @I322443825994@
+1 CHIL @I322443825995@
+1 CHIL @I322443825996@
+1 CHIL @I322443825997@
+0 @F51@ FAM
+1 HUSB @I322446615260@
+1 WIFE @I322446615262@
+1 CHIL @I322446615272@
+1 CHIL @I322445768970@
+1 CHIL @I322446615273@
+1 CHIL @I322446615275@
+1 CHIL @I322446615270@
+1 CHIL @I322446615265@
+1 CHIL @I322446615268@
+1 CHIL @I322446615269@
+1 MARR
+2 DATE July 4 1853
+2 PLAC Washington DC, District of Columbia, USA
+0 @F52@ FAM
+1 HUSB @I322443828127@
+1 WIFE @I322443828128@
+1 CHIL @I322443825256@
+1 CHIL @I322443828130@
+1 CHIL @I322443828132@
+1 CHIL @I322443828133@
+1 CHIL @I322443828135@
+1 CHIL @I322443828139@
+1 CHIL @I322443828141@
+1 MARR
+2 DATE 06 Oct 1925
+2 PLAC Steele, Minnesota, USA
+0 @F53@ FAM
+1 HUSB @I322444886447@
+1 WIFE @I322444886448@
+1 CHIL @I322444886272@
+0 @F54@ FAM
+1 HUSB @I322443837884@
+1 WIFE @I322443837886@
+1 CHIL @I322443837888@
+1 CHIL @I322443835795@
+0 @F55@ FAM
+1 HUSB @I322444298429@
+1 WIFE @I322444298431@
+1 CHIL @I322444179011@
+1 CHIL @I322444298444@
+1 CHIL @I322444298436@
+1 CHIL @I322444299347@
+1 CHIL @I322444298442@
+1 CHIL @I322444298435@
+1 CHIL @I322444298433@
+1 CHIL @I322444298438@
+1 MARR
+2 DATE 16 Sep 1862
+2 PLAC House 129, Dolní Dobrouc, East Bohemia, Czech Republic
+0 @F56@ FAM
+1 HUSB @I322445798112@
+1 WIFE @I322445798113@
+1 CHIL @I322445797872@
+1 CHIL @I322445798115@
+1 CHIL @I322445798114@
+0 @F57@ FAM
+1 HUSB @I322443835795@
+1 WIFE @I322443835796@
+1 CHIL @I322443834658@
+1 CHIL @I322443835797@
+1 CHIL @I322443835800@
+1 CHIL @I322443835799@
+1 CHIL @I322443835802@
+1 CHIL @I322443835798@
+1 MARR
+2 DATE 03 May 1867
+0 @F58@ FAM
+1 HUSB @I322445771505@
+1 WIFE @I322445771509@
+1 CHIL @I322445770941@
+0 @F59@ FAM
+1 HUSB @I322445797872@
+1 WIFE @I322445797873@
+1 CHIL @I322445797877@
+1 CHIL @I322443834323@
+1 CHIL @I322445797881@
+1 CHIL @I322445797880@
+1 MARR
+2 DATE 7 Nov 1905
+2 PLAC Baltimore, Maryland USA
+0 @F60@ FAM
+1 HUSB @I322443834019@
+1 CHIL @I322443827019@
+0 @F61@ FAM
+1 WIFE @I322444297235@
+1 CHIL @I322444295449@
+0 @F62@ FAM
+1 HUSB @I322444297725@
+1 CHIL @I322444297726@
+1 CHIL @I322444297730@
+1 CHIL @I322444297728@
+1 CHIL @I322444295449@
+0 @F63@ FAM
+1 HUSB @I322446619556@
+1 CHIL @I322446619557@
+1 CHIL @I322446617010@
+0 @F64@ FAM
+1 WIFE @I322444886272@
+1 CHIL @I322444886449@
+0 @O1@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE document
+3 _STYPE jpeg
+3 _SIZE 2363296
+3 _WDTH 4048
+3 _HGHT 3248
+2 TITL 1733_Dec_1_Pechacek_Anna_b1733_BIRTH
+1 RIN 07e4a6a0-ede2-4c52-b9ea-d0ce739546ad
+1 DATE 1733
+1 _DSCR Birth Certificate  https://www.familysearch.org/ark:/61903/3:1:3QS7-89S1-K9WX-X?i=20&wc=3N8Q-T3Y%3A979674501%2C979787801%2C981749801%2C981750101&cc=1804263
+1 _META <metadataxml><transcription></transcription></metadataxml>
+1 _CREA 2023-01-13 05:35:45.064
+1 _USER bNPcZm2C0PBSAUltNgPhfSLioZSAMn8ScHj2EtKNl4uNpqR3iHDjuD/Jtc4zCbDJHLudBiViSU4eU4Bdemb0Rg==
+2 _ENCR 1
+1 _CLON
+2 _TID 63490130
+2 _PID 362116089757
+2 _OID ece16b11-81c8-493b-b4f1-c429d0f5a0e7
+2 _USER 9vglay+s/+6m1lu9hPWKT/jfFHMJBB6aoJmEkqmrHsxMaCO8YdrhEnATWgBj2ldfD3hOk/z7FR2WYMZkx9gZFg==
+3 _ENCR 1
+2 _DATE 2019-11-14 03:07:57.000
+1 _ORIG u
+1 _MSER
+2 _LKID ece16b11-81c8-493b-b4f1-c429d0f5a0e7
+1 _ATL N
+0 @O2@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE headstone
+3 _STYPE jpeg
+3 _SIZE 5378185
+3 _WDTH 4032
+3 _HGHT 3024
+2 TITL Headstone
+1 RIN 1089f0e9-7c4a-4370-b485-8d5f8e7b2013
+1 _META <metadataxml><cemetery>Holy Trinity Cemetery</cemetery><personas><persona><pname>Langr</pname><bdate></bdate><bplace></bplace><ddate></ddate><dplace></dplace></persona></personas></metadataxml>
+1 _CREA 2023-01-12 00:16:54.659
+1 _USER Lux6DkyVFj+L1w9mcKb50KGmcKqBdcCQyAVgu2ahsPKDu/hi6n2au7FtFr7f2WOOUctsdOHggYuyyIZcQGKlCQ==
+2 _ENCR 1
+1 _CLON
+2 _TID 63490130
+2 _PID 30337095367
+2 _OID 0b217481-e866-4e79-9e0f-df10a93c5bf1
+2 _USER ba1m5vx1gIj1AiArXqZJCgu74qplIQE6ep/HbVHNCLAj7VlBuuGTXf4suJjRfaVpbDH+S+55cYbYZlaSeYQtOw==
+3 _ENCR 1
+2 _DATE 2016-10-09 02:45:33.000
+1 _ORIG u
+1 _MSER
+2 _LKID 0b217481-e866-4e79-9e0f-df10a93c5bf1
+1 _ATL N
+0 @O3@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 44829
+3 _WDTH 411
+3 _HGHT 643
+2 TITL Jeff Langr
+1 RIN 11b37eb0-d5ab-46d9-bd74-3d0147f39735
+1 _META <metadataxml><record_source_gid>618894523:1265</record_source_gid></metadataxml>
+1 _CREA 2023-01-10 02:55:22.128
+1 _USER vx8cDEUqnsZB8vfs1T+Aenu6CPweU2vkLl+F8TJ9yADm5unPNZx7U88VLhUg2cRsE1YchhZs2ccKEnihPk/taQ==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O4@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE document
+3 _STYPE jpeg
+3 _SIZE 2582517
+3 _WDTH 4012
+3 _HGHT 3248
+2 TITL 1708_Aug_27_Pechacek_Wencl_b1708_BIRTH
+1 RIN 123434d2-4b73-4e48-b9b6-260150ff53d1
+1 DATE 1708
+1 _DSCR Birth Certificathttps://www.familysearch.org/ark:/61903/3:1:3QS7-L9S1-K93J-C?i=48&wc=3N8Q-T3X%3A979674501%2C979787801%2C981749801%2C981750001&cc=1804263
+1 _CREA 2023-01-13 05:43:42.645
+1 _USER hS8zWBtK7LKyej7Gof+rfFimgYaB2tyNthOztpK+tIVA/mPjNOKJeFq126YF3a68viEUtWgmh4e5542OEPsPYw==
+2 _ENCR 1
+1 _CLON
+2 _TID 63490130
+2 _PID 362060294557
+2 _OID 57ddaca6-95e8-4205-ac47-660416a75e18
+2 _USER d/QYKFEkNTDEqn6rMDBR6uzhOb4leuL3DLFspm0hR0HekvO8XUs87ncNAM3XCWQCNBTOB+EXdbl1Gw3j6X7wwQ==
+3 _ENCR 1
+2 _DATE 2019-11-05 21:17:22.000
+1 _ORIG u
+1 _MSER
+2 _LKID 57ddaca6-95e8-4205-ac47-660416a75e18
+1 _ATL N
+0 @O5@ OBJE
+1 FILE
+2 FORM htm
+3 TYPE story
+3 _MTYPE story
+3 _STYPE x-inline
+3 _SIZE 253
+2 TITL Register of the General Society of the War of 1812.
+1 RIN 1852f7dc-a054-41e8-b395-740f7a2e8819
+1 PLAC Maryland
+1 _META <metadataxml><content><line>&lt;p&gt;&lt;span&gt;&lt;span&gt;Register of the General Society of the War of 1812.&lt;/span&gt;&lt;/span&gt; &lt;br&gt;&lt;span&gt;Soldier, Veteran &amp;amp; Prisoner Rolls &amp;amp; Lists&lt;/span&gt;&lt;/p&gt;&lt;p&g
+2 CONC t;&lt;span&gt;Cantor, Ashby Hawkins&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Gen. No 3093. D.C. No 204, Elected 3 Jun 1961. b: Charles Co Md. 23 Jul 1912. m. Winsted, Conn. 2 Jul 1940 to&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Florence Mae Gir
+2 CONC ard b: Winsted 22 Jun 1912. Occup: Attorney. Address P O Box 231 Falls Church Va 22046&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Decended from-----&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Anddrew Mitchel Canter&amp;
+2 CONC nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; m&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&
+2 CONC amp;nbsp; Ola Rymple Scott&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Patuxent City, Md 2 Aug 873&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 9 Oct 1901&amp;nbsp;&amp;nbsp;&amp;nbsp; Aquasco Md b: 24 Apr 1879&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&l
+2 CONC t;span&gt;Cheverly, Md 2 Oct 1954&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Prince Geo Co&amp;nbsp;&amp;nbsp; Maryland 20 Jul 1932&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Andre
+2 CONC w Eliezer Canter&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;m&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&
+2 CONC amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Jane Lamar&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Patuxent City 15 Mar 1831&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 03 Jul 1
+2 CONC 853&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Prince Geo Co 7 Dec 1836&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Hughesville Md 18 Oct 1910&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Dist of Columbia&amp;nbsp;&amp;nbsp; Hughesvill
+2 CONC e 7 Jul 1914&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Henry Canter&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&
+2 CONC amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;m&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbs
+2 CONC p;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Sarah Hickey&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Charles Co Md 1795&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&
+2 CONC amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp
+2 CONC ;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Charles Co&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Charles Co 1866&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nb
+2 CONC sp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;
+2 CONC nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 1836&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Henry Canter served as Private in the Md Militia several times in War of 18
+2 CONC 12&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;n
+2 CONC bsp; &lt;/span&gt;&lt;/p&gt;</line></content></metadataxml>
+1 _CREA 2023-03-31 03:18:16.260
+1 _USER dnJCF7O6Fgp6rKYF4dmOx6BdzZbbL8Ee6zJjfCpPtGpkgZ6ZebP6WtEuww6cNO8mYJA9Y+NfZfO2tS7K18pivQ==
+2 _ENCR 1
+1 _CLON
+2 _TID 7107443
+2 _PID -246887576
+2 _OID 9e9c6cf6-af80-4443-b329-def1bb9f7ee5
+2 _USER 53A+GGmBg0at46fnyulRinr13Rda0HRQXKaqMvia/T1zazslJ1p6l8FkMrvbs3FAFIZa4mG/7U0gmeYzylJd2A==
+3 _ENCR 1
+2 _DATE 2010-05-15 13:20:26.000
+1 _ORIG u
+1 _MSER
+2 _LKID 9e9c6cf6-af80-4443-b329-def1bb9f7ee5
+1 _ATL N
+0 @O6@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpg
+3 _SIZE 39385
+3 _WDTH 217
+3 _HGHT 407
+2 TITL 0001(533)
+1 RIN 1a81453e-2b51-4c1c-9ec7-32f7d0a1f448
+1 DATE 10/7/2013 1:20:05 PM
+1 _CREA 2023-01-18 04:40:00.166
+1 _USER qVa6Zp6coplzLLc0DuSEmh44aGV4ENw0/NO0fo37Ke0pVTAiL9gdG4vVKZx/3S80wKYqKTjycnz/BSllIkwwTg==
+2 _ENCR 1
+1 _CLON
+2 _TID 183243412
+2 _PID 142391639676
+2 _OID daf1839d-c14f-4c95-a167-753b292932e4
+2 _USER cQjNXY+LtHWhaIpM8SjTZS6LzvCkcAZ2Ii/5qBOK1bSrz0qMRNrmzZjGsfqntf2VTWt44EAW/U6OBZ6F/UrIkg==
+3 _ENCR 1
+2 _DATE 2022-06-01 19:19:32.000
+1 _ORIG u
+1 _MSER
+2 _LKID daf1839d-c14f-4c95-a167-753b292932e4
+1 _ATL N
+0 @O7@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 10033
+3 _WDTH 117
+3 _HGHT 160
+2 TITL American Revolutionary Soldier
+1 RIN 205ab4dd-8a29-469f-bcf7-2ce082bc98c4
+1 _DSCR CHAPPELEAR, JAMES Ancestor #: A020994 Service: MARYLAND    Rank: PRIVATE Birth: (CIRCA) 1732    ST MARYS CO MARYLAND Death: (ANTE) 10-11-1808     ST MARYS CO MARYLAND Service Source: CLEMENTS & WRIGHT, MD MIL IN THE REV, P 210Service Description: 1
+2 CONC ) ST MARYS CO MILITIA 
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2023-01-15 03:34:24.463
+1 _USER fAbbDrgkzNy8lggTTs/9WBcCk3Z3jEJCNhZWxLfQvTVPP0HG0vgjp5D/EYq1OmmattiQ79uvhq/pmhFIIMjIrA==
+2 _ENCR 1
+1 _CLON
+2 _TID 4404266
+2 _PID 1599262447
+2 _OID e4627f1d-0fae-4706-8f48-0f5aaeff6b2a
+2 _USER 6oUKZXUfjrLNGpir5FrERRqZgOGVtHlf5NDjHMg2vPj6jIkU9ixtL5Z2dn4jekcNd+l+V1Z8DzPsPdDTwD65dA==
+3 _ENCR 1
+2 _DATE 2012-06-11 04:00:11.000
+1 _ORIG u
+1 _MSER
+2 _LKID e4627f1d-0fae-4706-8f48-0f5aaeff6b2a
+1 _ATL N
+0 @O8@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE pjpeg
+3 _SIZE 345723
+3 _WDTH 1700
+3 _HGHT 2800
+2 TITL Schroen Group Photo and Bessie as Child
+1 RIN 20b5bbf5-409b-434d-a515-6b7a76d5a7ed
+1 PLAC Maryland
+1 _DSCR Duplicate photos-see other with descriptions
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2023-03-24 18:54:09.882
+1 _USER jcqNTLutgNRRoB6RbAx1JwIhQMVRmkQt1+yg1tzIUq/2zj16MKsf44gUwO8EjxXPZPsWPly71Zzqmu+v+RkSvw==
+2 _ENCR 1
+1 _CLON
+2 _TID 15665875
+2 _PID 296579487
+2 _OID 062dfa4d-c735-4026-9e6d-b4838c6255db
+2 _USER JFhMNXw8FegrEJNPC7f89mCAJ+0ARTYLJ0Q+xqbiMJkRs4CXCNWv8pJXu1R0/H8Pq/eC8+yXQMwdUULKu4kSQw==
+3 _ENCR 1
+2 _DATE 2010-03-28 00:22:32.000
+1 _ORIG u
+1 _MSER
+2 _LKID c07905c3-5164-491f-845c-2975cad2a5ee
+1 _ATL N
+0 @O9@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpg
+3 _SIZE 94341
+3 _WDTH 771
+3 _HGHT 503
+2 TITL Matilda Beech burial
+1 RIN 29e45a50-5306-4f37-a237-ca30923eb907
+1 _CREA 2023-01-12 04:06:26.568
+1 _USER XrI/fLFZLmGGWnq+9waxTnuE3SjAetGOKWakyfuEA982s371p1RZ9cQFzadI9C26hQwLGILiDOmzBEMlcuVqhg==
+2 _ENCR 1
+1 _CLON
+2 _TID 181215159
+2 _PID 312350647390
+2 _OID 55e12398-c7f9-4a56-aabb-e3f52ddf6af0
+2 _USER OWKCmLwEMSCd6Mm3y9Mn92SqE7bz/0iNSWjdB3ry2lm64yxcuGU/6zZS+g40e3fPA7frRawDfnljy4xCLsjOkw==
+3 _ENCR 1
+2 _DATE 2022-02-23 23:30:04.000
+1 _ORIG u
+1 _MSER
+2 _LKID 55e12398-c7f9-4a56-aabb-e3f52ddf6af0
+1 _ATL N
+0 @O10@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE document
+3 _STYPE jpeg
+3 _SIZE 2427589
+3 _WDTH 3939
+3 _HGHT 3248
+2 TITL 1755_Nov_9_Svercl_Pechacek_b1731_b1733_MARRIAGE_b
+1 RIN 2a8d43f1-82ce-4e7f-ae9f-6b676c41c784
+1 DATE 1755
+1 _DSCR Marriage Certificate  https://www.familysearch.org/ark:/61903/3:1:3QS7-L9S1-K94Q-8?i=312&wc=3N8Q-Y43%3A979674501%2C979787801%2C981749801%2C981750201&cc=1804263  
+1 _META <metadataxml><transcription></transcription></metadataxml>
+1 _CREA 2023-01-13 05:35:39.517
+1 _USER /+c2Fao41mcOjzigEroDXmL28w+GUzPAG7I+RZTyL8B0WN9iZZUvSI7jWHYxyj7pcbnMGcuCK6AehjBcAOHx3g==
+2 _ENCR 1
+1 _CLON
+2 _TID 63490130
+2 _PID 362116089757
+2 _OID 7cdf7786-4b59-4d59-9c33-d6e438818e10
+2 _USER qI84v3Td01UosLinF/cLNIATEmNw410NQVUi6sZJAyaK9Sil6lM/Zn5VRdYx2XpDme801SOIKsKKY3pxN33jnQ==
+3 _ENCR 1
+2 _DATE 2019-11-05 23:06:21.000
+1 _ORIG u
+1 _MSER
+2 _LKID 7cdf7786-4b59-4d59-9c33-d6e438818e10
+1 _ATL N
+0 @O11@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE document
+3 _STYPE jpeg
+3 _SIZE 1437439
+3 _WDTH 4054
+3 _HGHT 3820
+2 TITL 1900 Census--Mooney
+1 RIN 2bfa2714-cfe6-4c19-9a13-13e37043b3e1
+1 _META <metadataxml><transcription></transcription></metadataxml>
+1 _CREA 2023-01-10 04:02:22.567
+1 _USER YsDWYqgUOU8ZBPAjx8/6GBfVGfBgbBAapWdglRY31SkYMyoaOniQJMCHG/rtwVRhJCtxfkcD+nnhjfIhcJ5AxQ==
+2 _ENCR 1
+1 _CLON
+2 _TID 176491758
+2 _PID 122289953404
+2 _OID 1a6a0b19-7d50-45bc-a9df-5da6d3953718
+2 _USER 7zo1UL9HPugf8kSsmJG0wuz7ClcCKh2sYRh4iwVhfA/HMl5RbgWdEyWG6+yBElC4zG1YfvhmlVYDP0OtmOumDg==
+3 _ENCR 1
+2 _DATE 2021-07-02 01:41:09.000
+1 _ORIG u
+1 _MSER
+2 _LKID 1a6a0b19-7d50-45bc-a9df-5da6d3953718
+1 _ATL N
+0 @O12@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE document
+3 _STYPE jpeg
+3 _SIZE 10887
+3 _WDTH 360
+3 _HGHT 420
+2 TITL Social Security Death Index Edmund A Langr
+1 RIN 30b8a7a3-8a36-4ebb-b6c2-f6dcc63b59be
+1 DATE 1935-2014
+1 PLAC United States of America
+1 _CREA 2023-01-11 23:45:11.670
+1 _USER YioT1pyD6PIcszQjj0DRauSdk80RB/hYtmE8NbQSAWwrq7ooNmYbJziGPIZg4fGkmC6jhif3lkZywMhVhDIqeQ==
+2 _ENCR 1
+1 _ORIG fold3
+2 _URL https://www.fold3.com/record/62401778/edmund-a-langr-social-security-death-index?xid=2030
+1 _ATL N
+0 @O13@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 31832
+3 _WDTH 382
+3 _HGHT 446
+2 TITL Jeffery Langr
+1 RIN 45aa7f83-7ec2-4a08-9256-dc9be9d1d216
+1 _META <metadataxml><record_source_gid>620794974:1265</record_source_gid></metadataxml>
+1 _CREA 2023-01-10 02:53:30.297
+1 _USER 2/i2aAn5bEv6d40hAjSudVIfosVVth0Mv19/9UQNlR/DZKU0n9XSAM3cYcsWcjW7TQKOm4Vm7BIfBeOSE1d9Jw==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O14@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE document
+3 _STYPE jpeg
+3 _SIZE 2377542
+3 _WDTH 3988
+3 _HGHT 3248
+2 TITL record-image_undefined (2)
+1 RIN 47b3f2e6-f8d2-4885-81d0-ed49b9d7451e
+1 DATE 1725
+1 _DSCR Marriage Certificate - https://www.familysearch.org/ark:/61903/3:1:3QS7-L9S1-K97V-1?i=114&wc=3N8Q-T3Y%3A979674501%2C979787801%2C981749801%2C981750101&cc=1804263
+1 _META <metadataxml><transcription></transcription></metadataxml>
+1 _CREA 2023-01-18 04:54:16.014
+1 _USER jYRdxjhKbFwBN+ADwlzE6cFZNE8RZ/1aXawa9+eQj9jgjfAe71QuhR/SZkI2zWdqleU+aXkep6yx+OdoasYxfw==
+2 _ENCR 1
+1 _CLON
+2 _TID 63490130
+2 _PID 360090551646
+2 _OID fa5c96ab-d721-4012-83f4-83f416ed0614
+2 _USER yhoAz1KQnP1vwM916/qT0UL13sBwQi/PHDhJsIv4WBSh35YF90aSm90dF+EPLPp+G8/a6uPnUjUhiVfpF7XSKA==
+3 _ENCR 1
+2 _DATE 2019-03-11 02:17:25.000
+1 _ORIG u
+1 _MSER
+2 _LKID fa5c96ab-d721-4012-83f4-83f416ed0614
+1 _ATL N
+0 @O15@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 61222
+3 _WDTH 521
+3 _HGHT 756
+2 TITL Margaret Matilda Demar
+1 RIN 4f2fe234-3cce-4f32-a9dc-e3006d5da0df
+1 DATE 1930s?
+1 PLAC probably Southern Maryland
+1 _DSCR Used with permission from Margaret Whippee.  
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2023-05-04 14:54:42.205
+1 _USER UqyJjYWCh/TWah6ddsoqcen0s2iDL55U0bu3zRYwz0eugvunyE6oz4EmK2b7NMJqz0/mfsLf29toINmiZz63XA==
+2 _ENCR 1
+1 _CLON
+2 _TID 2609514
+2 _PID -1717879565
+2 _OID 577ebc3d-2323-4b22-a00d-bb6deac69f31
+2 _USER B81YnS5pUngrVSt9/kLtXvp1xt/RSHHfnAkamO1n+lRz8Du/oi9P1C+wiSSFahL62rgVE6YJL+LXBennf9w7/w==
+3 _ENCR 1
+2 _DATE 2010-10-25 15:08:26.863
+1 _ORIG u
+1 _MSER
+2 _LKID 577ebc3d-2323-4b22-a00d-bb6deac69f31
+1 _ATL N
+0 @O16@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE heic
+3 _SIZE 1728917
+3 _WDTH 2038
+3 _HGHT 3511
+2 TITL IMG_2047.HEIC
+1 RIN 50dab160-eacc-4446-8717-b11bf3066daa
+1 DATE 21 Mar 2018
+1 PLAC Bloomington, Hennepin, Minnesota, USA
+1 _CREA 2023-01-12 04:17:06.945
+1 _USER WjqBMmJ6+vgcVRcUfLvMlT2+f/M5aom8I5BV1E6X8FS1gMsK7/TkPKC2wJMSsmUXboxPVxdgLLPMQakz2LTV5w==
+2 _ENCR 1
+1 _CLON
+2 _TID 106664026
+2 _PID 180056105288
+2 _OID 24e44603-aebe-4c4a-ab61-782c3a066ebe
+2 _USER CTtvpPcgRguXS+lA5OWKXKaEflLncwZCGQZ7EzUvy9mWqCGn2o3Sx7he8OWy7LrmNoGFe6WNzRO4wuoaIKD60Q==
+3 _ENCR 1
+2 _DATE 2018-03-21 23:51:17.000
+1 _ORIG u
+1 _MSER
+2 _LKID 24e44603-aebe-4c4a-ab61-782c3a066ebe
+1 _ATL N
+0 @O17@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpeg
+3 _SIZE 302121
+3 _WDTH 1024
+3 _HGHT 768
+2 TITL Mary (Banahan) & Richard Mooney Headstone
+1 RIN 537d4253-3659-4c4f-a87f-aa490488213a
+1 _CREA 2023-01-10 04:02:29.752
+1 _USER X4DL8GldyrWll3Ry6zYtvSLaVIU50riIHj/zwUUdbIRpUls9H8R3B86XPlozGXH853esnQcvF9BCu0iTfPpczw==
+2 _ENCR 1
+1 _CLON
+2 _TID 176491758
+2 _PID 122289953404
+2 _OID 8cc40fd3-193b-42f7-b74a-91a44e9dc795
+2 _USER f1BUcZQCGrd6KysK8kae4/3hU5TWaynZFri8wk+Q13l0AbFixodDbfzYn6OU9l0e5GY2DshwTcOR1GXKpBGkIA==
+3 _ENCR 1
+2 _DATE 2021-07-02 01:57:51.000
+1 _ORIG u
+1 _MSER
+2 _LKID 8cc40fd3-193b-42f7-b74a-91a44e9dc795
+1 _ATL N
+0 @O18@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE document
+3 _STYPE jpeg
+3 _SIZE 28460
+3 _WDTH 400
+3 _HGHT 400
+2 TITL Newspapers.com - The Baltimore Sun - 6 Jan 1908 - Page 8 
+1 RIN 5dc2c53d-6c44-4e50-9db3-3c1b7aec03c0
+1 DATE 6 Jan 1908
+1 PLAC Baltimore, Maryland
+1 _CREA 2023-01-15 03:01:04.763
+1 _USER wEk3F1ll1zujUYCXBkxQyiaioEuo/7rW+XKLTUbrScU5/bAydkuFxL2NP0Fh7E3wAd6AaXpjVIjoOXR+iCGNbQ==
+2 _ENCR 1
+1 _CLON
+2 _TID 15665875
+2 _PID 296663487
+2 _OID f9411e84-6724-41c6-9e2b-dcacbbc681ec
+2 _USER VZW+jC3xermL0Tg1ZWl5qtw7fVHVRP03aZ7N4rf8cAU4AlPhszuWYdCZy5U/tAqXbu2OZVcIfy1it0BSuuuEdg==
+3 _ENCR 1
+2 _DATE 2020-04-02 01:37:14.000
+1 _ORIG newspapers
+2 _URL https://www.newspapers.com/clip/47829970/the-baltimore-sun/?xid=865
+1 _MSER
+2 _LKID f9411e84-6724-41c6-9e2b-dcacbbc681ec
+1 _ATL N
+0 @O19@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE document
+3 _STYPE jpeg
+3 _SIZE 31236
+3 _WDTH 400
+3 _HGHT 266
+2 TITL Selective Service Registration Cards, World War II: Multiple Registrations Page 1 - Selective Service Registration Cards, World 
+1 RIN 66f162be-5b29-4b05-b08a-1d6ce2796fea
+1 DATE 2012
+1 PLAC United States of America
+1 _CREA 2023-01-11 23:46:11.772
+1 _USER /27vUVohC+52KfX6aWcicKR6g/83FNpFAtJ2uL2BCwMJYds1Vk/S7b6rx0Uo4K3gokd0eWWkyBfmy2LeGw7VYA==
+2 _ENCR 1
+1 _ORIG fold3
+2 _URL https://www.fold3.com/image/617672072?filmstrip=true&amp;terms=langr,edmund&amp;xid=2030
+1 _ATL N
+0 @O20@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE document
+3 _STYPE jpeg
+3 _SIZE 2244864
+3 _WDTH 3965
+3 _HGHT 3248
+2 TITL 1732_Nov_2_Pechacek_Motl_b1708_b1705_MARRIAGE
+1 RIN 6b69154e-2cf0-4eb2-bbd7-3118ab8fd1a5
+1 DATE 1732
+1 _DSCR Marriage Certificate  https://www.familysearch.org/ark:/61903/3:1:3QS7-89S1-K9W6-L?i=160&wc=3N8Q-T3Y%3A979674501%2C979787801%2C981749801%2C981750101&cc=1804263
+1 _META <metadataxml><transcription></transcription></metadataxml>
+1 _CREA 2023-01-13 05:43:39.530
+1 _USER wx3Xi04KvQT/1D96JeeVkBgwVbyVquMKbogRmu2GWEx9NnpIMpZpG7Qpg4J90vVnNvc8JBrULHS3YR8pQtus8Q==
+2 _ENCR 1
+1 _CLON
+2 _TID 63490130
+2 _PID 362060294557
+2 _OID a32c98be-df4b-4bde-91a6-c57490385ba2
+2 _USER PU7N7s1pufbyN8KAMhSHZthPLZ1ZXU2YRqGCOhztwTLUBVQIYl73glavXrDsraTxt0QzmYja0jtqSl7y++Yf5A==
+3 _ENCR 1
+2 _DATE 2019-10-15 21:08:00.000
+1 _ORIG u
+1 _MSER
+2 _LKID a32c98be-df4b-4bde-91a6-c57490385ba2
+1 _ATL N
+0 @O21@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpeg
+3 _SIZE 606959
+3 _WDTH 2329
+3 _HGHT 3047
+2 TITL Yearbook_full_record_image
+1 RIN 6c84c8d4-46b0-4670-b513-81a17a55627a
+1 _CREA 2023-03-16 18:28:21.146
+1 _USER RQiA/Cch775FFzOsOyks8B/viLg4kTDw6dmK6eI2dRPEkJ6Sr6siZZlQwJp6tcYgw+653lUEZFiX6J9aw0I15g==
+2 _ENCR 1
+1 _CLON
+2 _TID 15665875
+2 _PID 112285730179
+2 _OID 407aee3b-a746-4d1c-8190-8edf218c5338
+2 _USER ECeA1RdALL3zbfPRKwSTLa51kafRfbBYzlJlRaAr2kqAVMQRKmy9M57JOyVPofrLuXEwAU3F6N4/Yjs/X58UYQ==
+3 _ENCR 1
+2 _DATE 2021-04-16 17:50:48.000
+1 _ORIG u
+1 _MSER
+2 _LKID 407aee3b-a746-4d1c-8190-8edf218c5338
+1 _ATL N
+0 @O22@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE document
+3 _STYPE jpeg
+3 _SIZE 43414
+3 _WDTH 400
+3 _HGHT 400
+2 TITL Died James W Chappelear, husband of Ella C, father of Mrs. Rheuben Acton, 1916
+1 RIN 77ea3613-b6d7-4489-9819-9e81a41e6058
+1 DATE 8 Sep 1916
+1 PLAC Washington, District of Columbia
+1 _DSCR Husband of Ella C Chappelear.
+2 CONT Evening Star (Washington, District of Columbia) 08 Sep 1916, Fri Page 7
+1 _CREA 2023-01-15 03:24:00.926
+1 _USER 4f91zy5bdsiOWhf17y3VjHk4yxJslk4KzMEVqoyXCBE42qPscqa+Ne2ZlRv9HJHGe+tj8ZkndG8vl5kkxK5mrQ==
+2 _ENCR 1
+1 _CLON
+2 _TID 75244082
+2 _PID 182136512280
+2 _OID e7c081b5-b47c-4ce3-b9ce-5278a60d7fc7
+2 _USER 8z8ohPwk7XZzmmT8pTDI/GWDbszJ9hZbE0RI5K0W0ndSCRsjWldNoll+QfqCka9kBn4XBEEaAsqxOnfDOWRcGg==
+3 _ENCR 1
+2 _DATE 2019-10-19 19:44:52.000
+1 _ORIG newspapers
+2 _URL https://www.newspapers.com/clip/37487629/died_james_w_chappelear_husband_of/?xid=865
+1 _MSER
+2 _LKID e7c081b5-b47c-4ce3-b9ce-5278a60d7fc7
+1 _ATL N
+0 @O23@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE document
+3 _STYPE jpeg
+3 _SIZE 10887
+3 _WDTH 360
+3 _HGHT 420
+2 TITL Social Security Death Index Charles E Sizer
+1 RIN 7a18dccd-d943-4f61-9030-5fe3142f917e
+1 DATE 1935-2014
+1 PLAC United States of America
+1 _CREA 2023-01-11 23:44:31.253
+1 _USER pYucRa7gpUvkC8CJfS4JNnISjJQ7bI+g2OWBlsmoIozj+pYw/cizXv+PbtI/iOLS5mqlMNtolEERiFrursFKPw==
+2 _ENCR 1
+1 _ORIG fold3
+2 _URL https://www.fold3.com/record/79540077/charles-e-sizer-social-security-death-index?xid=2030
+1 _ATL N
+0 @O24@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE document
+3 _STYPE jpeg
+3 _SIZE 2441035
+3 _WDTH 3951
+3 _HGHT 3209
+2 TITL 1682_Oct_28_Pechacek_Martin_BIRTH
+1 RIN 837e4fe3-abd2-4f93-a034-9868bca88cc9
+1 DATE 1682
+1 _DSCR Birth Certificate  https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9S1-K939-R?i=35&wc=3N8Q-PYH%3A979674501%2C979787801%2C981749801%2C981749802&cc=1804263
+1 _META <metadataxml><transcription></transcription></metadataxml>
+1 _CREA 2023-01-13 05:48:49.792
+1 _USER bg9wZy/Si8CtKbXV9PH5H+tT1eJsg9ooMUkjesEeeGM5kwS0ZKy2h1wGHOu7w+cuSiVQySqVqnX2Jx+/ypDQCw==
+2 _ENCR 1
+1 _CLON
+2 _TID 63490130
+2 _PID 362137761240
+2 _OID f567c80a-5e3c-4b27-b944-d2f64579177e
+2 _USER 5bPkm30z6keMlaH9hd/53Cks0FVntT4RY8/QwpHP/tBNYflHEVdL4AzAf41xDm6cGiZfRvONRwtmoYDbjCO2nQ==
+3 _ENCR 1
+2 _DATE 2019-11-01 18:36:24.000
+1 _ORIG u
+1 _MSER
+2 _LKID f567c80a-5e3c-4b27-b944-d2f64579177e
+1 _ATL N
+0 @O25@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 167356
+3 _WDTH 336
+3 _HGHT 402
+2 TITL Henry V
+1 RIN bdb8916e-c1c3-475b-8505-37b2995d0a7a
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2023-02-17 03:18:43.587
+1 _USER h3VonoEL+tKzS7w0hnvldXWqJrF2AaF9CJXu9l0GJtLm88en5tzfZLFWszvZ2jyHjylRs53Y4X+Kk+LCuAAsGQ==
+2 _ENCR 1
+1 _CLON
+2 _TID 12681
+2 _PID 6123835120
+2 _OID bd8ec81b-1dc4-4ccd-ab6c-93269641e062
+2 _USER u92DG67A2vc+Wid2w+H3907+DgEmbgSRBbMU82sNc4QXM+ejnNkFmgxlh0ZfRdRu/VPughashqhUgmdTPRdpVw==
+3 _ENCR 1
+2 _DATE 2012-04-27 19:05:27.000
+1 _ORIG u
+1 _MSER
+2 _LKID bd8ec81b-1dc4-4ccd-ab6c-93269641e062
+1 _ATL N
+0 @O26@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE document
+3 _STYPE jpeg
+3 _SIZE 348560
+3 _WDTH 1039
+3 _HGHT 828
+2 TITL CZEC0004D_1096_M_00091 Wacslaw Pechacek birth 1708
+1 RIN c004651a-cb53-485e-b23a-5c667a4e593a
+1 DATE 27 Aug 1708
+1 PLAC Dolni Dobrouc
+1 _META <metadataxml><transcription></transcription></metadataxml>
+1 _CREA 2023-01-13 05:43:35.609
+1 _USER os9gN7Gr8w6xfm0dhawYX/LewtLPBUX8sPrRuU7AGbNQy0i4f/nuJpqDNG4MfPxn+SaWi40Mi+kiifPg9NVVnw==
+2 _ENCR 1
+1 _CLON
+2 _TID 155510498
+2 _PID 162053641846
+2 _OID b561bdde-e1c9-4d09-83a8-ae5a5631b78b
+2 _USER C3P/0CM/LViSS7NT5A28UxwWRCjOYm12I+I54zmQVzuj9uVr3eWfwpysOCNfIJBLCzJkAr3Mjk3eV8mkbBRfRA==
+3 _ENCR 1
+2 _DATE 2019-10-15 21:04:03.000
+1 _ORIG u
+1 _MSER
+2 _LKID b561bdde-e1c9-4d09-83a8-ae5a5631b78b
+1 _ATL N
+0 @O27@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE document
+3 _STYPE jpeg
+3 _SIZE 38633
+3 _WDTH 400
+3 _HGHT 400
+2 TITL Obituary for ELLA C. CHAPPELEAB
+1 RIN c13b2474-e7d5-4464-8a4d-374e02abfbab
+1 DATE 31 Mar 1934
+1 PLAC Washington, District of Columbia
+1 _CREA 2023-01-18 04:34:34.623
+1 _USER sBW5QO7s5mzBhyA5uwM4AE2ma2IR1ohta7sPFpV5TwRc6+HzOaU++J7uMHlnLoaX5O+evGyqGOHOTBNDbhQQ0g==
+2 _ENCR 1
+1 _ORIG newspapers
+2 _URL https://www.newspapers.com/clip/116709056/obituary-for-ella-c-chappeleab/?xid=865
+1 _MSER
+2 _LKID c13b2474-e7d5-4464-8a4d-374e02abfbab
+1 _ATL N
+0 @O28@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE document
+3 _STYPE jpeg
+3 _SIZE 2630836
+3 _WDTH 3957
+3 _HGHT 3155
+2 TITL record-image_undefined (3)
+1 RIN c157836f-9765-4849-b9a2-8cb9c1f4b326
+1 DATE 1763
+1 _DSCR Death Certificate - https://www.familysearch.org/ark:/61903/3:1:3QS7-L9S1-K9HL-Z?i=110&wc=3N8Q-BZZ%3A979674501%2C979787801%2C981749801%2C981750301&cc=1804263
+1 _META <metadataxml><transcription></transcription></metadataxml>
+1 _CREA 2023-01-18 04:54:14.510
+1 _USER S6myxhknGni/jDpInC5L0OkeMs5I70bBMZbKhO8fAKlAY8475CTBkJCXzNc21glgpqSo95GbHwglvU9hDwyXlA==
+2 _ENCR 1
+1 _CLON
+2 _TID 63490130
+2 _PID 360090551646
+2 _OID 1d3eaa82-f0e2-4dc4-9ab0-1f0e01a99c71
+2 _USER uKVSg9QNe78yPqeGI3ft5LbR5AyTruIZfbJLqVY2ixojlqCelMT1mF+SFKD6Rt3qA34cCL9RWFiYe64zs9Kmfg==
+3 _ENCR 1
+2 _DATE 2019-03-11 02:19:46.000
+1 _ORIG u
+1 _MSER
+2 _LKID 1d3eaa82-f0e2-4dc4-9ab0-1f0e01a99c71
+1 _ATL N
+0 @O29@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE document
+3 _STYPE jpeg
+3 _SIZE 2105192
+3 _WDTH 4019
+3 _HGHT 3189
+2 TITL 1802_Feb_4_Pechacek_Anna_b1733_DEATH
+1 RIN c1b1637a-1d7e-4d64-ab67-f46873b32720
+1 DATE 1802
+1 PLAC Dolni Dobrouc, East Bohemia, Czech Republic
+1 _DSCR Death Certificate
+2 CONT https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9S1-29MZ-B?i=24&wc=3N87-FMG%3A979674501%2C979787801%2C981753101%2C981754001&cc=1804263
+2 CONT 
+1 _META <metadataxml><transcription></transcription></metadataxml>
+1 _CREA 2023-01-13 05:35:37.793
+1 _USER oP74FtJiaGEo70GTp+MuSG6TMjOwTT6k2xyDcqVLwxUeipc5eTKcJKBg5lRLGHe4cpChqucOndykcpjYhAWU3w==
+2 _ENCR 1
+1 _CLON
+2 _TID 63490130
+2 _PID 362116089757
+2 _OID 210b9966-14dd-42a2-ab6d-4943d89f42f0
+2 _USER ldUU1hY5uNFxfj6/Y/WaWIOuA/peUKSPLYDTz+Ju8I2hCkqMVbkwG319TvudPgXGpa4aIt7KiqZMdzMC5mwQfA==
+3 _ENCR 1
+2 _DATE 2021-09-15 20:18:23.000
+1 _ORIG u
+1 _MSER
+2 _LKID 210b9966-14dd-42a2-ab6d-4943d89f42f0
+1 _ATL N
+0 @O30@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpeg
+3 _SIZE 118189
+3 _WDTH 709
+3 _HGHT 800
+2 TITL Handwritten  Schroen Family Information
+1 RIN d243bd9a-c1ec-4e27-9308-b3929e7d549c
+1 _CREA 2023-01-15 03:00:43.147
+1 _USER ttDhZD2uB2BNYSBU/yJU06hKdbU64O+OwmOE0naJ8xGE2WA5zkIZPXGTMjztxN/jVNcDGqvEf2K7fe8uCDrGHQ==
+2 _ENCR 1
+1 _CLON
+2 _TID 7079082
+2 _PID -1168382237
+2 _OID 42b1686a-21a7-4b28-946d-33fbb5eafa9a
+2 _USER 9fzOw4s67WNpjZWyFYGjngz4LuJn4Mn1FWWghG1/q+lhNrAZIyuVpr+FoIpXubcN3h/qfxhztw7NXNvVC2XGlg==
+3 _ENCR 1
+2 _DATE 2012-12-01 01:01:55.000
+1 _ORIG u
+1 _MSER
+2 _LKID 42b1686a-21a7-4b28-946d-33fbb5eafa9a
+1 _ATL N
+0 @O31@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE document
+3 _STYPE jpeg
+3 _SIZE 2793613
+3 _WDTH 3989
+3 _HGHT 3182
+2 TITL 1763_Aug_11_Svercl_Joseph_b1763_BIRTH
+1 RIN da7f8cf8-97ce-4810-9fa4-61dd20d3a861
+1 DATE 1763
+1 _DSCR Birth Certificate  https://www.familysearch.org/ark:/61903/3:1:3QS7-89S1-K9HS-K?i=206&wc=3N8Q-Y43%3A979674501%2C979787801%2C981749801%2C981750201&cc=1804263
+1 _META <metadataxml><transcription></transcription></metadataxml>
+1 _CREA 2023-01-18 05:09:53.096
+1 _USER nd+OfGNC90kENrfWnASfpQ49fU9KkkmvDKhq1kjgXekW+yRCxC8EBWNPf0dajrslYzCAletnh8kxiuJ1m4uFNw==
+2 _ENCR 1
+1 _CLON
+2 _TID 63490130
+2 _PID 360113597759
+2 _OID 9c015ab1-f926-4060-bc2a-d763d9066466
+2 _USER 6lpCrFDShhv11+7oRs4/jGLah3uOHMnv419cdqlxKO6hoMnAWeKDSLj6+4sy9LVjkTFPDgdU78enM+/pf414NQ==
+3 _ENCR 1
+2 _DATE 2020-02-20 22:55:20.000
+1 _ORIG u
+1 _MSER
+2 _LKID 9c015ab1-f926-4060-bc2a-d763d9066466
+1 _ATL N
+0 @O32@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 333197
+3 _WDTH 1700
+3 _HGHT 2800
+2 TITL Brother Francis C. Schroen, S.J.
+1 RIN dcf411f2-5801-4b2f-a0cb-f35cd997b7c8
+1 DATE ?April 1924
+1 PLAC ?New Orleans, LA
+1 _DSCR My Great Great Paternal Uncle, son of John Schroen and Eva (nee Dickas), brother of Charles E.H. Schroen. He later became the celebrated Jesuit Artist, decorating Georgetown University, Boston College and the Cathedral in Kingston, Jamaica.
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2023-01-15 03:00:56.241
+1 _USER Lsu8/p8v+2uKWgqV5OvuXyJwGjNBaMK3brmG8ZN2h+ws15fQ77r4jLk9BDPHuGuM5Q1xlJxjry8/VmiYzQ3ddA==
+2 _ENCR 1
+1 _CLON
+2 _TID 15665875
+2 _PID 296663487
+2 _OID d8150eb8-ae98-4c61-9a03-3d75ae68bf69
+2 _USER nHdmwf7Knx+WGmTpa31MhgtMxciJWdQr95envBgVkdYfElc00gwj7QS0lMgXspkwcFSrfjO1onrUKnLahRYlNA==
+3 _ENCR 1
+2 _DATE 2010-05-27 19:42:13.000
+1 _ORIG u
+1 _MSER
+2 _LKID d8150eb8-ae98-4c61-9a03-3d75ae68bf69
+1 _ATL N
+0 @O33@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE document
+3 _STYPE jpeg
+3 _SIZE 2373284
+3 _WDTH 3999
+3 _HGHT 3207
+2 TITL record-image_undefined
+1 RIN de185f65-97bb-4a41-a80e-083a9bb75648
+1 DATE 1699
+1 _DSCR Birth Certificate - https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9S1-K93S-T?i=167&wc=3N8Q-PYH%3A979674501%2C979787801%2C981749801%2C981749802&cc=1804263
+1 _META <metadataxml><transcription></transcription></metadataxml>
+1 _CREA 2023-01-18 04:54:19.348
+1 _USER LjPfltJqt7W0BLaON0sY98NS1PkCOBkL0HHrbg5nWe5q9hJ3gGQa/VyLhH50SkzZOJ6mVE52YeAOXpAcUA1s1Q==
+2 _ENCR 1
+1 _CLON
+2 _TID 63490130
+2 _PID 360090551646
+2 _OID 6e8259f7-be83-424b-9e25-2113e7924524
+2 _USER tsQd5DNTotu5PvOhOw3KoOpni5OLuIORdM3XEAX+k1rJs4uHWToXQWPXXdlQSA8FO9QPKx3HT7QuV+8YU8eFXg==
+3 _ENCR 1
+2 _DATE 2019-03-11 02:12:01.000
+1 _ORIG u
+1 _MSER
+2 _LKID 6e8259f7-be83-424b-9e25-2113e7924524
+1 _ATL N
+0 @O34@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpg
+3 _SIZE 71881
+3 _WDTH 689
+3 _HGHT 900
+2 TITL edward and Matilda obits
+1 RIN e3594fd4-4808-4d38-96a2-9a44c258ffec
+1 _CREA 2023-01-12 04:07:04.528
+1 _USER RhFNeMgrIsjbqJId0/CQQRkjF2BchkADfIZ1EOeIB8nEDUgfJyXkNAPNjrgaTTDNNWsgrxs4030uPQSjN1U3/w==
+2 _ENCR 1
+1 _CLON
+2 _TID 181215159
+2 _PID 312350647390
+2 _OID a6bbedb8-8a7b-410c-a5a8-c4bc7f11d1ae
+2 _USER a6SHXjyC2uIQA1knoC8NzydK+oh0wyzri7fCoAJ4kvh6PZVjiPMHfPLJItVcBUvxyv0DDcve5x7Koo+BzGYn2w==
+3 _ENCR 1
+2 _DATE 2022-02-23 23:28:02.000
+1 _ORIG u
+1 _MSER
+2 _LKID a6bbedb8-8a7b-410c-a5a8-c4bc7f11d1ae
+1 _ATL N
+0 @O35@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE place
+3 _STYPE jpeg
+3 _SIZE 152558
+3 _WDTH 700
+3 _HGHT 464
+2 TITL George J Schroen Headstone
+1 RIN e5332f4e-83be-4a24-a0e9-5b1a923a2696
+1 PLAC Elkridge, Howard County, Maryland 
+1 _DSCR Headstone for Agnes E and George J Schroen at the Meadowridge Memorial Park
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2023-01-15 02:54:08.477
+1 _USER cERfHFLFpXOiY0oa/eOG0PHOHY1xwB582IVaeN+5rdRQggWJpG/MakzkJ2nUiEYm9s/SK9Sj+nbu3PVFruIw0g==
+2 _ENCR 1
+1 _CLON
+2 _TID 15665875
+2 _PID 873490081
+2 _OID 86451c34-f9af-44e5-af78-26cf66a2d9f7
+2 _USER rgecvG02z3MrAISVYM4yJDaVCfeB9Hq5w1da1SxRyLYNrSfo6QcB5NqlYVhTRLSDzyHp77ZiPinXlh/SVhrJKg==
+3 _ENCR 1
+2 _DATE 2012-11-13 03:07:36.000
+1 _ORIG u
+1 _MSER
+2 _LKID 86451c34-f9af-44e5-af78-26cf66a2d9f7
+1 _ATL N
+0 @O36@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE document
+3 _STYPE jpeg
+3 _SIZE 364139
+3 _WDTH 2800
+3 _HGHT 3184
+2 TITL Thomas Mooney Ship Manifest Ocean Monarch Liverpool to Boston
+1 RIN e6a1b86e-8d43-4f26-b14c-d800683cbf1e
+1 _META <metadataxml><transcription></transcription></metadataxml>
+1 _CREA 2023-01-10 04:26:00.787
+1 _USER PVe7ua6vJ7qmNHEYppQJowz/qYKkYiNVQVTIPG0WS5IGw2vraMbUW5dJG6InfdPyJysCqiwV1MXMTjq8BJq2Jw==
+2 _ENCR 1
+1 _CLON
+2 _TID 176491758
+2 _PID 122289953413
+2 _OID 76700255-07ac-4d74-a0ec-597b6da2a88a
+2 _USER f7UgXece7q1ZgKcyN1xT9mjn2Urzse1ngNg4KbmgGvhMgGvahLfGnqhqnSphXEewM+0eHCqVAotnokeOVR0lUQ==
+3 _ENCR 1
+2 _DATE 2021-07-02 02:00:26.000
+1 _ORIG u
+1 _MSER
+2 _LKID 76700255-07ac-4d74-a0ec-597b6da2a88a
+1 _ATL N
+0 @O37@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 1236496
+3 _WDTH 1200
+3 _HGHT 1800
+2 TITL 193x_xxx_xx_Rysavy_Motl_b1862_b1863_Family Photo
+1 RIN ee04974a-114e-416e-997b-fddb03b27dfb
+1 DATE 1930-1939
+1 _DSCR Front: Frances Motl Rysavy & Joseph Rysavy
+2 CONT 
+2 CONT l to r: Agnes Rysavy Simon, John Simon, Louis Sobrek, Amelia Rysavy Sobrek, Anna Rysavy Mikyska, Louis Mikyska, Mary Rysavy Jirele, Joseph Jirele, Helen Rysavy, Edward Rysavy, Agnes Rajnet Rysavy, Christina Rysavy Langer
+2 CONT 
+2 CONT front: Frances Motl Rysavy, Joseph Rysavy
+1 _CREA 2023-01-12 00:16:51.059
+1 _USER 3iSOrUurWIV0hWNYe22QfQcRRRldplCrnQ4XRupn6WDT57xGHqwhg0uPn3FoBZmxl8GVflbNF9h9ZSRf9h0SlA==
+2 _ENCR 1
+1 _CLON
+2 _TID 63490130
+2 _PID 30337095367
+2 _OID 6d39fd9c-a7c2-4b88-9685-1f622b3dcbcf
+2 _USER mDLVigAmjmF1IK/CLpaizcVXhPIA0DA3r8J7E9RctfCLKVwSvj/Kzccny5d6SPY4/XsDj/UUBx05cSXI71UB0g==
+3 _ENCR 1
+2 _DATE 2018-01-08 21:58:32.000
+1 _ORIG u
+1 _MSER
+2 _LKID 6d39fd9c-a7c2-4b88-9685-1f622b3dcbcf
+1 _ATL N
+0 @O38@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE document
+3 _STYPE jpeg
+3 _SIZE 30972
+3 _WDTH 400
+3 _HGHT 266
+2 TITL Selective Service Registration Cards, World War II: Multiple Registrations Page 1 - Selective Service Registration Cards, World 
+1 RIN eed4cd10-36a9-4722-9458-f1cba277b44e
+1 DATE 2012
+1 PLAC United States of America
+1 _CREA 2023-01-11 23:47:14.032
+1 _USER LrVF1O76jvF6gWD7FTTHMm+YSEAEB4AsyCL71iRn4e4e+An0+dbxfTyuDPfxGbKTEVtaLi7eI7G7+BZgIqUuiw==
+2 _ENCR 1
+1 _ORIG fold3
+2 _URL https://www.fold3.com/image/617672068?filmstrip=true&amp;terms=langr,edmund&amp;xid=2030
+1 _ATL N
+0 @O39@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE other
+3 _STYPE jpeg
+3 _SIZE 114103
+3 _WDTH 1434
+3 _HGHT 1044
+2 TITL record-image_S3HT-6DCJ-D4
+1 RIN f5bebea8-4189-4f11-bcd5-2b4c29d2b526
+1 DATE 1937
+1 _DSCR Obituary
+1 _CREA 2023-01-12 00:10:39.642
+1 _USER a9xNJUkfJjUD+o+CtABNYMUpxA6WlMnm6wWb1Mj7rOwHQY5Rkw2fBeD+2eaYzJhIlwZvMPFADohcb7zm5V9SyQ==
+2 _ENCR 1
+1 _CLON
+2 _TID 63490130
+2 _PID 30337095367
+2 _OID 7367ec93-cd58-4269-b2b2-c61e7bc82399
+2 _USER SZ1UD1HBd1qodd5LeuT4wAGoYtQrk9RSJ9jBdt4vI31A5k9gCYYJt7XuUw+EPWzjHtAJPovVZNpjCI4MbSfYlw==
+3 _ENCR 1
+2 _DATE 2017-05-12 23:29:47.000
+1 _ORIG u
+1 _MSER
+2 _LKID 7367ec93-cd58-4269-b2b2-c61e7bc82399
+1 _ATL N
+0 @O40@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE document
+3 _STYPE jpeg
+3 _SIZE 1747210
+3 _WDTH 3894
+3 _HGHT 4556
+2 TITL 1880 Census--Mooney
+1 RIN f7287741-39cc-4a56-8241-0b72b7f5d1f4
+1 _META <metadataxml><transcription></transcription></metadataxml>
+1 _CREA 2023-01-10 04:02:18.650
+1 _USER sy03zZYGHXnePhUAOd8yDsdfuWJLy746O5qRqh+Gy8Dh/0Mtxv45z1tE4buFnu0pnJGqVnGce+7792/BITM4jw==
+2 _ENCR 1
+1 _CLON
+2 _TID 176491758
+2 _PID 122289953404
+2 _OID d1327278-1877-43c1-8280-9aefedbfc556
+2 _USER wiA/EoYRR/qMBGPlsza3+sauunT5xWDiTJG+UYgxe+Y55BAuJYVs2RK6/flrwRcuvHY9Tf5OIWHjefZAU5E6Tg==
+3 _ENCR 1
+2 _DATE 2021-07-02 01:34:59.000
+1 _ORIG u
+1 _MSER
+2 _LKID d1327278-1877-43c1-8280-9aefedbfc556
+1 _ATL N
+0 @O41@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpeg
+3 _SIZE 551139
+3 _WDTH 1053
+3 _HGHT 1695
+2 TITL James w Chappelear
+1 RIN faca69e9-b0d5-4150-8f93-b62cfadab4b8
+1 _CREA 2023-01-15 03:27:16.648
+1 _USER GmkRoBnoGwiteB4KlKqZCcyI3eQj2twSaL+OFedAiYbNzLXbPRyPAjbqSBPr5ioDvdy2gKkosM1Bt6c+afwMvg==
+2 _ENCR 1
+1 _CLON
+2 _TID 103961856
+2 _PID 320040199873
+2 _OID 2f450a41-dd2a-421d-9b1c-6b8e16336288
+2 _USER 90qA4c3O7R2tNi/qGInvmfbYj/jDcZardgZrtmL441k/nBdJS0qJPP77rIbgyBdf6TskR6+wrw9ZP7rVo2hWZA==
+3 _ENCR 1
+2 _DATE 2016-09-29 22:57:06.000
+1 _ORIG u
+1 _MSER
+2 _LKID 2f450a41-dd2a-421d-9b1c-6b8e16336288
+1 _ATL N
+0 @O42@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE document
+3 _STYPE jpeg
+3 _SIZE 40125
+3 _WDTH 400
+3 _HGHT 400
+2 TITL Obituary for CHARLES E. SIZER (Aged 62)
+1 RIN fd4b0ad7-f5cf-4633-a21d-60def69249ed
+1 DATE 1992-11-23
+1 PLAC St. Petersburg, Florida
+1 _CREA 2023-01-10 03:02:13.348
+1 _USER M6Bj3Y1tY4L++qKVNPKbA5q+u/mQ8q6HJlPEUmlDNM9GiGJpnaUD4lknkx7OqjxAOTYudoiSkvjQBvfpmJsgYw==
+2 _ENCR 1
+1 _CLON
+2 _TID 15665875
+2 _PID 1216043627
+2 _OID 16283e64-76d5-4443-a846-214fee6ead72
+2 _USER 9fliw2tkL+I3NU3r0Zv5y1tMogmsWHS7JVEGXhJa99ezH1no/kyo1De+vH+hiDjsnKgrmqa4W6g1EkiNO8sLgg==
+3 _ENCR 1
+2 _DATE 2021-04-16 17:05:27.000
+1 _ORIG newspapers
+2 _URL https://www.newspapers.com/clip/75873557/obituary-for-charles-e-sizer-aged-62/?xid=865
+1 _MSER
+2 _LKID 16283e64-76d5-4443-a846-214fee6ead72
+1 _ATL N
+0 @O43@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE document
+3 _STYPE jpeg
+3 _SIZE 2468145
+3 _WDTH 4013
+3 _HGHT 3248
+2 TITL 1731_Pechacek_Martin_b1682_DEATH
+1 RIN fff457ff-73c0-456b-93ff-98c4e4b31a8d
+1 DATE 1731
+1 _DSCR Death Certificate  https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9S1-K9HX-6?i=214&wc=3N8Q-T3Y%3A979674501%2C979787801%2C981749801%2C981750101&cc=1804263  
+1 _META <metadataxml><transcription></transcription></metadataxml>
+1 _CREA 2023-01-13 05:48:54.746
+1 _USER 7sMuVMBpOW64EP4FIcZIr6goOB6AS6QeuI0/8EPdYFFs5sRhp9H2Mt5neF89ty1HW/Cj3wzcB9F8jtDMwYBGVg==
+2 _ENCR 1
+1 _CLON
+2 _TID 63490130
+2 _PID 362137761240
+2 _OID fc2d821d-6b61-4ba6-8832-f8e56828fd16
+2 _USER hrZNqaXzCbDMs7pNysaCFcvYG1eEjUP2eoxYVe6voRNg+AydQRTZfYde9Sr/5z1bOPToBuwUlp580Pwg9mL//g==
+3 _ENCR 1
+2 _DATE 2019-11-05 21:32:14.000
+1 _ORIG u
+1 _MSER
+2 _LKID fc2d821d-6b61-4ba6-8832-f8e56828fd16
+1 _ATL N
+0 @S1189121534@ SOUR
+1 TITL 1950 United States Federal Census
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+2 DATE 2022
+2 PLAC Lehi, UT, USA
+1 _APID 1,62308::0
+1 REPO @R1105459066@
+1 NOTE Department of Commerce. Bureau of the Census. 1913-1/1/1972. &lt;i&gt;Population Schedules for the 1950 Census, 1950 - 1950&lt;/i&gt;. Washington, DC: National Archives at Washington, DC. &lt;p&gt;&lt;i&gt;Population Schedules for the 1950 Census
+2 CONC , 1950 - 1950&lt;/i&gt;. NAID: &lt;a href="https://catalog.archives.gov/id/43290879" target="_blank"&gt;43290879&lt;/a&gt;. Records of the Bureau of the Census, 1790 - 2007, Record Group 29. National Archives at Washington, DC., Washington, DC.&lt;
+2 CONC /p&gt;
+0 @S1189121733@ SOUR
+1 TITL U.S., School Yearbooks, 1900-2016
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+2 DATE 2010
+2 PLAC Lehi, UT, USA
+1 _APID 1,1265::0
+1 REPO @R1105459066@
+0 @S1189121868@ SOUR
+1 TITL U.S., Public Records Index, 1950-1993, Volume 1
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+2 DATE 2010
+2 PLAC Lehi, UT, USA
+1 _APID 1,1788::0
+1 REPO @R1105459066@
+1 NOTE &lt;i&gt;Voter Registration Lists, Public Record Filings, Historical Residential Records, and Other Household Database Listings&lt;/i&gt;.
+0 @S1189121893@ SOUR
+1 TITL U.S., Public Records Index, 1950-1993, Volume 2
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+2 DATE 2010
+2 PLAC Lehi, UT, USA
+1 _APID 1,1732::0
+1 REPO @R1105459066@
+1 NOTE &lt;i&gt;Voter Registration Lists, Public Record Filings, Historical Residential Records, and Other Household Database Listings&lt;/i&gt;.
+0 @S1189121914@ SOUR
+1 TITL U.S., Phone and Address Directories, 1993-2002
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc
+2 DATE 2005
+2 PLAC Provo, UT, USA
+1 _APID 1,7339::0
+1 REPO @R1105459066@
+1 NOTE &lt;i&gt;1993-2002 White Pages&lt;/i&gt;. Little Rock, AR, USA: Acxiom Corporation.
+0 @S1189121991@ SOUR
+1 TITL U.S., Find a Grave Index, 1600s-Current
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+2 DATE 2012
+2 PLAC Lehi, UT, USA
+1 _APID 1,60525::0
+1 REPO @R1105459066@
+0 @S1189122155@ SOUR
+1 TITL U.S., Department of Veterans Affairs BIRLS Death File, 1850-2010
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+2 DATE 2011
+2 PLAC Provo, UT, USA
+1 _APID 1,2441::0
+1 REPO @R1105459066@
+1 NOTE &lt;i&gt;Beneficiary Identification Records Locator Subsystem (BIRLS) Death File&lt;/i&gt;. Washington, D.C.: U.S. Department of Veterans Affairs.
+0 @S1189122297@ SOUR
+1 TITL Ancestry Family Trees
+1 PUBL Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.
+1 _APID 1,1030::0
+1 REPO @R1105459066@
+0 @S1189215022@ SOUR
+1 TITL Social Security Death Index
+1 PUBL Social Security Administration
+2 DATE 1935-2014
+2 PLAC United States of America
+1 REPO @R1105460413@
+0 @S1189215093@ SOUR
+1 TITL Selective Service Registration Cards, World War II: Multiple Registrations
+1 PUBL The National Archives
+2 DATE 2012
+2 PLAC United States of America
+1 REPO @R1105460413@
+0 @S1189233848@ SOUR
+1 TITL U.S., Newspapers.com Obituary Index, 1800s-current
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc
+2 DATE 2019
+2 PLAC Lehi, UT, USA
+1 _APID 1,61843::0
+1 REPO @R1105459066@
+0 @S1189421646@ SOUR
+1 TITL 1920 United States Federal Census
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+2 DATE 2010
+2 PLAC Provo, UT, USA
+1 _APID 1,6061::0
+1 REPO @R1105459066@
+1 NOTE Fourteenth Census of the United States, 1920. (NARA microfilm publication T625, 2076 rolls). Records of the Bureau of the Census, Record Group 29. National Archives, Washington, D.C. For details on the contents of the film numbers, visit the follow
+2 CONC ing NARA web page: &lt;a href="https://www.archives.gov/research/census/publications-microfilm-catalogs-census/1920/part-07.html" target="_blank"&gt;NARA&lt;/a&gt;. Note: Enumeration Districts 819-839 are on roll 323 (Chicago City).
+0 @S1189423033@ SOUR
+1 TITL Germany, Lutheran Baptisms, Marriages, and Burials, 1518-1921
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+2 DATE 2017
+2 PLAC Lehi, UT, USA
+1 _APID 1,61456::0
+1 REPO @R1105459066@
+1 NOTE &lt;p&gt;Mikrofilm Sammlung.  Familysearch.org&lt;/p&gt;
+2 CONT &lt;p&gt;Originale:  Lutherische Kirchenbücher, 1518-1921. Various sources.&lt;/p&gt;
+0 @S1189423045@ SOUR
+1 TITL U.S., City Directories, 1822-1995
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+2 DATE 2011
+2 PLAC Lehi, UT, USA
+1 _APID 1,2469::0
+1 REPO @R1105459066@
+1 NOTE Original sources vary according to directory. The title of the specific directory being viewed is listed at the top of the image viewer page.  Check the directory title page image for full title and publication information.
+0 @S1189424398@ SOUR
+1 TITL U.S., Revolutionary War Pensioners, 1801-1815, 1818-1872
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+2 DATE 2007
+2 PLAC Lehi, UT, USA
+1 _APID 1,1116::0
+1 REPO @R1105459066@
+1 NOTE &lt;p&gt;&lt;i&gt;Ledgers of Payments, 1818-1872, to U.S. Pensioners Under Acts of 1818 Through 1858 From Records of the Office of the Third Auditor of the Treasury, 1818-1872&lt;/i&gt;. Microfilm publication T718, 23 rolls. Records of the Accounti
+2 CONC ng Officers of the Department of the Treasury, 1775-1978, Record Group 217. The National Archives in Washington, D.C.&lt;/p&gt;
+2 CONT  
+2 CONT &lt;p&gt;&lt;i&gt;Pension Payment Roll of Veterans of the Revolutionary War and the Regular Army and Navy, 3/1801 - 9/1815&lt;/i&gt;. Microfilm publication M1786, 1 Roll. NAID: &lt;a href="https://catalog.archives.gov/id/2600769" target="_blank"&gt
+2 CONC ;2600769&lt;/a&gt;. Records 
+2 CONT of the Department of Veterans Affairs, 1773–2007, Record Group 15. The National Archives in Washington, D.C.&lt;/p&gt;
+0 @S1189424836@ SOUR
+1 TITL South Carolina, U.S., Wills and Probate Records, 1670-1980
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+2 DATE 2015
+2 PLAC Provo, UT, USA
+1 _APID 1,9080::0
+1 REPO @R1105459066@
+1 NOTE South Carolina County, District and Probate Courts.
+0 @S1189427749@ SOUR
+1 TITL Geneanet Community Trees Index
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+2 DATE 2022
+2 PLAC Lehi, UT, USA
+1 _APID 1,62476::0
+1 REPO @R1105459066@
+1 NOTE &lt;i&gt;Geneanet Community Trees Index&lt;/i&gt;. Paris, France: Geneanet.
+0 @S1189427801@ SOUR
+1 TITL U.S. and International Marriage Records, 1560-1900
+1 AUTH Yates Publishing
+1 PUBL Ancestry.com Operations Inc
+2 DATE 2004
+2 PLAC Provo, UT, USA
+1 _APID 1,7836::0
+1 REPO @R1105459066@
+1 NOTE This unique collection of records was extracted from a variety of sources including family group sheets and electronic databases. Originally, the information was derived from an array of materials including pedigree charts, family history articles
+2 CONC , querie.
+0 @S1189427835@ SOUR
+1 TITL Essex County, Virginia, Marriage Index, 1655-1900
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+2 DATE 1999
+2 PLAC Provo, UT, USA
+1 _APID 1,4033::0
+1 REPO @R1105459066@
+0 @S1189428390@ SOUR
+1 TITL 1930 United States Federal Census
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc
+2 DATE 2002
+2 PLAC Provo, UT, USA
+1 _APID 1,6224::0
+1 REPO @R1105459066@
+1 NOTE United States of America, Bureau of the Census. &lt;i&gt;Fifteenth Census of the United States, 1930&lt;/i&gt;. Washington, D.C.: National Archives and Records Administration, 1930. T626, 2,667 rolls.
+0 @S1189623093@ SOUR
+1 TITL New York, U.S., Arriving Passenger and Crew Lists (including Castle Garden and Ellis Island), 1820-1957
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+2 DATE 2010
+2 PLAC Lehi, UT, USA
+1 _APID 1,7488::0
+1 REPO @R1105459066@
+1 NOTE &lt;p&gt;&lt;i&gt;Passenger Lists of Vessels Arriving at New York, New York, 1820-1897. &lt;/i&gt; Microfilm Publication M237, 675 rolls. NAI: &lt;a href="http://research.archives.gov/description/6256867" target="_blank"&gt;6256867&lt;/a&gt;. Recor
+2 CONC ds of the U.S. Customs Service, Record Group 36. National Archives at Washington, D.C.&lt;/p&gt;
+2 CONT &lt;p&gt;&lt;i&gt;Passenger and Crew Lists of Vessels Arriving at New York, New York, 1897-1957.&lt;/i&gt; Microfilm Publication T715, 8892 rolls. NAI: &lt;a href="http://research.archives.gov/description/300346" target="_blank"&gt;300346&lt;/a&gt;
+2 CONC . Records of the Immigration and Naturalization Service; National Archives at Washington, D.C.&lt;/p&gt;
+2 CONT &lt;p&gt;&lt;i&gt;Supplemental Manifests of Alien Passengers and Crew Members Who Arrived on Vessels at New York, New York, Who Were Inspected for Admission, and Related Index, compiled 1887-1952.&lt;/i&gt; Microfilm Publication A3461, 21 rolls. NA
+2 CONC I: &lt;a href="http://research.archives.gov/description/3887372" target="_blank"&gt;3887372.&lt;/a&gt; RG 85, Records of the Immigration and Naturalization Service, 1787-2004; Records of the Immigration and Naturalization Service; National Archives
+2 CONC , Washington, D.C. &lt;/p&gt;
+2 CONT &lt;p&gt;&lt;i&gt;Index to Alien Crewmen Who Were Discharged or Who Deserted at New York, New York, May 1917-Nov. 1957.&lt;/i&gt; Microfilm Publication A3417. NAI: &lt;a href="http://research.archives.gov/description/4497925" target="_blank"&gt;449
+2 CONC 7925.&lt;/a&gt; National Archives at Washington, D.C.&lt;/p&gt;
+2 CONT &lt;p&gt;&lt;i&gt;Passenger Lists, 1962-1972, and Crew Lists, 1943-1972, of Vessels Arriving at Oswego, New York.&lt;/i&gt; Microfilm Publication A3426. NAI: &lt;a href="http://research.archives.gov/description/4441521" target="_blank"&gt;4441521.&
+2 CONC lt;/a&gt; National Archives at Washington, D.C.&lt;/p&gt;
+0 @S1189623116@ SOUR
+1 TITL Newspapers.com - Evening Star - 31 Mar 1934 - Page 7
+1 PUBL Evening Star
+2 DATE 31 Mar 1934
+2 PLAC Washington, District of Columbia
+1 REPO @R1105464505@
+0 @R1105459066@ REPO
+1 NAME Ancestry.com
+0 @R1105460413@ REPO
+1 NAME https://www.fold3.com
+0 @R1105464505@ REPO
+1 NAME www.newspapers.com
+0 TRLR
